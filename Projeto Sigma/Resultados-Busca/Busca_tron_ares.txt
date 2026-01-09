@@ -1,0 +1,48 @@
+RELATÓRIO DE BUSCA
+Termo: tron ares
+Data: 09/01/2026 às 17:52:41
+============================================================
+
+📁 LISTA: NetPlay_Lunar.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : ▶️ Filmes | Qualidade Cinema
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_Solar.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes ✔️ Cinema
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_Urano.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes | Cinema
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_NetTurbo.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_Play_Srvi.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_Play_Techmain.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+Total encontrado: 6

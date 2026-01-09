@@ -3306,3 +3306,174 @@ EMAILS WEB:   ---
 
 LIMITE:       500.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 244 - CITRA CONSTRUCOES CONSERVACÇAO E NSTALACOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03200833000194  |  WEB RAZÃO: Citra Construcoes, Conservacao e Instalacoes Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 6.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BOM SUCESSO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Bom Sucesso, 89, - Aleixo, - Manaus/Amazonas, CEP: 69060-030
+
+CONTATO SYS:  CLENTE DO PEDRO
+TELEFONE SYS: 3302-2420/ 3663-3450/3664-4141
+TELEFONE WEB: (92) 98113-9627
+EMAILS WEB:   citra@argo.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2579 - CITY PLASTIK NDUSTRIA E COMERCIO PLASTICO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15776693000186  |  WEB RAZÃO: City Plastik Industria e Comercio Plastico LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 8.000.000,00
+INSC. EST.:   062001710  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BRASL, [Vazio] - SANTO ANTONIO - MANAUS
+ENDEREÇO WEB: Avenida Brasil, 4570, - Santo Antonio, - Manaus/Amazonas, CEP: 69029-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3671-5070
+EMAILS WEB:   contador@cityplastik.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2181 - CIVILCORP - NCORPORACOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03187301000164  |  WEB RAZÃO: Civilcorp - Incorporacoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 150.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ANDRE ARAUJO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Andre Araujo, 2755, - Aleixo, - Manaus/Amazonas, CEP: 69060-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3642-6350 / (92) 3642-6355 / (92) 6426-355
+EMAILS WEB:   france@civilcorp.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 487 - CIVILCORP EMPREENDIMENTO IMOBILIARIOS TARUMA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13040140000216  |  WEB RAZÃO: Civilcorp Empreendimentos Imobiliarios Taruma LTDA
+WEB FANTASIA: Civilcorp Taruma
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   042320917  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ANDRE ARAUJO, 2755, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Andre Araujo, 2755, - Aleixo, - Manaus/Amazonas, CEP: 69060-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3194-2167 Marcio
+TELEFONE WEB: (92) 3642-6355
+EMAILS WEB:   france@civilcorp.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2746 - CIVILCORP EMPREENDIMENTOS IMOBILIARIOS MIRANTE DO TARUM.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 41553956000106  |  WEB RAZÃO: Civilcorp Empreendimentos Imobiliarios Mirante do Taruma Spe LTDA
+WEB FANTASIA: Mirante do Taruma Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 74.075.470,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 765, - Aleixo, - Manaus/Amazonas, CEP: 69083-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3194-2150 / (92) 3194-2189
+EMAILS WEB:   france@civilcorp.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2821 - CLEAN AMAZONAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 44844515000143  |  WEB RAZÃO: Clean Amazonas Ltda.
+WEB FANTASIA: Clean Amazonas Ltda.
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   06.301.146-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: Av. Presidente Kennedy Nº. 885 — Galpão A1, [Vazio] - MORRO DA LIBERDADE - MANAUS
+ENDEREÇO WEB: Avenida Presidente Kennedy, 885, - Morro da Liberdade, - Manaus/Amazonas, CEP: 69074-695
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3213-7275
+EMAILS WEB:   contato@grm.adv.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1039 - CLIMA NORTE COMERCIO E SERVICOS TECNIC NDUST LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04641718000118  |  WEB RAZÃO: Clima Norte Comercio e Servicos Tecnicos Industriais Ltda.
+WEB FANTASIA: Clima Norte
+CAPITAL SOCIAL (WEB): R$ 800.000,00
+INSC. EST.:   041719514  |  INSC. MUN.: 2239907
+
+ENDEREÇO SYS: RUAO9 QUADRA 15 SALAO1, [Vazio] - SÃO JOSÉ - MANAUS
+ENDEREÇO WEB: Rua Rio Carboris, 01, - Novo Aleixo, - Manaus/Amazonas, CEP: 69098-272
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 36811407
+TELEFONE WEB: (92) 3681-1407 / (92) 99280-2361
+EMAILS WEB:   carlos.dray@climanorte.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3669 - CLIMAZON INDUSTRIAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04222931000195  |  WEB RAZÃO: Climazon Industrial LTDA
+WEB FANTASIA: Climazon
+CAPITAL SOCIAL (WEB): R$ 93.907.850,00
+INSC. EST.:   062000438  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV TORQUATO TAPAJOS, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7937, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  (51) 3477-9873
+TELEFONE SYS: (51) 3477-9684
+TELEFONE WEB: (51) 3220-0901 / (51) 3477-9684 / (51) 3477-9873
+EMAILS WEB:   atendimentotributario@mideacarrier.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 6 - CLINICA MAGEM CENTER
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08014662000122  |  WEB RAZÃO: Clinica Unisaude LTDA
+WEB FANTASIA: Clinica Unisaude
+CAPITAL SOCIAL (WEB): R$ 30.000,00
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA LEONARDO MALCHER - 1840, [Vazio] - PRAÇA 14 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3633-3747
+TELEFONE WEB: (92) 3633-3747
+EMAILS WEB:   ---
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

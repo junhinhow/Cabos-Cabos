@@ -5814,3 +5814,307 @@ EMAILS WEB:   jucelia@cristalengenharia.com.br
 
 LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 621 - CRISTAL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02402223000615  |  WEB RAZÃO: Cristal Engenharia LTDA
+WEB FANTASIA: Edificio Rubi
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: GRANDE OTELO,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Grande Otelo, 01, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-021
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2123-8126/3632-2300
+TELEFONE WEB: (92) 2123-8100 / (92) 2123-8116 / (92) 2123-8118
+EMAILS WEB:   fiscal@cristalengenharia.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 638 - CRISTAL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02402223000534  |  WEB RAZÃO: Cristal Engenharia LTDA
+WEB FANTASIA: Edificio Residencial Topazio
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: CASTELO BRANCO,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Grande Otelo, S/N, - Parque Dez de Novembro, - Manaus/Amazonas, CEP: 69055-021
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3632-2300
+TELEFONE WEB: (92) 2123-8109 / (92) 2123-8116 / (92) 2123-8118
+EMAILS WEB:   contabilidade@cristalengenharia.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1554 - CRISTIANO CLEYSON RODRIGUES MENDES -EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20547629000163  |  WEB RAZÃO: Global Comercio de Suprimentos Industriais Ltda.
+WEB FANTASIA: Global Suprimentos Industriais
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   053576926  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BERGAMOTEIRA, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Rua Professor Lourenco Thury, 1, - Novo Aleixo, - Manaus/Amazonas, CEP: 69098-279
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98237-8830
+EMAILS WEB:   financeiro@globalsuprimentos.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 954 - CROWN EMBALAGENS METALICAS DAAMAZONIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 33174335000185  |  WEB RAZÃO: Crown Embalagens Metalicas da Amazonia S/A
+WEB FANTASIA: Crown Manaus
+CAPITAL SOCIAL (WEB): R$ 60.644.109,59
+INSC. EST.:   063002469  |  INSC. MUN.: 10403801 —
+
+ENDEREÇO SYS: RUA JUTAI, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Jutai, 405, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2126-4956
+TELEFONE WEB: (92) 2123-4953 / (92) 2126-4952 / (92) 2126-4972
+EMAILS WEB:   controladoria@crowncork.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1569 - CSM ENGENHARIA EIREL|
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 27664873000155  |  WEB RAZÃO: C S M Engenharia LTDA
+WEB FANTASIA: Csm Solucoes Integradas
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA UTINGA, [Vazio] - LÍRIO DO VALE - MANAUS
+ENDEREÇO WEB: Rua Utinga, 49, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-286
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3656-0839
+EMAILS WEB:   silvia.melo2009@yahoo.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 490 - CWP CONSTRUTORA, SERVIÇOS E AGROPECUÁRIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01926889000103  |  WEB RAZÃO: Cwp Construtora, Servicos e Agropecuaria LTDA
+WEB FANTASIA: Cwp Construtora
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   99.206.149-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DA FRIGELO, 5026, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 5026, - Flores, - Manaus/Amazonas, CEP: 69058-830
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3651-8115//9128-
+TELEFONE WEB: (92) 99194-1507
+EMAILS WEB:   aleme.luciano@gmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 642 - D G VEIGA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10522237000196  |  WEB RAZÃO: D G Veiga
+WEB FANTASIA: Veiga Recuros Humanos
+CAPITAL SOCIAL (WEB): R$ 25.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DO TURISMO,, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  FÁBIO
+TELEFONE SYS: 9152-7466
+TELEFONE WEB: (92) 2121-5098
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2191 - D.D. NCORPORACOES IMOBILLIARIAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09212963000204  |  WEB RAZÃO: D.d. Incorporacoes Imobiliarias LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 8.300.000,00
+INSC. EST.:   053642538  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV GOVERNADOR JOSE LINDOSO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Governador Jose Lindoso, 280, - Aleixo, - Manaus/Amazonas, CEP: 69060-115
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99136-0239
+EMAILS WEB:   coordenacaoadm.dd@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 383 - D2R - AUTOMAÇÃO E SOLUÇÕES INDUSTRIAIS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07047992000151  |  WEB RAZÃO: D2R Automacao e Solucoes Industriais LTDA
+WEB FANTASIA: D2R
+CAPITAL SOCIAL (WEB): R$ 1.070.000,00
+INSC. EST.:   04.275.371-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA LEOPOLDO CARPINTEIRO PERES, 1220, [Vazio] - PETRÓPOLIS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3663-7323
+TELEFONE WEB: (92) 3612-4100 / (92) 3612-4101 / (92) 98468-6060
+EMAILS WEB:   ariane@conin.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 754 - DAFRA DA AMAZÔNIA IND. E COM. DE MOTOCICLETAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08322908000123  |  WEB RAZÃO: Dafra da Amazonia Industria e Comercio de Motocicletas LTDA
+WEB FANTASIA: Dafra
+CAPITAL SOCIAL (WEB): R$ 33.000.000,00
+INSC. EST.:   06.200.522-7  |  INSC. MUN.: 116.971-01 —
+
+ENDEREÇO SYS: SANTA ETELVINA, [Vazio] - SANTA ETELVINA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 11600, - Santa Etelvina, - Manaus/Amazonas, CEP: 69059-165
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3186-6808
+TELEFONE WEB: (92) 3186-6845 / (92) 3186-6851 / (92) 3654-3119
+EMAILS WEB:   controladoria@daframotos.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1992 - DAIANE JANUARIO DE MOURA-ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20720169000123  |  WEB RAZÃO: Prime Comercio de Aluminio LTDA
+WEB FANTASIA: Prime Sucataria
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   063010453  |  INSC. MUN.: —
+
+ENDEREÇO SYS: EUA MONTEIRO LOBATO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Monteiro Lobato, 31, - Aleixo, - Manaus/Amazonas, CEP: 69083-110
+
+CONTATO SYS:  alvaro / denilson
+TELEFONE SYS: 991972382/ 999446962
+TELEFONE WEB: (92) 99154-0513
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2593 - DAIDO INDUSTRIA DE CORRENTES DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08996956000105  |  WEB RAZÃO: Daido Industria de Correntes da Amazonia Ltda.
+WEB FANTASIA: Daido Industria de Correntes da Amazonia Ltda.
+CAPITAL SOCIAL (WEB): R$ 31.653.242,25
+INSC. EST.:   063005140  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV SOLMOES, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Solimoes, 1825, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-200
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2129-7550 / (92) 3211-4700 / (92) 3211-4703
+EMAILS WEB:   contabil-am@daido.com.br
+
+LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 913 - DANLU CONSTRUÇÃO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05606260000129  |  WEB RAZÃO: Danilu Construcoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R:JEQUE, [Vazio] - LÍRIO DO VALE - MANAUS
+ENDEREÇO WEB: Rua 4 Conj Lirio do Vale, 8, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-274
+
+CONTATO SYS:  9156-9468 José
+TELEFONE SYS: 9109-0277 Luceilia
+TELEFONE WEB: (92) 3658-3157
+EMAILS WEB:   dlconstrucoes@yahoo.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1669 - DANTAS TRANSPORTES E NSTALAÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63679351000190  |  WEB RAZÃO: Dantas Transportes e Instalacoes LTDA
+WEB FANTASIA: A Dantas Transportes
+CAPITAL SOCIAL (WEB): R$ 7.500.000,00
+INSC. EST.:   054021588  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA UTINGA, [Vazio] - LÍRIO DO VALE - MANAUS
+ENDEREÇO WEB: Rua Utinga, 310, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-286
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3656-2709 / (92) 3656-4091 / (92) 3656-6468
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1849 - DAVINCI NDUSTRIA E COMERCIO DE EQUIP. DE MOB. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 37624521000120  |  WEB RAZÃO: Davinci Industria e Comercio de Equipamentos de Mobilidade Ltda.
+WEB FANTASIA: Davinci
+CAPITAL SOCIAL (WEB): R$ 1.510.000,00
+INSC. EST.:   062013335  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAAZALEIA, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3079-5546
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1095 - DEFENSORIA PUBLICA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04312369001243  |  WEB RAZÃO: Estado do Amazonas
+WEB FANTASIA: Defensoria Publica
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MACEIO, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  VANJA/ THIAGO
+TELEFONE SYS: 3234-8683
+TELEFONE WEB: (92) 3233-2087 / (92) 3631-0294
+EMAILS WEB:   gabinete@defensoria.am.gov.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

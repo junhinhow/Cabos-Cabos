@@ -6783,3 +6783,307 @@ EMAILS WEB:   gerson.bengard@packinggroup.com.br
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 757 - ECOETE ENG. E EQ. PARA SANEAM. AMBENTAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 67377697000195  |  WEB RAZÃO: Ecoete Engenharia e Equipamentos Para Saneamento Ambiental Ltda.
+WEB FANTASIA: Ecoete Tecnologias de Preservacao Ambiental
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DR. APRIGIO DE MENEZES,, [Vazio] - APARECIDA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3637-6696
+TELEFONE WEB: (92) 99180-7070
+EMAILS WEB:   gustavo@ecoete.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3036 - ECOLOGICA EMPRETEIRA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 51621817000118  |  WEB RAZÃO: Ecologica Empreiteira LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV EPHIGENIO SALLES, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Ephigenio Salles, 1299, - Aleixo, - Manaus/Amazonas, CEP: 69060-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98156-3445
+EMAILS WEB:   mateus@ecologicasc.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1445 - ECOMIX MOAGEM E TRATAMENTO DE RESIDUOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10978993000124  |  WEB RAZÃO: Ecomix-Moagem e Tratamento de Residuos LTDA
+WEB FANTASIA: Ecomix LTDA
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   042947308  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 12640, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-310
+
+CONTATO SYS:  LAURA
+TELEFONE SYS: 4141-3568
+TELEFONE WEB: (92) 3663-1278 / (92) 98112-3211
+EMAILS WEB:   eduardolobo@ecomixsustentavel.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 702 - ECONCEL EMP. DE CONSTRUÇÃO CIVIL E ELÉTRICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84124361000130  |  WEB RAZÃO: Econcel Empresa de Construcao Civil e Eletrica LTDA
+WEB FANTASIA: Econcel
+CAPITAL SOCIAL (WEB): R$ 161.140,00
+INSC. EST.:   99.206.538-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AÇA, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Acai, 926, - Industrial, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3615-4091/3183-4091/4050
+TELEFONE WEB: (92) 6154-091
+EMAILS WEB:   ---
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2428 - ECOTECH AMBENTAL E CONSTRUCOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26270612000198  |  WEB RAZÃO: Ecotech Ambiental e Construcoes LTDA
+WEB FANTASIA: Ecotech
+CAPITAL SOCIAL (WEB): R$ 3.100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ANDRE ARAUJO, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Andre Araujo, 97, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   leandromelom@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 341 - ECOVEC CONSULTORIA, CONSTRUÇÃO E COMÉRCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84130806000194  |  WEB RAZÃO: Ecovec Construcao LTDA
+WEB FANTASIA: Ecovec Construcao
+CAPITAL SOCIAL (WEB): R$ 1.100.000,00
+INSC. EST.:   04.127.774-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TANCREDO NEVES, 1767, SALA "B*, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 1457, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  MARA
+TELEFONE SYS: (92)36463931/3646-04
+TELEFONE WEB: (92) 3646-3931 / (92) 3656-9116
+EMAILS WEB:   admilson@ecovec.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3513 - ECZ NCORPORACOES LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26190574000163  |  WEB RAZÃO: Ecz Incorporacoes LTDA
+WEB FANTASIA: Ecz Participacoes LTDA
+CAPITAL SOCIAL (WEB): R$ 9.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARGARITA SALA H, [Vazio] - NOVA CIDADE - MANAUS
+ENDEREÇO WEB: Avenida Margarita, 420, - Nova Cidade, - Manaus/Amazonas, CEP: 69097-305
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2127-9464 / (92) 2127-9765
+EMAILS WEB:   fiscal@etamconstrutora.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 262 - EDEC ENGENHARIA CONSTRUCAO E COM LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00797098000150  |  WEB RAZÃO: Edec - Engenharia, Construcao e Comercio LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. AMAZONIA,, [Vazio] - N. SRA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Vila Amazonas, 53, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69057-235
+
+CONTATO SYS:  ISRAEL
+TELEFONE SYS: 3236-3332/3648-1543
+TELEFONE WEB: (92) 2363-332 / (92) 99981-9628
+EMAILS WEB:   dcarvalholopes@hotmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2303 - EDITORA ANA CASSIA S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04816658000127  |  WEB RAZÃO: Editora Ana Cassia S.a.
+WEB FANTASIA: Rede Diario de Comunicacao
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DJALMA BATISTA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista 2010, 2010, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69050-900
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3643-5068
+EMAILS WEB:   fiscal@diarioam.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 797 - EDITORA DO BRASIL S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 60657574003508  |  WEB RAZÃO: Editora do Brasil SA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 60.000.000,00
+INSC. EST.:   041.460.820  |  INSC. MUN.: —
+
+ENDEREÇO SYS: JOSE CLEMENTE,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Para, 425, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-575
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3234-1810
+TELEFONE WEB: (11) 3226-0211 / (11) 3226-0218
+EMAILS WEB:   fnde@editoradobrasil.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1451 - EFICACIA TRANSPORTES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03642171000102  |  WEB RAZÃO: Feed Logistica LTDA
+WEB FANTASIA: Feed Logistica
+CAPITAL SOCIAL (WEB): R$ 1.200.000,00
+INSC. EST.:   041435826  |  INSC. MUN.: 10393201 —
+
+ENDEREÇO SYS: ESTRADA DO PURAQUEQUARA SALA B, [Vazio] - DISTRITO INDUSTRIAL l - MANAUS
+ENDEREÇO WEB: Avenida Puraquequara, 777, - Puraquequara, - Manaus/Amazonas, CEP: 69007-600
+
+CONTATO SYS:  DAISE
+TELEFONE SYS: 3615-1516
+TELEFONE WEB: (92) 99440-2291
+EMAILS WEB:   auditoria@feed.log.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1116 - EIRAPURA CONSTRUCOES LTDA - EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10376327000116  |  WEB RAZÃO: Eirapua Construcoes LTDA
+WEB FANTASIA: Wolpy Locacao e Construcoes
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAAMAZONAS CAVALCANTE, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Rua Para, 1516, - Ipiranga, - Ribeirão Preto/São Paulo, CEP: 14060-440
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 33025453/3635-0700
+TELEFONE WEB: (92) 98102-0102
+EMAILS WEB:   eirapuaconstrucoes@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 756 - ELDORADO DERIVADOS DE PETRÓLEO LTDA EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09271245000128  |  WEB RAZÃO: Eldorado Derivados de Petroleo LTDA
+WEB FANTASIA: Auto Posto Eldorado
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   04.225.938-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TORQUATO TAPAJOS,, [Vazio] - SANTA ETELVINA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  MOISÉIS
+TELEFONE SYS: 8428-5328/9181-9567/9981-6679
+TELEFONE WEB: (92) 3232-5507 / (92) 3633-6624
+EMAILS WEB:   fishcontabil@hotmail.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3261 - ELECTRO AMAZON PLASTICOS LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 48712157000176  |  WEB RAZÃO: Electro Amazon Plasticos LTDA
+WEB FANTASIA: Electro Amazon
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   06.301.193-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 1720, - Flores, - Manaus/Amazonas, CEP: 69058-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3392-5373
+EMAILS WEB:   nfelectroamazon@gmail.com
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 299 - ELETRO NSTALAÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04399340000198  |  WEB RAZÃO: Eletro Instalacoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 3.500.000,00
+INSC. EST.:   04.147.603-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. JACIRA REIS, 10, [Vazio] - SÃO JORGE - MANAUS
+ENDEREÇO WEB: Rua Beija Flor Vermelho, 232, - Taruma, - Manaus/Amazonas, CEP: 69041-050
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 6-8089
+TELEFONE WEB: (92) 3625-3811
+EMAILS WEB:   contabilidade@eletromanaus.com
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 527 - ELETRO TECH COMERCIO E SERVICOS DE MATERIAIS ELETRICOS L
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08329282000187  |  WEB RAZÃO: Eletro Tech Comercio e Servicos de Materiais Eletricos LTDA
+WEB FANTASIA: Eletro Tech
+CAPITAL SOCIAL (WEB): R$ 3.300.000,00
+INSC. EST.:   04.218.119-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TEFE, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3301-9077/9063
+TELEFONE WEB: (92) 3301-4950 / (92) 99602-3440
+EMAILS WEB:   monica@masterengenharia.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

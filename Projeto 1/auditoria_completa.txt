@@ -900,3 +900,208 @@ EMAILS WEB:   financeiro.comercial@shoppingmanausvianorte.com.br
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1135 - ATACADAO DISTRIBUICAO COM E IND LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 75315333011909  |  WEB RAZÃO: Atacadao S.a.
+INSC. EST.:   053206193  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. AUTAZ MIRIM, [Vazio] - ZUMBI DOS PALMARES - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 3330, - Zumbi dos Palmares, - Manaus/Amazonas, CEP: 69084-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 92 3647-5833/5805 Deuziane
+TELEFONE WEB: (11) 2967-8419 / (92) 3647-5826 / (92) 3647-5861
+EMAILS WEB:   tributario@atacadao.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
+INSC. EST.:   053407490  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 3856, - Cidade Nova, - Manaus/Amazonas, CEP: 69090-002
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2967-8219 / (92) 2123-7201 / (92) 2123-7205
+EMAILS WEB:   tributario@atacadao.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
+INSC. EST.:   053407490  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 3856, - Cidade Nova, - Manaus/Amazonas, CEP: 69090-002
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2967-8219 / (92) 2123-7201 / (92) 2123-7205
+EMAILS WEB:   tributario@atacadao.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1087 - ATACADÃO DISTRIBUIÇÃO COMÉRCIO E NDÚSTRIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 75315333011810  |  WEB RAZÃO: Atacadao S.a.
+INSC. EST.:   053206983  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. AUTAZ MIRIM, [Vazio] - ZUMBI DOS PALMARES - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 3330, - Zumbi dos Palmares, - Manaus/Amazonas, CEP: 69084-005
+
+CONTATO SYS:  92 3657-6521
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2967-8419 / (92) 3647-5825 / (92) 3647-5861
+EMAILS WEB:   tributario@atacadao.com.br
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2823 - ATACADAO S.A.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 75315333028119  |  WEB RAZÃO: Atacadao S.a.
+INSC. EST.:   05.426.623-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LOURENÇO DA SLVA BRAGA, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Lourenco da Silva Braga, 1640, - Centro, - Manaus/Amazonas, CEP: 69005-015
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2967-8461
+EMAILS WEB:   tributario@atacadao.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 798 - ATEM'S DISTRIBUDORA DE PETRÓLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03987364000103  |  WEB RAZÃO: Atem's Distribuidora de Petroleo S.a.
+INSC. EST.:   04.145.537-1  |  INSC. MUN.: 9772701 —
+
+ENDEREÇO SYS: PAJURÁ,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Pajura, 103, - Vila Buriti, - Manaus/Amazonas, CEP: 69072-065
+
+CONTATO SYS:  SAMUEL
+TELEFONE SYS: 2125-0050
+TELEFONE WEB: (92) 2125-0050 / (92) 2125-0051
+EMAILS WEB:   fiscal@atem.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2010 - ATLAS COPCO BRASL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 57029431004004  |  WEB RAZÃO: Atlas Copco Brasil LTDA
+INSC. EST.:   042231787  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CUMICUM, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Cumucim, 25, - Aleixo, - Manaus/Amazonas, CEP: 69060-105
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3348-0957
+EMAILS WEB:   tax_compliance@br.atlascopco.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2 - AURORA DA AMAZÔNIA TERMINAIS E SERV. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04694548000130  |  WEB RAZÃO: Aurora da Amazonia Terminais e Servicos LTDA
+INSC. EST.:   04.149.789-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MINISTRO JOÃO GONÇALVES DE ARAUJO, 472, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Min. Joao G. de Araujo, 472, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-840
+
+CONTATO SYS:  Adalgisa da Super terminais
+TELEFONE SYS: 3614-8800 (3623-3784 compras)
+TELEFONE WEB: (92) 3614-8800 / (92) 6133-001
+EMAILS WEB:   auroraeadi@auroraeadi.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1659 - AUTO POSTO UNIAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23029382000181  |  WEB RAZÃO: Auto Posto Uniao LTDA
+INSC. EST.:   042261902  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SLVES, [Vazio] - CRESPO - MANAUS
+ENDEREÇO WEB: Avenida Silves, 1783, - Crespo, - Manaus/Amazonas, CEP: 69065-080
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3232-8511
+TELEFONE WEB: (92) 3613-2741
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 336 - AUTOSERVIÇO PROCESSAMENTO DE DADOS LTDA-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07306406000146  |  WEB RAZÃO: Autoservico Processamento de Dados LTDA
+INSC. EST.:   04..225.278-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA TAPAJOS, 796, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua 24 de Maio, 220, - Centro, - Manaus/Amazonas, CEP: 69010-080
+
+CONTATO SYS:  SR. GUSTAVO PINHEIRO
+TELEFONE SYS: 33217900/32345525
+TELEFONE WEB: (92) 3234-5525 / (92) 3321-7900
+EMAILS WEB:   atendimento@autoservico.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1767 - AVANÇO CONSTRUÇÕES E COM. DE ELET. ERELHEPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18145858000100  |  WEB RAZÃO: Avanco S/A
+INSC. EST.:   ISENTO  |  INSC. MUN.: 21063801 —
+
+ENDEREÇO SYS: RUA ATAGAMITA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Atagamita, 323, - Aleixo, - Manaus/Amazonas, CEP: 69060-050
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99381-3245
+EMAILS WEB:   corporativo@avancoconstrucoes.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2650 - B2 POLIMEROS INDUSTRIAIS DE PLASTICOS DA AMAZONIA LTDA0€
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 39693319000185  |  WEB RAZÃO: B2 Polimeros Industria de Plasticos da Amazonia LTDA
+INSC. EST.:   063010712  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA FRANCISCO BATISTA DIAS, [Vazio] - PURAQUEQUARA - MANAUS
+ENDEREÇO WEB: Rua Francisco Batista Dias, 160, - Puraquequara, - Manaus/Amazonas, CEP: 69009-004
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3303-8630
+EMAILS WEB:   recebimento@b2polimeros.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

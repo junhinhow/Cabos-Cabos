@@ -713,7 +713,7 @@ ENDEREÇO SYS: RUA IGARAPE DAAGUA PRETA, [Vazio] - ARMANDO MENDES - MANAUS
 ENDEREÇO WEB: Rua Palmeira do Miriti, 2564, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-400
 
 CONTATO SYS:  [Vazio]
-TELEFONE SYS: 3614-7515 (1869)- (0529)
+TELEFONE SYS: 3614-7515 - (1869) - (0529) - compras@arcoma.com.br
 TELEFONE WEB: (92) 3234-8546 / (92) 3615-6707
 EMAILS WEB:   ---
 
@@ -3095,4 +3095,94 @@ TELEFONE WEB: (92) 2346-844 / (92) 3234-2948
 EMAILS WEB:   ---
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1576 - CIDADE TRANSPORTES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06151511000190  |  WEB RAZÃO: Ct Log Transportes LTDA
+CAPITAL SOCIAL (WEB): R$ 30.000.000,00
+INSC. EST.:   042116597  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA RIO ITANNANA, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Rio Itannana, 109, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3133-3950
+EMAILS WEB:   fiscalgrupo@3nf.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 290 - CIMENCAL TERRAPLANAGEM E COMRECIO DE MATERIAIS DE CON<E
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01615290000140  |  WEB RAZÃO: Cimencal Terraplenagem LTDA
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   04.132.575-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV: DESEMBARGADOR JOAO MACHADO, [Vazio] - ALVORADA Nº 201 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (092)3656-2328
+TELEFONE WEB: (92) 99308-2527
+EMAILS WEB:   bene.cimencal@argo.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 748 - CIMENTO VENCEMOS DO AMAZONAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00013314000129  |  WEB RAZÃO: Cimento Vencemos do Amazonas LTDA
+CAPITAL SOCIAL (WEB): R$ 40.511.459,00
+INSC. EST.:   04.109.187-6  |  INSC. MUN.: 73631-01/ —
+
+ENDEREÇO SYS: DESEMB. CESAR DO REGO,, [Vazio] - COL. ANT. ALEIXO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2125-5150
+TELEFONE WEB: (92) 2125-5150 / (92) 2125-5177 / (92) 2125-5190
+EMAILS WEB:   cadastrodeempresas@votorantim.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2033 - CIRCUITOS ENGENHARIA LTDA-ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21366809000292  |  WEB RAZÃO: Circuitos Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 12.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA KAMAKURA SALA 01 0-8, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  GIOVANNI CANDIDO RIBEIRO
+TELEFONE SYS: 92- 3019-6767
+TELEFONE WEB: (92) 3877-0512
+EMAILS WEB:   regularizacao@brancacontabilidade.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 88 - CITELUZ SERVIÇOS DE LUMINAÇÃO URBANA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02966986001580  |  WEB RAZÃO: Citeluz Servicos de Iluminacao Urbana S/A em Recuperacao Judicial
+CAPITAL SOCIAL (WEB): R$ 43.630.172,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BELO HORIZONTE,, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  (71)2102-8918/8954/8958/8982
+TELEFONE SYS: 3236-9412/2101-9607/9623
+TELEFONE WEB: (92) 6429-639
+EMAILS WEB:   ---
+
+LIMITE:       500.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------

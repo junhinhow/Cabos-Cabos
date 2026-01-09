@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Servidor_A",
+        "url": "http://exemplo-tv.com/get.php?username=user&password=123&type=m3u"
+    },
+    {
+        "nome": "Lista_Filmes_Top",
+        "url": "https://iptv-org.github.io/iptv/movies.m3u"
+    },
+    {
+        "nome": "",
+        "url": "https://content.jwplatform.com/videos/hls/list.m3u8"
+    }
+]

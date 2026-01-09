@@ -1314,3 +1314,93 @@ EMAILS WEB:   processos@dantasenasserala.com
 
 LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 479 - BENCO ENERGIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 32142929000222  |  WEB RAZÃO: Benco Energia LTDA
+CAPITAL SOCIAL (WEB): R$ 7.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: SOLIMÕES,, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  FÁTIMA OU ABELARDO
+TELEFONE SYS: (21) 2178-8789/2178-877T7
+TELEFONE WEB: (92) 3233-6626
+EMAILS WEB:   controller03@deltaconsultoria.com
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1521 - BERTOLINI DA AMAZONIA INDUSTRIA E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84498070000101  |  WEB RAZÃO: Bertolini da Amazonia Industria e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 93.100.000,00
+INSC. EST.:   06.300.180-2  |  INSC. MUN.: 062001876 —
+
+ENDEREÇO SYS: RUA RAIMUNDO NONATO CATRO, [Vazio] - SANTO AGOSTINHO - MANAUS
+ENDEREÇO WEB: Rua Raimundo Nonato de Castro, 288, - Santo Agostinho, - Manaus/Amazonas, CEP: 69036-790
+
+CONTATO SYS:  DENIS
+TELEFONE SYS: 92 3671-6130
+TELEFONE WEB: (92) 3671-5815 / (92) 3671-6130
+EMAILS WEB:   contabilidade@tbl.com.br
+
+LIMITE:       35.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3303 - BGP BRASIL. SERVICOS E EQUIPAMENTOS GEOFISICOS LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12284894000259  |  WEB RAZÃO: Bgp Brasil Servicos e Equipamentos Geofisicos LTDA
+CAPITAL SOCIAL (WEB): R$ 17.850.554,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. EPHIGENIO SALLES, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Ephigenio Salles, 1299, - Aleixo, - Manaus/Amazonas, CEP: 69060-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (21) 98684-0309 / (92) 98155-3609
+TELEFONE WEB: (21) 2137-9733
+EMAILS WEB:   angela.araujo@bgpbrasil.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1993 - BENO CONSTRUCOES LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 37466425000109  |  WEB RAZÃO: Bieno Construcoes LTDA
+CAPITAL SOCIAL (WEB): R$ 800.000,00
+INSC. EST.:   054322863  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV SENADOR RAIMUNDO PARENTE, [Vazio] - BAIRRO DA PAZ - MANAUS
+ENDEREÇO WEB: Avenida Senador Raimundo Parente, 620, - Alvorada, - Manaus/Amazonas, CEP: 69048-015
+
+CONTATO SYS:  (85)982136227
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99215-4711
+EMAILS WEB:   financeiro@grupogetter.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 650 - BIG TRADING E EMPREENDIMENTOS LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06317393000148  |  WEB RAZÃO: Big Trading e Empreendimentos LTDA
+CAPITAL SOCIAL (WEB): R$ 28.800.000,00
+INSC. EST.:   042124964  |  INSC. MUN.: 10943501 —
+
+ENDEREÇO SYS: RUA DOS BARES,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Santo Expedito, 148, - Cidade de Deus, - Manaus/Amazonas, CEP: 69099-314
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3133-5150
+TELEFONE WEB: (92) 3582-9900
+EMAILS WEB:   contato@bigtrading.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

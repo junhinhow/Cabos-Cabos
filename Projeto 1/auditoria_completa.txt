@@ -3,6 +3,7 @@
 AUDITORIA DO CLIENTE: 445 - ACE ENGENHARIA SERVIÇOS COMÉRCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00766627000158  |  WEB RAZÃO: Ace Engenharia Servicos Comercio LTDA
+WEB FANTASIA: Ace Engenharia
 CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   04.104.322-7  |  INSC. MUN.: —
 
@@ -21,6 +22,7 @@ LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 769 - AGRA BERGEN NCORPORADORA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09591137000132  |  WEB RAZÃO: Agra Bergen Incorporadora LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 13.078.868,07
 INSC. EST.:   ISENTO  |  INSC. MUN.: 13737601 —
 
@@ -39,6 +41,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 608 - AKIPLAST INDUSTRIA E COMERCIO DE EMBALAGENS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 11794533000109  |  WEB RAZÃO: Akiplast Industria e Comercio de Embalagens LTDA
+WEB FANTASIA: Akiplast
 CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   04228433-3  |  INSC. MUN.: —
 
@@ -57,6 +60,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2178 - AGUIAR COMERCIO E REP. DE MOVEIS LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01429054000130  |  WEB RAZÃO: Aguiar Comercio e Representacoes de Moveis LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   041092295  |  INSC. MUN.: —
 
@@ -75,6 +79,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2050 - AJL SERVIÇOS LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14743529000100  |  WEB RAZÃO: Ajl Servicos LTDA
+WEB FANTASIA: Ajl Limpar
 CAPITAL SOCIAL (WEB): R$ 1.500.000,00
 INSC. EST.:   053186036  |  INSC. MUN.: —
 
@@ -93,6 +98,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2674 - AKO ADMINISTRADORA DE IMOVEIS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14402379000170  |  WEB RAZÃO: Ako Administradora de Imoveis LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 5.702.341,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -111,6 +117,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2283 - ALAMO ENGENHARIA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34125294000108  |  WEB RAZÃO: Alamo Engenharia S/A
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 7.040.000,00
 INSC. EST.:   81419078  |  INSC. MUN.: —
 
@@ -129,6 +136,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 314 - ALBERTINA DE FATIMA PEREIRA PINTO ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14208490000120  |  WEB RAZÃO: J R P Viegas da Amazonia LTDA
+WEB FANTASIA: Filtros Estrela
 CAPITAL SOCIAL (WEB): R$ 110.000,00
 INSC. EST.:   04..212.749-1  |  INSC. MUN.: —
 
@@ -147,6 +155,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3456 - ALFATEC NDUSTRIA E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34582973000106  |  WEB RAZÃO: Alfatec Industria e Comercio LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 6.101.800,00
 INSC. EST.:   063001390  |  INSC. MUN.: —
 
@@ -165,6 +174,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1779 - ALIA UTO POSTO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 28165742000196  |  WEB RAZÃO: Auto Posto de Combustiveis Ali LTDA
+WEB FANTASIA: Auto Posto Ali
 CAPITAL SOCIAL (WEB): R$ 804.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -183,6 +193,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1680 - ALIANCA EQUIPAMENTOS PARA CONTEINERES DE MANAUS LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06298508000102  |  WEB RAZÃO: Alianca Equipamentos Para Conteineres de Manaus LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   041459636  |  INSC. MUN.: —
 
@@ -201,6 +212,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 651 - ALIANÇA SERVIÇOS DE EDFICAÇÕES
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06044947000180  |  WEB RAZÃO: Link Solucoes em Logistica Integrada LTDA
+WEB FANTASIA: Link Solucoes em Logistica
 CAPITAL SOCIAL (WEB): R$ 6.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 10871701 —
 
@@ -219,24 +231,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3053 - ALLOS S.A.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05878397000809  |  WEB RAZÃO: Allos S.a.
-CAPITAL SOCIAL (WEB): R$ 4.190.769.244,00
-INSC. EST.:   ISENTO  |  INSC. MUN.: —
-
-ENDEREÇO SYS: AV MARIO YPIRANGA, [Vazio] - ADRIANOPOLIS - MANAUS
-ENDEREÇO WEB: Avenida Mario Ypiranga, 1300, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-002
-
-CONTATO SYS:  [Vazio]
-TELEFONE SYS: [Vazio]
-TELEFONE WEB: (21) 2176-7272
-EMAILS WEB:   ac-fiscal@alianscesonae.com.br
-
-LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
-AUDITORIA DO CLIENTE: 3053 - ALLOS S.A.
---------------------------------------------------------------------------------
-CNPJ SISTEMA: 05878397000809  |  WEB RAZÃO: Allos S.a.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 4.190.769.244,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -255,6 +250,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 645 - ALPINA BRIGGS DEFESAAMBIENTAL S/A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04050400000243  |  WEB RAZÃO: Albriggs Defesa Ambiental S.a.
+WEB FANTASIA: Albriggs - Amazonia
 CAPITAL SOCIAL (WEB): R$ 9.550.000,00
 INSC. EST.:   04.214.101-0  |  INSC. MUN.: —
 
@@ -273,6 +269,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2167 - ALTEROSA EMPREENDIMENTOS IMOBLIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 28014788000376  |  WEB RAZÃO: Alterosa Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -291,6 +288,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2364 - AMARILDO DOS S. FIGUEIREDO EIREL|
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 32770774000198  |  WEB RAZÃO: Amarildo dos S. Figueiredo LTDA
+WEB FANTASIA: Solution Fer
 CAPITAL SOCIAL (WEB): R$ 1.100.000,00
 INSC. EST.:   05.407.329-4  |  INSC. MUN.: —
 
@@ -309,6 +307,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1723 - AMATURA EMPREENDIMENTOS IMOBILIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 32039850000270  |  WEB RAZÃO: Amatura Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -327,6 +326,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2933 - AMAZON ACO COMERCIO DE ACO LTDA ALVORADA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27601807000136  |  WEB RAZÃO: Amazon Aco Comercio de Aco LTDA
+WEB FANTASIA: Amazon Aco
 CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   053906780  |  INSC. MUN.: —
 
@@ -345,6 +345,7 @@ LIMITE:       1.000.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 058 - AMAZON ACO COMERCIO DE ACO LTDA TIMBIRAS
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27601807000489  |  WEB RAZÃO: Amazon Aco Comercio de Aco LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   054539455  |  INSC. MUN.: —
 
@@ -363,6 +364,7 @@ LIMITE:       49.520,00  |  SALDO DEVEDOR: 480,00
 AUDITORIA DO CLIENTE: 2846 - AMAZON COMERCIO DE FERRAGENS E SERVIÇOS DE INSTALACA(
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 17127759000213  |  WEB RAZÃO: Amazon Comercio de Ferragens e Servicos de Instalacao Ltda.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   054104858  |  INSC. MUN.: —
 
@@ -381,6 +383,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3052 - AMAZON EMPREENDIMENTOS E PARTICIPAÇÕES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10278825000126  |  WEB RAZÃO: Amazon Empreendimentos e Participacoes LTDA
+WEB FANTASIA: Amazon Empreendimentos
 CAPITAL SOCIAL (WEB): R$ 16.042.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -399,6 +402,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 924 - AMAZON NCORPORACOES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10560737000112  |  WEB RAZÃO: Amazon Incorporacoes LTDA
+WEB FANTASIA: Amazon Incorporacoes
 CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: I
 
@@ -417,6 +421,7 @@ LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3079 - AMAZON INDUSTRIA DE ALUMINIO LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 52454339000161  |  WEB RAZÃO: Amazon Industria de Aluminio LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   063012375  |  INSC. MUN.: —
 
@@ -436,6 +441,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 328 - AMAZON REFRIGERANTES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02402867000107  |  WEB RAZÃO: Amazon Industria de Gelo e Bebidas LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 8.000.000,00
 INSC. EST.:   06.200.157-4  |  INSC. MUN.: —
 
@@ -454,6 +460,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 204 - AMAZON SHIP CHANDLER
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 23013030000138  |  WEB RAZÃO: Rui Antonio Colares
+WEB FANTASIA: Amazon Ship-Chandler
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   04.190.406-0  |  INSC. MUN.: —
 
@@ -472,6 +479,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3471 - AMAZON TRANSPORTES RODOVIARIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07861352000180  |  WEB RAZÃO: Amazon Transportes Rodoviarios Ltda.
+WEB FANTASIA: Amazon Transportes
 CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   054213460  |  INSC. MUN.: —
 
@@ -490,6 +498,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1885 - AMAZONAS DISTRIBUIDORA DE ENERGIA S.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02341467001879  |  WEB RAZÃO: Amazonas Energia S.a
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 11.146.666.993,18
 INSC. EST.:   04.137.241-7  |  INSC. MUN.: —
 
@@ -508,6 +517,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2304 - AMAZONAS PRODUTORA CINEMATOGRAFICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14899567000156  |  WEB RAZÃO: Bra Producao e Aluguel de Equipamentos LTDA
+WEB FANTASIA: Tv Diario - Bra Producao
 CAPITAL SOCIAL (WEB): R$ 7.000.000,00
 INSC. EST.:   053599039  |  INSC. MUN.: —
 
@@ -526,6 +536,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 148 - AMAZONGAS DISTRIB. DE GAS LIQUEF. DE PETROLEO LTIDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04957650000180  |  WEB RAZÃO: Amazongas Distrib de Gas Liquef de Petroleo LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 100.875.574,00
 INSC. EST.:   041765834  |  INSC. MUN.: 3044201 —
 
@@ -544,6 +555,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 444 - AMCC ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 24996902000198  |  WEB RAZÃO: A M C C Telecom LTDA
+WEB FANTASIA: Formatto Telecom
 CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   10.383.746-9  |  INSC. MUN.: —
 
@@ -562,6 +574,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2472 - ANGELIM ENGENHARIA LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 31561768000158  |  WEB RAZÃO: ---
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -580,6 +593,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 728 - ANTONIO EDLSON ALVES DE MORAIS ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03505156000112  |  WEB RAZÃO: Antonio Edilson Alves de Morais
+WEB FANTASIA: Comercial Brasil
 CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   05.001.859-0  |  INSC. MUN.: 13256801 —
 
@@ -598,6 +612,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 859 - ANTONIO TORRES DA COSTA FLHO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07239260000163  |  WEB RAZÃO: Antonio Torres da Costa Filho
+WEB FANTASIA: Topcon
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: 12377-01
 
@@ -616,6 +631,7 @@ LIMITE:       4.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 301 - APA COMERCIO DE MOVEIS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07382118000170  |  WEB RAZÃO: A. P. A. Comercio de Moveis LTDA
+WEB FANTASIA: Apa Moveis Matriz Cd
 CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   04.214.068-4  |  INSC. MUN.: —
 
@@ -634,6 +650,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 401 - APB INFORMÁTICA LTDA - ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03217412000176  |  WEB RAZÃO: A. P. B Informatica LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   04.141.705-4  |  INSC. MUN.: 90.922-01 ——
 
@@ -652,6 +669,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1045 - API SPE 10 PLANEJAMENTO E DESENVOLVIMENTO IMOBL.LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08693339000122  |  WEB RAZÃO: Api Spe 10 Planejamento e Desenvolvimento de Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 8.491.164,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -670,6 +688,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 796 - API SPE22 PLANEJAMENTO E DESENV DE EMPREEND IMOB LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08861328000104  |  WEB RAZÃO: Ponta Negra Planejamento e Desenvolvimento de Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 5.736.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -688,6 +707,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 671 - ARAMARA CONSTR. COM. E REPRES. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02346562000117  |  WEB RAZÃO: Aramara-Construcao,Comercio e Representacoes LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 908.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -706,6 +726,7 @@ LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1028 - ARC ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07966845000185  |  WEB RAZÃO: Arc Engenharia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 114.3417-01
 
@@ -724,6 +745,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1407 - ARDO CONSTRUTORA E PAVIMENTAÇÃO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07354898000145  |  WEB RAZÃO: Ardo - Construtora e Pavimentacao LTDA
+WEB FANTASIA: Ardo Construtora
 CAPITAL SOCIAL (WEB): R$ 20.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 13567201
 
@@ -742,6 +764,7 @@ LIMITE:       75.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 895 - ARENA PETROLEO REVENDA DE COMBUSTIVEL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13888948000177  |  WEB RAZÃO: Arena Petroleo Revenda de Combustiveis LTDA
+WEB FANTASIA: Arena Petroleo LTIDA
 CAPITAL SOCIAL (WEB): R$ 1.295.000,00
 INSC. EST.:   04.234.846-3  |  INSC. MUN.: —
 
@@ -760,6 +783,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 292 - ARMOR BRASIL IND. E COM. DE FITAS PARA MPRESSÃO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08979043000172  |  WEB RAZÃO: Armor Brasil Industria e Comercio de Fitas Para Impressao LTDA
+WEB FANTASIA: Armor-limak
 CAPITAL SOCIAL (WEB): R$ 17.970.323,00
 INSC. EST.:   06.300.507-7  |  INSC. MUN.: 119.834-01 —
 
@@ -778,6 +802,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 678 - AROCO E PEREIRA CONSTRUÇÕES LTDA - ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12320624000175  |  WEB RAZÃO: Ermha Construcao LTDA
+WEB FANTASIA: Ermha
 CAPITAL SOCIAL (WEB): R$ 200.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -796,6 +821,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1594 - ARQSET SERVICOS DE ARQUITETURA E ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18966125000136  |  WEB RAZÃO: Arqset Servicos de Arquitetura e Engenharia LTDA
+WEB FANTASIA: Argset Servicos de Arquitetura e Engenharia
 CAPITAL SOCIAL (WEB): R$ 1.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
@@ -814,6 +840,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1470 - ARRIS NDUSTRIA ELETRONICA DO BRASI LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09154836000115  |  WEB RAZÃO: Arris Industria Eletronica do Brasil LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 116.892.155,00
 INSC. EST.:   062005952  |  INSC. MUN.: —
 
@@ -832,6 +859,7 @@ LIMITE:       17.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 108 - ART LUX DAAMAZÔNIA CLICHERIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04672540000172  |  WEB RAZÃO: Locarte Locacao de Equipamentos Para Escritorio LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   04.148.743-5  |  INSC. MUN.: —
 
@@ -850,6 +878,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 348 - ARUANDA TEC. E COMÉRCIO DE EQUIP. IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00289279000175  |  WEB RAZÃO: Aruanda Tecnologia e Comercio de Equipamentos Industriais LTDA
+WEB FANTASIA: Aruanda Tecnologia e Engenharia
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   04.108.577-9  |  INSC. MUN.: —
 
@@ -868,6 +897,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: [Vazio] - ASLAN CURSOS DE DIOMAS
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12403015000180  |  WEB RAZÃO: Aslan Curso de Idiomas LTDA
+WEB FANTASIA: Idiomas Aslan
 CAPITAL SOCIAL (WEB): R$ 45.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -886,6 +916,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 746 - ASSOC. ADVENTISTA NORTE BRAS. DE PREV. ASSIST. À SAÚDE
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 83367342000767  |  WEB RAZÃO: Associacao Adventista Norte Brasileira de Prevencao e Assistencia A Saude
+WEB FANTASIA: Hospital Adventista de Manaus
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -904,6 +935,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1253 - ASSOCIAÇÃO DE EDUCAÇÃO LATO SENSU DO BRASIL
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 63693014000158  |  WEB RAZÃO: Associacao de Educacao Lato Sensu do Brasil
+WEB FANTASIA: Centro Educacional Lato Sensu
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -922,6 +954,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1604 - ASSOCIACAO DO STUDIO 5 SHOPPING
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 33386796000111  |  WEB RAZÃO: Associacao do Studio 5 Shopping
+WEB FANTASIA: Associacao do Studio 5 Shopping
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -940,6 +973,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3283 - ASSOCIACAO DOS EMPREENDEDORES DO SMVN
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 30545997000126  |  WEB RAZÃO: Associacao dos Empreendedores do Smvn
+WEB FANTASIA: Aesmvn
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -958,6 +992,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1135 - ATACADAO DISTRIBUICAO COM E IND LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333011909  |  WEB RAZÃO: Atacadao S.a.
+WEB FANTASIA: Atacadao
 CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053206193  |  INSC. MUN.: —
 
@@ -976,24 +1011,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
-CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
-INSC. EST.:   053407490  |  INSC. MUN.: —
-
-ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
-ENDEREÇO WEB: Avenida Max Teixeira, 3856, - Cidade Nova, - Manaus/Amazonas, CEP: 69090-002
-
-CONTATO SYS:  [Vazio]
-TELEFONE SYS: [Vazio]
-TELEFONE WEB: (11) 2967-8219 / (92) 2123-7201 / (92) 2123-7205
-EMAILS WEB:   tributario@atacadao.com.br
-
-LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
-AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
---------------------------------------------------------------------------------
-CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
+WEB FANTASIA: Atacadao
 CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053407490  |  INSC. MUN.: —
 
@@ -1012,6 +1030,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1087 - ATACADÃO DISTRIBUIÇÃO COMÉRCIO E NDÚSTRIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333011810  |  WEB RAZÃO: Atacadao S.a.
+WEB FANTASIA: Atacadao
 CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053206983  |  INSC. MUN.: ISENTO '
 
@@ -1030,6 +1049,7 @@ LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2823 - ATACADAO S.A.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333028119  |  WEB RAZÃO: Atacadao S.a.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   05.426.623-8  |  INSC. MUN.: —
 
@@ -1049,6 +1069,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 798 - ATEM'S DISTRIBUDORA DE PETRÓLEO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03987364000103  |  WEB RAZÃO: Atem's Distribuidora de Petroleo S.a.
+WEB FANTASIA: Atem's Distribuidora
 CAPITAL SOCIAL (WEB): R$ 718.288.726,61
 INSC. EST.:   04.145.537-1  |  INSC. MUN.: 9772701 —
 
@@ -1067,6 +1088,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2010 - ATLAS COPCO BRASL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 57029431004004  |  WEB RAZÃO: Atlas Copco Brasil LTDA
+WEB FANTASIA: Atlas Copco
 CAPITAL SOCIAL (WEB): R$ 138.446.361,00
 INSC. EST.:   042231787  |  INSC. MUN.: —
 
@@ -1085,6 +1107,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2 - AURORA DA AMAZÔNIA TERMINAIS E SERV. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04694548000130  |  WEB RAZÃO: Aurora da Amazonia Terminais e Servicos LTDA
+WEB FANTASIA: Aurora da Amazonia Terminais e Servicos LTDA
 CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   04.149.789-9  |  INSC. MUN.: —
 
@@ -1103,6 +1126,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1659 - AUTO POSTO UNIAO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 23029382000181  |  WEB RAZÃO: Auto Posto Uniao LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 40.000,00
 INSC. EST.:   042261902  |  INSC. MUN.: —
 
@@ -1121,6 +1145,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 336 - AUTOSERVIÇO PROCESSAMENTO DE DADOS LTDA-EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07306406000146  |  WEB RAZÃO: Autoservico Processamento de Dados LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 500.000,00
 INSC. EST.:   04..225.278-4  |  INSC. MUN.: —
 
@@ -1139,6 +1164,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1767 - AVANÇO CONSTRUÇÕES E COM. DE ELET. ERELHEPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18145858000100  |  WEB RAZÃO: Avanco S/A
+WEB FANTASIA: Avanco S/A
 CAPITAL SOCIAL (WEB): R$ 45.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 21063801 —
 
@@ -1157,6 +1183,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2650 - B2 POLIMEROS INDUSTRIAIS DE PLASTICOS DA AMAZONIA LTDA0€
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 39693319000185  |  WEB RAZÃO: B2 Polimeros Industria de Plasticos da Amazonia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   063010712  |  INSC. MUN.: —
 
@@ -1175,6 +1202,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1733 - B2A COMERCIO DE MATERIAIS DE
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 16789176000104  |  WEB RAZÃO: B2A Comercio de Materiais de Telecomunicacoes e Informatica LTDA
+WEB FANTASIA: Para Cabos
 CAPITAL SOCIAL (WEB): R$ 5.000.000,00
 INSC. EST.:   053289269  |  INSC. MUN.: —
 
@@ -1193,6 +1221,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 647 - BA ELÉTRICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02887535000151  |  WEB RAZÃO: B A Eletrica LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 7.520.000,00
 INSC. EST.:   04.140.075-5  |  INSC. MUN.: —
 
@@ -1211,6 +1240,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 54 - BANCO ITAU
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 60701190000104  |  WEB RAZÃO: Itau Unibanco S.a.
+WEB FANTASIA: Itau Unibanco
 CAPITAL SOCIAL (WEB): R$ 75.385.000.000,00
 INSC. EST.:   [Vazio]  |  INSC. MUN.: —
 
@@ -1229,6 +1259,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 275 - BARBOSA E OLIVEIRA CONSTRUCOES LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18376340000187  |  WEB RAZÃO: Altus Engenharia LTDA
+WEB FANTASIA: Altus Engenharia
 CAPITAL SOCIAL (WEB): R$ 1.950.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1247,6 +1278,7 @@ LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1314 - BARCELONA COMERCIO VAREJISTA E ATACADISTA S.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07170943011570  |  WEB RAZÃO: Barcelona Comercio Varejista e Atacadista S/A
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 857.055.556,06
 INSC. EST.:   053722426  |  INSC. MUN.: —
 
@@ -1265,6 +1297,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 232 - BARRETO CONSTRUCOES EIRELI
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07621786000103  |  WEB RAZÃO: Barreto Construcoes LTDA
+WEB FANTASIA: Barreto Engenharia
 CAPITAL SOCIAL (WEB): R$ 6.000.000,00
 INSC. EST.:   042673003  |  INSC. MUN.: —
 
@@ -1283,6 +1316,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 687 - BAUKRAFT ENGENHARIA E CONSTRUÇÕES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14604391000168  |  WEB RAZÃO: Baukraft Engenharia LTDA
+WEB FANTASIA: Baukraft Engenharia
 CAPITAL SOCIAL (WEB): R$ 10.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1301,6 +1335,7 @@ LIMITE:       35.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2643 - BBM SERVICOS, ALUGUEL DE MAQ. E TECNOLOGIA EIREL|
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13844973000159  |  WEB RAZÃO: Bbm Servicos, Aluguel de Maquinas e Tecnologia LTDA
+WEB FANTASIA: Bbm Locacao e Servicos
 CAPITAL SOCIAL (WEB): R$ 1.000.000,00
 INSC. EST.:   042351979  |  INSC. MUN.: —
 
@@ -1319,6 +1354,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 479 - BENCO ENERGIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 32142929000222  |  WEB RAZÃO: Benco Energia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 7.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1337,6 +1373,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1521 - BERTOLINI DA AMAZONIA INDUSTRIA E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84498070000101  |  WEB RAZÃO: Bertolini da Amazonia Industria e Comercio LTDA
+WEB FANTASIA: Bertolini Implementos Rodoviarios
 CAPITAL SOCIAL (WEB): R$ 93.100.000,00
 INSC. EST.:   06.300.180-2  |  INSC. MUN.: 062001876 —
 
@@ -1355,6 +1392,7 @@ LIMITE:       35.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3303 - BGP BRASIL. SERVICOS E EQUIPAMENTOS GEOFISICOS LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12284894000259  |  WEB RAZÃO: Bgp Brasil Servicos e Equipamentos Geofisicos LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 17.850.554,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1373,6 +1411,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1993 - BENO CONSTRUCOES LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 37466425000109  |  WEB RAZÃO: Bieno Construcoes LTDA
+WEB FANTASIA: Bieno Construcoes
 CAPITAL SOCIAL (WEB): R$ 800.000,00
 INSC. EST.:   054322863  |  INSC. MUN.: —
 
@@ -1391,6 +1430,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 650 - BIG TRADING E EMPREENDIMENTOS LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06317393000148  |  WEB RAZÃO: Big Trading e Empreendimentos LTDA
+WEB FANTASIA: Big Amigao
 CAPITAL SOCIAL (WEB): R$ 28.800.000,00
 INSC. EST.:   042124964  |  INSC. MUN.: 10943501 —
 
@@ -1409,6 +1449,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1801 - BIKE NORTE FABRICAÇÃO DE BICICLETAS S/A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13072986000157  |  WEB RAZÃO: Bike Norte Fabricacao de Bicicletas S/A
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 63.555.580,80
 INSC. EST.:   062007823  |  INSC. MUN.: —
 
@@ -1427,6 +1468,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2526 - BIODENTAL MEDICAL DISTRIBUIDORA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04318290000177  |  WEB RAZÃO: Biodental Medical Distribuidora LTDA
+WEB FANTASIA: Biodental Medical LTDA
 CAPITAL SOCIAL (WEB): R$ 500.000,00
 INSC. EST.:   041468180  |  INSC. MUN.: —
 
@@ -1445,6 +1487,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 935 - BL WARISS-
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07614989000172  |  WEB RAZÃO: B L Wariss
+WEB FANTASIA: Brenno Representacoes Comerciais
 CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   04234310-0  |  INSC. MUN.: —
 
@@ -1463,6 +1506,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2666 - BMW MANUFACTURING IND. DE MOTOS DAAMAZ. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 23871782000130  |  WEB RAZÃO: Bmw Manufacturing Industria de Motos da Amazonia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 77.529.000,00
 INSC. EST.:   062011189  |  INSC. MUN.: —
 
@@ -1481,6 +1525,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2021 - BOARDTEC DO BRASIL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 21375023000231  |  WEB RAZÃO: Boardtec do Brasil LTDA
+WEB FANTASIA: Boardtec do Brasil LTDA
 CAPITAL SOCIAL (WEB): R$ 3.500.000,00
 INSC. EST.:   063010402  |  INSC. MUN.: —
 
@@ -1499,6 +1544,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2794 - BONARDA EMPREENDIMENTOS IMOBLIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 39152758000180  |  WEB RAZÃO: Bonarda Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1517,6 +1563,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1651 - BP SERVIÇOS DE ESTERLIZAÇÃO SPE S.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 21821773000109  |  WEB RAZÃO: Bp Servicos de Esterilizacao Spe S.a.
+WEB FANTASIA: Bp Servicos
 CAPITAL SOCIAL (WEB): R$ 23.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -1535,6 +1582,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 97 - BPA CONSTRUÇOÕES E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01447962000156  |  WEB RAZÃO: Bpa Construcoes e Comercio LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): ---
 INSC. EST.:   99.190.614.4  |  INSC. MUN.: —
 
@@ -1553,6 +1601,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1548 - BRASIL COLETA INDUSTRIA E TRATAMENTO DE RE. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12163869000136  |  WEB RAZÃO: Ambipar Environment Manaus LTDA
+WEB FANTASIA: Brasil Coleta Industria e Tratamento de Residuos
 CAPITAL SOCIAL (WEB): R$ 1.295.122,00
 INSC. EST.:   063009331  |  INSC. MUN.: 13626201 —
 
@@ -1571,6 +1620,7 @@ LIMITE:       80.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 509 - BRASIL NORTE BEBIDAS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34590315000158  |  WEB RAZÃO: Brasil Norte Bebidas S/A
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 355.006.357,24
 INSC. EST.:   06.200.223-6  |  INSC. MUN.: —
 
@@ -1589,6 +1639,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 691 - BRASITEC IND. E COM. DE APAR. PARA BELEZA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07293118000102  |  WEB RAZÃO: Brasitech Industria e Comercio de Aparelhos Para Beleza LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 74.367.482,00
 INSC. EST.:   06.200.443-3  |  INSC. MUN.: —
 
@@ -1607,6 +1658,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1957 - BREITENER JARAQUI S/A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07387573000169  |  WEB RAZÃO: Breitener Jaraqui S.a.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 146.671.241,76
 INSC. EST.:   041557735  |  INSC. MUN.: —
 
@@ -1625,6 +1677,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1759 - BREITENER TAMBAQUI S.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07390807000127  |  WEB RAZÃO: Breitener Tambaqui S.a.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 159.445.068,37
 INSC. EST.:   042156742  |  INSC. MUN.: —
 
@@ -1643,6 +1696,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2717 - BRIDGE INDUSTRIA DE PRODUTOS PLASTICOS DAAMAZONIA LTD,
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 24352003000152  |  WEB RAZÃO: Bridge Industria de Produtos Plasticos da Amazonia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 45.362.996,00
 INSC. EST.:   063009242  |  INSC. MUN.: —
 
@@ -1661,6 +1715,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2240 - BRINGEL MEDICAL DISTRIBUDORA DE MEDICAMENTOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12417472000123  |  WEB RAZÃO: Bringel Medical Distribuidora de Medicamentos LTDA
+WEB FANTASIA: Bringel Medical LTDA
 CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   042305381  |  INSC. MUN.: —
 
@@ -1679,6 +1734,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2195 - BRITANIA COMPONENTES ELETRONICOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13699433000390  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 18.644.823,00
 INSC. EST.:   063009595  |  INSC. MUN.: —
 
@@ -1697,6 +1753,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1961 - BRITANIA COMPONENTES ELETRONICOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13699433000129  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+WEB FANTASIA: Britania
 CAPITAL SOCIAL (WEB): R$ 18.644.823,00
 INSC. EST.:   063007339  |  INSC. MUN.: —
 
@@ -1715,6 +1772,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2722 - BRITANIA COMPONENTES ELETRONICOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13699433000200  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+WEB FANTASIA: Britania Componentes Eletronicos LTDA
 CAPITAL SOCIAL (WEB): R$ 18.644.823,00
 INSC. EST.:   063009358  |  INSC. MUN.: —
 
@@ -1733,6 +1791,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 615 - BRIVICTORY BRASIL IND. DE ELETRÔNICOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 11758381000199  |  WEB RAZÃO: Brivictory Brasil Industria de Eletronicos LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 19.420.983,00
 INSC. EST.:   06.300.667-7  |  INSC. MUN.: —
 
@@ -1751,6 +1810,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 604 - BRW EMPREENDIMENTOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01780060000137  |  WEB RAZÃO: Construlagos Construtora e Empreendimentos LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 11.750.000,00
 INSC. EST.:   04296501-2  |  INSC. MUN.: 105076-01/ —
 
@@ -1769,6 +1829,7 @@ LIMITE:       55.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1939 - BRX COMERCIO ATACADISTA DE MAT. ELET. LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 35516299000116  |  WEB RAZÃO: Brx Comercio Atacadista de Material Eletrico LTDA
+WEB FANTASIA: Brx Importadora
 CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   054160715  |  INSC. MUN.: —
 
@@ -1787,6 +1848,7 @@ LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 547 - BUJAR! EMPREENDIMENTOS MOBLIÁRIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10384879000338  |  WEB RAZÃO: Bujari Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   04.228.869-0  |  INSC. MUN.: —
 
@@ -1805,6 +1867,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 521 - BUREAL COMERCIAL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03942303000111  |  WEB RAZÃO: Bureau Comercial Limitada
+WEB FANTASIA: Grafica Ampla
 CAPITAL SOCIAL (WEB): R$ 6.463.000,00
 INSC. EST.:   06.300.492-5  |  INSC. MUN.: —
 
@@ -1823,6 +1886,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2330 - C C G DISTRIBUDORA DE MAT DE CONST LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03051269000195  |  WEB RAZÃO: C C G Distribuidora de Materiais de Construcao LTDA
+WEB FANTASIA: € C G Distribuidora
 CAPITAL SOCIAL (WEB): R$ 800.000,00
 INSC. EST.:   042240891  |  INSC. MUN.: —
 
@@ -1841,6 +1905,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3113 - C DE QUEIROZ PEDROSA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18442885000144  |  WEB RAZÃO: C de Queiroz Pedrosa LTDA
+WEB FANTASIA: Live Academia
 CAPITAL SOCIAL (WEB): R$ 990.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
@@ -1859,6 +1924,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1294 - C.B BARROS E CIA LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05511993000180  |  WEB RAZÃO: C B Barros & Cia LTDA
+WEB FANTASIA: Boulevard Slaass Flat Hotel
 CAPITAL SOCIAL (WEB): R$ 2.840.000,00
 INSC. EST.:   041757459  |  INSC. MUN.: 03787101 —
 
@@ -1877,6 +1943,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3532 - CAA COMERCIO E NDUSTRIA AMAZONESE DE ALUMINIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09675751000182  |  WEB RAZÃO: Caa Comercio e Industria Amazonense de Aluminio LTDA
+WEB FANTASIA: Comercio Amazonense de Aluminio
 CAPITAL SOCIAL (WEB): R$ 900.000,00
 INSC. EST.:   042898340  |  INSC. MUN.: —
 
@@ -1895,6 +1962,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1592 - CABERNET EMPREENDIMENTOS IMOBLLIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 25215196000162  |  WEB RAZÃO: Cabernet Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
@@ -1913,6 +1981,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 236 - CADASTRO CANCELADO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08779685000128  |  WEB RAZÃO: L Henrique Maciel Neves LTDA
+WEB FANTASIA: Arcon Industrial
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   04..220.510-7  |  INSC. MUN.: —
 
@@ -1931,6 +2000,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 200 - CADASTRO CANCELADO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05468898000140  |  WEB RAZÃO: Foco Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 600.000,00
 INSC. EST.:   04.208.122-0  |  INSC. MUN.: —
 
@@ -1949,6 +2019,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 122 - CADASTRO CANCELADO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05035216000106  |  WEB RAZÃO: Construtora Granadeiro LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 150.000,00
 INSC. EST.:   04.151.838-1  |  INSC. MUN.: —
 
@@ -1967,6 +2038,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 565 - CADASTRO CANCELADO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09065563000132  |  WEB RAZÃO: Econs Empresa de Construcao e Manutencao Limitada
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 12043401 —
 
@@ -1985,6 +2057,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 40 - CADASTRO CANCELADO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14173942000186  |  WEB RAZÃO: Soparafuso Comercial LTDA
+WEB FANTASIA: Soparafuso
 CAPITAL SOCIAL (WEB): R$ 500.000,00
 INSC. EST.:   04.178.086-8  |  INSC. MUN.: —
 
@@ -2003,6 +2076,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1296 - CAL COMP IND. E COM. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07200194000380  |  WEB RAZÃO: Cal-Comp Industria e Comercio de Eletronicos e Informatica Ltda.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 247.820.420,00
 INSC. EST.:   063007606  |  INSC. MUN.: 11125702
 
@@ -2021,6 +2095,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1272 - CAL-COMP IND. E COM. DE ELET. E INF. LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07200194000118  |  WEB RAZÃO: Cal-Comp Industria e Comercio de Eletronicos e Informatica Ltda.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 247.820.420,00
 INSC. EST.:   06.300.384-8  |  INSC. MUN.: 11125701
 
@@ -2039,6 +2114,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1564 - CALIFORNIA INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10658486000103  |  WEB RAZÃO: California Industria e Comercio de Alimentos LTDA
+WEB FANTASIA: California Alimentos
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   06201328-9  |  INSC. MUN.: ISENTO '
 
@@ -2057,6 +2133,7 @@ LIMITE:       7.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2165 - CALLIDUS INDUSTRIA, COM. E SERV. DE PLACAS E COMP. DE INFO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08258870000177  |  WEB RAZÃO: Callidus Industria, Comercio e Servicos de Placas e Componentes de Informatica S.a
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000.000,00
 INSC. EST.:   063009285  |  INSC. MUN.: —
 
@@ -2075,6 +2152,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1776 - CANDIDO IGOR TAVARES FERNANDES -EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 21921392000100  |  WEB RAZÃO: If Engenharia LTDA
+WEB FANTASIA: | F Engenharia
 CAPITAL SOCIAL (WEB): R$ 1.000.000,00
 INSC. EST.:   054196523  |  INSC. MUN.: —
 
@@ -2093,6 +2171,7 @@ LIMITE:       11.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1457 - CANON INDUSTRIA DE MANAUS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 15530875000172  |  WEB RAZÃO: Canon Industria de Manaus LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 86.700.000,00
 INSC. EST.:   062009370  |  INSC. MUN.: —
 
@@ -2111,6 +2190,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2235 - CAP - 50 EMPREENDIMENTOS IMOBLLIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 38199700000120  |  WEB RAZÃO: Cap-50 Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2129,6 +2209,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2810 - CAP -70 EMPREENDIMENTOS IMOBLIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 41536609000167  |  WEB RAZÃO: Cap-70 Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2147,6 +2228,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2342 - CAP 30 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34681187000158  |  WEB RAZÃO: Cap-30 Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2165,6 +2247,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2446 - CAP 60 EMPREEDIMENTOS IMOBILLIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 38198368000189  |  WEB RAZÃO: Cap-60 Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2183,6 +2266,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1809 - CAP-10 EMPREENDIMENTOS IMOBILLIARIOS SPE LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34239055000170  |  WEB RAZÃO: Cap-10 Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 2.160.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2201,6 +2285,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 134 - CAPITANIA FLUVIAL DAAMAZONIA OCIDENTAL
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00394502004301  |  WEB RAZÃO: Comando da Marinha
+WEB FANTASIA: Capitania Fluvial da Amazonia Ocidental
 CAPITAL SOCIAL (WEB): ---
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2219,6 +2304,7 @@ LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 709 - CARBOQUÍMICA DA AMAZÔNIA LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04952792000155  |  WEB RAZÃO: Carboquimica da Amazonia LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   06.200.065-9  |  INSC. MUN.: —
 
@@ -2237,6 +2323,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3006 - CARGO ENGENHARIA DE AR CONDICIONADO DA AMAZÔNIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84115484000104  |  WEB RAZÃO: Cargo Engenharia de Ar Condicionado da Amazonia LTDA
+WEB FANTASIA: Cargo Engenharia
 CAPITAL SOCIAL (WEB): R$ 500.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2255,6 +2342,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2245 - CARLOS SERGIO DOS SANTOS SILVA 38476274220
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 44676983000156  |  WEB RAZÃO: Carlos Sergio dos Santos Silva
+WEB FANTASIA: Sha Instalacao e Manutencao
 CAPITAL SOCIAL (WEB): R$ 50.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2273,6 +2361,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2193 - CARMENERE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 25054234000142  |  WEB RAZÃO: Carmenere Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2291,6 +2380,7 @@ LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 782 - CARREFUOR COMÉRCIO E IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 45543915009723  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+WEB FANTASIA: Carrefour
 CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
 INSC. EST.:   04.178.392-1  |  INSC. MUN.: —
 
@@ -2309,6 +2399,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 783 - CARREFUOR COMÉRCIO E IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 45543915010063  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+WEB FANTASIA: Carrefour
 CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
 INSC. EST.:   04.141.611-2  |  INSC. MUN.: —
 
@@ -2327,6 +2418,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 784 - CARREFUOR COMÉRCIO E IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 45543915009804  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+WEB FANTASIA: Carrefour
 CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
 INSC. EST.:   04.173.398-3  |  INSC. MUN.: —
 
@@ -2345,6 +2437,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 786 - CARREFUOR COMÉRCIO E IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 45543915033780  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+WEB FANTASIA: Carrefour
 CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
 INSC. EST.:   04.217.896-7  |  INSC. MUN.: —
 
@@ -2363,6 +2456,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 787 - CARREFUOR COMÉRCIO E IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 45543915041619  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+WEB FANTASIA: Carrefour
 CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
 INSC. EST.:   04.225.203-2  |  INSC. MUN.: —
 
@@ -2381,6 +2475,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 957 - CARTAXO EMPREENDIMENTOS IMOB LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13319930000154  |  WEB RAZÃO: Cartaxo Empreendimentos Imobiliarios Spe LTDA - em Recuperacao Judicial em Recuperacao Judicial
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 14.001.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2399,6 +2494,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1025 - CASA CIVL
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04312369000190  |  WEB RAZÃO: Estado do Amazonas
+WEB FANTASIA: Sede do Governo
 CAPITAL SOCIAL (WEB): ---
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
@@ -2417,6 +2513,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2465 - CASA DE CARNE OTAVIO LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08713624000249  |  WEB RAZÃO: Casa de Carne Otavio LTDA
+WEB FANTASIA: Casa da Came Otavio
 CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   053494768  |  INSC. MUN.: —
 
@@ -2435,6 +2532,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2009 - CASA DE CARNE OTAVIO LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08713624000168  |  WEB RAZÃO: Casa de Carne Otavio LTDA
+WEB FANTASIA: Casa da Came Otavio
 CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   053494768  |  INSC. MUN.: —
 
@@ -2453,6 +2551,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 308 - CASA DIAS COM. E REPRES. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01715486000107  |  WEB RAZÃO: Casa Dias Comercio e Representacao LTDA
+WEB FANTASIA: Casa Dias Utilidades
 CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   04.133.245-8  |  INSC. MUN.: —
 
@@ -2471,6 +2570,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1281 - CASA DO ELETRICISTA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04415154000103  |  WEB RAZÃO: Casa do Eletricista LTDA
+WEB FANTASIA: Casa do Eletrecista
 CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   041700686  |  INSC. MUN.: —
 
@@ -2489,6 +2589,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1041 - CASA DOS PAINES ELETRICOS LTDA ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13050272000148  |  WEB RAZÃO: Casa dos Paineis Eletricos LTDA
+WEB FANTASIA: Casa dos Paineis Eletricos
 CAPITAL SOCIAL (WEB): R$ 50.000,00
 INSC. EST.:   04.232.567-6  |  INSC. MUN.: 13594201 —
 
@@ -2507,6 +2608,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2025 - CASA GURGEL COM DE MAT DE CONSTRUÇAO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10701065000118  |  WEB RAZÃO: Casa Gurgel Comercio de Material de Construcao LTDA
+WEB FANTASIA: Casa Gurgel
 CAPITAL SOCIAL (WEB): R$ 240.000,00
 INSC. EST.:   042927811  |  INSC. MUN.: —
 
@@ -2525,6 +2627,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2910 - CASA GURGEL COM MAT DE CONSTRUÇAO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10701065000207  |  WEB RAZÃO: Casa Gurgel Comercio de Material de Construcao LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 240.000,00
 INSC. EST.:   054541107  |  INSC. MUN.: —
 
@@ -2543,6 +2646,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1240 - CASAS DO OLEO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04559308000122  |  WEB RAZÃO: Casas do Oleo LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 5.623.040,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2561,6 +2665,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1530 - CASTELL ENGENHARIA EIRELI - EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09516788000168  |  WEB RAZÃO: Castell Engenharia LTDA
+WEB FANTASIA: Castell
 CAPITAL SOCIAL (WEB): R$ 2.700.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
@@ -2579,6 +2684,7 @@ LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3172 - CB MANAUS COMÉRCIO DE ALMENTOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27220036000137  |  WEB RAZÃO: Cb Manaus Comercio de Alimentos LTDA
+WEB FANTASIA: Coco Bambu Manaus
 CAPITAL SOCIAL (WEB): R$ 10.000.000,00
 INSC. EST.:   05.388.786-7  |  INSC. MUN.: —
 
@@ -2594,27 +2700,29 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-AUDITORIA DO CLIENTE: 1917 - CDL CENTRO DE DISTRIBUIÇÃO E LOG. LIDA-COROADO
+AUDITORIA DO CLIENTE: 846 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000143  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 6.320.000,00
-INSC. EST.:   041438264  |  INSC. MUN.: —
+INSC. EST.:   04-143826-4  |  INSC. MUN.: 96174-0—--
 
-ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - COROADO - MANAUS
+ENDEREÇO SYS: AV. COSME FERREIRA,, [Vazio] - COROADO - MANAUS
 ENDEREÇO WEB: Avenida Cosme Ferreira, 3700, - Coroado, - Manaus/Amazonas, CEP: 69082-230
 
-CONTATO SYS:  [Vazio]
-TELEFONE SYS: [Vazio]
+CONTATO SYS:  (92)21262863
+TELEFONE SYS: (92) 3214-1500
 TELEFONE WEB: (92) 2126-2843
 EMAILS WEB:   fisco.federal@dunorte.com.br
 
-LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 AUDITORIA DO CLIENTE: 2634 - CDL CENTRO DE DISTRIBUICAO E LOGISTICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000658  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 6.320.000,00
 INSC. EST.:   054436257  |  INSC. MUN.: —
 
@@ -2633,6 +2741,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1921 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000577  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 6.320.000,00
 INSC. EST.:   054073960  |  INSC. MUN.: —
 
@@ -2648,27 +2757,10 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-AUDITORIA DO CLIENTE: 846 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA
---------------------------------------------------------------------------------
-CNPJ SISTEMA: 03488542000143  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
-CAPITAL SOCIAL (WEB): R$ 6.320.000,00
-INSC. EST.:   04-143826-4  |  INSC. MUN.: 96174-0—--
-
-ENDEREÇO SYS: AV. COSME FERREIRA,, [Vazio] - COROADO - MANAUS
-ENDEREÇO WEB: Avenida Cosme Ferreira, 3700, - Coroado, - Manaus/Amazonas, CEP: 69082-230
-
-CONTATO SYS:  (92)21262863
-TELEFONE SYS: (92) 3214-1500
-TELEFONE WEB: (92) 2126-2843
-EMAILS WEB:   fisco.federal@dunorte.com.br
-
-LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
---------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------
 AUDITORIA DO CLIENTE: 1919 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA - COROADO AN
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000305  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+WEB FANTASIA: Cd Atack
 CAPITAL SOCIAL (WEB): R$ 6.320.000,00
 INSC. EST.:   053256174  |  INSC. MUN.: —
 
@@ -2687,6 +2779,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1920 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LIDA-DOM PEDRO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000496  |  WEB RAZÃO: ---
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): ---
 INSC. EST.:   053853806  |  INSC. MUN.: —
 
@@ -2705,6 +2798,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1918 - CDL CENTRO DE DISTRIBUIÇÃO LTDA-FLORES
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03488542000224  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+WEB FANTASIA: Atack
 CAPITAL SOCIAL (WEB): R$ 6.320.000,00
 INSC. EST.:   053179170  |  INSC. MUN.: —
 
@@ -2723,6 +2817,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2578 - CDTECH AMAZONIA CONSTRUTORA E TECNOLOGIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27217321000107  |  WEB RAZÃO: Cdtech Amazonia Construtora e Tecnologia LTDA
+WEB FANTASIA: Cdtech Construtora Solucoes e Tecnologia
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   054439701  |  INSC. MUN.: —
 
@@ -2741,6 +2836,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1098 - CEFISSO EMPR. IMOB. LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12492607000115  |  WEB RAZÃO: Cefisso Empreendimentos Imobiliarios LTDA Spe em Recuperacao Judicial em Recuperacao Judicial
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 55.001.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2759,6 +2855,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 448 - CEMOM-CONDOMÍNIO DO CENTRO MÉDICO E ODONTOLÓGICO DE h
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 63694053000170  |  WEB RAZÃO: Condominio do Centro Medico e Odontologico de Manaus
+WEB FANTASIA: Cemom
 CAPITAL SOCIAL (WEB): ---
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2777,6 +2874,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1738 - CEMUSAAMAZONIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05465332000165  |  WEB RAZÃO: Jcdecaux Norte-Nordeste LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 15.800.032,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2795,6 +2893,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2611 - CENESUP- CENTRO NACIONAL DE ENSINO SUPERIOR LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05474470002154  |  WEB RAZÃO: Cenesup - Centro Nacional de Ensino Superior LTDA
+WEB FANTASIA: Uninorte Manaus
 CAPITAL SOCIAL (WEB): R$ 692.079.716,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2813,6 +2912,7 @@ LIMITE:       45.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 821 - CENTAURUS MOTOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04210890000117  |  WEB RAZÃO: Centaurus Motos Ltda.
+WEB FANTASIA: Canopus Motos
 CAPITAL SOCIAL (WEB): R$ 1.606.147,00
 INSC. EST.:   04.146.450-8  |  INSC. MUN.: ISENTO '
 
@@ -2831,6 +2931,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 438 - CENTRO DE ASSIST. AO DES. DE FORM. PROF. UNICEL LTDA-EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03754112000126  |  WEB RAZÃO: Sociedade de Ensino Superior Estacio Amazonas LTDA
+WEB FANTASIA: Escola Estacio Amazonas
 CAPITAL SOCIAL (WEB): R$ 53.606.573,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 95309-01/---
 
@@ -2849,6 +2950,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 439 - CENTRO DE ASSIST. AO DESENV. PROFISS. UNICEL LTDA-EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 11301060000160  |  WEB RAZÃO: Centro de Educacao Profissional LTDA
+WEB FANTASIA: Centro de Ensino Literatus
 CAPITAL SOCIAL (WEB): R$ 6.420.858,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2867,6 +2969,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 437 - CENTRO DE ASSISTÊNCIAAO DESENVOLVIMENTO DA CRIANÇA LTI
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 63677827000154  |  WEB RAZÃO: Centro de Assistencia Ao Desenvolvimento da Crianca LTDA
+WEB FANTASIA: Centro Literatus
 CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 60251-01/ ——
 
@@ -2885,6 +2988,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 440 - CENTRO DE ASSISTÊNCIAAO DESENVOLVIMENTO PROFISSIONAL |
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03754112000479  |  WEB RAZÃO: Sociedade de Ensino Superior Estacio Amazonas LTDA
+WEB FANTASIA: Estacio Amazonas
 CAPITAL SOCIAL (WEB): R$ 53.606.573,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2903,6 +3007,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2015 - CENTRO DE TECNOLOGIA DE SOFTWARE LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06023804000273  |  WEB RAZÃO: Centro de Tecnologia de Software LTDA
+WEB FANTASIA: Cts
 CAPITAL SOCIAL (WEB): R$ 3.800.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2921,6 +3026,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1505 - CENTRO DO ALUMINIO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01466897000106  |  WEB RAZÃO: Centro do Aluminio LTDA
+WEB FANTASIA: Centro do Alumi
 CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   041096320  |  INSC. MUN.: 7593701
 
@@ -2939,6 +3045,7 @@ LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2774 - CEU AZUL EMPREENDIMENTOS IMOBLLIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 40726730000199  |  WEB RAZÃO: Ceu Azul Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -2957,6 +3064,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 952 - CHADIZADO MILAGRE TALLEDO FIGAR! ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08077797000137  |  WEB RAZÃO: Chadiza do Milagre Talledo Figari
+WEB FANTASIA: Projeto Formando Cidadaos
 CAPITAL SOCIAL (WEB): R$ 20.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 12893201 —
 
@@ -2975,6 +3083,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 661 - CHALLENGER DAAMAZONIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12901599000113  |  WEB RAZÃO: Challenger da Amazonia Industria de Pecas Para Veiculos Automotores LTDA
+WEB FANTASIA: Challenger da Amazonia
 CAPITAL SOCIAL (WEB): R$ 10.000.000,00
 INSC. EST.:   063007673  |  INSC. MUN.: —
 
@@ -2993,6 +3102,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1824 - CHECK UP HOSPITAL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05460308000133  |  WEB RAZÃO: Check Up Hospital Ltda.
+WEB FANTASIA: ---
 CAPITAL SOCIAL (WEB): R$ 13.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -3011,6 +3121,7 @@ LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1399 - CHIBATÃO - NAVEGAÇÃO E COM. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84098383000768  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+WEB FANTASIA: Htr - Armazens, Transportes e Logistica
 CAPITAL SOCIAL (WEB): R$ 349.600.000,00
 INSC. EST.:   042342864  |  INSC. MUN.: ISENTO '
 
@@ -3029,6 +3140,7 @@ LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1319 - CHIBATAO - NAVEGACAO E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84098383000172  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+WEB FANTASIA: Porto Chibatao
 CAPITAL SOCIAL (WEB): R$ 349.600.000,00
 INSC. EST.:   041224582  |  INSC. MUN.: —
 
@@ -3047,6 +3159,7 @@ LIMITE:       2.000.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 94 - CHIBATAO - NAVEGAÇÃO E COMERCIO LTDA - MATRIZ
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84098383000415  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+WEB FANTASIA: Navegacao Chibatao
 CAPITAL SOCIAL (WEB): R$ 349.600.000,00
 INSC. EST.:   041494679  |  INSC. MUN.: —
 
@@ -3065,6 +3178,7 @@ LIMITE:       5.004.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1428 - CHIBATÃO NAVEGAÇÃO E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 84098383001063  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+WEB FANTASIA: Tomiasi Transportes
 CAPITAL SOCIAL (WEB): R$ 349.600.000,00
 INSC. EST.:   053613830  |  INSC. MUN.: 6469207-=—=-
 
@@ -3083,6 +3197,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 395 - CICOL ENGENHARIA E COMÉRCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04023412000106  |  WEB RAZÃO: Cicol Engenharia e Comercio LTDA
+WEB FANTASIA: Cicol
 CAPITAL SOCIAL (WEB): R$ 350.000,00
 INSC. EST.:   04.167.807-9  |  INSC. MUN.: —
 
@@ -3101,6 +3216,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1576 - CIDADE TRANSPORTES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06151511000190  |  WEB RAZÃO: Ct Log Transportes LTDA
+WEB FANTASIA: Ct Log
 CAPITAL SOCIAL (WEB): R$ 30.000.000,00
 INSC. EST.:   042116597  |  INSC. MUN.: ISENTO '
 
@@ -3119,6 +3235,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 290 - CIMENCAL TERRAPLANAGEM E COMRECIO DE MATERIAIS DE CON<E
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01615290000140  |  WEB RAZÃO: Cimencal Terraplenagem LTDA
+WEB FANTASIA: Cimencal Terraplenagem
 CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   04.132.575-3  |  INSC. MUN.: —
 
@@ -3137,6 +3254,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 748 - CIMENTO VENCEMOS DO AMAZONAS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00013314000129  |  WEB RAZÃO: Cimento Vencemos do Amazonas LTDA
+WEB FANTASIA: Ciama LTDA
 CAPITAL SOCIAL (WEB): R$ 40.511.459,00
 INSC. EST.:   04.109.187-6  |  INSC. MUN.: 73631-01/ —
 
@@ -3155,6 +3273,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2033 - CIRCUITOS ENGENHARIA LTDA-ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 21366809000292  |  WEB RAZÃO: Circuitos Engenharia LTDA
+WEB FANTASIA: Circuitos Engenharia de Automacao e Controle
 CAPITAL SOCIAL (WEB): R$ 12.500.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
@@ -3173,6 +3292,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 88 - CITELUZ SERVIÇOS DE LUMINAÇÃO URBANA S/A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02966986001580  |  WEB RAZÃO: Citeluz Servicos de Iluminacao Urbana S/A em Recuperacao Judicial
+WEB FANTASIA: Citeluz
 CAPITAL SOCIAL (WEB): R$ 43.630.172,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 

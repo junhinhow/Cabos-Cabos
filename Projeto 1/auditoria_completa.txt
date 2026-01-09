@@ -3477,3 +3477,250 @@ EMAILS WEB:   ---
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2790 - CNEX CONSTRUCOES E PRESTACOES DE SERVICOS TECNICOS LTI
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 40698924000128  |  WEB RAZÃO: Cnex Construcoes e Prestacoes de Servicos Tecnicos LTDA
+WEB FANTASIA: Cnex Incorporacao e Construcao
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BEZERRA DE MENEZES, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Bezerra de Menezes, 1250, - Sao Gerardo, - Fortaleza/Ceará, CEP: 60325-001
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (85) 3017-8710
+EMAILS WEB:   financeiro@cnexgroup.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2809 - CNN- CIA NORTE DE NAVEGAÇÃO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14160269000140  |  WEB RAZÃO: Cnn - Cia. Norte de Navegacao
+WEB FANTASIA: Cnn - Cia. Norte de Navegacao
+CAPITAL SOCIAL (WEB): R$ 50.780.846,20
+INSC. EST.:   053317807  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R DES.CESAR DO REGO, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Des. Cesar do Rego, 850, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-445
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (90) 99253-8450 / (92) 3303-8901
+EMAILS WEB:   cnn@cnnnavegacao.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1828 - COMPA INDUSTRIA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04222428000130  |  WEB RAZÃO: Coimpa Industrial LTDA
+WEB FANTASIA: Coimpa
+CAPITAL SOCIAL (WEB): R$ 583.803.467,20
+INSC. EST.:   063000490  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. RODRIGO OTAVIO, [Vazio] - CRESPO - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 3047, - Crespo, - Manaus/Amazonas, CEP: 69073-177
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2121-7522 / (92) 2129-7389 / (92) 99855-8184
+EMAILS WEB:   moises.silva@am.umicore.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1274 - COLMEIA PONTA NEGRA EMPREENDIMENTOS IMOBLLIARIOS LTDA -.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12463909000165  |  WEB RAZÃO: Colmeia Ponta Negra Empreendimentos Imobiliarios Ltda-Spe
+WEB FANTASIA: Colmeia Ponta Negra
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ANDRE ARAUJO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1719, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3642-3520
+TELEFONE WEB: (85) 3248-2124 / (92) 3642-9330
+EMAILS WEB:   contabilidade@colmeia.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1566 - COLMEIA PRIME MANAUS EMPREENDIMENTOS IMOB. SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20105400000179  |  WEB RAZÃO: Colmeia Prime Manaus Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 6.010.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. ANDRE ARAUJO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1719, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (85) 3248-2124 / (92) 3642-9330
+EMAILS WEB:   contabilidade@colmeia.com.br
+
+LIMITE:       7.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1419 - COLMEIA RESID. DO BOSQUE EMP. MOB. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11958250000155  |  WEB RAZÃO: Colmeia Residencial do Bosque Empreendimentos Imobiliarios Ltda-Spe
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. ANDRE ARAUJO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1719, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  MANOEL
+TELEFONE SYS: 85-3288-6621
+TELEFONE WEB: (85) 3248-2124 / (92) 3642-9330
+EMAILS WEB:   contabilidade@colmeia.com.br
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 245 - COLUMI ESTALEIRO E NAVEGAÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01242607000140  |  WEB RAZÃO: Columi Estaleiro e Navegacao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.108.285-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. 25, 549, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua Francisco Guedes, 50, - Japiim, - Manaus/Amazonas, CEP: 69068-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 32374618
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2305 - COMERCIAL PRA CAFE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06230380000480  |  WEB RAZÃO: Comercial Pra Cafe LTDA
+WEB FANTASIA: Pra Cafe
+CAPITAL SOCIAL (WEB): R$ 5.000.000,00
+INSC. EST.:   063009781  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV TORQUATO TAPAJOS, [Vazio] - COLÔNIA SANTO ANTÔNIO - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 3182, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (33) 3339-1000
+EMAILS WEB:   fiscal@pracafe.ind.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1787 - COMERCIO DE MUDEZAS BANDEIRA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84450212000756  |  WEB RAZÃO: Comercio de Miudezas Bandeira LTDA
+WEB FANTASIA: Tropical Multiloja
+CAPITAL SOCIAL (WEB): R$ 8.000.000,00
+INSC. EST.:   053968581  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1375, - Sao Geraldo, - Manaus/Amazonas, CEP: 69053-355
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 92 3248-3621
+TELEFONE WEB: (92) 3248-3621
+EMAILS WEB:   rh@tropicalmultiloja.com.br
+
+LIMITE:       23.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2535 - COMERCIO E INDUSTRIA DE PNEUS AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 40833100000113  |  WEB RAZÃO: Etor Pneus LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 12.100.000,00
+INSC. EST.:   062014579  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ROD. AM 010, [Vazio] - ESTRADA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 19.037, - Area de Transicao Urbana, - Manaus/Amazonas, CEP: 69039-125
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (69) 3451-0500
+EMAILS WEB:   contabil3@ciclocairu.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 551 - COMÉRCIO E NAVEGAÇÃO PRATES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04443961000121  |  WEB RAZÃO: Comercio e Navegacao Prates LTDA
+WEB FANTASIA: Navegacao Prates
+CAPITAL SOCIAL (WEB): R$ 9.781.250,00
+INSC. EST.:   04.147.518-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. JOAQUIM NABUCO, 1666, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Margem Direita do Rio Negro, 06, - Cacau Pirera, - Iranduba/Amazonas, CEP: 69421-000
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3321-4056
+TELEFONE WEB: (92) 3131-5556 / (92) 99208-0491 / (92) 99307-2023
+EMAILS WEB:   adm@2mconsult.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1769 - COMETAIS NDUSTRIA E COMERCIO DE METAIS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02896727000124  |  WEB RAZÃO: Cometais Industria e Comercio de Metais LTDA
+WEB FANTASIA: Cometais
+CAPITAL SOCIAL (WEB): R$ 6.500.000,00
+INSC. EST.:   063006340  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RABELARDO BARBOSA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Abelardo Barbosa, 486, - Aleixo, - Manaus/Amazonas, CEP: 69060-100
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2121-4600 / (92) 2121-4612 / (92) 2121-4616
+EMAILS WEB:   contabilidade@cometais.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2270 - COMETAIS NDUSTRIA E COMERCIO DE METAIS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02896727000396  |  WEB RAZÃO: Cometais Industria e Comercio de Metais LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 6.500.000,00
+INSC. EST.:   063008815  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BAMBUZINHO, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Bambuzinho, 831, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69075-846
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3225-2400 / (11) 3313-2302
+EMAILS WEB:   expediente@contfisco.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

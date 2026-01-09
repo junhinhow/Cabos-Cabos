@@ -772,8 +772,8 @@ ENDEREÇO SYS: AV.CONSTANTINO NERY, [Vazio] - FLORES - MANAUS
 ENDEREÇO WEB: Avenida Constantino Nery, 4536, - Flores, - Manaus/Amazonas, CEP: 69058-795
 
 CONTATO SYS:  [Vazio]
-TELEFONE SYS: 3642-1313
-TELEFONE WEB: (92) 3642-1313
+TELEFONE SYS: 3642-1313 - 98234-0005 - Matehus/Beatriz
+TELEFONE WEB: (92) 3642-1313 - 
 EMAILS WEB:   podiumpneus@uol.com.br
 
 LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
@@ -792,7 +792,7 @@ ENDEREÇO WEB: Avenida Torquato Tapajos, 8656, - Colonia Terra Nova, - Manaus/Am
 
 CONTATO SYS:  THAISLEN
 TELEFONE SYS: 4009-7404
-TELEFONE WEB: (92) 3631-8801 / (92) 98404-4274
+TELEFONE WEB: (92) 3631-8801 xxxxxxxx / (92) 98404-4274
 EMAILS WEB:   manoel.tavares@armor-iimak.com
 
 LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
@@ -848,8 +848,8 @@ ENDEREÇO SYS: RUAANHANDUI, [Vazio] - FLORES - MANAUS
 ENDEREÇO WEB: Avenida Max Teixeira, 2319, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-770
 
 CONTATO SYS:  [Vazio]
-TELEFONE SYS: 3305-1100/ 3305-1101
-TELEFONE WEB: (11) 5505-3990 / (92) 3622-8889
+TELEFONE SYS: 3305-1100/ 3305-1101 - 
+TELEFONE WEB: (11) 5505-3990 / (92) 3622-8889 xxxxxxxxxx
 EMAILS WEB:   joao.parente@vantiva.com
 
 LIMITE:       17.000,00  |  SALDO DEVEDOR: 0,00

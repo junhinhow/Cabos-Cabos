@@ -1746,3 +1746,327 @@ EMAILS WEB:   thirle@tpv-tech.com
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 604 - BRW EMPREENDIMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01780060000137  |  WEB RAZÃO: Construlagos Construtora e Empreendimentos LTDA
+CAPITAL SOCIAL (WEB): R$ 11.750.000,00
+INSC. EST.:   04296501-2  |  INSC. MUN.: 105076-01/ —
+
+ENDEREÇO SYS: RUA ERNESTO PINTO FILHO,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Rua Jeronimo Coelho, 280, - Centro, - Florianópolis/Santa Catarina, CEP: 88010-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3213-3530 Vilce
+TELEFONE WEB: (92) 2101-1632
+EMAILS WEB:   contabilidade@construlagos.com.br
+
+LIMITE:       55.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1939 - BRX COMERCIO ATACADISTA DE MAT. ELET. LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 35516299000116  |  WEB RAZÃO: Brx Comercio Atacadista de Material Eletrico LTDA
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   054160715  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TEFE, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Paraiba, 548, - Sao Francisco, - Manaus/Amazonas, CEP: 69079-265
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3343-8588
+EMAILS WEB:   admbrximportadora@gmail.com
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 547 - BUJAR! EMPREENDIMENTOS MOBLIÁRIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10384879000338  |  WEB RAZÃO: Bujari Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   04.228.869-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)3133-1872
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 521 - BUREAL COMERCIAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03942303000111  |  WEB RAZÃO: Bureau Comercial Limitada
+CAPITAL SOCIAL (WEB): R$ 6.463.000,00
+INSC. EST.:   06.300.492-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SETE DE SETEMBRO, 1820, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 3707, - Armando Mendes, - Manaus/Amazonas, CEP: 69089-035
+
+CONTATO SYS:  CLENTE ELVIS
+TELEFONE SYS: (92)3631-0732
+TELEFONE WEB: (92) 3131-7700 / (92) 99962-9125 / (92) 99981-2774
+EMAILS WEB:   ampla@amplaembalagens.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2330 - C C G DISTRIBUDORA DE MAT DE CONST LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03051269000195  |  WEB RAZÃO: C C G Distribuidora de Materiais de Construcao LTDA
+CAPITAL SOCIAL (WEB): R$ 800.000,00
+INSC. EST.:   042240891  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DESEMBARGADOR PAULO JACOB, [Vazio] - BAIRRO DA PAZ - MANAUS
+ENDEREÇO WEB: Avenida Desembargador Paulo Jacob, 2, - Da Paz, - Manaus/Amazonas, CEP: 69049-107
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3642-1515
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3113 - C DE QUEIROZ PEDROSA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18442885000144  |  WEB RAZÃO: C de Queiroz Pedrosa LTDA
+CAPITAL SOCIAL (WEB): R$ 990.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA MITIKO, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Mitiko, 397, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-674
+
+CONTATO SYS:  CELIO
+TELEFONE SYS: 92- 99411-0656 / 99177-0795
+TELEFONE WEB: (92) 99411-0656
+EMAILS WEB:   administrativo@liveacademia.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1294 - C.B BARROS E CIA LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05511993000180  |  WEB RAZÃO: C B Barros & Cia LTDA
+CAPITAL SOCIAL (WEB): R$ 2.840.000,00
+INSC. EST.:   041757459  |  INSC. MUN.: 03787101 —
+
+ENDEREÇO SYS: AV BOLEVARD ALVARO MAIA, [Vazio] - PÇ 14 DE JANERO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3532 - CAA COMERCIO E NDUSTRIA AMAZONESE DE ALUMINIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09675751000182  |  WEB RAZÃO: Caa Comercio e Industria Amazonense de Aluminio LTDA
+CAPITAL SOCIAL (WEB): R$ 900.000,00
+INSC. EST.:   042898340  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ALVARO MAIA, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Alvaro Maia, 526, - Sao Geraldo, - Manaus/Amazonas, CEP: 69053-350
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 2123-0106
+TELEFONE WEB: (92) 2123-0106
+EMAILS WEB:   auxiliar.financeiro@caaaluminio.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1592 - CABERNET EMPREENDIMENTOS IMOBLLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 25215196000162  |  WEB RAZÃO: Cabernet Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AVENIDA CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Cel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-5800
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   tributario@construtoracapital.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 236 - CADASTRO CANCELADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08779685000128  |  WEB RAZÃO: L Henrique Maciel Neves LTDA
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   04..220.510-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TEFE, 1645, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 23, - Raiz, - Manaus/Amazonas, CEP: 69068-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3664-2609/3237-1797/
+TELEFONE WEB: (92) 3636-3636 / (92) 3636-9363
+EMAILS WEB:   arconindustrial@uol.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 200 - CADASTRO CANCELADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05468898000140  |  WEB RAZÃO: Foco Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   04.208.122-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. VISCONDE DE PORTO SEGURO, 1012, [Vazio] - PQ DAS LARANJEIRAS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  VERIF. CNPJ E END. D
+TELEFONE SYS: 3642-8800/8500
+TELEFONE WEB: (92) 3642-8800
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 122 - CADASTRO CANCELADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05035216000106  |  WEB RAZÃO: Construtora Granadeiro LTDA
+CAPITAL SOCIAL (WEB): R$ 150.000,00
+INSC. EST.:   04.151.838-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: 19 Nº395-CONJUNTO 31 DE MARÇO, [Vazio] - JAPIM 1 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  ANNY
+TELEFONE SYS: 3613-5801/3653-4655
+TELEFONE WEB: (92) 6136-787
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 565 - CADASTRO CANCELADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09065563000132  |  WEB RAZÃO: Econs Empresa de Construcao e Manutencao Limitada
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 12043401 —
+
+ENDEREÇO SYS: DO CRUZEIRO,, [Vazio] - BETÂNIA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  9132-9884 (CLAUDIO)
+TELEFONE SYS: 3184-3619/8243-1100
+TELEFONE WEB: (92) 2338-815
+EMAILS WEB:   ---
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 40 - CADASTRO CANCELADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14173942000186  |  WEB RAZÃO: Soparafuso Comercial LTDA
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   04.178.086-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BORBA, 787, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Rua Borba, 787, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-030
+
+CONTATO SYS:  CLENTE ANTÔNIO
+TELEFONE SYS: (92)3233-0709/3233-6
+TELEFONE WEB: (92) 3233-0709 / (92) 3633-2747
+EMAILS WEB:   soparafuso@hotmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1296 - CAL COMP IND. E COM. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07200194000380  |  WEB RAZÃO: Cal-Comp Industria e Comercio de Eletronicos e Informatica Ltda.
+CAPITAL SOCIAL (WEB): R$ 247.820.420,00
+INSC. EST.:   063007606  |  INSC. MUN.: 11125702
+
+ENDEREÇO SYS: AV TORQUATO TAPAJOS, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7367, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2125-9942 / (92) 3633-1910
+EMAILS WEB:   fiscal@cal-comp.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1272 - CAL-COMP IND. E COM. DE ELET. E INF. LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07200194000118  |  WEB RAZÃO: Cal-Comp Industria e Comercio de Eletronicos e Informatica Ltda.
+CAPITAL SOCIAL (WEB): R$ 247.820.420,00
+INSC. EST.:   06.300.384-8  |  INSC. MUN.: 11125701
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7367, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2125-9942 / (92) 3633-1910
+EMAILS WEB:   fiscal@cal-comp.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1564 - CALIFORNIA INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10658486000103  |  WEB RAZÃO: California Industria e Comercio de Alimentos LTDA
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   06201328-9  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV DA FLORESTA, [Vazio] - TARUMA-ACU - MANAUS
+ENDEREÇO WEB: Avenida Da Floresta, 6177, - Taruma-Acu, - Manaus/Amazonas, CEP: 69022-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3651-8348
+EMAILS WEB:   ---
+
+LIMITE:       7.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2165 - CALLIDUS INDUSTRIA, COM. E SERV. DE PLACAS E COMP. DE INFO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08258870000177  |  WEB RAZÃO: Callidus Industria, Comercio e Servicos de Placas e Componentes de Informatica S.a
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   063009285  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. OMms, [Vazio] - ARMANDO MENDES - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 2449, - Armando Mendes, - Manaus/Amazonas, CEP: 69089-035
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 4148-5878 / (92) 3090-3742
+EMAILS WEB:   fiscaladm@callidus.ind.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

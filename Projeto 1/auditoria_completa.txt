@@ -6118,3 +6118,326 @@ EMAILS WEB:   gabinete@defensoria.am.gov.br
 
 LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 814 - DELTA CONSTRUÇÃO S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10788628002796  |  WEB RAZÃO: Salgueiro Construcoes S.a
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 677.563.209,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: CONSTELAÇÃO CRUZEIRO DO SUL,, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Arquiteto Jose Henriques Bento Rodrigues, 2335, - Colonia Terra Nova, - Manaus/Amazonas, CEP: 69015-615
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3324-2028
+TELEFONE WEB: (21) 3974-2671 / (21) 3974-2676
+EMAILS WEB:   faturamento@deltaconstrucao.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 243 - DENSO INDUSTRIAL DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84657907000118  |  WEB RAZÃO: Denso Industrial da Amazonia LTDA
+WEB FANTASIA: Denso Industrial da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 32.107.515,34
+INSC. EST.:   06.300.047-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BURITI,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 3600, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  HELEN
+TELEFONE SYS: 2121-4200/ 4223
+TELEFONE WEB: (92) 2121-4201 / (92) 2121-4218 / (92) 2121-4273
+EMAILS WEB:   us_dnaz_macf@denso.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1136 - DEPARTAMENTO ESTADUAL DE TRANSITO -DETRAN
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04224028000163  |  WEB RAZÃO: Departamento Estadual de Transito
+WEB FANTASIA: Detran
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RECIFE, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Mario Ypiranga, 2884, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69050-030
+
+CONTATO SYS:  SRº MARCIO ALBANO
+TELEFONE SYS: 3642 - 3367 Andreza
+TELEFONE WEB: (92) 3643-0000 / (92) 3643-0051
+EMAILS WEB:   contador@detran.am.gov.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3087 - DIAS COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 28786351000199  |  WEB RAZÃO: Dias Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: J Dias Madeireira e Materiais de Construcao
+CAPITAL SOCIAL (WEB): R$ 120.000,00
+INSC. EST.:   053972759  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA VOLUNTARIOS DA PATRIA, 53 - LETRAA, [Vazio] - VILA DA PRATA - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 2039, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3025-4236 / (92) 99490-0078
+EMAILS WEB:   jdias.avturismo@gmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 123 - DIFAL DISTRIBUIDORA DE FERRAMENTAA. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04270492000196  |  WEB RAZÃO: Difal Distribuidora de Ferramentas Argenta LTDA
+WEB FANTASIA: Difal
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   04.169.991-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Comendador Clementino, 665, - Centro, - Manaus/Amazonas, CEP: 69025-000
+
+CONTATO SYS:  NEILA/IVAN
+TELEFONE SYS: (92)4009-3000/400930
+TELEFONE WEB: (92) 98151-8285
+EMAILS WEB:   arno@difal.com.br
+
+LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 193 - DIGIBOARD ELÉTR. DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07448261000118  |  WEB RAZÃO: Digiboard Eletronica da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 109.545.884,00
+INSC. EST.:   06.300.521-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: MATRINXA,, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Matrinxa, 1111, - Distrit Industrial I, - Manaus/Amazonas, CEP: 69075-150
+
+CONTATO SYS:  CRISTINA
+TELEFONE SYS: (11)2112-1324/1122/ 3934-1100
+TELEFONE WEB: (92) 2123-2000 / (92) 2123-2022
+EMAILS WEB:   mribeiro@digiboard.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 188 - DIGIBRÁS IND. DO BRASL S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07130025000159  |  WEB RAZÃO: Digibras Industria do Brasil S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.661.912.874,36
+INSC. EST.:   06.200.433-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: TAMBAQUI,, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Matrinxa, 300, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-150
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3614-3315/33-14/3216
+TELEFONE WEB: (92) 2123-2093 / (92) 2123-2103 / (92) 2123-2128
+EMAILS WEB:   ana.maia@cce.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2136 - DIGITRON DA AMAZONIA IND E COM LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84489988000518  |  WEB RAZÃO: Digitron da Amazonia Industria e Comercio LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 26.198.871,00
+INSC. EST.:   062010999  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA DONA OTILIA, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Dona Otilia, 1490, - Taruma, - Manaus/Amazonas, CEP: 69021-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3303-0025
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1160 - DIGITRON DA AMAZONIA IND. E COM. S. A.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84489988000518  |  WEB RAZÃO: Digitron da Amazonia Industria e Comercio LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 26.198.871,00
+INSC. EST.:   063009129  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DONA OTILIA, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Dona Otilia, 1490, - Taruma, - Manaus/Amazonas, CEP: 69021-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 11 4501-5100 Claudia
+TELEFONE WEB: (92) 3303-0025
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 536 - DINÂMICA DISTRIBUIDORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84467307000197  |  WEB RAZÃO: Dinamica Distribuidora LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 750.000,00
+INSC. EST.:   04.123.378-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TEFE, 285, [Vazio] - CACHOEIRNHA - MANAUS
+ENDEREÇO WEB: Avenida Darcy Vargas, 95, - Chapada, - Manaus/Amazonas, CEP: 69050-020
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3663-5012
+TELEFONE WEB: (92) 3622-8968
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 838 - DIRECIONAL ABARE EMPREEND. MOBL. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10424256000341  |  WEB RAZÃO: Abare Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RIO MAR, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 916 - DIRECIONAL ABARE EMPREENDIMENTOS IMOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10424256000260  |  WEB RAZÃO: Abare Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   053206347  |  INSC. MUN.: 20132701
+
+ENDEREÇO SYS: AV RIO MAR, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  Helen
+TELEFONE SYS: 92 9165-7642
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1120 - DIRECIONAL CAJUEIRO EMPREENDIMENTOS IMOBILIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12594978000370  |  WEB RAZÃO: Cajueiro Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   053211693  |  INSC. MUN.: 20100502 —
+
+ENDEREÇO SYS: AV. RIO MAR,, [Vazio] - N. SRA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  RAIMUNDO NONATO
+TELEFONE SYS: (92) 3133-1850
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 583 - DIRECIONAL ENGENHARIA S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 16614075000607  |  WEB RAZÃO: Direcional Engenharia S/A
+WEB FANTASIA: Direcional Empreendimentos Imobiliarios LTDA Est Unif
+CAPITAL SOCIAL (WEB): R$ 1.181.857.399,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 115.708.01/
+
+ENDEREÇO SYS: AV RIO MAR, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3615-6510
+TELEFONE WEB: (31) 3235-4609 / (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       500.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 102 - DIRECIONAL ENGENHARIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 16614075003118  |  WEB RAZÃO: Direcional Engenharia S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.181.857.399,00
+INSC. EST.:   04..227.129-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RIO MAR, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  Marcos Silva
+TELEFONE SYS: 3133-1850/1872/(92) 9459-5947
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3120 - DIRECIONAL SANTO ANTONIO EMP. IMO. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12082405000367  |  WEB RAZÃO: Direcional Santo Antonio Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 17.964.028,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - VERALVES - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empersarial@direcional.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 892 - DIRECIONAL ZIRCONE EMPREENDIMENTOS IMOBLIÁRIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10352174000339  |  WEB RAZÃO: Direcional Zircone Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   04.228.260-8  |  INSC. MUN.: 13306902 —
+
+ENDEREÇO SYS: RUA RIO MAR, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  Conceição Souza
+TELEFONE SYS: (92) 3133-1876
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

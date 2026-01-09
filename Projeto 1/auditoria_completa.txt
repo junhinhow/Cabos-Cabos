@@ -2070,3 +2070,327 @@ EMAILS WEB:   fiscaladm@callidus.ind.br
 
 LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1776 - CANDIDO IGOR TAVARES FERNANDES -EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21921392000100  |  WEB RAZÃO: If Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   054196523  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SANTUARIO DE FATIMA, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Rua Conde de Itaguai, 374, - Flores, - Manaus/Amazonas, CEP: 69058-582
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3304-4286 / (92) 3348-5492
+EMAILS WEB:   pauloalmeida@construtalengenharia.com.br
+
+LIMITE:       11.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1457 - CANON INDUSTRIA DE MANAUS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15530875000172  |  WEB RAZÃO: Canon Industria de Manaus LTDA
+CAPITAL SOCIAL (WEB): R$ 86.700.000,00
+INSC. EST.:   062009370  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDAAÇAI| BLOCO D, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Acai, 875, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3622-8889
+TELEFONE WEB: (11) 3218-2622 / (92) 3633-1910
+EMAILS WEB:   ryabiku@cusa.canon.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2235 - CAP - 50 EMPREENDIMENTOS IMOBLLIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 38199700000120  |  WEB RAZÃO: Cap-50 Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2810 - CAP -70 EMPREENDIMENTOS IMOBLIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 41536609000167  |  WEB RAZÃO: Cap-70 Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2342 - CAP 30 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34681187000158  |  WEB RAZÃO: Cap-30 Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   tributario@construtoracapital.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2446 - CAP 60 EMPREEDIMENTOS IMOBILLIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 38198368000189  |  WEB RAZÃO: Cap-60 Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1809 - CAP-10 EMPREENDIMENTOS IMOBILLIARIOS SPE LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34239055000170  |  WEB RAZÃO: Cap-10 Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 2.160.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   tributario@construtoracapital.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 134 - CAPITANIA FLUVIAL DAAMAZONIA OCIDENTAL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00394502004301  |  WEB RAZÃO: Comando da Marinha
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MARQUES DE SANTA CRUZ 264, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Frei Jose dos Inocentes, 36, - Centro, - Manaus/Amazonas, CEP: 69005-330
+
+CONTATO SYS:  SILVIO JORGE
+TELEFONE SYS: (092)2123-4932
+TELEFONE WEB: (92) 2123-4900 / (92) 2123-4935 / (92) 2123-4950
+EMAILS WEB:   cfaoc.secom@marinha.mil.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 709 - CARBOQUÍMICA DA AMAZÔNIA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04952792000155  |  WEB RAZÃO: Carboquimica da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   06.200.065-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DOS OITIS,, [Vazio] - DISTRITO INDUSTRIAL l - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 8255, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-002
+
+CONTATO SYS:  Sherlanea
+TELEFONE SYS: 3301-4900/9983-0763
+TELEFONE WEB: (92) 3186-7006 / (92) 3301-4900 / (92) 3301-4912
+EMAILS WEB:   fiscal.contabil@carboquimica.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3006 - CARGO ENGENHARIA DE AR CONDICIONADO DA AMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84115484000104  |  WEB RAZÃO: Cargo Engenharia de Ar Condicionado da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUI GAMA E SLVA, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: Rua Rui Gama e Silva, 75, - Raiz, - Manaus/Amazonas, CEP: 69068-520
+
+CONTATO SYS:  (92) 3613-4213
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3613-4213
+EMAILS WEB:   rafael@cargoengenharia.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2245 - CARLOS SERGIO DOS SANTOS SILVA 38476274220
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 44676983000156  |  WEB RAZÃO: Carlos Sergio dos Santos Silva
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO BAUANA, [Vazio] - SÃO JOSÉ OPERÁRIO - MANAUS
+ENDEREÇO WEB: Rua Rio Bauana, 22, - Sao Jose Operario, - Manaus/Amazonas, CEP: 69086-210
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99190-7524
+EMAILS WEB:   sergio.eletrico@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2193 - CARMENERE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 25054234000142  |  WEB RAZÃO: Carmenere Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 8870, - Colonia Terra Nova, - Manaus/Amazonas, CEP: 69093-415
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   rosilene@construtoracapital.com.br
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 782 - CARREFUOR COMÉRCIO E IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 45543915009723  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
+INSC. EST.:   04.178.392-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 482, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69050-902
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3643-6427
+TELEFONE WEB: (11) 3779-4000
+EMAILS WEB:   atendimento_fiscalizacao_tributos@carrefour.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 783 - CARREFUOR COMÉRCIO E IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 45543915010063  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
+INSC. EST.:   04.141.611-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 276, - Flores, - Manaus/Amazonas, CEP: 69058-807
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3643-6000
+TELEFONE WEB: (11) 3779-4000
+EMAILS WEB:   carrefour@carrefour.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 784 - CARREFUOR COMÉRCIO E IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 45543915009804  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
+INSC. EST.:   04.173.398-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: SALDANHA MARINHO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Saldanha Marinho, 516, - Centro, - Manaus/Amazonas, CEP: 69010-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3621-3300
+TELEFONE WEB: (92) 6332-008
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 786 - CARREFUOR COMÉRCIO E IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 45543915033780  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
+INSC. EST.:   04.217.896-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: MAX TEIXEIRA,, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3649-2450
+TELEFONE WEB: (11) 3755-2298 / (11) 3755-2455
+EMAILS WEB:   leandro_alves_diassis@carrefour.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 787 - CARREFUOR COMÉRCIO E IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 45543915041619  |  WEB RAZÃO: Carrefour Comercio e Industria LTDA
+CAPITAL SOCIAL (WEB): R$ 10.604.963.520,87
+INSC. EST.:   04.225.203-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: JORNALISTA HUMBERTO CALDERARO FILHO,, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Jornalista Humberto Calderaro Filho, 203, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-015
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3133-6800
+TELEFONE WEB: (92) 3648-1428 / (92) 98178-8152
+EMAILS WEB:   robson@sedi.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 957 - CARTAXO EMPREENDIMENTOS IMOB LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13319930000154  |  WEB RAZÃO: Cartaxo Empreendimentos Imobiliarios Spe LTDA - em Recuperacao Judicial em Recuperacao Judicial
+CAPITAL SOCIAL (WEB): R$ 14.001.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: COMENDADOR CLEMENTINO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  VALCILENE 8408-2011
+TELEFONE SYS: 387 7-1995/ (92)2125-9223/ 9226
+TELEFONE WEB: (11) 4058-2000
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

@@ -1404,3 +1404,345 @@ EMAILS WEB:   contato@bigtrading.com.br
 
 LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1801 - BIKE NORTE FABRICAÇÃO DE BICICLETAS S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13072986000157  |  WEB RAZÃO: Bike Norte Fabricacao de Bicicletas S/A
+CAPITAL SOCIAL (WEB): R$ 63.555.580,80
+INSC. EST.:   062007823  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DO LUSO, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Rua Do Luso, 600, - Taruma-Acu, - Manaus/Amazonas, CEP: 69023-170
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (86) 3131-7600 / (86) 99998-8451 / (92) 3633-1910
+EMAILS WEB:   controladoria@houston.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2526 - BIODENTAL MEDICAL DISTRIBUIDORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04318290000177  |  WEB RAZÃO: Biodental Medical Distribuidora LTDA
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   041468180  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ALVARO BOTELHO MAIA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Alvaro Botelho Maia, 1348, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-210
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4020 / (92) 2126-4029 / (92) 2126-4032
+EMAILS WEB:   natasha@bioplusam.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 935 - BL WARISS-
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07614989000172  |  WEB RAZÃO: B L Wariss
+CAPITAL SOCIAL (WEB): R$ 120.000,00
+INSC. EST.:   04234310-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RU. 19,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Rua 19 Cj Castelo Branco I, 581, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-370
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 33210516/81429790
+TELEFONE WEB: (92) 98826-6666
+EMAILS WEB:   brenno.wariss@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2666 - BMW MANUFACTURING IND. DE MOTOS DAAMAZ. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23871782000130  |  WEB RAZÃO: Bmw Manufacturing Industria de Motos da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 77.529.000,00
+INSC. EST.:   062011189  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - COLONIA SANTO ANTONI - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 4010, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 5186-0000
+EMAILS WEB:   setor.fiscal@bmw.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2021 - BOARDTEC DO BRASIL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21375023000231  |  WEB RAZÃO: Boardtec do Brasil LTDA
+CAPITAL SOCIAL (WEB): R$ 3.500.000,00
+INSC. EST.:   063010402  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R PARIS, [Vazio] - CAMPOS ELISEOS - MANAUS
+ENDEREÇO WEB: Rua Rio Quixito, 1435, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-831
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (81) 2137-5959
+EMAILS WEB:   delamare@lhinvest.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2794 - BONARDA EMPREENDIMENTOS IMOBLIARIOS SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 39152758000180  |  WEB RAZÃO: Bonarda Empreendimentos Imobiliarios Spe LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   ---
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1651 - BP SERVIÇOS DE ESTERLIZAÇÃO SPE S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21821773000109  |  WEB RAZÃO: Bp Servicos de Esterilizacao Spe S.a.
+CAPITAL SOCIAL (WEB): R$ 23.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Travessa Castro Leite, 0, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-744
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4000 / (92) 2126-4032
+EMAILS WEB:   cont01@gbringel.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 97 - BPA CONSTRUÇOÕES E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01447962000156  |  WEB RAZÃO: Bpa Construcoes e Comercio LTDA
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   99.190.614.4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DR GEBES MEDEIROS FILHO, 12 CONDOMINIO PARQUE DO LAGO, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (092)3239-0815/0814
+TELEFONE WEB: (92) 6312-513
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1548 - BRASIL COLETA INDUSTRIA E TRATAMENTO DE RE. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12163869000136  |  WEB RAZÃO: Ambipar Environment Manaus LTDA
+CAPITAL SOCIAL (WEB): R$ 1.295.122,00
+INSC. EST.:   063009331  |  INSC. MUN.: 13626201 —
+
+ENDEREÇO SYS: AV. ABURANA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Abiurana, 666, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3615-1800/3025-8606
+TELEFONE WEB: (92) 3231-1613
+EMAILS WEB:   fiscal@brasilcoleta.com.br
+
+LIMITE:       80.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 509 - BRASIL NORTE BEBIDAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34590315000158  |  WEB RAZÃO: Brasil Norte Bebidas S/A
+CAPITAL SOCIAL (WEB): R$ 355.006.357,24
+INSC. EST.:   06.200.223-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, 5800, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 5800, - Colonia Terra Nova, - Manaus/Amazonas, CEP: 69093-415
+
+CONTATO SYS:  CRISTIANA COSTA
+TELEFONE SYS: (92)2121-2600 COMPRA
+TELEFONE WEB: (85) 3266-6300 / (92) 2121-2728
+EMAILS WEB:   gr_fiscal@solarbr.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 691 - BRASITEC IND. E COM. DE APAR. PARA BELEZA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07293118000102  |  WEB RAZÃO: Brasitech Industria e Comercio de Aparelhos Para Beleza LTDA
+CAPITAL SOCIAL (WEB): R$ 74.367.482,00
+INSC. EST.:   06.200.443-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: PALMEIRA DO MIRIT),, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Palmeira do Miriti, 1591, - Gilberto Mestrinho, - Manaus/Amazonas, CEP: 69006-373
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-6500
+TELEFONE WEB: (92) 2101-6502 / (92) 2101-6510 / (92) 3233-1139
+EMAILS WEB:   fiscal.nfs@gamaitaly.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1957 - BREITENER JARAQUI S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07387573000169  |  WEB RAZÃO: Breitener Jaraqui S.a.
+CAPITAL SOCIAL (WEB): R$ 146.671.241,76
+INSC. EST.:   041557735  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA TORQUATO TAPAJOS, [Vazio] - TORQUATO TAPAJÓS - MANAUS
+ENDEREÇO WEB: Rua Salvador, 440, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2123-8476 / (92) 3090-2300
+EMAILS WEB:   corporativo@breitener.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1759 - BREITENER TAMBAQUI S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07390807000127  |  WEB RAZÃO: Breitener Tambaqui S.a.
+CAPITAL SOCIAL (WEB): R$ 159.445.068,37
+INSC. EST.:   042156742  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SOLMOES, [Vazio] - MAUAZINHO - MANAUS
+ENDEREÇO WEB: Avenida Solimoes, 2.453, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-004
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3090-2300
+EMAILS WEB:   corporativo@breitener.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2717 - BRIDGE INDUSTRIA DE PRODUTOS PLASTICOS DAAMAZONIA LTD,
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 24352003000152  |  WEB RAZÃO: Bridge Industria de Produtos Plasticos da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 45.362.996,00
+INSC. EST.:   063009242  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DOIS OMS, [Vazio] - GILBERTO MESTRINHO - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 4467, - Gilberto Mestrinho, - Manaus/Amazonas, CEP: 69006-240
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3303-8636
+EMAILS WEB:   recebimento@bridgeplasticos.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2240 - BRINGEL MEDICAL DISTRIBUDORA DE MEDICAMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12417472000123  |  WEB RAZÃO: Bringel Medical Distribuidora de Medicamentos LTDA
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
+INSC. EST.:   042305381  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV COSME FERREIRA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 1877, - Aleixo, - Manaus/Amazonas, CEP: 69083-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98583-7498
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2195 - BRITANIA COMPONENTES ELETRONICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13699433000390  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+CAPITAL SOCIAL (WEB): R$ 18.644.823,00
+INSC. EST.:   063009595  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R PALMEIRA DO MIRITI, [Vazio] - GILBERTO MESTRINHO - MANAUS
+ENDEREÇO WEB: Rua Palmeira do Miriti, 895, - Gilberto Mestrinho, - Manaus/Amazonas, CEP: 69006-373
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (41) 3218-7700 / (92) 3301-5400
+EMAILS WEB:   corporativo@britania.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1961 - BRITANIA COMPONENTES ELETRONICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13699433000129  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+CAPITAL SOCIAL (WEB): R$ 18.644.823,00
+INSC. EST.:   063007339  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PALMEIRA DO MIRITI, [Vazio] - GILBERTO MESTRINHO - MANAUS
+ENDEREÇO WEB: Rua Palmeira do Miriti, 287, - Gilberto Mestrinho, - Manaus/Amazonas, CEP: 69006-373
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (41) 3218-7700 / (92) 3233-5588 / (92) 3301-5400
+EMAILS WEB:   corporativo@britania.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2722 - BRITANIA COMPONENTES ELETRONICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13699433000200  |  WEB RAZÃO: Britania Componentes Eletronicos LTDA
+CAPITAL SOCIAL (WEB): R$ 18.644.823,00
+INSC. EST.:   063009358  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PALMEIRA DO MIRITI, [Vazio] - GILBERTO MESTRINHO - MANAUS
+ENDEREÇO WEB: Rua Palmeira do Miriti, 287, - Gilberto Mestrinho, - Manaus/Amazonas, CEP: 69006-373
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (41) 3218-7700 / (92) 3301-5400
+EMAILS WEB:   corporativo@britania.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 615 - BRIVICTORY BRASIL IND. DE ELETRÔNICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11758381000199  |  WEB RAZÃO: Brivictory Brasil Industria de Eletronicos LTDA
+CAPITAL SOCIAL (WEB): R$ 19.420.983,00
+INSC. EST.:   06.300.667-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TORQUATO TAPAJOS,, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLAUDIA SOUZA
+TELEFONE SYS: 2126-2292/8670
+TELEFONE WEB: (92) 2126-2726 / (92) 2126-8833 / (92) 2126-8841
+EMAILS WEB:   thirle@tpv-tech.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

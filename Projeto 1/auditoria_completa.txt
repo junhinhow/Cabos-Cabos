@@ -713,3 +713,139 @@ EMAILS WEB:   podiumpneus@uol.com.br
 
 LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 292 - ARMOR BRASIL IND. E COM. DE FITAS PARA MPRESSÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08979043000172  |  WEB RAZÃO: Armor Brasil Industria e Comercio de Fitas Para Impressao LTDA
+INSC. EST.:   06.300.507-7  |  INSC. MUN.: 119.834-01 —
+
+ENDEREÇO SYS: av torquato tapajos, [Vazio] - COLONIA TERRA NOVA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 8656, - Colonia Terra Nova, - Manaus/Amazonas, CEP: 69093-415
+
+CONTATO SYS:  THAISLEN
+TELEFONE SYS: 4009-7404
+TELEFONE WEB: (92) 3631-8801 / (92) 98404-4274
+EMAILS WEB:   manoel.tavares@armor-iimak.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 678 - AROCO E PEREIRA CONSTRUÇÕES LTDA - ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12320624000175  |  WEB RAZÃO: Ermha Construcao LTDA
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: COSTAAZEVEDO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3582-8306/ 9128-9896/8110-6181
+TELEFONE WEB: (92) 99376-0223 / (92) 99950-3361
+EMAILS WEB:   diretoria@fullrh.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1594 - ARQSET SERVICOS DE ARQUITETURA E ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18966125000136  |  WEB RAZÃO: Arqset Servicos de Arquitetura e Engenharia LTDA
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: R DUARTE DA COSTA, [Vazio] - DOM PEDRO | - MANAUS
+ENDEREÇO WEB: Rua Utinga, 81, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-286
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 99134-6898
+TELEFONE WEB: (92) 98415-5642 / (92) 99134-6898
+EMAILS WEB:   arqset.servicos@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1470 - ARRIS NDUSTRIA ELETRONICA DO BRASI LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09154836000115  |  WEB RAZÃO: Arris Industria Eletronica do Brasil LTDA
+INSC. EST.:   062005952  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAANHANDUI, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 2319, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-770
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3305-1100/ 3305-1101
+TELEFONE WEB: (11) 5505-3990 / (92) 3622-8889
+EMAILS WEB:   joao.parente@vantiva.com
+
+LIMITE:       17.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 108 - ART LUX DAAMAZÔNIA CLICHERIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04672540000172  |  WEB RAZÃO: Locarte Locacao de Equipamentos Para Escritorio LTDA
+INSC. EST.:   04.148.743-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. PRESDENTE KENNEDY N 77, [Vazio] - SANTA LUZIA - MANAUS
+ENDEREÇO WEB: Rua Professor Joao Augusto de Toledo, 503, - Vila Proost de Souza, - Campinas/São Paulo, CEP: 13033-720
+
+CONTATO SYS:  RAFAELA
+TELEFONE SYS: 2129-5100
+TELEFONE WEB: (19) 99418-7742
+EMAILS WEB:   frbarbarini@gmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 348 - ARUANDA TEC. E COMÉRCIO DE EQUIP. IND. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00289279000175  |  WEB RAZÃO: Aruanda Tecnologia e Comercio de Equipamentos Industriais LTDA
+INSC. EST.:   04.108.577-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TEFE, 23, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 23, - Raiz, - Manaus/Amazonas, CEP: 69068-000
+
+CONTATO SYS:  CLENTE PEDRO
+TELEFONE SYS: (92)3237-1797
+TELEFONE WEB: (92) 3234-1745
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: [Vazio] - ASLAN CURSOS DE DIOMAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12403015000180  |  WEB RAZÃO: Aslan Curso de Idiomas LTDA
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DA LUA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Da Lua, 02, - Aleixo, - Manaus/Amazonas, CEP: 69060-002
+
+CONTATO SYS:  Uzamir
+TELEFONE SYS: 3632-1904
+TELEFONE WEB: (92) 3234-6008
+EMAILS WEB:   ivojunior@aslanet.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 746 - ASSOC. ADVENTISTA NORTE BRAS. DE PREV. ASSIST. À SAÚDE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 83367342000767  |  WEB RAZÃO: Associacao Adventista Norte Brasileira de Prevencao e Assistencia A Saude
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: GOVERNADOR DANILO AREOSA,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Governador Danilo Matos Areosa, 399, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-351
+
+CONTATO SYS:  Jairo
+TELEFONE SYS: 2123-1452/1453
+TELEFONE WEB: (91) 3214-4500 / (92) 2123-1313
+EMAILS WEB:   financeiro@ham.org.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

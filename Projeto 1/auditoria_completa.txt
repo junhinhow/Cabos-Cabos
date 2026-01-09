@@ -849,3 +849,54 @@ EMAILS WEB:   financeiro@ham.org.br
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1253 - ASSOCIAÇÃO DE EDUCAÇÃO LATO SENSU DO BRASIL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63693014000158  |  WEB RAZÃO: Associacao de Educacao Lato Sensu do Brasil
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COS, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Sao Luiz, 432, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-250
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99208-0756 / (92) 99920-8075
+EMAILS WEB:   jandermartins.contador@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1604 - ASSOCIACAO DO STUDIO 5 SHOPPING
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 33386796000111  |  WEB RAZÃO: Associacao do Studio 5 Shopping
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RODRIGO OTAVIO, [Vazio] - CRESPO - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 3373, - Crespo, - Manaus/Amazonas, CEP: 69073-177
+
+CONTATO SYS:  renata
+TELEFONE SYS: 993429350
+TELEFONE WEB: (92) 3643-8629
+EMAILS WEB:   juridico@redeamazonica.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3283 - ASSOCIACAO DOS EMPREENDEDORES DO SMVN
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 30545997000126  |  WEB RAZÃO: Associacao dos Empreendedores do Smvn
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ARQUITETO JOSE HENRIQUES BENTO RODRIGUES, [Vazio] - SANTA ETELVINA - MANAUS
+ENDEREÇO WEB: Avenida Arquiteto Jose Henriques Bento Rodrigues, 3541, - Santa Etelvina, - Manaus/Amazonas, CEP: 69059-800
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99139-1749
+EMAILS WEB:   financeiro.comercial@shoppingmanausvianorte.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

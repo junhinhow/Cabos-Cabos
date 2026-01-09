@@ -4,120 +4,107 @@ import keyboard
 import sys
 import os
 import ctypes
-import robo_extrator as operario
+import robo_extrator as operario # Importa as ferramentas do operário
 
-# --- CORREÇÃO DO ERRO DE CRASH ---
-# Desabilita o erro quando o mouse encosta no canto da tela
-pyautogui.FAILSAFE = False 
-# ---------------------------------
-
-# --- CONFIGURAÇÕES ---
+# --- CONFIGURAÇÕES DO ROBÔ ---
 LIMITE_MINIMO = 1000.00      
 SALDO_MAXIMO_ACEITAVEL = 1000.00 
 CIDADE_ALVO = "MANAUS"
-TEMPO_TRANSICAO = 1.5 
+TEMPO_ENTRE_CLIENTES = 1.5 # Tempo para o sistema carregar ao descer a seta
 
-def forcar_janela_topo():
-    """Força bruta para manter a janela visível"""
+# --- ANTI-CRASH ---
+pyautogui.FAILSAFE = False
+
+def configurar_janela():
+    """Joga o terminal para o canto direito e deixa sempre visível"""
     try:
-        # Pega o ID da janela do console atual
+        os.system('mode con: cols=60 lines=30') # Redimensiona
         hwnd = ctypes.windll.kernel32.GetConsoleWindow()
-        
-        if hwnd:
-            # Configura como TOPMOST (Sempre visível acima das outras)
-            # Rect: (0,0) até (600, 800) no canto superior esquerdo
-            # SWP_SHOWWINDOW = 0x0040
-            ctypes.windll.user32.SetWindowPos(hwnd, -1, 0, 0, 600, 800, 0x0040)
-            print("📌 Janela fixada no topo!")
-        else:
-            print("⚠️ Aviso: Rodando dentro de IDE? Janela flutuante só funciona no CMD nativo.")
+        # Move para x=1200, y=0 (Canto direito superior) e Fixa no Topo (-1)
+        ctypes.windll.user32.SetWindowPos(hwnd, -1, 1100, 0, 0, 0, 0x0001)
     except:
         pass
 
 def converter_dinheiro(texto):
     if not texto or texto == "[Vazio]": return 0.0
     try:
-        limpo = texto.replace('.', '').replace(',', '.')
-        return float(limpo)
+        return float(texto.replace('.', '').replace(',', '.'))
     except:
         return 0.0
 
 def validar_cliente(dados):
     cidade = dados.get('CIDADE', '').upper()
-    
-    # Validação de Cidade (Aceita MANAUS, MANAOS, MªNªUS)
-    eh_manaus = False
-    if CIDADE_ALVO in cidade or "MAN" in cidade:
-        eh_manaus = True
+    # Aceita variações de OCR para Manaus
+    eh_manaus = (CIDADE_ALVO in cidade) or ("MAN" in cidade and "US" in cidade)
     
     valor_limite = converter_dinheiro(dados.get('LIMITE', '0,00'))
     valor_saldo = converter_dinheiro(dados.get('SALDO_DEVEDOR', '0,00'))
     
-    passou_cidade = eh_manaus
-    passou_limite = valor_limite > LIMITE_MINIMO
-    passou_saldo = valor_saldo < SALDO_MAXIMO_ACEITAVEL
+    aprovado = eh_manaus and (valor_limite > LIMITE_MINIMO) and (valor_saldo < SALDO_MAXIMO_ACEITAVEL)
     
-    # Log colorido (simulado) para fácil leitura
-    status = "✅ APROVADO" if (passou_cidade and passou_limite and passou_saldo) else "❌ REJEITADO"
-    print(f"   📊 {status} | Cid: {eh_manaus} | Lim: {passou_limite} | Sal: {passou_saldo}")
-    
-    return (passou_cidade and passou_limite and passou_saldo)
+    status_icon = "✅" if aprovado else "❌"
+    print(f"   {status_icon} Análise: Cid={eh_manaus} | Lim={valor_limite} | Sal={valor_saldo}")
+    return aprovado
 
-def ciclo_automatico():
-    print("\n🚀 ESTEIRA AUTOMÁTICA INICIADA!")
-    print("   [ESC] = PARAR A QUALQUER MOMENTO")
-    
+def iniciar_esteira():
+    print("\n" + "="*50)
+    print("🚀 ESTEIRA AUTOMÁTICA LIGADA!")
+    print("   Pressione [ESC] (segure) para PARAR.")
+    print("="*50)
+
+    # Carrega coordenadas do operário
     mapa = operario.carregar_coordenadas()
     if not mapa: return
 
     contador = 0
     
     while True:
-        # Verifica parada de emergência
+        # Se apertar ESC, para tudo
         if keyboard.is_pressed('esc'):
-            print("\n🛑 PARADA SOLICITADA PELO USUÁRIO.")
+            print("\n🛑 PARADA DE EMERGÊNCIA ACIONADA.")
             break
-
-        print(f"\nScanning Cliente #{contador+1}...")
+            
+        print(f"\n--- CLIENTE #{contador + 1} ---")
         
-        # 1. Lê Sistema
+        # 1. O Operário lê a tela
         dados_sys = operario.extrair_sistema(mapa)
         
-        # 2. Valida
+        # 2. O Chefe valida
         if validar_cliente(dados_sys):
-            print("   ✅ ELEGÍVEL! Buscando Web...")
+            print("   🌟 CLIENTE PROMISSOR! Buscando dados...")
             
-            cnpj_limpo = operario.limpar_digitos(dados_sys.get('CNPJ', ''))
-            
-            if len(cnpj_limpo) == 14:
-                dados_web = operario.buscar_web(cnpj_limpo)
+            cnpj = operario.limpar_digitos(dados_sys.get('CNPJ', ''))
+            if len(cnpj) == 14:
+                # O Operário vai na Web
+                dados_web = operario.buscar_web(cnpj)
                 operario.salvar_relatorio(dados_sys, dados_web)
             else:
-                print("   ❌ CNPJ Inválido.")
+                print("   ⚠️ CNPJ Inválido ou Leitura Ruim.")
         else:
-            print("   ⏭️ Ignorado.")
+            print("   ⏭️ Ignorando cliente...")
 
-        # 3. Próximo
+        # 3. Vai para o próximo (Seta para Baixo)
         print("   ⬇️ Próximo...")
         pyautogui.press('down')
         contador += 1
         
-        # Pausa para o sistema carregar o próximo cliente
-        time.sleep(TEMPO_TRANSICAO)
+        # Espera o sistema carregar
+        time.sleep(TEMPO_ENTRE_CLIENTES)
 
 def main():
     os.system('cls')
-    forcar_janela_topo()
+    configurar_janela()
     
-    print("="*60)
-    print("🤖 ROBÔ NAVEGADOR V3 - ANTI-CRASH")
-    print(f"🎯 Regras: {CIDADE_ALVO} | Limite > {LIMITE_MINIMO} | Saldo < {SALDO_MAXIMO_ACEITAVEL}")
-    print("👉 Posicione no primeiro cliente.")
-    print("👉 Pressione [Num 0] para iniciar.")
-    print("="*60)
+    print("="*50)
+    print("🤖 ROBÔ NAVEGADOR - MODO ESTEIRA")
+    print(f"🎯 Filtros: {CIDADE_ALVO} | Limite > {LIMITE_MINIMO}")
+    print("="*50)
+    print("\n👉 1. Clique na janela do seu SISTEMA.")
+    print("👉 2. Selecione o PRIMEIRO cliente.")
+    print("👉 3. Pressione [Num 0] para DAR A PARTIDA.")
     
-    keyboard.wait('0')
-    ciclo_automatico()
+    keyboard.wait('0') # Espera o gatilho inicial
+    iniciar_esteira()  # Entra no loop infinito
 
 if __name__ == "__main__":
     main()

@@ -4674,3 +4674,326 @@ EMAILS WEB:   ---
 
 LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1975 - CONDOMINIO RESIDENCIAL RESERVA DAS FLORES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17254952000134  |  WEB RAZÃO: Condominio Residencial Reserva das Flores
+WEB FANTASIA: Condominio Residencial Reserva das Flores
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. FREDERICO BAIRD, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Frederico Baird, 2881, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-144
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-4200
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 427 - CONDOMÍNIO RESIDENCIAL RIO AMAZONAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03208558000155  |  WEB RAZÃO: Condominio Residencial Rio Amazonas
+WEB FANTASIA: Residencial Rio Amazonas
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DAS ROSAS, 82, CONJ. TRADENTES, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Rua Das Rosas, 20, - Aleixo, - Manaus/Amazonas, CEP: 69083-310
+
+CONTATO SYS:  CLENTE ANTÔNIO/SRA.
+TELEFONE SYS: (92)3644-7080/9995-5
+TELEFONE WEB: (92) 98451-5433
+EMAILS WEB:   rh@solucoescondominiais.adm.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 848 - CONDOMINIO SHOPPING POPULAR RODWAY
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13621798000130  |  WEB RAZÃO: Condominio Shopping Comercial Roadway
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MARQUES DE SANTA CRUZ, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Marques de Santa Cruz, 25, - Centro, - Manaus/Amazonas, CEP: 69005-050
+
+CONTATO SYS:  RUBENS
+TELEFONE SYS: 3644-5229
+TELEFONE WEB: (92) 3644-3241
+EMAILS WEB:   esdrasgoncalves@uol.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1808 - CONDOMINIO SOBERANE RESIDENCE, CORPORATE E MALL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 32581733000153  |  WEB RAZÃO: Condominio Soberane Residence, Corporate e Mall
+WEB FANTASIA: Condominio Soberane
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: 42548501
+
+ENDEREÇO SYS: RUA SALVADOR, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Salvador, 440, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3342-0924
+EMAILS WEB:   financeiro@condominiosoberane.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 927 - CONDOMINIO SPACE CENTER VEIRALVES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15279273000194  |  WEB RAZÃO: Condominio Space Center Vieiralves
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RIO BRANCO, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Rio Eiru, 95, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-520
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-9956
+TELEFONE WEB: (92) 2101-9928 / (92) 2101-9929
+EMAILS WEB:   controladiria01@manaushoteis.tur.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2400 - CONDOMINIO VITTA CLUB HOUSE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23114055000128  |  WEB RAZÃO: Condominio Vitta Club House
+WEB FANTASIA: Condominio Vitta Club House
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 01 RESD VITTA CLUB HOUSE, [Vazio] - TARUMA-ACU - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, S/N, - Novo Israel, - Manaus/Amazonas, CEP: 69039-125
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3584-4179
+EMAILS WEB:   contato@vittaclubhouse.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 656 - CONIPA IND E COM DE PRESENTE, METAIS E ARTIGOS DE DECORAC
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26013023000124  |  WEB RAZÃO: Conipa Industria e Comercio de Presentes, Metais e Artigos de Decoracao LTDA
+WEB FANTASIA: Conipa
+CAPITAL SOCIAL (WEB): R$ 15.671.158,00
+INSC. EST.:   062011383  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CONSTELACAO DE TOURO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Cumucim, 122, - Aleixo, - Manaus/Amazonas, CEP: 69060-105
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3896-1853
+EMAILS WEB:   fiscal@vivara.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 631 - CONSÓRCIO CALHA DO JURUÁ
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11921088000109  |  WEB RAZÃO: Consorcio Calha do Jurua
+WEB FANTASIA: Consorcio Calha do Jurua
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARGARITA,, [Vazio] - NOVA CIDADE - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2127-9756/ 3654-6662
+TELEFONE WEB: (92) 2127-9764
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1145 - CONSORCIO CONDOMINIO SHOPPING PONTA NEGRA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18893082000106  |  WEB RAZÃO: Consorcio Condominio Shopping Ponta Negra
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 5705, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3667-7200
+TELEFONE WEB: (11) 3702-1900
+EMAILS WEB:   fiscal@jhsf.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2591 - CONSORCIO CONSTRUTOR LOGISTICO AMAZONAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 47881486000188  |  WEB RAZÃO: Consorcio Construtor Logistico Amazonas
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV TORQUATO TAPAJOS, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 8251, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3127-5500
+EMAILS WEB:   financeiro@hsinvest.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 837 - CONSORCIO ENCALSO ENGEVIX KALLAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14517651000168  |  WEB RAZÃO: Consorcio Encalso-Engevix-Kallas
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COMANDANTE CESAR AGUIAR, [Vazio] - DA - MANAUS
+ENDEREÇO WEB: Praca Dom Jose Gaspar, 134, - Republica, - São Paulo/São Paulo, CEP: 01047-010
+
+CONTATO SYS:  9454-5155 (PAULO) OU9454-5292
+TELEFONE SYS: 3212-7351
+TELEFONE WEB: (11) 2171-8900
+EMAILS WEB:   sergio.fernandes@encalso.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 982 - CONSÓRCIO ENGEFORM - F.M. RODRIGUES 1
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17323045000108  |  WEB RAZÃO: Consorcio Engeform - F.m. Rodrigues II
+WEB FANTASIA: Consorcio Engeform - Fm Rodrigues II
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BELO HORIZONTE,, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 953, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3030-7200 / (11) 3030-7240
+EMAILS WEB:   contabilidade@engeform.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3191 - CONSORCIO GAS MANAUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 55990275000101  |  WEB RAZÃO: Consorcio Gas Manaus
+WEB FANTASIA: Consorcio Gas Manaus
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARGARITA, [Vazio] - NOVA CIDADE - MANAUS
+ENDEREÇO WEB: Avenida Margarita, 420, - Nova Cidade, - Manaus/Amazonas, CEP: 69097-305
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2127-9764 / (92) 2127-9765
+EMAILS WEB:   fiscal@etamconstrutora.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 52 - CONSORCIO GASAM
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08060509000131  |  WEB RAZÃO: Consorcio Gasam
+WEB FANTASIA: Consorcio Gasam
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.272.974-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS - 2660 SALA H FLORES, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Joaquim Floriano, 466, - Itaim Bibi, - São Paulo/São Paulo, CEP: 04534-002
+
+CONTATO SYS:  8184-6362
+TELEFONE SYS: 3651-2606/(97)3303-2
+TELEFONE WEB: (71) 2106-2500 / (92) 3654-3092
+EMAILS WEB:   enf@oas.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2996 - CONSORCIO GASODUTO AZULAO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 53311435000113  |  WEB RAZÃO: Consorcio Gasoduto Azulao
+WEB FANTASIA: Consorcio Gasoduto Azulao
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARGARIDA, [Vazio] - NOVA CIDADE - MANAUS
+ENDEREÇO WEB: Avenida Margarita, 420, - Nova Cidade, - Manaus/Amazonas, CEP: 69097-305
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2127-9764 / (92) 2127-9765
+EMAILS WEB:   fiscal@etamconstrutora.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 881 - CONSORCIO MONO TRILHO MANAUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15117163000126  |  WEB RAZÃO: Consorcio Monotrilho Manaus
+WEB FANTASIA: Consorcio Monotrilho Manaus
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 24 DE MAIO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Do Sol, 01, - Aleixo, - Manaus/Amazonas, CEP: 69001-009
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 33082624/2625
+TELEFONE WEB: (92) 3622-8889 / (92) 3633-1910
+EMAILS WEB:   luciane.ribeiro@cralmeida.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 47 - CONSORCIO SANCHES TRIPOLINI ERIN
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11536512000193  |  WEB RAZÃO: Consorcio Sanches Tripoloni - Erin
+WEB FANTASIA: Consorcio Sanches Tripoloni - Erin
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA NELSON RODRIGUES 100 SALA 01, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: Avenida Manicore, 236, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-100
+
+CONTATO SYS:  SR LETH
+TELEFONE SYS: (092)33078823/ 3182-3500
+TELEFONE WEB: (44) 2101-5959
+EMAILS WEB:   andreia@sanchestripoloni.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

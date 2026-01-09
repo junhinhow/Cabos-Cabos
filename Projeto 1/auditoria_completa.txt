@@ -6441,3 +6441,345 @@ EMAILS WEB:   empresarial@direcional.com.br
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 162 - DISTREL-DISTRIBUIDORA ELÉTRICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00803629000170  |  WEB RAZÃO: Distrel Distribuidora Eletrica LTDA
+WEB FANTASIA: Central da Construcao
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   04.104.447-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: SILVA RAMOS,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Silva Ramos, 1.140, - Centro, - Manaus/Amazonas, CEP: 69025-030
+
+CONTATO SYS:  LEOMAR
+TELEFONE SYS: 3131-9102/3232-6167/3622-3979
+TELEFONE WEB: (92) 3131-9110
+EMAILS WEB:   financeirodistrel@gmail.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 600 - DISTRIBUIDORA EQUADOR DE PRODUTOS DE PETROLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03128979000176  |  WEB RAZÃO: Distribuidora Equador de Produtos de Petroleo S.a.
+WEB FANTASIA: Equador
+CAPITAL SOCIAL (WEB): R$ 272.548.208,43
+INSC. EST.:   041415884  |  INSC. MUN.: —
+
+ENDEREÇO SYS: PAJURA,, [Vazio] - VILA BURMI - MANAUS
+ENDEREÇO WEB: Rua Pajura, 895, - Vila Buriti, - Manaus/Amazonas, CEP: 69072-065
+
+CONTATO SYS:  Moisés
+TELEFONE SYS: 2129-1266/ 1256/ 1277
+TELEFONE WEB: (81) 2123-3900 / (92) 6131-222
+EMAILS WEB:   fiscal.recife@gde-br.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2592 - DMN ESTALEIRO DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13378697000180  |  WEB RAZÃO: Dmn Estaleiro da Amazonia LTDA
+WEB FANTASIA: Dmn Estaleiro da Amazonia
+CAPITAL SOCIAL (WEB): R$ 12.499.998,00
+INSC. EST.:   062008099  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PAJURAZINHO, [Vazio] - DISTRITO INDUSTRIAL l - MANAUS
+ENDEREÇO WEB: Rua Do Pajurazinho, 11299, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-410
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2125-0050
+EMAILS WEB:   ---
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 506 - DMP - DISTRIBUIDORA DE PRODUTOS MAGISTRAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02887227000126  |  WEB RAZÃO: Mare Distribuidora de Bebidas e de Produtos Alimenticios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   04.140.026-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MÁRIO YPIRANGA, 1530, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Mario Ypiranga, 1530, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-002
+
+CONTATO SYS:  CLENTE MAURÍCIO
+TELEFONE SYS: (92)2123-0500//2123-
+TELEFONE WEB: (92) 2123-0500 / (92) 2123-0525 / (92) 2123-0532
+EMAILS WEB:   magistral@netium.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 775 - DN - FABRICAÇÃO DE PRÉ-MOLDADOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09255750000189  |  WEB RAZÃO: Dn Fabricacao de Pre-Moldados LTDA
+WEB FANTASIA: Blomac-Blocos e Maquinas
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   06.200.599-5  |  INSC. MUN.: 12127101
+
+ENDEREÇO SYS: APURINA,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3233-0634/3304-0624/8816-2062
+TELEFONE WEB: (92) 3622-6838
+EMAILS WEB:   macontabil@yahoo.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1657 - DR7 SERVIÇO DE OBRAS DE ALVENARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01335516000150  |  WEB RAZÃO: Seven Ambiental LTDA
+WEB FANTASIA: Dr7 Comercio e Construcao
+CAPITAL SOCIAL (WEB): R$ 5.200.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. JACIRA REIS CONJ. ARIPUANA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 362, - Chapada, - Manaus/Amazonas, CEP: 69040-270
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3302-6226
+TELEFONE WEB: (92) 3302-6126
+EMAILS WEB:   ---
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2226 - DROGARIA ESCOLHA CERTA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34546328000120  |  WEB RAZÃO: Vitrem Servicos de Saude LTDA
+WEB FANTASIA: Vitrem
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   054123348  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PROFE ABLIO ALENCAR, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99542-4444
+EMAILS WEB:   vitrem@gmail.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 9o7 - DROGARIA SANTO REMEDIO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84521053001543  |  WEB RAZÃO: Tapajos Comercio de Medicamentos LTDA
+WEB FANTASIA: Drogarias Santo Remedio - Djalma Batista
+CAPITAL SOCIAL (WEB): R$ 75.310.644,00
+INSC. EST.:   04229176-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV.DJALMA BATISTA,, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 946, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-000
+
+CONTATO SYS:  8124-8800 — 8124-7500
+TELEFONE SYS: 3212-7500 / 3212-7503
+TELEFONE WEB: (92) 2123-4000 / (92) 2123-4038
+EMAILS WEB:   fiscal@grupotapajos.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1985 - DROGARIAS FARMABEM LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 31610334000100  |  WEB RAZÃO: Drogarias Farmabem LTDA
+WEB FANTASIA: Farmabem
+CAPITAL SOCIAL (WEB): R$ 90.000.000,00
+INSC. EST.:   054042348  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2123-4000 / (92) 2123-4038
+EMAILS WEB:   antonio.brito@grupotapajos.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 929 - DROGARIAS SANTO REMEDIO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84521053002353  |  WEB RAZÃO: Tapajos Comercio de Medicamentos LTDA
+WEB FANTASIA: Drogarias Santo Remedio - Sao Jorge
+CAPITAL SOCIAL (WEB): R$ 75.310.644,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SAO JORGE,, [Vazio] - SAO JORGE - MANAUS
+ENDEREÇO WEB: Avenida Sao Jorge, 662, - Sao Jorge, - Manaus/Amazonas, CEP: 69033-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3212-8033/3212-8039/8124-6200
+TELEFONE WEB: (92) 2123-4000 / (92) 2123-4038
+EMAILS WEB:   antonio.brito@grupotapajos.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1287 - DULCIMAR BEZERRA DE AZEVEDO ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14185565000103  |  WEB RAZÃO: Dulcimar Bezerra de Azevedo
+WEB FANTASIA: Dba da Amazonia
+CAPITAL SOCIAL (WEB): R$ 250.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 6249007 —
+
+ENDEREÇO SYS: RUA PROF.ISAURA BARRONCAS, [Vazio] - ALVORADA 1 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  (92)3085-0095
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99154-0513
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1507 - DUNORTE DISTRIBUIDORA DE PRODUTOS DE CONSUMO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84466424000136  |  WEB RAZÃO: ---
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   041239270  |  INSC. MUN.: 6195001 —
+
+ENDEREÇO SYS: AV. DO TURISMO LOTE 01 H , 3727, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: 
+
+CONTATO SYS:  ANTONIO RODRIGUES
+TELEFONE SYS: 99602-9281/2126-2863
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: T3 - E V COM. DE MAT. DE LIMP. E HIGIEENIZAÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07512735000143  |  WEB RAZÃO: E V Comercio de Material de Limpeza e Higienizacao LTDA
+WEB FANTASIA: Becknorte
+CAPITAL SOCIAL (WEB): R$ 20.000,00
+INSC. EST.:   04.214.872-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DANTE ALIGHEER!),, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Rua Pandia Calogeras, 107, - Novo Aleixo, - Manaus/Amazonas, CEP: 69058-555
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3642-2240/8135-0123
+TELEFONE WEB: (92) 3642-2317 / (92) 3642-5754 / (92) 98159-3401
+EMAILS WEB:   diretoria@becknorte.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 936 - E. E. B. NDUSTRIA E COM. DE MAT. DE CONSTR. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09268553000102  |  WEB RAZÃO: Eeb Industria e Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: Estoque dos Lojistas
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   04..222.738-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA FRANCISCA MENDES,, [Vazio] - NOSSA SRA DE FÁTIMA - MANAUS
+ENDEREÇO WEB: Rua Iritama, 312, - Cidade Nova, - Manaus/Amazonas, CEP: 69097-750
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 30164872 Leyla
+TELEFONE WEB: (92) 3627-9300
+EMAILS WEB:   supervisao@oseuestoque.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1273 - E. F. L COM. REPRES. E MPORTAÇÃO DE VEICULOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04967477000100  |  WEB RAZÃO: E. F. Comercio de Veiculos LTDA
+WEB FANTASIA: Automix Multimarcas
+CAPITAL SOCIAL (WEB): R$ 1.250.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DESEMBARGADOR JOÃO MACHADO, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Desembargador Joao Machado, 13, - Planalto, - Manaus/Amazonas, CEP: 69044-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99135-5371 / (92) 99435-1185
+EMAILS WEB:   fiscal@grupoautomix.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 233 - E. MENEZES DA SLVERA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02671034000133  |  WEB RAZÃO: E Menezes da Silveira
+WEB FANTASIA: Info Hems
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.138.970-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. OSAKA, QD D, 28-CJ JD ORENTE, [Vazio] - PQ 10 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3648-4090/3877-8943
+TELEFONE WEB: (92) 99112-6621
+EMAILS WEB:   casemiro.rhema@hotmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 407 - E.B ENGECO E BRAGA NCORPORAÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08995913000105  |  WEB RAZÃO: Eb The Office Incorporacoes LTDA
+WEB FANTASIA: Eb Engeco e Braga Incorporacoes
+CAPITAL SOCIAL (WEB): R$ 1.895.762,00
+INSC. EST.:   04..221.971-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. URUCARA, 595, SALA C, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Mario Ypiranga, 315, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-000
+
+CONTATO SYS:  MAURICIO
+TELEFONE SYS: (92)2121-5800
+TELEFONE WEB: (92) 2121-5800 / (92) 2121-5803 / (92) 2121-5874
+EMAILS WEB:   nira@engeco.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2669 - E.P.A EMPRESA DE PLASTICOS DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11524482000103  |  WEB RAZÃO: E.p.a. - Empresa de Plastico da Amazonia Ltda.
+WEB FANTASIA: E.p.a.
+CAPITAL SOCIAL (WEB): R$ 5.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV AÇAI, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Acai, 287, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-9888
+EMAILS WEB:   gerson.bengard@packinggroup.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

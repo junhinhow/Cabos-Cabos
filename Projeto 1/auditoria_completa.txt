@@ -4997,3 +4997,421 @@ EMAILS WEB:   andreia@sanchestripoloni.com.br
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 316 - CONSTRONE COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10292872000124  |  WEB RAZÃO: Manas Comercio de Artigos Esportivos e Calcados LTDA
+WEB FANTASIA: Manas Calcados
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   04.289.832-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MARANATA, 33A, [Vazio] - PETROPOLIS - MANAUS
+ENDEREÇO WEB: - Beruri/Amazonas
+
+CONTATO SYS:  CLENTE ELVIS
+TELEFONE SYS: 32335828/9150-5915 (
+TELEFONE WEB: (92) 99292-7688
+EMAILS WEB:   ---
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 736 - CONSTRUCASA COM. E MPORT. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04633561000189  |  WEB RAZÃO: Construcasa Comercio e Importacao LTDA
+WEB FANTASIA: Construcasa
+CAPITAL SOCIAL (WEB): R$ 340.000,00
+INSC. EST.:   04.148.502-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: FRANCISCO QUEIROZ,, [Vazio] - COL. STO ANTÔNIO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3581-3300/3581-2876
+TELEFONE WEB: (92) 6333-021
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 517 - CONSTRUTORA ALCANCE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03018149000196  |  WEB RAZÃO: Construtora Alcance Ltda.
+WEB FANTASIA: Construtora Alcance
+CAPITAL SOCIAL (WEB): R$ 4.650.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. RIO MADEIRA, CJ VERALVES, [Vazio] - NOSSA SRA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Avenida Rio Madeira, 465, - Nossa Senhora das Graas, - Manaus/Amazonas, CEP: 69053-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3584-4006/8114-8085
+TELEFONE WEB: (92) 3584-4006
+EMAILS WEB:   financeiro@construtoraalcance.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 930 - CONSTRUTORA MEDINA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09053303000147  |  WEB RAZÃO: Construtora Medina LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 12017947 -
+
+ENDEREÇO SYS: AV RIO JUTAI, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Andre Ferraz Franco, 85, - Santa Etelvina, - Manaus/Amazonas, CEP: 69059-430
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (092)3584-0415/33045144
+TELEFONE WEB: (92) 3584-0415 / (92) 98405-0933
+EMAILS WEB:   chris@construtoramedina.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 276 - CONSTRUTORAALIANÇA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02592241000100  |  WEB RAZÃO: Construtora Alianca LTDA
+WEB FANTASIA: Construtora Alianca
+CAPITAL SOCIAL (WEB): R$ 64.400,00
+INSC. EST.:   04.138.584-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. JOAQUIM SARMENTO, 418, 3º ANDAR, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 19, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  MILENA
+TELEFONE SYS: 2126-9300/9305/9306
+TELEFONE WEB: (92) 99982-7421
+EMAILS WEB:   flauber.santos@aliancaincorporadora.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 697 - CONSTRUTORA ANDRADE GUTIERREZ S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17262213014306  |  WEB RAZÃO: Andrade Gutierrez Engenharia S/A
+WEB FANTASIA: Aream
+CAPITAL SOCIAL (WEB): R$ 1.836.966.178,62
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  FABRÍCIO(SUPRIM.)RAM. 1680/1665
+TELEFONE SYS: 3194-1606/1619/1600/1620/1629
+TELEFONE WEB: (31) 3290-6700
+EMAILS WEB:   procuracoes@agnet.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 137 - CONSTRUTORA ANDRADE GUTIERREZ S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17262213013091  |  WEB RAZÃO: Andrade Gutierrez Engenharia S/A
+WEB FANTASIA: Igam2
+CAPITAL SOCIAL (WEB): R$ 1.836.966.178,62
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3194-1606/3236-4312/3642-3399
+TELEFONE WEB: (31) 3290-6700
+EMAILS WEB:   procuracoes@agnet.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1177 - CONSTRUTORA ARRUDA GUIMARAES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01031990000279  |  WEB RAZÃO: Construtora Arruda Guimaraes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.050.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: AMAZONIA,, [Vazio] - NOSSA SRA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Maceio, 15, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-135
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3634-2550
+TELEFONE WEB: (85) 3065-5499
+EMAILS WEB:   mcmcontabilidadeempresarial@gmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1872 - CONSTRUTORA BIAPÓ LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 25078452000540  |  WEB RAZÃO: Construtora Biapo LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 4.001.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. EPAMINONDAS, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  3085-0927
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (62) 3241-0575
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: B - CONSTRUTORA BLOKUS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01685725000123  |  WEB RAZÃO: Blokuslife Incorporacao e Construcao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   04.132.995-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA JACIRA REIS, 600, [Vazio] - SÃO JORGE - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 537, - Sao Jorge, - Manaus/Amazonas, CEP: 69033-008
+
+CONTATO SYS:  CLENTE ANTONIO
+TELEFONE SYS: (92)3671-1619 (TECA)
+TELEFONE WEB: (92) 98415-1021
+EMAILS WEB:   contato@blokuslife.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 386 - CONSTRUTORA BLOKUS LTDA OBRA MAISON l BERTÉ
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01685725000395  |  WEB RAZÃO: Blokuslife Incorporacao e Construcao LTDA
+WEB FANTASIA: Maison Liberte Condominium Club
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   04.132.995-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA JACIRA REIS, 600, [Vazio] - SÃO JORGE - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 189, - S Jorge, - Manaus/Amazonas, CEP: 69030-500
+
+CONTATO SYS:  CLENTE ANTONIO
+TELEFONE SYS: (92)3671-1619/3671-5
+TELEFONE WEB: (92) 3671-1619
+EMAILS WEB:   ---
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1578 - CONSTRUTORA BRILHANTE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04529815000113  |  WEB RAZÃO: Construtora Saltech LTDA
+WEB FANTASIA: Construtora Saltech
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. PARAIBA, [Vazio] - SÃO FRANCISCO - MANAUS
+ENDEREÇO WEB: Rua Sucupira, 110, - Dom Pedro I, - Manaus/Amazonas, CEP: 69040-350
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3342-5393 / (92) 98114-1476
+EMAILS WEB:   nf@construtorabrilhante.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 749 - CONSTRUTORA COLMÉIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06048417000291  |  WEB RAZÃO: Construtora Colmeia S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 40.031.351,73
+INSC. EST.:   ISENTO  |  INSC. MUN.: 4805901 —
+
+ENDEREÇO SYS: ANDRE ARAUÚJO,, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1719, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3642-9330
+TELEFONE WEB: (85) 3288-6600 / (92) 6429-334
+EMAILS WEB:   construtora@colmeia.com.br
+
+LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 40 - CONSTRUTORA ELOS ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00207218000898  |  WEB RAZÃO: Construtora Elos Engenharia S/A
+WEB FANTASIA: Construelo
+CAPITAL SOCIAL (WEB): R$ 14.000.000,00
+INSC. EST.:   -  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV AUTAZ MIRIM, O AREA B, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 2091, - Distrito Industrial, - Manaus/Amazonas, CEP: 69088-480
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (071)3273-6888
+TELEFONE WEB: (92) 3584-3332 / (92) 3584-3340
+EMAILS WEB:   erialdo.feitosa@gartconsulting.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 125 - CONSTRUTORA F. LOPES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34543421000180  |  WEB RAZÃO: Construtora F Lopes LTDA
+WEB FANTASIA: F Lopes
+CAPITAL SOCIAL (WEB): R$ 2.010.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AUTAZ MIRIM,, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Avenida Antonio Teles, 7, - Novo Aleixo, - Manaus/Amazonas, CEP: 69058-285
+
+CONTATO SYS:  Jairo
+TELEFONE SYS: (092) 3615-1786/1714/
+TELEFONE WEB: (92) 3615-1786 / (92) 3615-2576
+EMAILS WEB:   contabilidade@flopes.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 505 - CONSTRUTORA HOSS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 43836352000607  |  WEB RAZÃO: Construtora Hoss Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: EFIGENIO SALLES,, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Efigenio Sales, 976, - Aleixo, - Manaus/Amazonas, CEP: 69060-020
+
+CONTATO SYS:  CLENTE MAURÍCIO
+TELEFONE SYS: (92)3236-0359/3236-0
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 378 - CONSTRUTORA LAJES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04824710000197  |  WEB RAZÃO: Conlajes Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   06.200.307-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SENADOR FILINTO MILLER, 56, [Vazio] - DOM PEDRO - MANAUS
+ENDEREÇO WEB: Rua Coroaci, 41, - Santa Etelvina, - Manaus/Amazonas, CEP: 69059-193
+
+CONTATO SYS:  MICHELE MENEZES
+TELEFONE SYS: (92)3656-9000
+TELEFONE WEB: (92) 3656-2520
+EMAILS WEB:   conlajesadm@hotmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 69 - CONSTRUTORA LIRA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84525187000137  |  WEB RAZÃO: Lira Servicos de Transportes e Construcoes Ltda.
+WEB FANTASIA: Construtora Lira
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.139.699-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA-BOA VISTA N-152, [Vazio] - VILA DA PRATA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  MARIO
+TELEFONE SYS: (092)3625-1072/ 9154-2547
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.500.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1922 - CONSTRUTORA MARQUISE S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07950702000266  |  WEB RAZÃO: Construtora Marquise S A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 292.271.871,41
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - COLÔNIA SANTO ANTÔNIO - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 4240, - Colonia Santo Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98121-8900
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 311 - CONSTRUTORA MERCURE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07649419000118  |  WEB RAZÃO: Construtora Mercure LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 11.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: TRAVESSA GOIANIA,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Travessa Goiania, 112, - Flores, - Manaus/Amazonas, CEP: 69028-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 36513134
+TELEFONE WEB: (92) 3633-3021
+EMAILS WEB:   antonioccoelho@yahoo.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1896 - CONSTRUTORA PHX LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04645099000130  |  WEB RAZÃO: Construtora Phx LTDA
+WEB FANTASIA: Construtora Phx
+CAPITAL SOCIAL (WEB): R$ 25.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA NICOLAU DA SLVA, [Vazio] - SAO FRANCISCO - MANAUS
+ENDEREÇO WEB: Avenida Rio Guama, 199, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-180
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3020-4588
+EMAILS WEB:   financeiro@construtoraphx.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 380 - CONSTRUTORA PONCTUAL CORPORATION LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00307764000124  |  WEB RAZÃO: Construtora Ponctual Corporation LTDA
+WEB FANTASIA: Cpc Construtora
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA C, 183, CONJ. DAS PALMEIRAS, [Vazio] - PARQUE DAS LARANJERAS/FLORES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3233-8902
+TELEFONE WEB: (92) 3184-0390 / (92) 99998-6509
+EMAILS WEB:   cpcconstrutora@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

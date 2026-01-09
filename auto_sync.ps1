@@ -1,37 +1,41 @@
 # Configuração
 $intervaloMinutos = 10
-$branch = "main" # Ou "master", verifique qual você usa
+$path = "C:\Users\Vendas Externa\Downloads\Codes"
+Set-Location $path
 
-Write-Host "🤖 Iniciando Auto-Sync do Git a cada $intervaloMinutos minutos..." -ForegroundColor Green
+# Função para criar notificação no Windows (Balãozinho no canto da tela)
+function Enviar-Notificacao ($Titulo, $Mensagem) {
+    [reflection.assembly]::loadwithpartialname("System.Windows.Forms") | Out-Null
+    [reflection.assembly]::loadwithpartialname("System.Drawing") | Out-Null
+    $icone = [System.Drawing.SystemIcons]::Information
+    $notif = New-Object System.Windows.Forms.NotifyIcon
+    $notif.Icon = $icone
+    $notif.BalloonTipIcon = "Info"
+    $notif.BalloonTipTitle = $Titulo
+    $notif.BalloonTipText = $Mensagem
+    $notif.Visible = $True
+    $notif.ShowBalloonTip(10000)
+    start-sleep -s 2
+    $notif.Dispose() # Limpa o ícone da bandeja
+}
 
 while ($true) {
-    # Pega a data atual para o log
     $data = Get-Date -Format "dd/MM/yyyy HH:mm:ss"
     
-    # Verifica se há mudanças (arquivos modificados, deletados ou novos)
+    # Verifica mudanças
     if (git status --porcelain) {
-        Write-Host "[$data] Alterações detectadas. Iniciando backup..." -ForegroundColor Yellow
-        
-        # 1. Adiciona tudo
         git add .
-        
-        # 2. Faz o commit com data/hora
         git commit -m "Auto-backup: $data"
         
-        # 3. Tenta subir para o GitHub
-        # O comando abaixo captura o erro caso falhe (ex: sem internet)
         try {
-            git push origin $branch
-            Write-Host "[$data] ✅ Sucesso! Código salvo no GitHub." -ForegroundColor Green
+            git push origin main
+            # AVISA QUE FEZ O BACKUP
+            Enviar-Notificacao "GitHub Auto-Sync" "✅ Backup realizado com sucesso às $data"
         }
         catch {
-            Write-Host "[$data] ❌ Erro ao fazer Push. Tentaremos na próxima." -ForegroundColor Red
+            Enviar-Notificacao "GitHub Auto-Sync" "❌ Erro ao enviar para o GitHub. Verifique a internet."
         }
     }
-    else {
-        Write-Host "[$data] Nada novo para salvar." -ForegroundColor Gray
-    }
-
-    # Espera X minutos antes de rodar de novo (60 segundos * minutos)
+    
     Start-Sleep -Seconds ($intervaloMinutos * 60)
 }

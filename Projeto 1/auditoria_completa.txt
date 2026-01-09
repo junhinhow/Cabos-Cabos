@@ -3724,3 +3724,516 @@ EMAILS WEB:   expediente@contfisco.com.br
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2985 - COMPAL ELETRONICA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 38442186000101  |  WEB RAZÃO: Compal Eletronica da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 32.330.469,00
+INSC. EST.:   063010658  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R JAVARI!, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3109-6500
+EMAILS WEB:   atendimento_cea@compal.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3131 - COMPANHIA ENERGETICA AMAZONENSE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 48448938000103  |  WEB RAZÃO: Companhia Energetica Amazonense
+WEB FANTASIA: Companhia Energetica Amazonense
+CAPITAL SOCIAL (WEB): R$ 250.000.000,00
+INSC. EST.:   054505267  |  INSC. MUN.: 56172301
+
+ENDEREÇO SYS: RUA CESAR DO REGO, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Des. Cesar do Rego, 0, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-445
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (71) 3273-5300 / (71) 3273-5302 / (71) 3273-5325
+EMAILS WEB:   fiscalcea@cea-termoeletrica.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 758 - COMPANHIA DE GÁS DO AMAZONAS-CIGAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00624964000100  |  WEB RAZÃO: Companhia de Gas do Amazonas - Cigas
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 230.981.803,74
+INSC. EST.:   041032039  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, TORQUATO TAPAJOS (SENTIDO AEROPORTO) - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 6100, - Flores, - Manaus/Amazonas, CEP: 69058-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3303-3201
+TELEFONE WEB: (92) 3303-3201 / (92) 3303-3207 / (92) 3303-3225
+EMAILS WEB:   fiscal@cigas-am.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1875 - COMPANHIA ENERGETICA MANAUARA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07303379000239  |  WEB RAZÃO: Companhia Energetica Manauara
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   042149878  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RODOVIAAM 10, [Vazio] - ZONA RURAL - MANAUS
+ENDEREÇO WEB: Rua Des. Cesar do Rego, SN, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-445
+
+CONTATO SYS:  (92) 3652-9200
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (71) 3273-5300 / (71) 3273-5302 / (71) 3273-5319
+EMAILS WEB:   rafaelcosta@jsglobal.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1261 - COMPASSO CONSTRUÇÕES, TERRAPLANAGEM E PAVIMENTACAO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63688337000153  |  WEB RAZÃO: Compasso Construcoes, Terraplanagem e Pavimentacao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 12.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 7082001 —
+
+ENDEREÇO SYS: Av. TORGUATO TAPAJOS, [Vazio] - AREA DE TRANSICAO URBANA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 0, - Area de Transicao Urbana, - Manaus/Amazonas, CEP: 69039-125
+
+CONTATO SYS:  FRANKLIN
+TELEFONE SYS: (92) 3213-6480/3213-6481
+TELEFONE WEB: (92) 3090-2175
+EMAILS WEB:   compasso@compasso.eng.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2854 - COMPOL POLIMEROS DAAMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17290530000114  |  WEB RAZÃO: Compol Polimeros da Amazonia LTDA
+WEB FANTASIA: Compol Industria
+CAPITAL SOCIAL (WEB): R$ 2.400.000,00
+INSC. EST.:   063008807  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAIÇA, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: Avenida Cupiuba, 490, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3017-5074 / (92) 99388-6447 / (92) 99392-0690
+EMAILS WEB:   compol@compol.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 981 - COMPONEL INDUSTRIAL E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 57593253000567  |  WEB RAZÃO: Componel Industria e Comercio LTDA
+WEB FANTASIA: Compaz Componentes da Amazonia
+CAPITAL SOCIAL (WEB): R$ 103.161.386,00
+INSC. EST.:   063001454  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. AÇAI, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Acai, 1.325, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  MARCO RODRIGUES
+TELEFONE SYS: 4009-3314
+TELEFONE WEB: (92) 2123-2093
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1187 - COMUNIDADE EVANGELICA INTERNACIONAL DO AVIVAMENTO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07979402000129  |  WEB RAZÃO: Comunidade Evangelica Internacional do Avivamento
+WEB FANTASIA: Ceia
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BRIGADEIRO HILARIO GURJÃO, [Vazio] - JORGE TEXEIRA - MANAUS
+ENDEREÇO WEB: Rua Izaurina Braga, 865, - Compensa, - Manaus/Amazonas, CEP: 69030-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   rdomarques@yahoo.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2242 - CONCESSIONARIA DOS AEROPORTOS DA AMAZONIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 42548035000100  |  WEB RAZÃO: Concessionaria dos Aeroportos da Amazonia S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 760.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DJALMA BATISTA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Santos Dumont, 1350, - Taruma, - Manaus/Amazonas, CEP: 69041-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3652-1002
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1550 - CONCREARTE CONSTRUÇÕES E COM. DE MAT. DE CONST. EIRELHN
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04627667000170  |  WEB RAZÃO: Concrearte Construcoes e Comercio de Materiais de Construcoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 21628017
+
+ENDEREÇO SYS: RUA BELO HORIZONTE THE PLACE SALAS, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3233-7825
+TELEFONE WEB: (92) 3003-7000
+EMAILS WEB:   concrearteconstrucoesam@gmail.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 667 - CONCREMAT ENGENHARIA E TECNOLOGIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 33146648001959  |  WEB RAZÃO: Concremat Engenharia e Tecnologia S/A
+WEB FANTASIA: Concremat
+CAPITAL SOCIAL (WEB): R$ 233.722.369,35
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BELO HORIZONTE, 2 ANDAR, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Neves da Fontoura, 115, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-495
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3629-6592
+TELEFONE WEB: (21) 3535-4000 / (92) 3233-6899
+EMAILS WEB:   fiscal.diretos@concremat.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1038 - CONCRETA ENGENHARIA E CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00265426000177  |  WEB RAZÃO: Concreta Engenharia e Construcoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 6853601 —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: - Porto Velho/Rondônia
+
+CONTATO SYS:  ANDREY 9128-8588
+TELEFONE SYS: 3659-3386 / 91286-8588
+TELEFONE WEB: (69) 3221-6138 / (92) 3659-3389
+EMAILS WEB:   concreta@concretaengenharia.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 836 - CONCRETEIRA CAPITAL MIX LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12606900000166  |  WEB RAZÃO: Concreteira Mix Beton S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.660.703,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 8554, - Taruma, - Manaus/Amazonas, CEP: 69041-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-5800
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   rosilene@construtoracapital.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 874 - COND DO EDIFI ADRIANOPOLIS APART S
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84470251000120  |  WEB RAZÃO: Condominio do Edificio Adrianopolis Apart Service
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SALVADOR, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Salvador, 275, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 21012005
+TELEFONE WEB: (92) 2101-9929
+EMAILS WEB:   controladoria01@manaushoteis.tur.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 867 - COND DO EDIFICIO SAINT PAUL APART SERVICE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34490011000119  |  WEB RAZÃO: Condominio do Edificio Saint Paul Apart Service
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: 13569001 —
+
+ENDEREÇO SYS: RUA RAMOS FERREIRA,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Ramos Ferreira, 1115, - Centro, - Manaus/Amazonas, CEP: 69010-120
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 21013800
+TELEFONE WEB: (92) 2101-9929
+EMAILS WEB:   controladoria01@manaushoteis.tur.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 673 - COND. DO EDIF. CASTELLI
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04875297000190  |  WEB RAZÃO: Condominio do Edificio Castelli
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: CORONEL TEIXEIRA,, EM FRENTE AO ANFITEATRO DA PONTA NEGRA - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Alameda Alaska, 14, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-014
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3238-0335/3214-5420/5421
+TELEFONE WEB: (92) 6461-213
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 654 - COND. RESD. ELIZA MIRANDA - 1 ETAPA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10620738000105  |  WEB RAZÃO: Condominio Residencial Eliza Miranda - 1 Etapa
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BURITI,, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, S/N, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  8188-8401/9238-8808
+TELEFONE SYS: 3307-0433/3308-1510
+TELEFONE WEB: (92) 3642-5244
+EMAILS WEB:   ---
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 66 - COND. RESID. JARDIM ITAPOÃ
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02233090000196  |  WEB RAZÃO: Condominio Residencial Jardim Itapoa
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BLLE HOLLDAY,, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Billie Holiday, 36, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69050-445
+
+CONTATO SYS:  ADRIANA/ELISSANDRA
+TELEFONE SYS: 3622-0556/3622-8153
+TELEFONE WEB: (92) 3642-3577
+EMAILS WEB:   jardimitapoa@gmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 696 - COND. RESD. MARINA RIO BELLO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12561728000171  |  WEB RAZÃO: Condominio Residencial Marina Rio Bello
+WEB FANTASIA: Condominio Residencial Marina Rio Bello
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: MEDITERRÁNEO,, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Rua Mediterraneo, S/N, - Taruma, - Manaus/Amazonas, CEP: 69041-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3622-8153/3622-0556/3233-6652
+TELEFONE WEB: (92) 98415-4794
+EMAILS WEB:   mrbatendimento@outlook.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1537 - COND. WEEKEND CLUB PONTA NEGRA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15482527000177  |  WEB RAZÃO: Condominio Weekend Club Ponta Negra.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA RAIMUNDO NONATO DE CASTRO, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Rua Raimundo Nonato de Castro, 773, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-042
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3304-7223 / (92) 3631-7223
+EMAILS WEB:   admweekend@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1735 - CONDOMINIO ALLEGRO MALL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20873748000106  |  WEB RAZÃO: Condominio Allegro Mall
+WEB FANTASIA: Condominio Allegro Mall
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - SANTA ETELVINA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, S/N, - Santa Etelvina, - Manaus/Amazonas, CEP: 69059-165
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3213-4617 / (92) 3642-5207 / (92) 99137-7806
+EMAILS WEB:   condominioallegromall@hotmail.com
+
+LIMITE:       4.626,34  |  SALDO DEVEDOR: 373,66
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1448 - CONDOMINIO ALPHAVILLE MANAUS 2
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13825581000142  |  WEB RAZÃO: Condominio Alphaville Manaus 2
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. JOSE AUGUSTO LOUREIRO QD.02 LOTE 1, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Jose Augusto Loureiro, 345, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-225
+
+CONTATO SYS:  JAQUELINE
+TELEFONE SYS: 3651-8415/ 99192-8228
+TELEFONE WEB: (11) 4306-4007 / (92) 3658-8415
+EMAILS WEB:   financeiro@alphavillemanaus2.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3047 - CONDOMINIO AMAZONAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63692057000119  |  WEB RAZÃO: Condominio Amazonas
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDA DJALMA BATISTA, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 482, - Parque 10, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (21) 2583-9800
+EMAILS WEB:   gd-fiscal@allos.com.br
+
+LIMITE:       13.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 198 - CONDOMINIO AMAZONAS SHOPPING CENTER
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63691570000195  |  WEB RAZÃO: Condominio Amazonas Shopping Center
+WEB FANTASIA: Amazonas Shopping
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, 482, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 482, - Parque 10, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3303-9000
+TELEFONE WEB: (21) 2583-9800 / (92) 6422-638
+EMAILS WEB:   gd-fiscal@allos.com.br
+
+LIMITE:       13.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2702 - CONDOMINIO BRISAS DO RIO NEGRO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10677875000186  |  WEB RAZÃO: Condominio Brisas do Rio Negro
+WEB FANTASIA: *******************
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV COSME FERREIRA, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 11000, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-310
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3232-6715 / (92) 98131-8786
+EMAILS WEB:   predial@vivax.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1737 - CONDOMINIO BRITANNIA PARK OFFICES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 36958203000132  |  WEB RAZÃO: Condominio Britannia Park Offices
+WEB FANTASIA: Condominio Britannia Park Offices
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98473-9003
+EMAILS WEB:   financeiro@condominiobritannia.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1688 - CONDOMINIO CRISTAL TOWER
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 24930964000105  |  WEB RAZÃO: Condominio Cristal Tower
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. JORNALISTA UMBERTO CALDERARO FILHO, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Jornalista Umberto Calderaro Filho, 455, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-015
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3663-0950 / (92) 99114-8163
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

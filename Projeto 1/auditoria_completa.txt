@@ -5415,3 +5415,402 @@ EMAILS WEB:   cpcconstrutora@hotmail.com
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 249 - CONSTRUTORA PROGRESSO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06219583000122  |  WEB RAZÃO: Construtora Progresso LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA:COMETA HALLEY, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Cometa Halley, 03, - Aleixo, - Manaus/Amazonas, CEP: 69060-095
+
+CONTATO SYS:  SAVINO
+TELEFONE SYS: 3584-5159
+TELEFONE WEB: (92) 3584-5159 / (92) 3657-1755
+EMAILS WEB:   construtoraprogressoltda@hotmail.com
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1012 - CONSTRUTORA Q!I LTDA - ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13058735000118  |  WEB RAZÃO: Vertice LTDA
+WEB FANTASIA: Vertice Solucao Juridica e Empresarial
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   05.331.084-5  |  INSC. MUN.: 20421001 —
+
+ENDEREÇO SYS: AVENDA TRAVESSA KENNEDY, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Itacoatiara, 216, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-090
+
+CONTATO SYS:  EVALDO
+TELEFONE SYS: 3237-5772
+TELEFONE WEB: ---
+EMAILS WEB:   verticeconsultoria.am@gmail.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1184 - CONSTRUTORA RIO NEGRO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07741892000120  |  WEB RAZÃO: Construtora Rio Negro LTDA
+WEB FANTASIA: Rio Negro Engenharia
+CAPITAL SOCIAL (WEB): R$ 5.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARGARITA, [Vazio] - NOVA CIDADE - MANAUS
+ENDEREÇO WEB: Avenida Curacao, 4165, - Nova Cidade, - Manaus/Amazonas, CEP: 69097-235
+
+CONTATO SYS:  92 2127-9756 ETAM
+TELEFONE SYS: 9 9113-8330 jaqueline
+TELEFONE WEB: (92) 4101-9456 / (92) 99273-5742
+EMAILS WEB:   rionegro@construtoracrn.com.br
+
+LIMITE:       250.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 317 - CONSTRUTORA SAN RAM LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02439686000147  |  WEB RAZÃO: Construtora San Ram LTDA
+WEB FANTASIA: Construtora Ramos
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   -  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. DUQUE DE CAXIAS, 1368, SL 04, [Vazio] - PÇ 14 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3233-8156
+TELEFONE WEB: (92) 3581-4471 / (92) 98113-3558 / (92) 99175-2696
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1911 - CONSTRUTORA SMART LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 36820464000191  |  WEB RAZÃO: Construtora Smart LTDA
+WEB FANTASIA: Construtora Smart LTDA
+CAPITAL SOCIAL (WEB): R$ 6.150.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA VENA, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Rua Londres, 4, - Planalto, - Manaus/Amazonas, CEP: 69045-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99367-4495
+EMAILS WEB:   luciano.nascimento@construtorasmart.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1545 - CONSTRUTORA SOMA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01088713000111  |  WEB RAZÃO: Construtora Soma LTDA
+WEB FANTASIA: Construtora Soma
+CAPITAL SOCIAL (WEB): R$ 30.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 7388201 —
+
+ENDEREÇO SYS: ESTRADA TORQUATO TAPAJOS, [Vazio] - BAIRRO DA PAZ - MANAUS
+ENDEREÇO WEB: Estrada Torquato Tapajos, 1292, - Da Paz, - Manaus/Amazonas, CEP: 69048-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 4009-0400 / (92) 6441-000
+EMAILS WEB:   janderson.bastos@tumpex.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1782 - CONSTRUTORA TERRA ANDINA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01771010000193  |  WEB RAZÃO: Contrutora Terra Andina LTDA
+WEB FANTASIA: Andina Empreendimentos
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV.DJALMA BATISTA, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1314, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-000
+
+CONTATO SYS:  AMANDA
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98414-8798 / (92) 99204-6296
+EMAILS WEB:   henriquemedina@vemmorarmais.com.br
+
+LIMITE:       19.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 384 - CONSTRUTORA TOCANTINS NDÚSTRIA E COMÉRCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34483180000121  |  WEB RAZÃO: Construtora Tocantins Industria e Comercio LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.112.177-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TRAVESSA SÃO JUDAS TADEU, 500, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Salvador Dali, 17, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-332
+
+CONTATO SYS:  CLENTE BRUNO/ COMPR
+TELEFONE SYS: (92)3651-2035
+TELEFONE WEB: (92) 3651-2035 / (92) 99510-8394 / (92) 99909-7043
+EMAILS WEB:   tocantinsam@gmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 723 - CONTAWINER DISTRIBUIDORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10558825000180  |  WEB RAZÃO: Container Distribuidora LTDA
+WEB FANTASIA: Container
+CAPITAL SOCIAL (WEB): R$ 1.250.000,00
+INSC. EST.:   04.296.464-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ABELARDO BARBOSA,, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3303-5700 / (92) 3303-5701
+EMAILS WEB:   contato@algabig.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1115 - COPLAST INDUSTRIA E COMERCIO DE RESIDUOS PLASTICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04672291000115  |  WEB RAZÃO: Coplast Industria Quimica LTDA
+WEB FANTASIA: Coplast
+CAPITAL SOCIAL (WEB): R$ 33.906.941,00
+INSC. EST.:   06300044-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DOS OMS, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 571, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-842
+
+CONTATO SYS:  SR. ENOS
+TELEFONE SYS: (92) 3617-2500
+TELEFONE WEB: (92) 3617-2514 / (92) 3617-2521 / (92) 3617-2560
+EMAILS WEB:   fiscal@coplastam.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1338 - COPPAL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00803630000102  |  WEB RAZÃO: Coppal Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 266.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAAURORA PQ. DAS LARANJEIRAS, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Aurora, 122, - Flores, - Manaus/Amazonas, CEP: 69058-000
+
+CONTATO SYS:  JOSE OSMAR GOMES
+TELEFONE SYS: 3654-5034
+TELEFONE WEB: (92) 6333-948
+EMAILS WEB:   ---
+
+LIMITE:       9.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1719 - CORAL EMPREENDIMENTOS IMOBILIARIOS LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10348152000303  |  WEB RAZÃO: Coral Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1089 - CORDEIRO & SOARES PIZZARIA E TRATORIA LTDA-ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05610698000180  |  WEB RAZÃO: Cordeiro & Soares Pizzaria e Tratoria LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. RODRIGO OTAVIO, STUDIO 5 - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 694 - COSMO COM. DE MAT. ELÉTR. E HDRÁUL. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11361721000143  |  WEB RAZÃO: Cosmo Comercio de Materiais Eletricos e Hidraulicos LTDA
+WEB FANTASIA: Cosmo Instalacoes Eletricas
+CAPITAL SOCIAL (WEB): R$ 5.200.000,00
+INSC. EST.:   04..227 .697-7  |  INSC. MUN.: 13311501
+
+ENDEREÇO SYS: CASTELO BRANCO,, [Vazio] - CACHOEIRNHA - MANAUS
+ENDEREÇO WEB: Rua Jose Maria Lopo, 16, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-753
+
+CONTATO SYS:  NILSON
+TELEFONE SYS: 3305-1050/1071/3302-0168
+TELEFONE WEB: (92) 98106-5975
+EMAILS WEB:   flavio@bhcontabilidade.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: B - COSMOSPLAST IND. E COM. PLÁST. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00819673000178  |  WEB RAZÃO: Cosmosplast Industria e Comercio de Plasticos LTDA Falido
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 19.798.348,00
+INSC. EST.:   06.300.133-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ABURANA,666 (ENDEREÇO FLIAL ATENTAR AO PEDIDO DE COMPRA RUA, [Vazio] - DISTR. ND//(BAIRRO FILIAL: DIST. IND.) - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CEP FLIAL (69075831
+TELEFONE SYS: 3617-2451/60/2458/24
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2816 - COSTA E GUEDES ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 36209499000199  |  WEB RAZÃO: S. F. Bezerra LTDA
+WEB FANTASIA: Construtora Hbx
+CAPITAL SOCIAL (WEB): R$ 150.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CLEMENTE DE ALEXANDRIA, [Vazio] - PETRÓPOLIS - MANAUS
+ENDEREÇO WEB: Rua Clemente de Alexandria, 83, - Petropolis, - Manaus/Amazonas, CEP: 69067-515
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98166-3315
+EMAILS WEB:   horebe.comercial20@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 839 - CR CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10895352000106  |  WEB RAZÃO: Cr Servicos de Contrucoes LTDA
+WEB FANTASIA: Cr Engenharia
+CAPITAL SOCIAL (WEB): R$ 30.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 12926801 —
+
+ENDEREÇO SYS: Alameda Arábea, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3307-2483
+TELEFONE WEB: (92) 3131-5555
+EMAILS WEB:   marcoabreu@dantascpnsultoria.com
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 428 - CR OBRAS DA CONSTRUCOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01756239000159  |  WEB RAZÃO: Cr Obras da Construcao LTDA
+WEB FANTASIA: C R Servicos Tecnicos
+CAPITAL SOCIAL (WEB): R$ 5.900.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO AMAPA, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Sao Luiz, 307, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-250
+
+CONTATO SYS:  LORENA
+TELEFONE SYS: 3232-9128 1625-4870 simone
+TELEFONE WEB: (92) 3232-0337 / (92) 3239-0584 / (92) 3625-3025
+EMAILS WEB:   licitacao@crobras.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1904 - CREDENCIAL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05358598000109  |  WEB RAZÃO: Credencial Engenharia LTDA
+WEB FANTASIA: Credencial
+CAPITAL SOCIAL (WEB): R$ 4.300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RARTUR VIRGLIO FLHO, [Vazio] - DOM PEDRO - MANAUS
+ENDEREÇO WEB: Rua Antonio Lobo Sobrinho, 42, - Dom Pedro I, - Manaus/Amazonas, CEP: 69042-640
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 92992565032
+TELEFONE WEB: (92) 6714-644 / (92) 99256-5032
+EMAILS WEB:   credencial.eng@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1463 - CRIMISO EMPR. MOB. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12476506000150  |  WEB RAZÃO: Crimiso Empreendimentos Imobiliarios Spe LTDA - em Recuperacao Judicial em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.329.442,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA COMENDADOR CLEMENTINO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  3658-3153
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 4058-2000
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 105 - CRISTAL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02402223000100  |  WEB RAZÃO: Cristal Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PARAÍBA,, [Vazio] - SÃO FRANCISCO - MANAUS
+ENDEREÇO WEB: Avenida Jornalista Umberto Calderaro Filho, 455, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-015
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2123-8114/8120 3236-5051
+TELEFONE WEB: (92) 2123-8100 / (92) 2123-8118 / (92) 3611-3557
+EMAILS WEB:   jucelia@cristalengenharia.com.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

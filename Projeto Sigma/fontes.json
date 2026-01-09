@@ -1,14 +1,170 @@
 [
     {
-        "nome": "Servidor_A",
-        "url": "http://exemplo-tv.com/get.php?username=user&password=123&type=m3u"
+        "nome": "Social_Master_New",
+        "url": "http://jhysa.top/get.php?username=554558&password=290769&type=m3u_plus&output=mpegts"
     },
     {
-        "nome": "Lista_Filmes_Top",
-        "url": "https://iptv-org.github.io/iptv/movies.m3u"
+        "nome": "Social_Master_Gold",
+        "url": "http://alohax.space/get.php?username=440343832&password=449446060&type=m3u_plus&output=mpegts"
     },
     {
-        "nome": "",
-        "url": "https://content.jwplatform.com/videos/hls/list.m3u8"
+        "nome": "Social_Master_Play_Srvi",
+        "url": "http://c.srvi.top/get.php?username=500503&password=092011&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_Play_Nadom",
+        "url": "http://2.nadom.top/get.php?username=500503&password=092011&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_Play_Techzzi",
+        "url": "http://c.techzzi.top/get.php?username=500503&password=092011&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_Play_Techmain",
+        "url": "http://c.techmain.top/get.php?username=500503&password=092011&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_HD_ZZTech",
+        "url": "http://c.zztech.top/get.php?username=095158&password=052744&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_HD_Gerenciador",
+        "url": "http://gerenciador6.xyz/get.php?username=095158&password=052744&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Social_Master_HD_Seliga",
+        "url": "http://seliga.fun/get.php?username=095158&password=052744&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_OpenBox",
+        "url": "http://sourceopbx.sbs/get.php?username=593493808&password=444176057&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_NetTurbo",
+        "url": "http://megaplay.uno/get.php?username=396495021&password=034577856&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_P2Box",
+        "url": "http://srvr.fun/get.php?username=542621711&password=146334321&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_Caracol",
+        "url": "http://cvtpro.xyz/get.php?username=464241820&password=746770072&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_AtivaBox",
+        "url": "http://meuscanais.pro/get.php?username=241442261&password=135001164&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "Servidor_X_Main",
+        "url": "http://daxoi.online/get.php?username=823024190&password=310870027&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Venus_1",
+        "url": "http://megaplay.uno/get.php?username=40111505&password=90365419&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineMania",
+        "url": "http://vtvbr.com:80/get.php?username=4427004095&password=0154640447&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Wave",
+        "url": "http://cnfl.xyz/get.php?username=43116232&password=32741928&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Ryzen",
+        "url": "http://7xz.dnxs70.site/get.php?username=54220173&password=33217759&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Raio",
+        "url": "http://dnscine.top/get.php?username=57430201&password=90170428&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Thunder_Play",
+        "url": "http://x29.acxll.shop/get.php?username=60798017&password=91935140&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_NetOne",
+        "url": "http://net.cnfl.xyz/get.php?username=63291614&password=61493461&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_BR",
+        "url": "http://topbrr.shop/get.php?username=66079054&password=66121054&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Voltz",
+        "url": "http://vltz.space/get.php?username=62784112&password=87489511&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_SH_Server",
+        "url": "http://sh.dns02.space/get.php?username=75160577&password=34212439&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "CineFlix_Cine_Z",
+        "url": "http://yesme.shop/get.php?username=23240254&password=60228688&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "DonPlay",
+        "url": "http://cddn.site/get.php?username=494563&password=967678&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Seven",
+        "url": "http://vr766.com:80/get.php?username=13663213507&password=25597152916&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Galaxy",
+        "url": "http://galaxy.netpl4y.com/get.php?username=14685401525&password=06763105576&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Lunar",
+        "url": "http://lunar.netpl4y.com/get.php?username=58103123322&password=31677229434&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Speed",
+        "url": "http://obix.fun/get.php?username=48522390039&password=64780385424&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Olympus",
+        "url": "http://olympus.netpl4y.com/get.php?username=17958813718&password=08673329068&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Explosion",
+        "url": "http://explosion.netpl4y.com/get.php?username=51024257045&password=59651201565&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Tita",
+        "url": "http://tita.netpl4y.com/get.php?username=47896267024&password=07126620804&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Sky",
+        "url": "http://facilita.fun:80/get.php?username=51239808909&password=70233860830&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Solar",
+        "url": "http://solar.netpl4y.com/get.php?username=43731091504&password=96905250249&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Urano",
+        "url": "http://cdn.ofmp.site/get.php?username=39128914723&password=72994901806&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Athena",
+        "url": "http://dns.whsv.top:80/get.php?username=84151950873&password=51429075973&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Andromeda",
+        "url": "http://socio.gp4.fun/get.php?username=17100685746&password=79562304183&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Hades",
+        "url": "http://lifeuhd.pbk3.shop/get.php?username=76318557396&password=32504199869&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Venus_2",
+        "url": "http://venus.netpl4y.com/get.php?username=05614750601&password=25603610329&type=m3u_plus&output=mpegts"
+    },
+    {
+        "nome": "NetPlay_Fire",
+        "url": "http://fire.netpl4y.com/get.php?username=68121086492&password=23904172734&type=m3u_plus&output=mpegts"
     }
 ]

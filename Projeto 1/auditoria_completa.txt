@@ -7087,3 +7087,326 @@ EMAILS WEB:   monica@masterengenharia.com.br
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2046 - ELETROMAG INDUSTRIA E COM. DE MAT. ELET. E SERV. DE ENGENH
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21675420000148  |  WEB RAZÃO: Eletromag Industria e Comercio de Material Eletrico e Servicos de Engenharia LTDA
+WEB FANTASIA: Eletromag
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   053657772  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA KOBE, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Kobe, 560, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-645
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3658-4799 / (92) 99132-5712 / (92) 99508-8866
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1467 - ELGIN INDUSTRIA DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14200166000166  |  WEB RAZÃO: Elgin Industrial da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 211.560.109,00
+INSC. EST.:   062002252  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ABURANA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Abiurana, 579, - Dist Industrial, - Manaus/Amazonas, CEP: 69075-010
+
+CONTATO SYS:  SERGIO
+TELEFONE SYS: (92) 2101-9703
+TELEFONE WEB: (11) 3411-2016 / (11) 98673-4746
+EMAILS WEB:   paralegal@elgin.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2765 - ELGIN INDUSTRIAL DA AMAZONIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14200166000590  |  WEB RAZÃO: Elgin Industrial da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 211.560.109,00
+INSC. EST.:   062012991  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVABURANA BL E B, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: Avenida Abiurana, 450, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 0000-0001
+EMAILS WEB:   contabilidade@elgin.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 619 - ELO ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04332052000116  |  WEB RAZÃO: Elo Engenharia Limitada
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 4.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 556201 '
+
+ENDEREÇO SYS: RUA DUQUE DE CAXIAS,, [Vazio] - PRAÇA 14 - MANAUS
+ENDEREÇO WEB: Avenida Duque de Caxias, 978, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-141
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3633-1961
+TELEFONE WEB: (92) 99982-8111
+EMAILS WEB:   ccn1@uol.cim.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2489 - ELOY SIQUEIRA DE JESUS 62418777200
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 42602065000157  |  WEB RAZÃO: Eloy Siqueira de Jesus
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 15.000,00
+INSC. EST.:   054413699  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DO TURISMO, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 13631, - Taruma, - Manaus/Amazonas, CEP: 69041-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99346-2111
+EMAILS WEB:   oficinamelhor@gmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 750 - ELSYS EQUIP. ELETRÔNICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34484188000102  |  WEB RAZÃO: Elsys Equipamentos Eletronicos LTDA
+WEB FANTASIA: Elsys
+CAPITAL SOCIAL (WEB): R$ 100.000.000,00
+INSC. EST.:   06.390.011-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TORQUATO TAPAJOS,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 4780, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3303-1600
+TELEFONE WEB: (19) 2101-0300 / (19) 2101-0305 / (19) 2101-0390
+EMAILS WEB:   regiane.tinareli@elsys.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 63 - ELSYS EQUIP. ELETRÔNICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34484188000102  |  WEB RAZÃO: Elsys Equipamentos Eletronicos LTDA
+WEB FANTASIA: Elsys
+CAPITAL SOCIAL (WEB): R$ 100.000.000,00
+INSC. EST.:   06.200.189-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TORQUATO TAPAJOS,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 4780, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3303-1600/3303-1624
+TELEFONE WEB: (19) 2101-0300 / (19) 2101-0305 / (19) 2101-0390
+EMAILS WEB:   regiane.tinareli@elsys.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1556 - EMBREAGEM DA AMAZONIA COM. DE PEÇAS E PREST. DE SERV.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 24961255000189  |  WEB RAZÃO: Embreagem da Amazonia Comercio de Pecas e Prestacao de Servicos Automotores LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   053856813  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TOQUATO TAPAJOS, [Vazio] - COLÔNIA SANTO ANTÔNIO - MANAUS
+ENDEREÇO WEB: - Manacapuru/Amazonas
+
+CONTATO SYS:  3645-4390
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99213-0025
+EMAILS WEB:   escritacontabil@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1360 - EMPILHATEC EMPLHADEIRAS DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01119521000125  |  WEB RAZÃO: Empilhatec Empilhadeiras da Amazonia LTDA
+WEB FANTASIA: Empilhatec da Amazonia
+CAPITAL SOCIAL (WEB): R$ 150.000,00
+INSC. EST.:   041081099  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CRISANTO JOBIM, [Vazio] - PETROPOLIS - MANAUS
+ENDEREÇO WEB: Rua Crisanto Jobim, 55, - Petropolis, - Manaus/Amazonas, CEP: 69067-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 99114-4496
+TELEFONE WEB: (91) 3663-8937 / (92) 3611-0479 / (92) 3611-4130
+EMAILS WEB:   ---
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1133 - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA AEROPORTUARIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00352294015908  |  WEB RAZÃO: Empresa Brasileira de Infraestrutura Aeroportuaria - Infraero
+WEB FANTASIA: Centro de Suporte Tecnico-Administrativo de Manaus
+CAPITAL SOCIAL (WEB): R$ 2.640.075.655,84
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. SANTOS DUMONT, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  Mariano/Aline/Deborah
+TELEFONE SYS: (92)3652-1169
+TELEFONE WEB: (61) 3312-3600 / (92) 3652-1145 / (92) 3652-1216
+EMAILS WEB:   vilse_portela@infraero.gov.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1215 - EMPRESA DE TRANSPORTE ATLAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 60664828003949  |  WEB RAZÃO: Empresa de Transportes Atlas LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 42.763.198,00
+INSC. EST.:   041775929  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COSME FERREIRA, [Vazio] - COROADO N - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 6442-858
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 98 - ENCOTEL ENGENHARIA E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02939102000100  |  WEB RAZÃO: Novoa Industria e Comercio de Gelo LTDA
+WEB FANTASIA: Novoa Gelo
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ALAMEDA COSME FERREIRA,1225/A-SALA 01-ALEIXO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Estrada Manuel Urbano, Km 1, - Zona Rural, - Iranduba/Amazonas, CEP: 69405-000
+
+CONTATO SYS:  MODESTO FLHO
+TELEFONE SYS: (092)3644-6358
+TELEFONE WEB: (92) 3644-3800 / (92) 6443-800
+EMAILS WEB:   ---
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 133 - ENERGIA PARTICIPACOES E REPRESENTACOES S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02554716000166  |  WEB RAZÃO: Energia Participacoes e Representacoes S/A
+WEB FANTASIA: Enepar
+CAPITAL SOCIAL (WEB): R$ 26.908.115,00
+INSC. EST.:   04.138.871-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: ANHANDUI|,, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Anhandui, 520, - Flores, - Manaus/Amazonas, CEP: 69058-827
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2129-7171 / (92) 2129-7172 / (92) 2129-7173
+EMAILS WEB:   barreto@enepar.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2708 - ENERWAITT ENGENHARIA INDUSTRIA E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07791042001028  |  WEB RAZÃO: Enerwatt Engenharia, Industria e Comercio LTDA
+WEB FANTASIA: Enerwatt Engenharia
+CAPITAL SOCIAL (WEB): R$ 5.100.000,00
+INSC. EST.:   054564956  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ENERTO COSTA, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Ernesto Costa, 600, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-435
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (62) 3091-3456
+EMAILS WEB:   nfe@enerwatt.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 398 - ENGECO ENGENHARIA E CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04959557000105  |  WEB RAZÃO: Engeco Engenharia e Construcoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.800.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. URUCARA, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Mario Ypiranga, 315, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-000
+
+CONTATO SYS:  Kamúiia clente/Pedro
+TELEFONE SYS: (92)2121-5800/ 5861
+TELEFONE WEB: (92) 2121-5800 / (92) 2121-5874
+EMAILS WEB:   nira@engeco.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3132 - ENGELOC COMERCIO DE MAT. DE CONSTRUÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 29379734000105  |  WEB RAZÃO: Engeloc Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: Engeloc Engenharia e Comercio
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CARLOS FLGUEIRAS, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua Carlos Filgueiras, 388, - Japiim, - Manaus/Amazonas, CEP: 69078-480
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3631-8362
+EMAILS WEB:   engeloc.am@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3369 - ENGELOC SERVICOS DE ENGENHARIA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11299487000171  |  WEB RAZÃO: Engeloc Servicos de Engenharia LTDA
+WEB FANTASIA: Engeloc
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CARLOS FLGUEIRAS, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua Carlos Filgueiras, 388, - Japiim, - Manaus/Amazonas, CEP: 69078-480
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3631-8362
+EMAILS WEB:   engeloc.am@gmail.com
+
+LIMITE:       14.631,30  |  SALDO DEVEDOR: 368,70
+--------------------------------------------------------------------------------

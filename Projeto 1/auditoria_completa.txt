@@ -2394,3 +2394,399 @@ EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
 
 LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1025 - CASA CIVL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04312369000190  |  WEB RAZÃO: Estado do Amazonas
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. BRASIL, [Vazio] - COMPENSA |l - MANAUS
+ENDEREÇO WEB: Avenida Brasil, 3925, - Santo Agostinho, - Manaus/Amazonas, CEP: 69036-595
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3303-8310 / (92) 3303-8312 / (92) 3303-8313
+EMAILS WEB:   contabilidade@casacivil.am.gov.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2465 - CASA DE CARNE OTAVIO LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08713624000249  |  WEB RAZÃO: Casa de Carne Otavio LTDA
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   053494768  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SÃO EUSEBIO, [Vazio] - MONTE DAS OLIVERAS - MANAUS
+ENDEREÇO WEB: Rua Sao Eusebio, 03, - Monte das Oliveiras, - Manaus/Amazonas, CEP: 69093-820
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3304-8304 / (92) 3636-1100
+EMAILS WEB:   financeiro@casadacarneotavio.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2009 - CASA DE CARNE OTAVIO LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08713624000168  |  WEB RAZÃO: Casa de Carne Otavio LTDA
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   053494768  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PADRE JOAO RIBEIRO, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Rua Padre Joao Ribeiro, 4, - Cidade Nova, - Manaus/Amazonas, CEP: 69097-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3304-8304
+EMAILS WEB:   financeiro@casadacarneotavio.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 308 - CASA DIAS COM. E REPRES. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01715486000107  |  WEB RAZÃO: Casa Dias Comercio e Representacao LTDA
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   04.133.245-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LEOPOLDO PERES, 687, [Vazio] - EDUCANDOS - MANAUS
+ENDEREÇO WEB: Avenida Leopoldo Peres, 687, - Educandos, - Manaus/Amazonas, CEP: 69070-250
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3624-9216/3624-4022
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1281 - CASA DO ELETRICISTA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04415154000103  |  WEB RAZÃO: Casa do Eletricista LTDA
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   041700686  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SILVA RAMOS, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Silva Ramos, 949, - Centro, - Manaus/Amazonas, CEP: 69025-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3233-1166 / (92) 3622-8968
+EMAILS WEB:   contasapagar@casadoeletricistaam.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1041 - CASA DOS PAINES ELETRICOS LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13050272000148  |  WEB RAZÃO: Casa dos Paineis Eletricos LTDA
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   04.232.567-6  |  INSC. MUN.: 13594201 —
+
+ENDEREÇO SYS: RUA SILVA RAMOS, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Jeronimo Monteiro, 1, - Novo Aleixo, - Manaus/Amazonas, CEP: 69098-228
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3307-8651
+TELEFONE WEB: (92) 98452-6419
+EMAILS WEB:   casadospaineiseletricos@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2025 - CASA GURGEL COM DE MAT DE CONSTRUÇAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10701065000118  |  WEB RAZÃO: Casa Gurgel Comercio de Material de Construcao LTDA
+CAPITAL SOCIAL (WEB): R$ 240.000,00
+INSC. EST.:   042927811  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 23, - Cidade Nova, - Manaus/Amazonas, CEP: 69090-002
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3307-2501 / (92) 3655-2510
+EMAILS WEB:   botelhocontabilidademanaus@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2910 - CASA GURGEL COM MAT DE CONSTRUÇAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10701065000207  |  WEB RAZÃO: Casa Gurgel Comercio de Material de Construcao LTDA
+CAPITAL SOCIAL (WEB): R$ 240.000,00
+INSC. EST.:   054541107  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PROFESSOR ABLIO ALENCAR, [Vazio] - ALVORADA 02 - MANAUS
+ENDEREÇO WEB: Rua Professor Abilio Alencar, 445, - Alvorada, - Manaus/Amazonas, CEP: 69042-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3655-2500 / (92) 99142-9197
+EMAILS WEB:   raquel@casagurgel.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1240 - CASAS DO OLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04559308000122  |  WEB RAZÃO: Casas do Oleo LTDA
+CAPITAL SOCIAL (WEB): R$ 5.623.040,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TEFE, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: Rua Delfim de Souza, 125, - Raiz, - Manaus/Amazonas, CEP: 69068-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3216-3045 / 3214 / 7300
+TELEFONE WEB: (92) 3216-3045 / (92) 99102-1658
+EMAILS WEB:   victor@grupoassayag.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1530 - CASTELL ENGENHARIA EIRELI - EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09516788000168  |  WEB RAZÃO: Castell Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 2.700.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV GENEBRA, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Genebra, 25, - Planalto, - Manaus/Amazonas, CEP: 69045-380
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99210-7945
+EMAILS WEB:   contratos@castellengenharia.eng.br
+
+LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3172 - CB MANAUS COMÉRCIO DE ALMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 27220036000137  |  WEB RAZÃO: Cb Manaus Comercio de Alimentos LTDA
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   05.388.786-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 5705, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  ENEDINA
+TELEFONE SYS: 92- 99351-4850
+TELEFONE WEB: (92) 3667-7430
+EMAILS WEB:   samuel.pedrosa@cocobambu.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1917 - CDL CENTRO DE DISTRIBUIÇÃO E LOG. LIDA-COROADO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000143  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   041438264  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 3700, - Coroado, - Manaus/Amazonas, CEP: 69082-230
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-2843
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2634 - CDL CENTRO DE DISTRIBUICAO E LOGISTICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000658  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   054436257  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV PROFESSOR NILTON LINS, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Professor Nilton Lins, 1360, - Flores, - Manaus/Amazonas, CEP: 69058-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-2843
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1921 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000577  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   054073960  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. GOVERNADOR JOSE LINDOSO, [Vazio] - NOVO ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Governador Jose Lindoso, 3007, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-287
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-2843
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 846 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000143  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   04-143826-4  |  INSC. MUN.: 96174-0—--
+
+ENDEREÇO SYS: AV. COSME FERREIRA,, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 3700, - Coroado, - Manaus/Amazonas, CEP: 69082-230
+
+CONTATO SYS:  (92)21262863
+TELEFONE SYS: (92) 3214-1500
+TELEFONE WEB: (92) 2126-2843
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1919 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LTDA - COROADO AN
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000305  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   053256174  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 3727, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3214-1515
+TELEFONE WEB: (92) 2126-2843
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1920 - CDL CENTRO DE DISTRIBUIÇÃO E LOGISTICA LIDA-DOM PEDRO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000496  |  WEB RAZÃO: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   053853806  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DOM PEDRO |, [Vazio] - DOM PEDRO - MANAUS
+ENDEREÇO WEB: 
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2126-2801
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1918 - CDL CENTRO DE DISTRIBUIÇÃO LTDA-FLORES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03488542000224  |  WEB RAZÃO: Cdl Centro de Distribuicao e Logistica LTDA
+CAPITAL SOCIAL (WEB): R$ 6.320.000,00
+INSC. EST.:   053179170  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 1878, - Flores, - Manaus/Amazonas, CEP: 69058-415
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3581-9292
+TELEFONE WEB: (92) 2126-2801 / (92) 2126-2843 / (92) 98100-9385
+EMAILS WEB:   fisco.federal@dunorte.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2578 - CDTECH AMAZONIA CONSTRUTORA E TECNOLOGIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 27217321000107  |  WEB RAZÃO: Cdtech Amazonia Construtora e Tecnologia LTDA
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   054439701  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RARGUERITA, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   contato@cdtech.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1098 - CEFISSO EMPR. IMOB. LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12492607000115  |  WEB RAZÃO: Cefisso Empreendimentos Imobiliarios LTDA Spe em Recuperacao Judicial em Recuperacao Judicial
+CAPITAL SOCIAL (WEB): R$ 55.001.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 8439-5043
+TELEFONE WEB: (11) 4058-2000 / (92) 2101-5800
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 448 - CEMOM-CONDOMÍNIO DO CENTRO MÉDICO E ODONTOLÓGICO DE h
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63694053000170  |  WEB RAZÃO: Condominio do Centro Medico e Odontologico de Manaus
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. ACRE, 12-VEIRALVES, [Vazio] - NOSSA SRA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 760, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3584-7100
+TELEFONE WEB: (92) 3584-7100
+EMAILS WEB:   admcemom@hotmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1738 - CEMUSAAMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05465332000165  |  WEB RAZÃO: Jcdecaux Norte-Nordeste LTDA
+CAPITAL SOCIAL (WEB): R$ 15.800.032,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA NICOLAU, [Vazio] - SAO FRANCISCO - MANAUS
+ENDEREÇO WEB: Avenida Dra Ruth Cardoso, 7815, - Pinheiros, - São Paulo/São Paulo, CEP: 05425-905
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2222-1516
+EMAILS WEB:   brazil.fiscalbr@jcdecaux.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

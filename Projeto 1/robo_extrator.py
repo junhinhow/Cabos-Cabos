@@ -108,7 +108,9 @@ def buscar_web(cnpj):
     prefs = {"profile.default_content_setting_values.notifications": 2}
     options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome(options=options)
-    web_data = {'razao': '---', 'endereco': '---', 'telefone': '---', 'email': '---', 'capital': '---'}
+    
+    # Adicionamos 'fantasia' ao dicionário
+    web_data = {'razao': '---', 'fantasia': '---', 'endereco': '---', 'telefone': '---', 'email': '---', 'capital': '---'}
     
     try:
         driver.execute_cdp_cmd('Network.enable', {})
@@ -132,10 +134,14 @@ def buscar_web(cnpj):
         print_nuclear_cdp(driver, caminho_print)
         print(f"   📸 Print salvo: {caminho_print}")
 
+        # --- COLETA DE DADOS ---
         razao = get_text_safe(driver, "//p[contains(., 'Razão Social')]//b")
         if razao: web_data['razao'] = razao
 
-        # --- CAPITAL SOCIAL ---
+        # NOVO: Nome Fantasia
+        fantasia = get_text_safe(driver, "//p[contains(., 'Nome Fantasia')]//b")
+        if fantasia: web_data['fantasia'] = fantasia
+
         capital = get_text_safe(driver, "//p[contains(., 'Capital Social')]//b")
         if capital: web_data['capital'] = capital
 
@@ -181,9 +187,14 @@ def salvar_relatorio(sis, web):
     bloco += f"AUDITORIA DO CLIENTE: {sis.get('CLIENTE_ID', '')} - {sis.get('CLIENTE_NOME', '')}\n"
     bloco += f"{sep}\n"
     insc_est = formatar_inscricao(sis.get('INSC_ESTADUAL', ''))
+    
     bloco += f"CNPJ SISTEMA: {sis.get('CNPJ', '')}  |  WEB RAZÃO: {web['razao']}\n"
+    # --- NOVO: FANTASIA ---
+    bloco += f"WEB FANTASIA: {web['fantasia']}\n"
+    # ----------------------
     bloco += f"CAPITAL SOCIAL (WEB): {web['capital']}\n"
     bloco += f"INSC. EST.:   {insc_est}  |  INSC. MUN.: {sis.get('INSC_MUNICIPAL', '')}\n\n"
+    
     bloco += f"ENDEREÇO SYS: {sis.get('ENDERECO', '')}, {sis.get('COMPLEMENTO', '')} - {sis.get('BAIRRO', '')} - {sis.get('CIDADE', '')}\n"
     bloco += f"ENDEREÇO WEB: {web['endereco']}\n\n"
     bloco += f"CONTATO SYS:  {sis.get('CONTATO', '')}\n"

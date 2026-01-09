@@ -3,6 +3,7 @@
 AUDITORIA DO CLIENTE: 445 - ACE ENGENHARIA SERVIÇOS COMÉRCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00766627000158  |  WEB RAZÃO: Ace Engenharia Servicos Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   04.104.322-7  |  INSC. MUN.: —
 
 ENDEREÇO SYS: DALLAS, QD C, LT 10-CJ RESD. DALLAS, [Vazio] - FLORES - MANAUS
@@ -20,6 +21,7 @@ LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 769 - AGRA BERGEN NCORPORADORA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09591137000132  |  WEB RAZÃO: Agra Bergen Incorporadora LTDA
+CAPITAL SOCIAL (WEB): R$ 13.078.868,07
 INSC. EST.:   ISENTO  |  INSC. MUN.: 13737601 —
 
 ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - CHAPADA - MANAUS
@@ -37,6 +39,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 608 - AKIPLAST INDUSTRIA E COMERCIO DE EMBALAGENS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 11794533000109  |  WEB RAZÃO: Akiplast Industria e Comercio de Embalagens LTDA
+CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   04228433-3  |  INSC. MUN.: —
 
 ENDEREÇO SYS: BOTAFOGO, [Vazio] - CIDADE DE DEUS - MANAUS
@@ -54,6 +57,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2178 - AGUIAR COMERCIO E REP. DE MOVEIS LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 01429054000130  |  WEB RAZÃO: Aguiar Comercio e Representacoes de Moveis LTDA
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   041092295  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AVENIDA MARIO YPIRANGA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
@@ -71,6 +75,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2050 - AJL SERVIÇOS LTIDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14743529000100  |  WEB RAZÃO: Ajl Servicos LTDA
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
 INSC. EST.:   053186036  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. AYRAO, [Vazio] - CENTRO - MANAUS
@@ -88,6 +93,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2674 - AKO ADMINISTRADORA DE IMOVEIS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14402379000170  |  WEB RAZÃO: Ako Administradora de Imoveis LTDA
+CAPITAL SOCIAL (WEB): R$ 5.702.341,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV AUTAZ MIRM, [Vazio] - TANCREDO NEVES - MANAUS
@@ -105,6 +111,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2283 - ALAMO ENGENHARIA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34125294000108  |  WEB RAZÃO: Alamo Engenharia S/A
+CAPITAL SOCIAL (WEB): R$ 7.040.000,00
 INSC. EST.:   81419078  |  INSC. MUN.: —
 
 ENDEREÇO SYS: R ESTEVES JUNIOR, [Vazio] - LARANJERAS - RIO DE JANEIRO
@@ -122,6 +129,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 314 - ALBERTINA DE FATIMA PEREIRA PINTO ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14208490000120  |  WEB RAZÃO: J R P Viegas da Amazonia LTDA
+CAPITAL SOCIAL (WEB): R$ 110.000,00
 INSC. EST.:   04..212.749-1  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AVENDIDA LEOPOLDO PERES, 146, [Vazio] - EDUCANDOS - MANAUS
@@ -139,6 +147,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3456 - ALFATEC NDUSTRIA E COMERCIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 34582973000106  |  WEB RAZÃO: Alfatec Industria e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 6.101.800,00
 INSC. EST.:   063001390  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV MANDII, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
@@ -156,6 +165,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1779 - ALIA UTO POSTO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 28165742000196  |  WEB RAZÃO: Auto Posto de Combustiveis Ali LTDA
+CAPITAL SOCIAL (WEB): R$ 804.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. DESEMBARGADOR JOÃO MACHADO, [Vazio] - ALVORADA - MANAUS
@@ -173,6 +183,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1680 - ALIANCA EQUIPAMENTOS PARA CONTEINERES DE MANAUS LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06298508000102  |  WEB RAZÃO: Alianca Equipamentos Para Conteineres de Manaus LTDA
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   041459636  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. PRESDENTE KENNEDY, [Vazio] - EDUCANDOS - MANAUS
@@ -190,6 +201,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 651 - ALIANÇA SERVIÇOS DE EDFICAÇÕES
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 06044947000180  |  WEB RAZÃO: Link Solucoes em Logistica Integrada LTDA
+CAPITAL SOCIAL (WEB): R$ 6.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 10871701 —
 
 ENDEREÇO SYS: VIALOCAL SUL,, COLEGIO ARUANA - COMPENSA | - MANAUS
@@ -207,6 +219,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3053 - ALLOS S.A.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05878397000809  |  WEB RAZÃO: Allos S.a.
+CAPITAL SOCIAL (WEB): R$ 4.190.769.244,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV MARIO YPIRANGA, [Vazio] - ADRIANOPOLIS - MANAUS
@@ -224,6 +237,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3053 - ALLOS S.A.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 05878397000809  |  WEB RAZÃO: Allos S.a.
+CAPITAL SOCIAL (WEB): R$ 4.190.769.244,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV MARIO YPIRANGA, [Vazio] - ADRIANOPOLIS - MANAUS
@@ -241,6 +255,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 645 - ALPINA BRIGGS DEFESAAMBIENTAL S/A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04050400000243  |  WEB RAZÃO: Albriggs Defesa Ambiental S.a.
+CAPITAL SOCIAL (WEB): R$ 9.550.000,00
 INSC. EST.:   04.214.101-0  |  INSC. MUN.: —
 
 ENDEREÇO SYS: QUIXITO,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
@@ -258,6 +273,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2167 - ALTEROSA EMPREENDIMENTOS IMOBLIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 28014788000376  |  WEB RAZÃO: Alterosa Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RACRE, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
@@ -275,6 +291,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2364 - AMARILDO DOS S. FIGUEIREDO EIREL|
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 32770774000198  |  WEB RAZÃO: Amarildo dos S. Figueiredo LTDA
+CAPITAL SOCIAL (WEB): R$ 1.100.000,00
 INSC. EST.:   05.407.329-4  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV MARGARITA, [Vazio] - CIDADE DE DEUS - MANAUS
@@ -292,6 +309,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1723 - AMATURA EMPREENDIMENTOS IMOBILIARIOS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 32039850000270  |  WEB RAZÃO: Amatura Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUAACRE, [Vazio] - N. S. DAS GRACAS - MANAUS
@@ -309,6 +327,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2933 - AMAZON ACO COMERCIO DE ACO LTDA ALVORADA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27601807000136  |  WEB RAZÃO: Amazon Aco Comercio de Aco LTDA
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   053906780  |  INSC. MUN.: —
 
 ENDEREÇO SYS: R PROFESSOR ABLIO ALENCAR, [Vazio] - ALVORADA - MANAUS
@@ -326,6 +345,7 @@ LIMITE:       1.000.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 058 - AMAZON ACO COMERCIO DE ACO LTDA TIMBIRAS
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 27601807000489  |  WEB RAZÃO: Amazon Aco Comercio de Aco LTDA
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   054539455  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV TIMBIRAS, [Vazio] - CIDADE NOVA - MANAUS
@@ -343,6 +363,7 @@ LIMITE:       49.520,00  |  SALDO DEVEDOR: 480,00
 AUDITORIA DO CLIENTE: 2846 - AMAZON COMERCIO DE FERRAGENS E SERVIÇOS DE INSTALACA(
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 17127759000213  |  WEB RAZÃO: Amazon Comercio de Ferragens e Servicos de Instalacao Ltda.
+CAPITAL SOCIAL (WEB): R$ 300.000,00
 INSC. EST.:   054104858  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA FERREIRA PENA, [Vazio] - CENTRO - MANAUS
@@ -360,6 +381,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3052 - AMAZON EMPREENDIMENTOS E PARTICIPAÇÕES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10278825000126  |  WEB RAZÃO: Amazon Empreendimentos e Participacoes LTDA
+CAPITAL SOCIAL (WEB): R$ 16.042.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV PURAQUEQUARA, [Vazio] - PURAQUEQUARA - MANAUS
@@ -377,6 +399,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 924 - AMAZON NCORPORACOES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 10560737000112  |  WEB RAZÃO: Amazon Incorporacoes LTDA
+CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: I
 
 ENDEREÇO SYS: AV TORQUATO TAPAJOS, [Vazio] - SANTA ETELVINA - MANAUS
@@ -394,6 +417,7 @@ LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3079 - AMAZON INDUSTRIA DE ALUMINIO LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 52454339000161  |  WEB RAZÃO: Amazon Industria de Aluminio LTDA
+CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   063012375  |  INSC. MUN.: —
 
 ENDEREÇO SYS: Rua Bambuzinho, [Vazio] - DISTRITO IND. | - MANAUS
@@ -412,6 +436,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 328 - AMAZON REFRIGERANTES LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02402867000107  |  WEB RAZÃO: Amazon Industria de Gelo e Bebidas LTDA
+CAPITAL SOCIAL (WEB): R$ 8.000.000,00
 INSC. EST.:   06.200.157-4  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA JOSE ROMÃO, 476, [Vazio] - ALEIXO - MANAUS
@@ -429,6 +454,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 204 - AMAZON SHIP CHANDLER
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 23013030000138  |  WEB RAZÃO: Rui Antonio Colares
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   04.190.406-0  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA: 21 DE AGOSTO, 14, [Vazio] - ALVORADA |l - MANAUS
@@ -446,6 +472,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3471 - AMAZON TRANSPORTES RODOVIARIO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07861352000180  |  WEB RAZÃO: Amazon Transportes Rodoviarios Ltda.
+CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   054213460  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. PURAQUEQUARA, [Vazio] - PURAQUEQUARA - MANAUS
@@ -463,6 +490,7 @@ LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1885 - AMAZONAS DISTRIBUIDORA DE ENERGIA S.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02341467001879  |  WEB RAZÃO: Amazonas Energia S.a
+CAPITAL SOCIAL (WEB): R$ 11.146.666.993,18
 INSC. EST.:   04.137.241-7  |  INSC. MUN.: —
 
 ENDEREÇO SYS: EST TORQUATO TAPAJOS, [Vazio] - FLORES - MANAUS
@@ -480,6 +508,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2304 - AMAZONAS PRODUTORA CINEMATOGRAFICA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 14899567000156  |  WEB RAZÃO: Bra Producao e Aluguel de Equipamentos LTDA
+CAPITAL SOCIAL (WEB): R$ 7.000.000,00
 INSC. EST.:   053599039  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV DJALMA BATISTA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
@@ -497,6 +526,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 148 - AMAZONGAS DISTRIB. DE GAS LIQUEF. DE PETROLEO LTIDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04957650000180  |  WEB RAZÃO: Amazongas Distrib de Gas Liquef de Petroleo LTDA
+CAPITAL SOCIAL (WEB): R$ 100.875.574,00
 INSC. EST.:   041765834  |  INSC. MUN.: 3044201 —
 
 ENDEREÇO SYS: R RiO QUIXITO, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
@@ -514,6 +544,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 444 - AMCC ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 24996902000198  |  WEB RAZÃO: A M C C Telecom LTDA
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
 INSC. EST.:   10.383.746-9  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA DOS TECELOES, [Vazio] - FLORES - MANAUS
@@ -531,6 +562,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2472 - ANGELIM ENGENHARIA LTDA.
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 31561768000158  |  WEB RAZÃO: ---
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA MARAJAI|, [Vazio] - CIDADE DE DEUS - MANAUS
@@ -548,6 +580,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 728 - ANTONIO EDLSON ALVES DE MORAIS ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03505156000112  |  WEB RAZÃO: Antonio Edilson Alves de Morais
+CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   05.001.859-0  |  INSC. MUN.: 13256801 —
 
 ENDEREÇO SYS: DRA HELOISA,, [Vazio] - ZUMBI DOS PALMARES - MANAUS
@@ -565,6 +598,7 @@ LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 859 - ANTONIO TORRES DA COSTA FLHO
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07239260000163  |  WEB RAZÃO: Antonio Torres da Costa Filho
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: 12377-01
 
 ENDEREÇO SYS: RUA PIRARURUCU, [Vazio] - JORGE TEXEIRA - MANAUS
@@ -582,6 +616,7 @@ LIMITE:       4.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 301 - APA COMERCIO DE MOVEIS LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07382118000170  |  WEB RAZÃO: A. P. A. Comercio de Moveis LTDA
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
 INSC. EST.:   04.214.068-4  |  INSC. MUN.: —
 
 ENDEREÇO SYS: ROCHA DOS SANTOS,, [Vazio] - CENTRO - MANAUS
@@ -599,6 +634,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 401 - APB INFORMÁTICA LTDA - ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03217412000176  |  WEB RAZÃO: A. P. B Informatica LTDA
+CAPITAL SOCIAL (WEB): R$ 100.000,00
 INSC. EST.:   04.141.705-4  |  INSC. MUN.: 90.922-01 ——
 
 ENDEREÇO SYS: AV. CARVALHO LEAL , 1ANDAR,, [Vazio] - CACHOEIRINHA - MANAUS
@@ -616,6 +652,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1045 - API SPE 10 PLANEJAMENTO E DESENVOLVIMENTO IMOBL.LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08693339000122  |  WEB RAZÃO: Api Spe 10 Planejamento e Desenvolvimento de Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 8.491.164,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV DJALMA BATISTA AND 09, [Vazio] - CHAPADA - MANAUS
@@ -633,6 +670,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 796 - API SPE22 PLANEJAMENTO E DESENV DE EMPREEND IMOB LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08861328000104  |  WEB RAZÃO: Ponta Negra Planejamento e Desenvolvimento de Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 5.736.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: DJALMA BATISTA, [Vazio] - CHAPADA - MANAUS
@@ -650,6 +688,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 671 - ARAMARA CONSTR. COM. E REPRES. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 02346562000117  |  WEB RAZÃO: Aramara-Construcao,Comercio e Representacoes LTDA
+CAPITAL SOCIAL (WEB): R$ 908.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AINOA,, [Vazio] - DOM PEDRO - MANAUS
@@ -667,6 +706,7 @@ LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1028 - ARC ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07966845000185  |  WEB RAZÃO: Arc Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 114.3417-01
 
 ENDEREÇO SYS: RUA IGARAPE DAAGUA PRETA, [Vazio] - ARMANDO MENDES - MANAUS
@@ -684,6 +724,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1407 - ARDO CONSTRUTORA E PAVIMENTAÇÃO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07354898000145  |  WEB RAZÃO: Ardo - Construtora e Pavimentacao LTDA
+CAPITAL SOCIAL (WEB): R$ 20.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 13567201
 
 ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - SANTA ETELVINA - MANAUS
@@ -701,6 +742,7 @@ LIMITE:       75.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 895 - ARENA PETROLEO REVENDA DE COMBUSTIVEL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 13888948000177  |  WEB RAZÃO: Arena Petroleo Revenda de Combustiveis LTDA
+CAPITAL SOCIAL (WEB): R$ 1.295.000,00
 INSC. EST.:   04.234.846-3  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV.CONSTANTINO NERY, [Vazio] - FLORES - MANAUS
@@ -718,6 +760,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 292 - ARMOR BRASIL IND. E COM. DE FITAS PARA MPRESSÃO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 08979043000172  |  WEB RAZÃO: Armor Brasil Industria e Comercio de Fitas Para Impressao LTDA
+CAPITAL SOCIAL (WEB): R$ 17.970.323,00
 INSC. EST.:   06.300.507-7  |  INSC. MUN.: 119.834-01 —
 
 ENDEREÇO SYS: av torquato tapajos, [Vazio] - COLONIA TERRA NOVA - MANAUS
@@ -735,6 +778,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 678 - AROCO E PEREIRA CONSTRUÇÕES LTDA - ME
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12320624000175  |  WEB RAZÃO: Ermha Construcao LTDA
+CAPITAL SOCIAL (WEB): R$ 200.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: COSTAAZEVEDO,, [Vazio] - CENTRO - MANAUS
@@ -752,6 +796,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1594 - ARQSET SERVICOS DE ARQUITETURA E ENGENHARIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18966125000136  |  WEB RAZÃO: Arqset Servicos de Arquitetura e Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
 
 ENDEREÇO SYS: R DUARTE DA COSTA, [Vazio] - DOM PEDRO | - MANAUS
@@ -769,6 +814,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1470 - ARRIS NDUSTRIA ELETRONICA DO BRASI LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 09154836000115  |  WEB RAZÃO: Arris Industria Eletronica do Brasil LTDA
+CAPITAL SOCIAL (WEB): R$ 116.892.155,00
 INSC. EST.:   062005952  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUAANHANDUI, [Vazio] - FLORES - MANAUS
@@ -786,6 +832,7 @@ LIMITE:       17.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 108 - ART LUX DAAMAZÔNIA CLICHERIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04672540000172  |  WEB RAZÃO: Locarte Locacao de Equipamentos Para Escritorio LTDA
+CAPITAL SOCIAL (WEB): R$ 120.000,00
 INSC. EST.:   04.148.743-5  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. PRESDENTE KENNEDY N 77, [Vazio] - SANTA LUZIA - MANAUS
@@ -803,6 +850,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 348 - ARUANDA TEC. E COMÉRCIO DE EQUIP. IND. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 00289279000175  |  WEB RAZÃO: Aruanda Tecnologia e Comercio de Equipamentos Industriais LTDA
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   04.108.577-9  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. TEFE, 23, [Vazio] - RAIZ - MANAUS
@@ -820,6 +868,7 @@ LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: [Vazio] - ASLAN CURSOS DE DIOMAS
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 12403015000180  |  WEB RAZÃO: Aslan Curso de Idiomas LTDA
+CAPITAL SOCIAL (WEB): R$ 45.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: DA LUA, [Vazio] - ALEIXO - MANAUS
@@ -837,6 +886,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 746 - ASSOC. ADVENTISTA NORTE BRAS. DE PREV. ASSIST. À SAÚDE
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 83367342000767  |  WEB RAZÃO: Associacao Adventista Norte Brasileira de Prevencao e Assistencia A Saude
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: GOVERNADOR DANILO AREOSA,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
@@ -854,6 +904,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1253 - ASSOCIAÇÃO DE EDUCAÇÃO LATO SENSU DO BRASIL
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 63693014000158  |  WEB RAZÃO: Associacao de Educacao Lato Sensu do Brasil
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA COS, [Vazio] - ADRIANOPOLIS - MANAUS
@@ -871,6 +922,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1604 - ASSOCIACAO DO STUDIO 5 SHOPPING
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 33386796000111  |  WEB RAZÃO: Associacao do Studio 5 Shopping
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV RODRIGO OTAVIO, [Vazio] - CRESPO - MANAUS
@@ -888,6 +940,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 3283 - ASSOCIACAO DOS EMPREENDEDORES DO SMVN
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 30545997000126  |  WEB RAZÃO: Associacao dos Empreendedores do Smvn
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   ISENTO  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. ARQUITETO JOSE HENRIQUES BENTO RODRIGUES, [Vazio] - SANTA ETELVINA - MANAUS
@@ -905,6 +958,7 @@ LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1135 - ATACADAO DISTRIBUICAO COM E IND LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333011909  |  WEB RAZÃO: Atacadao S.a.
+CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053206193  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. AUTAZ MIRIM, [Vazio] - ZUMBI DOS PALMARES - MANAUS
@@ -922,6 +976,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
+CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053407490  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
@@ -939,6 +994,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2939 - ATACADAO DISTRIBUICAO COMERCIO E INDUSTRIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333014916  |  WEB RAZÃO: Atacadao S.a.
+CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053407490  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - CIDADE NOVA - MANAUS
@@ -956,6 +1012,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1087 - ATACADÃO DISTRIBUIÇÃO COMÉRCIO E NDÚSTRIA LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333011810  |  WEB RAZÃO: Atacadao S.a.
+CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   053206983  |  INSC. MUN.: ISENTO '
 
 ENDEREÇO SYS: AV. AUTAZ MIRIM, [Vazio] - ZUMBI DOS PALMARES - MANAUS
@@ -973,6 +1030,7 @@ LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2823 - ATACADAO S.A.A
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 75315333028119  |  WEB RAZÃO: Atacadao S.a.
+CAPITAL SOCIAL (WEB): R$ 17.304.241.526,26
 INSC. EST.:   05.426.623-8  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. LOURENÇO DA SLVA BRAGA, [Vazio] - CENTRO - MANAUS
@@ -991,6 +1049,7 @@ LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 798 - ATEM'S DISTRIBUDORA DE PETRÓLEO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 03987364000103  |  WEB RAZÃO: Atem's Distribuidora de Petroleo S.a.
+CAPITAL SOCIAL (WEB): R$ 718.288.726,61
 INSC. EST.:   04.145.537-1  |  INSC. MUN.: 9772701 —
 
 ENDEREÇO SYS: PAJURÁ,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
@@ -1008,6 +1067,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2010 - ATLAS COPCO BRASL LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 57029431004004  |  WEB RAZÃO: Atlas Copco Brasil LTDA
+CAPITAL SOCIAL (WEB): R$ 138.446.361,00
 INSC. EST.:   042231787  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA CUMICUM, [Vazio] - ALEIXO - MANAUS
@@ -1025,6 +1085,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2 - AURORA DA AMAZÔNIA TERMINAIS E SERV. LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 04694548000130  |  WEB RAZÃO: Aurora da Amazonia Terminais e Servicos LTDA
+CAPITAL SOCIAL (WEB): R$ 400.000,00
 INSC. EST.:   04.149.789-9  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA MINISTRO JOÃO GONÇALVES DE ARAUJO, 472, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
@@ -1042,6 +1103,7 @@ LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1659 - AUTO POSTO UNIAO LTDA
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 23029382000181  |  WEB RAZÃO: Auto Posto Uniao LTDA
+CAPITAL SOCIAL (WEB): R$ 40.000,00
 INSC. EST.:   042261902  |  INSC. MUN.: —
 
 ENDEREÇO SYS: AV. SLVES, [Vazio] - CRESPO - MANAUS
@@ -1059,6 +1121,7 @@ LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 336 - AUTOSERVIÇO PROCESSAMENTO DE DADOS LTDA-EPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 07306406000146  |  WEB RAZÃO: Autoservico Processamento de Dados LTDA
+CAPITAL SOCIAL (WEB): R$ 500.000,00
 INSC. EST.:   04..225.278-4  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA TAPAJOS, 796, [Vazio] - CENTRO - MANAUS
@@ -1076,6 +1139,7 @@ LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 1767 - AVANÇO CONSTRUÇÕES E COM. DE ELET. ERELHEPP
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 18145858000100  |  WEB RAZÃO: Avanco S/A
+CAPITAL SOCIAL (WEB): R$ 45.000.000,00
 INSC. EST.:   ISENTO  |  INSC. MUN.: 21063801 —
 
 ENDEREÇO SYS: RUA ATAGAMITA, [Vazio] - ALEIXO - MANAUS
@@ -1093,6 +1157,7 @@ LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 AUDITORIA DO CLIENTE: 2650 - B2 POLIMEROS INDUSTRIAIS DE PLASTICOS DA AMAZONIA LTDA0€
 --------------------------------------------------------------------------------
 CNPJ SISTEMA: 39693319000185  |  WEB RAZÃO: B2 Polimeros Industria de Plasticos da Amazonia LTDA
+CAPITAL SOCIAL (WEB): Não detectado no print
 INSC. EST.:   063010712  |  INSC. MUN.: —
 
 ENDEREÇO SYS: RUA FRANCISCO BATISTA DIAS, [Vazio] - PURAQUEQUARA - MANAUS

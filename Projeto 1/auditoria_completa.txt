@@ -2790,3 +2790,309 @@ EMAILS WEB:   brazil.fiscalbr@jcdecaux.com
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2611 - CENESUP- CENTRO NACIONAL DE ENSINO SUPERIOR LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05474470002154  |  WEB RAZÃO: Cenesup - Centro Nacional de Ensino Superior LTDA
+CAPITAL SOCIAL (WEB): R$ 692.079.716,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 10 DE JULHO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua 10 de Julho, 873, - Centro, - Manaus/Amazonas, CEP: 69010-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (81) 3413-4611
+EMAILS WEB:   contabilidade@sereducacional.com
+
+LIMITE:       45.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 821 - CENTAURUS MOTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04210890000117  |  WEB RAZÃO: Centaurus Motos Ltda.
+CAPITAL SOCIAL (WEB): R$ 1.606.147,00
+INSC. EST.:   04.146.450-8  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AUTAZ MIRIM,, [Vazio] - SAO JOSE | - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 6571, - Sao Jose Operario, - Manaus/Amazonas, CEP: 69085-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2125-1414/2125-1426
+TELEFONE WEB: (65) 2123-7707 / (65) 2123-7721
+EMAILS WEB:   societario@grupocanopus.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 438 - CENTRO DE ASSIST. AO DES. DE FORM. PROF. UNICEL LTDA-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03754112000126  |  WEB RAZÃO: Sociedade de Ensino Superior Estacio Amazonas LTDA
+CAPITAL SOCIAL (WEB): R$ 53.606.573,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 95309-01/---
+
+ENDEREÇO SYS: CONSTANTINO NERY, 3693, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 3693, - Chapada, - Manaus/Amazonas, CEP: 69050-001
+
+CONTATO SYS:  JANAÍNA
+TELEFONE SYS: (92)3212-8900/8910/8902/8908
+TELEFONE WEB: (92) 3656-8251 / (92) 6332-730
+EMAILS WEB:   fiscal@estacio.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 439 - CENTRO DE ASSIST. AO DESENV. PROFISS. UNICEL LTDA-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11301060000160  |  WEB RAZÃO: Centro de Educacao Profissional LTDA
+CAPITAL SOCIAL (WEB): R$ 6.420.858,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RIO IÇÁ,, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Para, 165, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-575
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3584-1925
+TELEFONE WEB: (92) 3212-8940 / (92) 3305-2268
+EMAILS WEB:   fiscal@literatus.edu.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 437 - CENTRO DE ASSISTÊNCIAAO DESENVOLVIMENTO DA CRIANÇA LTI
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63677827000154  |  WEB RAZÃO: Centro de Assistencia Ao Desenvolvimento da Crianca LTDA
+CAPITAL SOCIAL (WEB): R$ 120.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 60251-01/ ——
+
+ENDEREÇO SYS: JORNALISTA HUMBERTO CALDERARO FILHO,, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Paraiba, 935, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-021
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3611-1331/3212-8
+TELEFONE WEB: (92) 2341-068 / (92) 3584-1925
+EMAILS WEB:   analista.fiscal@literatus.edu.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 440 - CENTRO DE ASSISTÊNCIAAO DESENVOLVIMENTO PROFISSIONAL |
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03754112000479  |  WEB RAZÃO: Sociedade de Ensino Superior Estacio Amazonas LTDA
+CAPITAL SOCIAL (WEB): R$ 53.606.573,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 248, 52, QUADRA 439, NUCLEO 23, [Vazio] - CIDADE NOVAS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3641-5199
+TELEFONE WEB: (92) 3212-8940 / (92) 3656-4121
+EMAILS WEB:   fiscal@literatus.edu.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2015 - CENTRO DE TECNOLOGIA DE SOFTWARE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06023804000273  |  WEB RAZÃO: Centro de Tecnologia de Software LTDA
+CAPITAL SOCIAL (WEB): R$ 3.800.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. GOVERNADOR DANILOMATOS AREOSA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: - Brasília/Distrito Federal
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (61) 3051-2800
+EMAILS WEB:   contabilidade@grupoicts.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1505 - CENTRO DO ALUMINIO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01466897000106  |  WEB RAZÃO: Centro do Aluminio LTDA
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   041096320  |  INSC. MUN.: 7593701
+
+ENDEREÇO SYS: AV. TANCREDO NEVES LT PQ SHANGRLA |, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3643-9000
+TELEFONE WEB: (92) 3249-2944 / (92) 3643-9015
+EMAILS WEB:   ---
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2774 - CEU AZUL EMPREENDIMENTOS IMOBLLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 40726730000199  |  WEB RAZÃO: Ceu Azul Empreendimentos Imobiliarios LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RACRE, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5400
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 952 - CHADIZADO MILAGRE TALLEDO FIGAR! ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08077797000137  |  WEB RAZÃO: Chadiza do Milagre Talledo Figari
+CAPITAL SOCIAL (WEB): R$ 20.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 12893201 —
+
+ENDEREÇO SYS: AV GETULIO VARGAS, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3622-4097/9337-3530
+TELEFONE WEB: (92) 3877-4551 / (92) 99104-2127
+EMAILS WEB:   pfc_am@yahoo.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 661 - CHALLENGER DAAMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12901599000113  |  WEB RAZÃO: Challenger da Amazonia Industria de Pecas Para Veiculos Automotores LTDA
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   063007673  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DOS OMS, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 6.247, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-002
+
+CONTATO SYS:  SEVERINO
+TELEFONE SYS: 3237-1112/ 3231-2000
+TELEFONE WEB: (92) 3234-2759 / (92) 3633-6948
+EMAILS WEB:   fiscal@consag.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1824 - CHECK UP HOSPITAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05460308000133  |  WEB RAZÃO: Check Up Hospital Ltda.
+CAPITAL SOCIAL (WEB): R$ 13.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. PARAIBA, [Vazio] - SAO FRANCISCO - MANAUS
+ENDEREÇO WEB: Avenida Paraiba, 500, - Sao Francisco, - Manaus/Amazonas, CEP: 69079-265
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2125-5970 / (92) 2125-5971
+EMAILS WEB:   contabilidade@checkuphospital.com.br
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1399 - CHIBATÃO - NAVEGAÇÃO E COM. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84098383000768  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 349.600.000,00
+INSC. EST.:   042342864  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA ZEBU, [Vazio] - COLONIA OLIVERA MACHADO - MANAUS
+ENDEREÇO WEB: Avenida Presidente Kennedy, 920, - Colonia Oliveira Machado, - Manaus/Amazonas, CEP: 69074-000
+
+CONTATO SYS:  MARY ANNE
+TELEFONE SYS: 2129-1900/ 1917/1925
+TELEFONE WEB: (92) 2129-1900
+EMAILS WEB:   contabilidade@portochibatao.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1319 - CHIBATAO - NAVEGACAO E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84098383000172  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 349.600.000,00
+INSC. EST.:   041224582  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ZEBU, [Vazio] - COL. OLV. MACHADO - MANAUS
+ENDEREÇO WEB: Rua Zebu, 201, - Colonia Oliveira Machado, - Manaus/Amazonas, CEP: 69074-185
+
+CONTATO SYS:  FERNANDA
+TELEFONE SYS: 2129-1900/992317424
+TELEFONE WEB: (92) 2129-1900
+EMAILS WEB:   contabilidade@portochibatao.com.br
+
+LIMITE:       2.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 94 - CHIBATAO - NAVEGAÇÃO E COMERCIO LTDA - MATRIZ
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84098383000415  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 349.600.000,00
+INSC. EST.:   041494679  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ZEBU 201 TERREO, [Vazio] - COLONIA OLIVERA MACHADO - MANAUS
+ENDEREÇO WEB: Avenida Presidente Kennedy, 1850, - Colonia Oliv Machado, - Manaus/Amazonas, CEP: 69070-625
+
+CONTATO SYS:  FERNANDA CEL. 9231-7424
+TELEFONE SYS: 2129-1900 MONIQUE
+TELEFONE WEB: (92) 2129-1900 / (92) 2129-1909
+EMAILS WEB:   contabilidade@grupochibatao.com.br
+
+LIMITE:       5.004.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1428 - CHIBATÃO NAVEGAÇÃO E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84098383001063  |  WEB RAZÃO: Chibatao Navegacao e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 349.600.000,00
+INSC. EST.:   053613830  |  INSC. MUN.: 6469207-=—=-
+
+ENDEREÇO SYS: END. RUA ZEBU, TERREO, [Vazio] - COLONIA OLIVERA MACHADO - MANAUS
+ENDEREÇO WEB: Rua Zebu, 1, - Colonia Oliveira Machado, - Manaus/Amazonas, CEP: 69074-160
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2123-0400/ 2123-0411
+TELEFONE WEB: (92) 2129-1900
+EMAILS WEB:   contabilidade@portochibatao.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 395 - CICOL ENGENHARIA E COMÉRCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04023412000106  |  WEB RAZÃO: Cicol Engenharia e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 350.000,00
+INSC. EST.:   04.167.807-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BELEM, 346, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Domingos Lima, 708, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-380
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3234-2948/3633-7
+TELEFONE WEB: (92) 2346-844 / (92) 3234-2948
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

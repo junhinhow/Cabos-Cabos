@@ -10355,3 +10355,383 @@ EMAILS WEB:   financeiro.imperiodaindustria@outlook.com
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 542 - IMPERVISA - GRISA MPERMEABL. E CRIST. LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03816429000140  |  WEB RAZÃO: Grisa Impermeabilizacao e Cristalizacao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.225.769-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. BELO HORIZONTE, BC SÃO JOSE (BERNARDO GOMES), 26, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3236-1441
+TELEFONE WEB: (92) 3654-8543 / (92) 99114-7775
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 729 - IMPORTADORA GAVIÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09262750000106  |  WEB RAZÃO: Importadora Gaviao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   04..224.380-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: COSTAE SILVA,, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3237-71187
+TELEFONE WEB: (92) 3622-1322
+EMAILS WEB:   valdivino@vivax.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 426 - IMPORTADORA LUANJO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04223160000150  |  WEB RAZÃO: Importadora Luanjo Limitada
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 150.000,00
+INSC. EST.:   04.150.523-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LEOPOLDO PERES, [Vazio] - EDUCANDOS - MANAUS
+ENDEREÇO WEB: Avenida Leopoldo Peres, 305, - Educandos, - Manaus/Amazonas, CEP: 69070-250
+
+CONTATO SYS:  CLENTE ANTÔNIO
+TELEFONE SYS: (92)3624-4588
+TELEFONE WEB: (92) 3629-2828
+EMAILS WEB:   impluanjo@gmail.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1831 - IMPRESSORA AMAZONENSE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04755065000106  |  WEB RAZÃO: Impressora Amazonense LTDA
+WEB FANTASIA: Impram
+CAPITAL SOCIAL (WEB): R$ 40.000.000,00
+INSC. EST.:   063000962  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DOS OMS, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 307, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-842
+
+CONTATO SYS:  3618-3131
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3631-1232 / (92) 3631-4931
+EMAILS WEB:   contabil@impram.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 12 - INCOTOKIO -INDUSTRIA E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04215232000118  |  WEB RAZÃO: Incotokyo Industria e Comercio Tokyo Limitada
+WEB FANTASIA: Incotokio
+CAPITAL SOCIAL (WEB): R$ 220.000,00
+INSC. EST.:   062002244  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV URAPURU, [Vazio] - ALEIXO / OURO VERDE - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  3644-2782
+TELEFONE SYS: 3644-1966
+TELEFONE WEB: (92) 3248-1664
+EMAILS WEB:   ---
+
+LIMITE:       3.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1132 - INDT - NSTITUTO DE DESENVOLVIMENTO TECNOLOGICO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04802134000268  |  WEB RAZÃO: Indt - Instituto de Desenvolvimento Tecnologico
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DESEMBARGADOR JOAO MACHADO, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Alameda Desembargador Joao Machado, 1520, - Planalto, - Manaus/Amazonas, CEP: 69044-002
+
+CONTATO SYS:  ALINE CONCEIÇÃO
+TELEFONE SYS: 2126-1000
+TELEFONE WEB: (92) 2126-1000 / (92) 99845-5826 / (926) 5272-52
+EMAILS WEB:   controladoria@indt.org.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 902 - INDÚSTR COM SERCIÇO E TRATAMENTO DE RESÍDUOS DA AMAZO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84527274000123  |  WEB RAZÃO: Eternal - Industria, Comercio, Servicos e Tratamento de Residuos da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.500.000,00
+INSC. EST.:   04.128.888-2  |  INSC. MUN.: 66.505-01 ——
+
+ENDEREÇO SYS: GUIANA FRANCESA, 1, [Vazio] - MAUAZINHO - MANAUS
+ENDEREÇO WEB: Rua Guiana Francesa, 1, - Mauazinho, - Manaus/Amazonas, CEP: 69075-778
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)36164700
+TELEFONE WEB: (92) 3616-4700 / (92) 3616-4711
+EMAILS WEB:   eternal@eternalam.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3114 - INDUSTRIA AMAZONENSE DE ALUMINIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 16640671000157  |  WEB RAZÃO: Industria Amazonense de Aluminio LTDA
+WEB FANTASIA: Iaa - Industria Amazonense de Aluminio
+CAPITAL SOCIAL (WEB): R$ 1.150.000,00
+INSC. EST.:   062009575  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ACARA LOTE 1.22 ECV, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: Rua Acara, 203, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3237-6360 / (92) 99122-2039 / (92) 99285-3743
+EMAILS WEB:   gerencia@iaaindustria.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 816 - INDÚSTRIA DE EMBAL. PLÁSTICAS DA AMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00814492000159  |  WEB RAZÃO: Industria de Embalagens Plasticas da Amazonia LTDA
+WEB FANTASIA: Iepa LTDA
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06.300.361-9  |  INSC. MUN.: 10540101 —
+
+ENDEREÇO SYS: BAMBUZINHO,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Taruma, 1.585, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 4009-2700
+TELEFONE WEB: (92) 3233-5854 / (92) 3654-4232
+EMAILS WEB:   erico@eascontabilidade.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2307 - INDUSTRIA DE TRANSFORMADORES AMAZONAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15815491000104  |  WEB RAZÃO: Industria de Transformadores Amazonas LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 95.306.020,00
+INSC. EST.:   063005280  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R PALMEIRA DO MIRITI, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Palmeira do Miriti, 808, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-400
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3647-4600
+EMAILS WEB:   fiscal@itam.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1668 - INDUSTRIA E COMER. DE FERRO REBELO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03128908000173  |  WEB RAZÃO: Industria e Comercio de Ferro Rebelo LTDA
+WEB FANTASIA: Ferragens Rebelo
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   06.200.523-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DUBLIN, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Dublin, 15, - Planalto, - Manaus/Amazonas, CEP: 69045-080
+
+CONTATO SYS:  MARLENE
+TELEFONE SYS: 36564763
+TELEFONE WEB: (92) 3238-5692 / (92) 3656-4763
+EMAILS WEB:   i.rebelo@terra.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 259 - INFO STORE COMPUTADORES DA AMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02337524000106  |  WEB RAZÃO: Info Store Computadores da Amazonia LTDA
+WEB FANTASIA: Info Store Computadores da Amazonia
+CAPITAL SOCIAL (WEB): R$ 8.267.825,00
+INSC. EST.:   041368711  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. BELO HORIZONTE, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 686, - Aleixo, - Manaus/Amazonas, CEP: 69060-601
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3212-9953 / (92) 3212-9972
+EMAILS WEB:   fiscal@infostore.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 109 - INFRA CONSTRUÇÕES E SERVIÇOS DE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04246604000173  |  WEB RAZÃO: A. Maciel de Souza LTDA
+WEB FANTASIA: Vinci
+CAPITAL SOCIAL (WEB): R$ 6.000.000,00
+INSC. EST.:   04208257-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAAFONSO PENA 39-SALA 04-CENTRO COMERCIAL TARUMA, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Do Comercio, 1003, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-000
+
+CONTATO SYS:  EDUARDO MARANHAO
+TELEFONE SYS: (092)3611-4019
+TELEFONE WEB: (92) 98111-3399
+EMAILS WEB:   infraengenharia@hotmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 602 - INMAVI BRASIL COMERCIO E IND. DE COMP. PARA TECNOLOGIA DA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10619243000166  |  WEB RAZÃO: Inmavi Brasil Comercio e Industria de Componentes Para Tecnologia da Informacao LTDA
+WEB FANTASIA: Inmavi
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
+INSC. EST.:   06200674-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: PALMEIRA DO MIRIT),, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (55)3305-1620/3305-1600
+TELEFONE WEB: (92) 3305-1618 / (92) 3305-1619
+EMAILS WEB:   cviana@inmavi.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1324 - INOVA CONSTRUÇÕES E PROJETOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03684376000150  |  WEB RAZÃO: Inova Construcoes e Projetos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 9478401 —
+
+ENDEREÇO SYS: RUA TAPAJOS, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Darcy Michiles, 80, - Centro, - Manaus/Amazonas, CEP: 69025-140
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3015-6486 / (92) 3015-6519 / (92) 3234-6817
+EMAILS WEB:   michell@inovaprojetos.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3520 - INSTITUTO AMAZONIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 54501436000193  |  WEB RAZÃO: Instituto Amazonida
+WEB FANTASIA: Instituto Amazonida
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV EPHIGENIO SALLES, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Constelacao de Touro, 550, - Aleixo, - Manaus/Amazonas, CEP: 69060-110
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 3222-2868
+TELEFONE WEB: (31) 3222-2868
+EMAILS WEB:   financeiro.institutoamazonida@gmail.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1412 - INSTITUTO CAL COMP DE PESQUISA E NOV. TE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21640591000131  |  WEB RAZÃO: Instituto Cal-Comp de Pesquisa e Inovacao Tecnologica da Amazonia
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7367, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2125-9905
+TELEFONE WEB: (92) 3307-2785 / (92) 3307-2787
+EMAILS WEB:   joseane_souza@calcomp-icct.org.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1684 - INSTITUTO CENTRO DE PESQUISA E DES. EM TECNOLOGIA DE SOF]
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05123972000278  |  WEB RAZÃO: Instituto Centro de Pesquisa e Desenvolvimento em Tecnologia de Software
+WEB FANTASIA: Icts Manaus
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: 2217401
+
+ENDEREÇO SYS: AV. GOVERNADOR DANILO DE MATOS AREOSA, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Governador Danilo Matos Areosa, 1199, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-351
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (61) 3051-2800
+EMAILS WEB:   contabilidade@grupoicts.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 458 - INSTITUTO CERTI DAAMAZÔNIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05643772000165  |  WEB RAZÃO: Instituto Certi Amazonia
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. PRESDENTE KENNEDY, 651, [Vazio] - MORRO DA LIBERDADE - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 4455, - Japiim, - Manaus/Amazonas, CEP: 69077-000
+
+CONTATO SYS:  CRISTINA
+TELEFONE SYS: (092)2126-3300
+TELEFONE WEB: (92) 2126-3312 / (92) 99206-7415 / (92) 99605-6876
+EMAILS WEB:   fiscal@certiamazonia.org.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 682 - INTAMA IND DE TELHAS DA AMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34561407000100  |  WEB RAZÃO: Intama Industria de Telhas da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   06.200.773-4  |  INSC. MUN.: 12514401
+
+ENDEREÇO SYS: BURITI,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  KLEBER BASTOS LOUREIRO
+TELEFONE SYS: 2127-6900
+TELEFONE WEB: (92) 3213-4613 / (92) 3614-8811
+EMAILS WEB:   kleber@auroraeadi.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

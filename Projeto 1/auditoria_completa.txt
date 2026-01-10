@@ -8702,3 +8702,326 @@ EMAILS WEB:   fiscal@contabilmaestro.com.br
 
 LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1311 - FUCAPI -FUNDAÇÃO CENTRO DE ANÁLISE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04153540000166  |  WEB RAZÃO: Fucapi Fund Centro de Analise Pesq e Inov Tecnologica
+WEB FANTASIA: Fucapi
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV.GOV.DANILO DE MATOS AREOSA, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Governador Danilo Matos Areosa, 381, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-351
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2127-3041 NOEMI|
+TELEFONE WEB: (92) 2127-3242 / (92) 99981-9087
+EMAILS WEB:   miguel.giovanni@fucapi.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1078 - FUND. CENTRO DE CONT. ONCOLOGIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34570820000130  |  WEB RAZÃO: Fundacao Centro de Controle de Oncologia
+WEB FANTASIA: Fundacao Cecon
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. FRANCISCO ORELLANA, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Francisco Orellana, 215, - Planalto, - Manaus/Amazonas, CEP: 69040-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 36554755
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2309 - FUNDACAO DE APOIO AO ENSINO, PESQUISA, EXTENSAO E INTER.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04623300000188  |  WEB RAZÃO: Fundacao de Apoio Ao Ensino, Pesquisa, Extensao e Interiorizacao do Ifam
+WEB FANTASIA: Faepi
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BORBA, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Borba, 1144, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3346-8303 / (92) 99133-5396 / (92) 99220-3126
+EMAILS WEB:   faepi@faepi-ifam.org.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 63 - FUNDAÇÃO DE APOIO AO HEMOAM SANGUE NATIVO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02827461000168  |  WEB RAZÃO: Fundacao de Apoio Ao Hemoam - Sangue Nativo
+WEB FANTASIA: Hemoam Diagnosticos
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CONSTANTINO NERY, 4397, BL E, 3º ANDAR, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Dr. Theomario Pinto da Costa, 472, - Chapada, - Manaus/Amazonas, CEP: 69050-055
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3655-0160/3655-0256
+TELEFONE WEB: (92) 3231-1564 / (92) 3239-2323
+EMAILS WEB:   contabilidade@sanguenativo.org.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1073 - FUNDACAO DE HEMATOLOGIA E HEMOTERAPIA DO AMAZONAS - |
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63678320000115  |  WEB RAZÃO: Fundacao Hospitalar de Hematologia e Hemoterapia do Amazonas
+WEB FANTASIA: Fhemoam
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CONSTANTINO NERY, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 4397, - Chapada, - Manaus/Amazonas, CEP: 69050-001
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 36434500
+TELEFONE WEB: (92) 3655-0247 / (92) 3655-0259 / (92) 99205-5531
+EMAILS WEB:   jav_soares@yahoo.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1079 - FUNDACAO HOSPITAL ADRIANO JORGE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06168092000108  |  WEB RAZÃO: Fundacao Hospital Adriano Jorge
+WEB FANTASIA: Fundacao Adriano Jorge
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CARVALHO LEAL, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Rua Belem, 1449, - Sao Francisco, - Manaus/Amazonas, CEP: 69079-015
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3612-2246 / (92) 6122-554
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 885 - FUNDACAO MATIAS MACHLINE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15769292000107  |  WEB RAZÃO: Fundacao Matias Machline
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: 4194501 —
+
+ENDEREÇO SYS: AV MINISTRO MARIO ANDREAZZA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Ministro Mario Andreazza, 916, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3633-5925 / (92) 3633-6607 / (92) 3633-6626
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1094 - FUNDO ESTADUAL DE ASSISTENCIA SOCIAL - FEAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01079142000159  |  WEB RAZÃO: Fundo Estadual de Assistencia Social
+WEB FANTASIA: Feas
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DARCY VARGAS,, EM FRENTE AO AMAZONAS SHOPPING - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Darcy Vargas, 77, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2125 - G. P. LMAARQUITETURA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10941845000135  |  WEB RAZÃO: G P Lima Arquitetura
+WEB FANTASIA: Ag Arquitetura, Assessoria e Construcoes
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SAO PAULO, [Vazio] - SAO JORGE - MANAUS
+ENDEREÇO WEB: Rua Papa Paulo Vi, 556, - Sao Jorge, - Manaus/Amazonas, CEP: 69033-685
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 98425-7560
+TELEFONE WEB: (92) 3234-2084 / (92) 98425-7560
+EMAILS WEB:   glorianepinheiro@gmail.com
+
+LIMITE:       12.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2813 - G6G2 SERVICOS MEDICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 30056628000170  |  WEB RAZÃO: G2 Servicos Medicos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TV BARCELONA, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Travessa Barcelona, 102, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-078
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-5110
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2296 - GASES DAAMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22298504000172  |  WEB RAZÃO: Gases da Amazonia LTDA
+WEB FANTASIA: Gases da Amazonia
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   053846257  |  INSC. MUN.: —
+
+ENDEREÇO SYS: A RURAL, [Vazio] - RAMAL - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 0, - Lago Azul, - Manaus/Amazonas, CEP: 69019-400
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4000
+EMAILS WEB:   cont01@gbringel.com
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 205 - GBR COMPONENTES DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05370795000143  |  WEB RAZÃO: Gbr Componentes da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 80.310.358,00
+INSC. EST.:   063900378  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BURIT), 1900, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 1900, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  ANTÔNIO
+TELEFONE SYS: 3878-2200/3374/3139
+TELEFONE WEB: (92) 2342-455 / (92) 3878-2200
+EMAILS WEB:   fiscal@gbrcomponentes.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 880 - GDKS.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34152199002481  |  WEB RAZÃO: Gdk S.a. Falido
+WEB FANTASIA: Gdk S/A
+CAPITAL SOCIAL (WEB): R$ 106.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RODRIGO OTAVIO ,, [Vazio] - CRESPO - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 1405, - Crespo, - Manaus/Amazonas, CEP: 69073-177
+
+CONTATO SYS:  INVANS443-9891/RENATO 9355-3838
+TELEFONE SYS: 3654-3214/ (71) 2106-2900
+TELEFONE WEB: (71) 2106-2902 / (71) 2106-2920 / (71) 2106-2934
+EMAILS WEB:   gdk@gdksa.com
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1292 - GDM INDUSTRIA E COMERCIO DE PLASTICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07955100000382  |  WEB RAZÃO: Gdm Industria e Comercio de Plasticos Ltda.
+WEB FANTASIA: Gdm Industria e Comercio de Plasticos LTDA
+CAPITAL SOCIAL (WEB): R$ 52.000.000,00
+INSC. EST.:   06.300.908-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDA BURIT),, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3042-0120 / (92) 3615-7725 / (92) 3642-5702
+EMAILS WEB:   filialmanaus@gdmplasticos.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 277 - GELOCRIM IND. E COM. DE GELO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84089416000118  |  WEB RAZÃO: Bvlog Logistica LTDA
+WEB FANTASIA: Bvlog
+CAPITAL SOCIAL (WEB): R$ 7.500.000,00
+INSC. EST.:   06.200.212-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. PONTA GROSSA, 19/B, [Vazio] - COL. OLV. MACHADO - MANAUS
+ENDEREÇO WEB: Rua Cmdor. Gutemberg Barbosa, 59, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-004
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3214-3500
+TELEFONE WEB: (92) 3878-3154 / (92) 3878-3502
+EMAILS WEB:   contabilidade@grupovda.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2513 - GENIS EQUIPAMENTOS DE GINASTICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07489753000151  |  WEB RAZÃO: Genis Equipamentos de Ginastica LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
+INSC. EST.:   06200460-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BURM, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3444-0000 / (11) 3444-0001 / (92) 3584-5677
+EMAILS WEB:   atendimentofiscal@polishop.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 593 - GENRENT DO BRASL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04634502000397  |  WEB RAZÃO: Genrent do Brasil Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 34.484.329,00
+INSC. EST.:   042962820  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Solimoes, 3934, - Mauazinho, - Manaus/Amazonas, CEP: 69075-200
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (062)3299-9603
+TELEFONE WEB: (92) 3131-5555 / (92) 3233-1666
+EMAILS WEB:   marcoabreu@dantasconsultoria.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

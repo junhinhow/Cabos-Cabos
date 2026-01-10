@@ -10735,3 +10735,269 @@ EMAILS WEB:   kleber@auroraeadi.com.br
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 856 - INTEGRAÇAÃO TRANSPORTES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13484296000105  |  WEB RAZÃO: Integracao Transportes LTDA
+WEB FANTASIA: Integracao Transportes
+CAPITAL SOCIAL (WEB): R$ 1.400.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV CAMAPUA,, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Avenida Camapua, 921, - Cidade de Deus, - Manaus/Amazonas, CEP: 69099-031
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (45) 3392-1064 / (92) 3584-3428
+EMAILS WEB:   escritafiscal6@consultoriaan.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1418 - INTELBRAS SA NDUSTRIA DE TELECOMUNICAÇÃO ELE. BRASLEIF
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 82901000001522  |  WEB RAZÃO: Intelbras S.a. Industria de Telecomunicacao Eletronica Brasileira
+WEB FANTASIA: Intelbras
+CAPITAL SOCIAL (WEB): R$ 2.000.000.000,00
+INSC. EST.:   06.200.633-9  |  INSC. MUN.: 12674101 —
+
+ENDEREÇO SYS: AV. TEFE, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 3105, - Japiim, - Manaus/Amazonas, CEP: 69078-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3652-4000
+TELEFONE WEB: (48) 3281-9513 / (48) 3281-9523 / (92) 2129-7550
+EMAILS WEB:   grupo.tributario@intelbras.com.br
+
+LIMITE:       9.630,00  |  SALDO DEVEDOR: 370,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1841 - INTERA TECNOLGIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05557134000121  |  WEB RAZÃO: Intera Tecnologia
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CARVALHO LEAL, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Rua Carvalho Leal, 60, - Cachoerinha, - Manaus/Amazonas, CEP: 69065-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-9352 / (92) 2101-9367 / (92) 2101-9399
+EMAILS WEB:   adriana.vasconcelos@intera.org.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 42 - INTERFASSE COMERCIO SERVICO DE MONTAGEM INDUSTRIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05894166000112  |  WEB RAZÃO: Interfasse Comercio e Servicos de Montagem Industrial LTDA
+WEB FANTASIA: Interface
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   04.213.394-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RECIFE , 2300, APTO 206, KARLA HOLANDA, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 38771-4321
+TELEFONE WEB: (92) 3233-3376 / (92) 99146-4905 / (92) 99146-5075
+EMAILS WEB:   interfasse@uol.com.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 127 - ISOTECH DAAMAZONIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01632874000124  |  WEB RAZÃO: Isotech da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.500.000,00
+INSC. EST.:   06300070-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV: TEFE Nº500 BLOCO M, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua Santa Barbara, 235, - Flores, - Manaus/Amazonas, CEP: 69058-815
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (092)3613-6243/5090
+TELEFONE WEB: (92) 3212-7477 / (92) 6443-261
+EMAILS WEB:   vendas@prestige.ind.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 295 - MTAIGUARA TRANSPORTE LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15809346000102  |  WEB RAZÃO: Itaiguara Transportes LTDA - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 42.150.258,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV: ALAMEDA COSME S/Nº KM 13, [Vazio] - ALIXO - MANAUS
+ENDEREÇO WEB: Alameda Cosme Ferreira, S/N, - Aleixo, - Manaus/Amazonas, CEP: 69083-000
+
+CONTATO SYS:  WALDEMAR NAJAR
+TELEFONE SYS: (092)3618-5160
+TELEFONE WEB: (81) 3788-8800
+EMAILS WEB:   fiscal@nassau.com.br
+
+LIMITE:       5.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2762 - MTALUX LUBRIFICANTES E ACUMULADORES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02436829000167  |  WEB RAZÃO: Italux Lubrificantes e Acumuladores LTDA
+WEB FANTASIA: Italux
+CAPITAL SOCIAL (WEB): R$ 1.358.500,00
+INSC. EST.:   041391012  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV.TORQUATO TAPAJOS, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 1720, - Flores, - Manaus/Amazonas, CEP: 69058-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3654-7111
+EMAILS WEB:   italux@italux.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 738 - MTAUTINGAAGRO INDUSTRIAL S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04265872000132  |  WEB RAZÃO: Itautinga Agro Industrial S A - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 118.552.872,90
+INSC. EST.:   06.200.149-3  |  INSC. MUN.: 20943017
+
+ENDEREÇO SYS: DO ALEMXO,, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 4.700, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-002
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3617-5500
+TELEFONE WEB: (81) 3788-8800
+EMAILS WEB:   fiscal@nassau.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2216 - ZA CONSTRUCOES E COMERCIO EIREL|
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84479351000117  |  WEB RAZÃO: Iza Construcoes e Comercio LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 6343701 —
+
+ENDEREÇO SYS: AV DO TURISMO, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 2000, - Taruma, - Manaus/Amazonas, CEP: 69041-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3131-5555 / (92) 3131-5556 / (92) 3238-3545
+EMAILS WEB:   fiscal@izaconstrucoes.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2 - J NASSER ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04618096000107  |  WEB RAZÃO: J Nasser Engenharia LTDA
+WEB FANTASIA: J Nasser Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 10.250.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV TARUMA N 1757, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Taruma, 1757, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-4200
+TELEFONE WEB: (92) 2101-4200
+EMAILS WEB:   jnasser@jnasser.com.br
+
+LIMITE:       200.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1114 - J F DE OLVEIRA NAVEGACÇAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22797070000155  |  WEB RAZÃO: J F de Oliveira Navegacao LTDA
+WEB FANTASIA: Oliveira Navegacao
+CAPITAL SOCIAL (WEB): R$ 122.500.000,00
+INSC. EST.:   04187534-6  |  INSC. MUN.: 7534401
+
+ENDEREÇO SYS: AV. PRESDENTE KENNEDY,, [Vazio] - COL. OL. MACHADO - MANAUS
+ENDEREÇO WEB: Avenida Presidente Kennedy, 1850, - Colonia Oliveira Machado, - Manaus/Amazonas, CEP: 69070-625
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 2129-1900 - LURDES
+TELEFONE WEB: (92) 2129-1900 / (92) 6231-900
+EMAILS WEB:   contabilidade@grupochibatao.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3266 - J KP DOS SANTOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06928869000187  |  WEB RAZÃO: J K P dos Santos
+WEB FANTASIA: Kadosh - Automacao e Solucoes Industriais
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   042965853  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MANOEL DA ROCHA, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua Manoel da Rocha, 74, - Japiim, - Manaus/Amazonas, CEP: 69078-650
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3307-3613 / (92) 3307-3617 / (92) 3877-0699
+EMAILS WEB:   kadosh@kadoshautomacao.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1823 - J N DIAS EIREL|
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07862495000107  |  WEB RAZÃO: J N Dias LTDA
+WEB FANTASIA: J N Dias Empreendimentos
+CAPITAL SOCIAL (WEB): R$ 950.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R ZAURINA BRAGA, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 98, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-038
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3085-2725
+EMAILS WEB:   contatov2assessoria@gmail.com
+
+LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 514 - J P FORNECEDORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14214688000117  |  WEB RAZÃO: J.p. Fornecedora LTDA
+WEB FANTASIA: A Fornecedora
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   04.190.499-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LEOPOLDO PERES, 90, [Vazio] - EDUCANDOS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3629-1500 RAM 209
+TELEFONE WEB: (92) 6253-899
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

@@ -2,184 +2,213 @@ import json
 import requests
 import os
 import re
+import queue
+import sys
 import time
-from datetime import datetime, timedelta
-from urllib.parse import urlparse
-import dns.resolver
+import msvcrt
+from datetime import datetime
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --- CONFIGURAÇÕES ---
-ARQUIVO_FONTES = "fontes.json"
+PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_DESTINO = "Listas-Downloaded"
 ARQUIVO_ERROS = "erros_download.txt"
-ARQUIVO_BRUTA = "lista_bruta.txt"
+MAX_SIMULTANEOS = 5  # Slots de download
+CACHE_VALIDADE_SEGUNDOS = 14400 # 4 Horas
 
-# Só roda se a lista bruta estiver vazia (Opcional, conforme seu pedido)
-VERIFICAR_BRUTA_VAZIA = True 
+# Variável de controle
+PARAR_EXECUCAO = False
 
 HEADERS_FAKE = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "Upgrade-Insecure-Requests": "1"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
 }
 
-# --- FUNÇÕES ---
+def checar_tecla_z():
+    global PARAR_EXECUCAO
+    if msvcrt.kbhit():
+        tecla = msvcrt.getch().decode('utf-8').lower()
+        if tecla == 'z':
+            PARAR_EXECUCAO = True
 
-def limpar_nome_arquivo(nome):
-    # Remove emojis e caracteres inválidos para Windows
-    nome_sem_emoji = nome.encode('ascii', 'ignore').decode('ascii').strip()
-    if not nome_sem_emoji: nome_sem_emoji = "Lista_Sem_Nome"
-    return re.sub(r'[<>:"/\\|?*]', '', nome_sem_emoji).strip().replace(" ", "_")
-
-def precisa_atualizar(caminho_arquivo):
-    if not os.path.exists(caminho_arquivo): return True
+def arquivo_eh_valido_e_recente(caminho):
+    """
+    Retorna True se o arquivo existe, tem tamanho decente (>1KB) 
+    E foi modificado a menos de 4 horas.
+    """
+    if not os.path.exists(caminho): return False
+    if os.path.getsize(caminho) < 1000: return False # Muito pequeno, deve ser erro
     
-    stats = os.stat(caminho_arquivo)
-    ultima_mod = datetime.fromtimestamp(stats.st_mtime)
-    # Se tem menos de 1 hora (3600s), não baixa de novo
-    if (datetime.now() - ultima_mod).total_seconds() < 3600:
-        return False
-    return True
-
-def extrair_link_m3u_da_api(api_url):
-    """Acessa a API e pesca o link M3U válido dentro dela"""
-    session = requests.Session()
-    session.headers.update(HEADERS_FAKE)
+    timestamp_mod = os.path.getmtime(caminho)
+    idade = time.time() - timestamp_mod
     
-    texto_resposta = ""
-    try:
-        # Tenta POST primeiro
-        resp = session.post(api_url, timeout=15, verify=False)
-        if resp.status_code != 200:
-            resp = session.get(api_url, timeout=15, verify=False) # Fallback GET
-        
-        try:
-            texto_resposta = json.dumps(resp.json()) # Se for JSON
-        except:
-            texto_resposta = resp.text # Se for Texto
-            
-    except Exception as e:
-        return None, f"Erro conexão API: {e}"
+    return idade < CACHE_VALIDADE_SEGUNDOS
 
-    # Regex para achar M3U
-    urls = re.findall(r'(https?://[^\s<>"]+)', texto_resposta)
+def limpar_url_suja(url):
+    try: url = url.encode().decode('unicode_escape')
+    except: pass
+    chars = ['\\', '\n', '\r', '"', "'", '<', '>', ' ', '\t']
+    for c in chars: 
+        if c in url: url = url.split(c)[0]
+    return url.replace('%5Cn', '').replace('%5C', '').strip()
+
+def extrair_m3u_do_texto(texto):
+    urls = re.findall(r'(https?://[^"\'\s\\]+)', texto)
     candidatos = []
     for url in urls:
         u = url.lower()
-        # Filtra links que parecem ser a lista real
         if ('get.php' in u and 'username=' in u) or \
            ('.m3u' in u and 'aftv' not in u and 'e.jhysa' not in u) or \
            ('output=mpegts' in u):
-            candidatos.append(url)
-            
-    if candidatos:
-        return candidatos[0], None # Retorna o primeiro encontrado
-    
-    return None, "Nenhum link M3U encontrado na resposta da API"
+            clean = limpar_url_suja(url)
+            if clean.startswith("http") and len(clean) > 15: candidatos.append(clean)
+    return candidatos[0] if candidatos else None
 
-def baixar_arquivo_com_progresso(url, caminho_saida, nome_exibicao):
+def baixar_arquivo_com_progresso(url, caminho_saida, nome_exibicao, posicao_barra):
     try:
-        resp = requests.get(url, headers=HEADERS_FAKE, stream=True, timeout=20, verify=False)
+        resp = requests.get(url, headers=HEADERS_FAKE, stream=True, timeout=(10, 60), verify=False)
         resp.raise_for_status()
         
         total_size = int(resp.headers.get('content-length', 0))
-        
-        # Se o arquivo for minúsculo (<100 bytes), provavelmente é erro
-        if total_size > 0 and total_size < 100:
-            return False, "Arquivo retornado é muito pequeno (provavelmente erro)"
+        if total_size > 0 and total_size < 150: return False, "Arquivo suspeito"
 
-        with tqdm(total=total_size, unit='B', unit_scale=True, desc=f"   ⬇️ {nome_exibicao[:20]}...", ncols=80) as bar:
+        # Barra de progresso do slot
+        desc = f"Slot {posicao_barra} | {nome_exibicao[:10]}..."
+        
+        with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024, 
+                  desc=desc, position=posicao_barra, leave=False, ncols=100) as bar:
+            
             with open(caminho_saida, 'wb') as f:
-                for chunk in resp.iter_content(chunk_size=1024):
+                for chunk in resp.iter_content(chunk_size=32768):
+                    if PARAR_EXECUCAO: break
                     if chunk:
                         f.write(chunk)
                         bar.update(len(chunk))
-        return True, None
+        
+        if PARAR_EXECUCAO:
+            if os.path.exists(caminho_saida): os.remove(caminho_saida)
+            return False, "Interrompido"
+
+        if os.path.getsize(caminho_saida) < 100: return False, "Vazio"
+
+        return True, "OK"
     except Exception as e:
         return False, str(e)
 
+def worker(arquivo_json, fila_posicoes):
+    global PARAR_EXECUCAO
+    if PARAR_EXECUCAO: return "PARADO", None, None
+
+    nome_base = os.path.splitext(arquivo_json)[0]
+    caminho_json = os.path.join(PASTA_JSON_RAW, arquivo_json)
+    caminho_m3u = os.path.join(PASTA_DESTINO, f"{nome_base}.m3u")
+    
+    # 1. Verifica Cache (Regra 4h e Tamanho)
+    if arquivo_eh_valido_e_recente(caminho_m3u):
+        return "PULADO", nome_base, "Cache válido (<4h)"
+
+    posicao = fila_posicoes.get()
+    
+    try:
+        checar_tecla_z()
+        if PARAR_EXECUCAO: return "PARADO", None, None
+
+        with open(caminho_json, 'r', encoding='utf-8') as f:
+            dados = json.load(f)
+        
+        link_m3u = extrair_m3u_do_texto(json.dumps(dados))
+
+        if link_m3u:
+            sucesso, msg = baixar_arquivo_com_progresso(link_m3u, caminho_m3u, nome_base, posicao)
+            if sucesso: 
+                return "SUCESSO", nome_base, link_m3u
+            else:
+                return "ERRO", nome_base, f"{msg} | Link: {link_m3u}"
+        else:
+            if any(x in nome_base.upper() for x in ["P2P", "APP", "PARCEIRO"]):
+                return "IGNORADO", nome_base, "App/P2P"
+            else:
+                return "ERRO", nome_base, "Link não encontrado"
+
+    except Exception as e:
+        return "ERRO", nome_base, str(e)
+    
+    finally:
+        fila_posicoes.put(posicao)
+
 def main():
     requests.packages.urllib3.disable_warnings()
-    
-    # 1. Verificação de Segurança (Inbox Vazia)
-    if VERIFICAR_BRUTA_VAZIA and os.path.exists(ARQUIVO_BRUTA):
-        with open(ARQUIVO_BRUTA, 'r', encoding='utf-8') as f:
-            conteudo = f.read().strip()
-        if conteudo:
-            print(f"⚠️ ATENÇÃO: O arquivo '{ARQUIVO_BRUTA}' não está vazio.")
-            print("   Por favor, rode o 'minerador_sigma.py' primeiro para processar os novos links.")
-            return
-
-    if not os.path.exists(ARQUIVO_FONTES):
-        print(f"❌ '{ARQUIVO_FONTES}' não encontrado.")
-        return
-
-    with open(ARQUIVO_FONTES, 'r', encoding='utf-8') as f:
-        fontes = json.load(f)
-
     if not os.path.exists(PASTA_DESTINO): os.makedirs(PASTA_DESTINO)
     
-    # Limpa log de erros antigo
-    if os.path.exists(ARQUIVO_ERROS): os.remove(ARQUIVO_ERROS)
+    # Não apagamos o arquivo de erros antigo para manter histórico se quiser
+    # Se preferir apagar sempre que roda, descomente a linha abaixo:
+    # if os.path.exists(ARQUIVO_ERROS): os.remove(ARQUIVO_ERROS)
 
-    print(f"🚀 INICIANDO DOWNLOADER ({len(fontes)} listas mapeadas)\n")
+    if not os.path.exists(PASTA_JSON_RAW):
+        print("❌ Pasta de dados não encontrada.")
+        return
 
-    sucessos = 0
-    erros = 0
+    arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
+    
+    os.system('cls' if os.name == 'nt' else 'clear')
+    
+    print(f"🚀 DOWNLOADER DASHBOARD V5.1 (Com Logs Timestamp)")
+    print(f"📂 Arquivos: {len(arquivos)} | ⚡ Threads: {MAX_SIMULTANEOS}")
+    print("⌨️  Pressione 'Z' para encerrar.\n")
 
-    for item in fontes:
-        nome_completo = item.get("nome", "Sem Nome")
-        api_url = item.get("api_url")
-        url_direta = item.get("url") # Caso tenhamos salvo direto (legado)
+    fila_posicoes = queue.Queue()
+    for i in range(1, MAX_SIMULTANEOS + 1): fila_posicoes.put(i)
 
-        nome_arquivo = f"{limpar_nome_arquivo(nome_completo)}.m3u"
-        caminho_final = os.path.join(PASTA_DESTINO, nome_arquivo)
+    stats = {'SUCESSO': 0, 'ERRO': 0, 'IGNORADO': 0, 'PULADO': 0, 'PARADO': 0}
 
-        print(f"📺 {nome_completo}")
-
-        # Verifica Cache de Arquivo (1 hora)
-        if not precisa_atualizar(caminho_final):
-            print(f"   ⏳ Arquivo recente. Pulando download.")
-            continue
-
-        link_para_baixar = None
-
-        # ESTRATÉGIA 1: Se tem API, extrai o link fresco
-        if api_url:
-            # print("   📡 Consultando API para link fresco...")
-            link_extraido, erro_api = extrair_link_m3u_da_api(api_url)
-            if link_extraido:
-                link_para_baixar = link_extraido
-                # print(f"   🔗 Link encontrado: {link_extraido[:40]}...")
-            else:
-                print(f"   ⚠️ Falha na API: {erro_api}")
+    with ThreadPoolExecutor(max_workers=MAX_SIMULTANEOS) as executor:
+        futures = [executor.submit(worker, arq, fila_posicoes) for arq in arquivos]
         
-        # ESTRATÉGIA 2: Se falhou API ou não tem, tenta URL direta se existir
-        if not link_para_baixar and url_direta:
-            link_para_baixar = url_direta
-        
-        # EXECUTA O DOWNLOAD
-        if link_para_baixar:
-            ok, msg = baixar_arquivo_com_progresso(link_para_baixar, caminho_final, nome_completo)
-            if ok:
-                sucessos += 1
-                # print(f"   ✅ Download concluído!")
-            else:
-                erros += 1
-                print(f"   ❌ Falha no download: {msg}")
-                with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
-                    log.write(f"{datetime.now()} | {nome_completo} | {msg}\n")
-        else:
-            erros += 1
-            print("   ⛔ Nenhum link baixável encontrado.")
-            with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
-                log.write(f"{datetime.now()} | {nome_completo} | API não retornou link M3U válido\n")
-        
-        print("-" * 50)
+        with tqdm(total=len(arquivos), unit="arq", position=0, leave=True, 
+                  bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}] {postfix}") as pbar:
+            
+            pbar.set_postfix_str("Iniciando...")
+            
+            for f in as_completed(futures):
+                status, nome, info = f.result()
+                
+                if status:
+                    stats[status] += 1
+                    
+                    if status == "ERRO":
+                        # --- GERA TIMESTAMP ---
+                        agora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+                        with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
+                            # Formato: [Data] Nome | Erro | Link
+                            log.write(f"[{agora}] {nome} | {info}\n")
 
-    print(f"\n🏁 FIM DO PROCESSO")
-    print(f"✅ Atualizados: {sucessos}")
-    print(f"❌ Falhas: {erros}")
-    if erros > 0: print(f"📄 Verifique '{ARQUIVO_ERROS}' para detalhes.")
+                resumo = f"✅{stats['SUCESSO']} ⏭️{stats['PULADO']} ℹ️{stats['IGNORADO']} ❌{stats['ERRO']}"
+                if PARAR_EXECUCAO: resumo += " 🛑 PARANDO..."
+                
+                pbar.set_postfix_str(resumo)
+                pbar.update(1)
+
+                if PARAR_EXECUCAO:
+                    executor.shutdown(wait=False, cancel_futures=True)
+                    break
+
+    print("\n" * (MAX_SIMULTANEOS + 1))
+    print("="*50)
+    
+    if PARAR_EXECUCAO:
+        print("🛑 Execução interrompida pelo usuário.")
+    else:
+        print("🏁 CICLO CONCLUÍDO!")
+    
+    print(f"✅ Baixados: {stats['SUCESSO']}")
+    print(f"⏭️  Cache (<4h): {stats['PULADO']}")
+    print(f"ℹ️  Apps/P2P: {stats['IGNORADO']}")
+    print(f"❌ Falhas:   {stats['ERRO']}")
+    
+    if stats['ERRO'] > 0:
+        print(f"📄 Erros detalhados em: '{ARQUIVO_ERROS}'")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,195 @@
+=== RESULTADOS DA BUSCA: 'tron ares' ===
+Data: 09/01/2026 21:51
+
+--- [ Alpha_Master_-__Teste_Completo_C_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3486286" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="♦️ Cinema ⭐",TRON: Ares (2025)
+http://74.91.29.44:80/play/6hmijKW05XlBrs648rcTbJmPUM8hYbYeNs8srldfdzSZn7PBNl73cVPgo76ji2VH#.mp4
+
+--- [ Alpha_Master_-__Teste_Completo_S_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3486286" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="♦️ Cinema ⭐",TRON: Ares (2025)
+http://74.91.29.44:80/play/XmjM2gEuEeX2wrP_6v64VSTb856YveJTD0zIdAHzfyI2IZjoTavJY2Mdp6NXT6mG#.mp4
+
+--- [ AtivaBox_-__Aladdin's_-_Teste_Completo.m3u ] ---
+#EXTINF:-1 xui-id="6499406" tvg-name="TRON: ARES - HDCAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES DO CINEMA",TRON: ARES - HDCAM (2025)
+http://7sevenplay10.top:80/play/1EFd-3uypof9ZD-PPaJ5sptl0SXEjAjqnRqSim2zn3t8nFQ_vK5zsFZyjC1EX3HI#.mp4
+#EXTINF:-1 xui-id="6499717" tvg-name="TRON: ARES - LEG (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES LANÇAMENTOS",TRON: ARES - LEG (2025)
+http://7sevenplay10.top:80/play/1EFd-3uypof9ZD-PPaJ5stzoxn07c3uhFrVU81fgySX72C5WH5VQmr2obBpitO8F#.mp4
+
+--- [ AtivaBox_-__Aladdin's_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="6499406" tvg-name="TRON: ARES - HDCAM (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES DO CINEMA",TRON: ARES - HDCAM (2025)
+http://7sevenplay10.top:80/play/z7zJ7Fj1Tvktn2w06cQRPOEmcCrc1V0hv7s1EiUZOxIqY_zk4gcmKPoM-LnGsg8u#.mp4
+#EXTINF:-1 xui-id="6499717" tvg-name="TRON: ARES - LEG (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES LANÇAMENTOS",TRON: ARES - LEG (2025)
+http://7sevenplay10.top:80/play/z7zJ7Fj1Tvktn2w06cQRPOXoHyT2XuXPs18EQHWpHIrzqTOaKa6pg3ovHtlgt4S7#.mp4
+
+--- [ AtivaBox_-__AtivaBox_-_Teste_Completo.m3u ] ---
+#EXTINF:-1 tvg-name="TRON: Ares CAM RUIM (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="CINEMA RUIM",TRON: Ares CAM RUIM (2025)
+http://xui.brfontes.fun:80/movie/241691051/396511305/13698121.mp4
+
+--- [ AtivaBox_-__AtivaBox_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="TRON: Ares CAM RUIM (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="CINEMA RUIM",TRON: Ares CAM RUIM (2025)
+http://xui.brfontes.fun:80/movie/606773008/399946020/13698121.mp4
+
+--- [ AtivaBox_-__Infrax_-_Teste_Completo.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/933160049/671502835/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/933160049/671502835/13500679.mp4
+
+--- [ AtivaBox_-__Infrax_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/287566754/217570471/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/287566754/217570471/13500679.mp4
+
+--- [ AtivaBox_-__Lite_PLAY_-_Teste_Completo.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",Tron: Ares [CINEMA] (2025)
+http://cdn.andromedaz.site:80/movie/844463861/675941136/1076087.mp4
+
+--- [ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",Tron: Ares [CINEMA] (2025)
+http://cdn.andromedaz.site:80/movie/307662495/692934012/1076087.mp4
+
+--- [ AtivaBox_-__NetTurbo_-_Teste_Completo.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/651202684/799735925/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/651202684/799735925/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/651202684/799735925/7165383.mp4
+
+--- [ AtivaBox_-__NetTurbo_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/125400992/717991550/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/125400992/717991550/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/125400992/717991550/7165383.mp4
+
+--- [ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="⭐⭐ ÚLTIMOS LANÇAMENTOS ⭐⭐",Tron: Ares (2025)
+http://proxyphtop.shop:80/movie/378267419/890460515/3899529.mp4
+
+--- [ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="⭐⭐ ÚLTIMOS LANÇAMENTOS ⭐⭐",Tron: Ares (2025)
+http://proxyphtop.shop:80/movie/189077365/185198208/3899529.mp4
+
+--- [ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/84038437/73474578/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/84038437/73474578/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/84038437/73474578/7165383.mp4
+
+--- [ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/91694217/76912841/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/91694217/76912841/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/91694217/76912841/7165383.mp4
+
+--- [ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/64102616/43600387/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/64102616/43600387/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/64102616/43600387/7165383.mp4
+
+--- [ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",Tron: Ares [CINEMA] (2025)
+http://cdn.andromedaz.site:80/movie/34099437/45032222/1076087.mp4
+
+--- [ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",Tron: Ares [CINEMA] (2025)
+http://cdn.andromedaz.site:80/movie/76257200/20262170/1076087.mp4
+
+--- [ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="2548896" tvg-name="Tron: Ares [Cinema] (2025)" tvg-logo="http://cinevods.site:80/images/131036b0c956a49c154b49b67060cba2.jpg" group-title="Filmes | Cinema",Tron: Ares [Cinema] (2025)
+http://iksds.site:80/play/9yNhawsnbNRsWkeQ8KKbDkANKbbZjht2Rku3ZZ7D1M0DboKRt9r-XMvV_DBQJnqD
+
+--- [ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="2548896" tvg-name="Tron: Ares [Cinema] (2025)" tvg-logo="http://cinevods.site:80/images/131036b0c956a49c154b49b67060cba2.jpg" group-title="Filmes | Cinema",Tron: Ares [Cinema] (2025)
+http://iksds.site:80/play/PrM3rUgj7s296WFfCGYfJrKdB2cu6UzwXhQRwZGTZaEG3UxH1cHT_JNHf1ZIToow
+
+--- [ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/67815800/78912875/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/67815800/78912875/13500679.mp4
+
+--- [ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/15657964/58585128/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/15657964/58585128/13500679.mp4
+
+--- [ CineFlix_-__SH-SERVER_-_Teste_C_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="920611" tvg-name="TRON: Ares CAM RUIM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="FILMES | DIVERSOS",TRON: Ares CAM RUIM
+http://sxhs.cgpsx.site:80/play/hQSWFRjw5sy22jJyjgXdyBXdd1Ca3oK_7YrgNqihmR9aunRb8fI5h9cQyRhNlHid#.mp4
+#EXTINF:-1 xui-id="925239" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",TRON: Ares (2025)
+http://sxhs.cgpsx.site:80/play/hQSWFRjw5sy22jJyjgXdyE54sSFAw2pFPu8yrg1kc9poQBjWCIcABiM7HhH9YPeh#.mp4
+
+--- [ CineFlix_-__SH-SERVER_-_Teste_S_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="920611" tvg-name="TRON: Ares CAM RUIM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="FILMES | DIVERSOS",TRON: Ares CAM RUIM
+http://sxhs.cgpsx.site:80/play/TOSEZpbGdoRF6qPcG-x3krgLBtgOWDzdAOSwS9qPVqFWS5DJSF084tAGF-LmTkD3#.mp4
+#EXTINF:-1 xui-id="925239" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",TRON: Ares (2025)
+http://sxhs.cgpsx.site:80/play/TOSEZpbGdoRF6qPcG-x3kuuPL-h_OrmziwayePgKrVNfMhyBqeO5ezDGvgZx1PnX#.mp4
+
+--- [ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/567229071/273916509/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/567229071/273916509/13500679.mp4
+
+--- [ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Cinema ⭐",Tron: Ares [CINEMA] (2025)
+http://cloudsalex.space:80/movie/458367004/562893177/13500612.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w300/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ Lançamentos ⭐",Tron: Ares (2025)
+http://cloudsalex.space:80/movie/458367004/562893177/13500679.mp4
+
+--- [ Lider_-_1_ONE_-_Completo_Com_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/242303168/430682261/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/242303168/430682261/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/242303168/430682261/7165383.mp4
+
+--- [ Lider_-_1_ONE_-_Completo_Sem_Adultos.m3u ] ---
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: Lancamentos 2025",Tron: Ares (2025)
+http://fontez.cc:80/movie/529211123/468885678/7164964.mp4
+#EXTINF:-1 tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="Filmes: [Qualidade Cinema]",Tron: Ares (2025)
+http://fontez.cc:80/movie/529211123/468885678/7164964.mp4
+#EXTINF:-1 tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes: [Qualidade Cinema]",Tron Ares (CINEMA)
+http://fontez.cc:80/movie/529211123/468885678/7165383.mp4
+
+--- [ Lider_-__ALPHA_-_Completo_Com_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3486286" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="♦️ Cinema ⭐",TRON: Ares (2025)
+http://74.91.29.44:80/play/wdzq_Z28wmRt6e3aezLswlWokTF_JWjzzcNNcmuxMNIizA9_xLo8_f5KDjEU4DbD#.mp4
+
+--- [ Lider_-__ALPHA_-_Completo_Sem_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3486286" tvg-name="TRON: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/bAt0kMx3sfQwwoGFeSYI4PrEXcQ.jpg" group-title="♦️ Cinema ⭐",TRON: Ares (2025)
+http://74.91.29.44:80/play/krw_i2supKTzYW1uc7QfnJtcG1wsSFib3nWL7IoTKlBh63d60v43bSI1rZTd-psw#.mp4
+
+--- [ Lider_-__LITE_-_Completo_Com_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3336" tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ | CINEMA",Tron: Ares [CINEMA] (2025)
+http://207.58.175.8:80/play/EUPm9FGfDZpv2BtLHvGnPo7gaZrnlYSlGvB4ExuYqobCSAC40cqZovgI5OEj03mj#.mp4
+#EXTINF:-1 xui-id="277486" tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="✅️ PEDIDOS",Tron: Ares (2025)
+http://207.58.175.8:80/play/EUPm9FGfDZpv2BtLHvGnPnA28VWGZnHK7_p9CgafAFAarJ2hzOF4Mr8_uY3JQ6vZ#.mp4
+
+--- [ Lider_-__LITE_-_Completo_Sem_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="3336" tvg-name="Tron: Ares [CINEMA] (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="♦️ | CINEMA",Tron: Ares [CINEMA] (2025)
+http://207.58.175.8:80/play/pwv3O4nJdsUJ4WqzeRCSFEaEFx78yVTVvxeTQjyQ9h7ICE2reOEqzgaDzl0W2C7v#.mp4
+#EXTINF:-1 xui-id="277486" tvg-name="Tron: Ares (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="✅️ PEDIDOS",Tron: Ares (2025)
+http://207.58.175.8:80/play/pwv3O4nJdsUJ4WqzeRCSFOxGPlHAlDGItP7x0IC3quYEdLxPL9rGQXMvPnJRjBrR#.mp4
+
+--- [ Lider_-__MAX_-_Completo_Com_Adultos.m3u ] ---
+#EXTINF:-1 xui-id="4744152" tvg-name="Tron Ares (CINEMA)" tvg-logo="https://image.tmdb.org/t/p/w400/3Aijwt71AG3dtI5WoYG8g9dWfQI.jpg" group-title="Filmes | Cinema",Tron Ares (CINEMA)
+http://c.superodin.nl70.top:80/play/WFWiZJuXMhSey8EiF5ZxlVsR5YfqXYOZb92NV1LQJu_o-sU8DW47tdNXuc4JTCOZ#.mp4
+#EXTINF:-1 xui-id="4750624" tvg-name="TRON: ARES (2025)" tvg-logo="https://image.tmdb.org/t/p/original/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES LANÇAMENTOS",TRON: ARES (2025)
+http://c.superodin.nl70.top:80/play/WFWiZJuXMhSey8EiF5Zxlc8HOdSuT_aW6xYfWOrjT0bY1Whvnxb2My8ULfvIm7Ks#.mp4
+#EXTINF:-1 xui-id="4750752" tvg-name="TRON: ARES - LEG (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg" group-title="FILMES LEGENDADOS",TRON: ARES - LEG (2025)
+http://c.superodin.nl70.top:80/play/WFWiZJuXMhSey8EiF5ZxlZWNMJ6oQYBwsR4g_w8vYzrmUXW1JyletQvvi0ao1LGT#.mp4
+

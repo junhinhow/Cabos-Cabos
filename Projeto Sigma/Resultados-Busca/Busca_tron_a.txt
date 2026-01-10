@@ -1,0 +1,979 @@
+RELATÓRIO DE BUSCA
+Termo: tron: a
+Data: 09/01/2026 às 21:35:04
+============================================================
+
+📁 LISTA: Alpha_Master_-__Teste_Completo_C_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: Ares (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: Alpha_Master_-__Teste_Completo_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: Ares (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Aladdin's_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: TRON: ARES - HDCAM (2025)
+   └─ [Categoria]  : FILMES DO CINEMA
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: ARES - LEG (2025)
+   └─ [Categoria]  : FILMES LANÇAMENTOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Aladdin's_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: ARES - HDCAM (2025)
+   └─ [Categoria]  : FILMES DO CINEMA
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: ARES - LEG (2025)
+   └─ [Categoria]  : FILMES LANÇAMENTOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__AtivaBox_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: TRON: Ares CAM RUIM (2025)
+   └─ [Categoria]  : CINEMA RUIM
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__AtivaBox_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: Ares CAM RUIM (2025)
+   └─ [Categoria]  : CINEMA RUIM
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Infrax_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ♦️ Lançamentos ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Infrax_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ♦️ Lançamentos ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Lite_PLAY_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: Lancamentos 2025
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: Lancamentos 2025
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ⭐⭐ ÚLTIMOS LANÇAMENTOS ⭐⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ⭐⭐ ÚLTIMOS LANÇAMENTOS ⭐⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: Lancamentos 2025
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: Lancamentos 2025
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: Lancamentos 2025
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES | PARAMOUNT
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [Cinema] (2025)
+   └─ [Categoria]  : Filmes | Cinema
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [Cinema] (2025)
+   └─ [Categoria]  : Filmes | Cinema
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ♦️ Lançamentos ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron: Ares [CINEMA] (2025)
+   └─ [Categoria]  : ♦️ Cinema ⭐
+   ------------------------------
+   ├─ [Canal/Filme]: Tron: Ares (2025)
+   └─ [Categoria]  : ♦️ Lançamentos ⭐
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : ⚡DISNEY+
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__SH-SERVER_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: Ares CAM RUIM
+   └─ [Categoria]  : FILMES | DIVERSOS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: Ares (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__SH-SERVER_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: Ares CAM RUIM
+   └─ [Categoria]  : FILMES | DIVERSOS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: Ares (2025)
+   └─ [Categoria]  : FILMES | FICÇÃO CIENTÍFICA
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : DISNEY + PLUS
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : SÉRIES |  • Disney Plus
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__VOLTZ_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__VOLTZ_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: TRON: A Resistência S01E01
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E02
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E03
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E04
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E05
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E06
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E07
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E08
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E09
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E10
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E11
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E12
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E13
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E14
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E15
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E16
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E17
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E18
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+   ├─ [Canal/Filme]: TRON: A Resistência S01E19
+   └─ [Categoria]  : S • Disney Plus
+   ------------------------------
+
+========================================
+
+Total encontrado: 283

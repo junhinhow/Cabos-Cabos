@@ -1,0 +1,41 @@
+RELATÓRIO DE BUSCA
+Termo: tron ares
+Data: 09/01/2026 às 21:31:55
+============================================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Tron Ares (CINEMA)
+   └─ [Categoria]  : Filmes: [Qualidade Cinema]
+   ------------------------------
+
+========================================
+
+Total encontrado: 5

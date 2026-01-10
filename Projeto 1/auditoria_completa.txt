@@ -9025,3 +9025,326 @@ EMAILS WEB:   marcoabreu@dantasconsultoria.com
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 657 - GEORADAR LEVANTAMENTOS GEOFÍSICOS S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03087282000528  |  WEB RAZÃO: Georadar Servicos e Participacoes S/A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 72.377.742,53
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DJALMA BATISTA,, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: - Silves/Amazonas
+
+CONTATO SYS:  8412-9060
+TELEFONE SYS: (31)2104-7171/(92)3659-3684/85
+TELEFONE WEB: (92) 3659-3684 / (92) 3659-3685
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2106 - GFC OBRAS DE ALVENARIA E COMERCIO DE MAT. DE CONSTRUCA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 36360821000186  |  WEB RAZÃO: Gfc Construcao e Manutencao LTDA
+WEB FANTASIA: Gfc Servicos
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R DELIO DE MELO, [Vazio] - SAO JORGE - MANAUS
+ENDEREÇO WEB: Rua Rio Ica, 892, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-100
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98138-0171
+EMAILS WEB:   administracao@gfcservicos.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1607 - GI ENERGY ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20641224000432  |  WEB RAZÃO: Gi Energy Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 3.150.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. RAMOS FERREIRA, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Ramos Ferreira, 1203, - Centro, - Manaus/Amazonas, CEP: 69020-080
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 31-03776-7125
+TELEFONE WEB: (31) 3776-7125
+EMAILS WEB:   r.contador@yahoo.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3169 - GIGA INDUSTRIA E COMERCIO DE PRODUTOS DE SEGURANÇA ELE.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 59717553001699  |  WEB RAZÃO: Grupo Multi S.a
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.713.377.678,90
+INSC. EST.:   063008700  |  INSC. MUN.: —
+
+ENDEREÇO SYS: DIST. NDUSTRIAL, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 2350, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-903
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 96325-0116
+EMAILS WEB:   equipe.fiscal@grupomulti.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3255 - GIGA INDUSTRIA E COMERCIO DE PRODUTOS DE SEGURANÇA ELE]
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17122802000389  |  WEB RAZÃO: ---
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   062014684  |  INSC. MUN.: 20520402 /
+
+ENDEREÇO SYS: AV. TURISMO, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: 
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2093 - GUSEPPE ANTONIO FOGACA GERBALDO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 39532571000102  |  WEB RAZÃO: Giuseppe Antonio Fogaca Gerbaldo
+WEB FANTASIA: Supernova Prime Solutions - Energia Solar
+CAPITAL SOCIAL (WEB): R$ 5.000,00
+INSC. EST.:   054252512  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RANTURIO CRISTALINO, [Vazio] - REDENÇÃO - MANAUS
+ENDEREÇO WEB: Rua Anturio Cristalino, 1555, - Redencao, - Manaus/Amazonas, CEP: 69047-042
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98215-1083
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3228 - GLC CONSTRUCOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 46760470000154  |  WEB RAZÃO: Glc Construcoes LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 546897101
+
+ENDEREÇO SYS: AV. JOAO VALERIO, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: Avenida Joao Valerio, 753, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-140
+
+CONTATO SYS:  (92) 3307-9230
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3307-9230
+EMAILS WEB:   processos@dantasenasserala.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 77 - GONDER NCORPORADORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08766807000141  |  WEB RAZÃO: Gonder Incorporadora LTDA - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 23.823.900,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 13425501
+
+ENDEREÇO SYS: DJALMA BATISTA, SHOP. MILLENIUM, SL. 907A, 9º AND., [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Rio Jutai, 670, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2126-9300
+TELEFONE WEB: (11) 4383-7000
+EMAILS WEB:   fiscal.csc@pdg.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1007 - GP COMÉRCIO E REPRESENTACAO DE FERRAMENTAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06295746000156  |  WEB RAZÃO: Gp - Comercio e Representacao de Ferramentas LTDA
+WEB FANTASIA: Guerra Industrial
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   042188253  |  INSC. MUN.: 10883501 —
+
+ENDEREÇO SYS: RUA DELFIM DE SOUZA, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  MARCELO GUERRA
+TELEFONE SYS: 3632-5401/9229-1190(GUERRA)
+TELEFONE WEB: (2) 9116-2450 / (92) 3613-3300
+EMAILS WEB:   realcontabilidade2012@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1838 - GRAFISA GRAFICA E EDITORA LIDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03633502000148  |  WEB RAZÃO: Grafisa - Grafica e Editora LTDA
+WEB FANTASIA: Grafisa
+CAPITAL SOCIAL (WEB): R$ 8.300.000,00
+INSC. EST.:   063003899  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PARA, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Para, 630, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-575
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-1200 / (92) 6635-030
+EMAILS WEB:   contatos@grafisaam.com.br
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 502 - GREE ELECTRIC APPLIANCES DO BRASI LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03519135000156  |  WEB RAZÃO: Gree Electric Appliances do Brasil Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 301.149.151,00
+INSC. EST.:   06.200.291-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDA DOS OMS, [Vazio] - DISTRITO INDUSTRIAL l - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 6360, - Dist Industrial II, - Manaus/Amazonas, CEP: 69007-002
+
+CONTATO SYS:  CLENTE MAURÍCIO
+TELEFONE SYS: (92)2123-6900/
+TELEFONE WEB: (92) 2123-6900 / (92) 6336-953
+EMAILS WEB:   ---
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 550 - GREIF EMBALAGENS INDUSTRIAIS DO AMAZONAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03432490000193  |  WEB RAZÃO: Greif Embalagens Industriais do Amazonas LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 7.841.618,00
+INSC. EST.:   06.300.188-8  |  INSC. MUN.: 93181-01/ ——
+
+ENDEREÇO SYS: AV. COSME E FERREIRA, [Vazio] - COL. ANT. ALEIXO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  PATRÍCIA
+TELEFONE SYS: (92)3615-8049/4606/3182-0800
+TELEFONE WEB: (11) 5694-9736 / (92) 3631-8802
+EMAILS WEB:   mauro.zilli@greif.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3378 - GREIF EMBALAGENS INDUSTRIAIS DO BRASI LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 59320820001851  |  WEB RAZÃO: Greif Embalagens Industriais do Brasil Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 169.466.620,00
+INSC. EST.:   06.300.188-8  |  INSC. MUN.: 200108875 =
+
+ENDEREÇO SYS: Av. Cosme Ferreira, [Vazio] - COL. ANT. ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 12.060, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-310
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 5694-9749
+EMAILS WEB:   valerio.dacruz@greif.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2884 - GRILO COMERCIO DE MATERIAL ELETRICO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 32700360000192  |  WEB RAZÃO: Grilo Comercio de Material Eletrico LTDA
+WEB FANTASIA: Grilo Eletrico
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   054071348  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA DESEMBARGADOR JOAO MACHADO, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Avenida Contorno Desembargador Joao Machado, 3.083, - Alvorada, - Manaus/Amazonas, CEP: 69043-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3304-1000 / (92) 98463-2108
+EMAILS WEB:   griloeletrico2019@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1473 - GTEC CONSTRUCOES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00452735000156  |  WEB RAZÃO: Gtec Construcoes LTDA
+WEB FANTASIA: Gtec Construcoes
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 69690O1-=—=--
+
+ENDEREÇO SYS: R SALVADOR, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Salvador, 120, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3342-6670
+EMAILS WEB:   financeiro@manaosconstrucoes.com
+
+LIMITE:       8.300,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2687 - GUADALUPE EMPREENDIMENTOS IMOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 34393483000234  |  WEB RAZÃO: Guadalupe Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5400
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 590 - GUASCOR DO BRASL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01676897001374  |  WEB RAZÃO: Energy Assets do Brasil Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 45.564.316,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 13213701
+
+ENDEREÇO SYS: CORONEL CYRLLO NEVES,, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  SIMONEAALTER
+TELEFONE SYS: (68)2106-8400/(11) 3572-7015
+TELEFONE WEB: (11) 3908-5683 / (92) 3633-1910
+EMAILS WEB:   taxenergy.br@siemens-energy.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

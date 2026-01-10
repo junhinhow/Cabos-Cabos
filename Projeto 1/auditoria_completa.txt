@@ -11362,3 +11362,269 @@ EMAILS WEB:   ---
 
 LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2517 - JAPURA PNEUS S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04214987000106  |  WEB RAZÃO: Japura Pneus S/A
+WEB FANTASIA: Japura Pneus
+CAPITAL SOCIAL (WEB): R$ 7.400.000,00
+INSC. EST.:   041653319  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SLVES, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Silves, 39, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-080
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3642-1313 / (92) 6332-952 / (92) 98122-0062
+EMAILS WEB:   japurapneus@japura.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1347 - JARABE CONSTRUÇÕES LTDA -ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17994524000148  |  WEB RAZÃO: Jarabe Engenharia LTDA
+WEB FANTASIA: Jarabe Engenharia LTDA
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA TAMARINDO, [Vazio] - JORGE TEXEIRA - MANAUS
+ENDEREÇO WEB: Rua Tamarindo, 22, - Jorge Teixeira, - Manaus/Amazonas, CEP: 69088-026
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 2690-3998 / (92) 3022-1953
+EMAILS WEB:   comercial@jarabe.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1262 - JAV DAAMAZONIA COMERCIAL DE ELETRONICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10812952000163  |  WEB RAZÃO: Jav da Amazonia Comercial de Eletronicos LTDA
+WEB FANTASIA: Jav
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   042941296  |  INSC. MUN.: 12871001 —
+
+ENDEREÇO SYS: AV. RODRIGO OTAVIO, [Vazio] - CRESPO - MANAUS
+ENDEREÇO WEB: Rua Constelacao de Gemeos, 169, - Aleixo, - Manaus/Amazonas, CEP: 69083-010
+
+CONTATO SYS:  (92) 3237-6406
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (47) 2101-8066
+EMAILS WEB:   javcontroladoria@jav.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 910 - JC B DE HOLANDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08995845000176  |  WEB RAZÃO: Four Construtora Ambiental LTDA
+WEB FANTASIA: Four Construtora
+CAPITAL SOCIAL (WEB): R$ 2.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 11960401 —
+
+ENDEREÇO SYS: RUA: MAUES, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Rua Professor Castelo Branco, 20, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-090
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3234-2759/ 8403-0774
+TELEFONE WEB: (92) 3234-2755 / (92) 99121-6113
+EMAILS WEB:   jbrasil02@hotmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1755 - JF DE OLVEIRA NAVEGAÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22797070000317  |  WEB RAZÃO: J F de Oliveira Navegacao LTDA
+WEB FANTASIA: J F de Oliveira Navegacao LTDA
+CAPITAL SOCIAL (WEB): R$ 122.500.000,00
+INSC. EST.:   041089189  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ROD. BR 319, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rodovia Br-319, 286, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2127-1015
+TELEFONE WEB: (92) 6231-900 / (92) 6242-809
+EMAILS WEB:   jfoliveira@uol.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 810 - JHSF MANAUS EMPREEND E NCORPORACOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09547849000235  |  WEB RAZÃO: Shopping Ponta Negra S.a.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 202.203.447,11
+INSC. EST.:   042303940  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV Coronel Teixeira, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 5705, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3342-6442
+TELEFONE WEB: (11) 3702-1900 / (11) 3702-1953 / (11) 3702-1969
+EMAILS WEB:   lilianeandrade@jhsf.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3081 - JKM DIAS COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 54249608000183  |  WEB RAZÃO: Fortelar Comercio de Materiais de Construcoes LTDA
+WEB FANTASIA: Fortelar Materiais de Construcoes
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   054647177  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA VONLUNTARIOS DA PATRIA, [Vazio] - VILA DA PRATA - MANAUS
+ENDEREÇO WEB: Rua Voluntarios da Patria, 40, - Vila da Prata, - Manaus/Amazonas, CEP: 69030-520
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98158-8636
+EMAILS WEB:   vendasjtd@outlook.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 131 - JLN MAT. DE CONSTRUÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84112135000139  |  WEB RAZÃO: Jln Material de Construcao Limitada
+WEB FANTASIA: Jln Material de Construcao
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BRASIL, [Vazio] - COMPENSA | - MANAUS
+ENDEREÇO WEB: Avenida Brasil, 1157, - Compensa, - Manaus/Amazonas, CEP: 69036-110
+
+CONTATO SYS:  VANDERLÉIA
+TELEFONE SYS: 3672-2400/3672-2437/3183-2450
+TELEFONE WEB: (92) 98429-9918
+EMAILS WEB:   neide@jln.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 592 - JLV LOCAÇÃO DE ANDAIMES,FORMAS E ESCORAMENTOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10998358000109  |  WEB RAZÃO: J L Lopes Viana
+WEB FANTASIA: J Lopes Equipamentos
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   042950961  |  INSC. MUN.: 13153701
+
+ENDEREÇO SYS: CAIAPO,, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Rua Caiapo, 4, - Cidade Nova, - Manaus/Amazonas, CEP: 69098-298
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3639-7877/3638-4992
+TELEFONE WEB: (92) 3639-7778
+EMAILS WEB:   ---
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2108 - JM OBRAS E TERRAPLENAGEM LTDA - EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63636500000134  |  WEB RAZÃO: Jm Obras e Terraplenagem LTDA
+WEB FANTASIA: Jmarques Construtora
+CAPITAL SOCIAL (WEB): R$ 385.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R EMILIO MOREIRA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3015-4960 / (92) 99484-0075
+EMAILS WEB:   marjorie@grupojmarques.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 759 - JMS CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05285884000191  |  WEB RAZÃO: J M S Construcoes LTDA
+WEB FANTASIA: Ems Construcoes
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: VIA LATERAL SUL “E”,, [Vazio] - COMPENSA | - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3625-2295/9132-4239/9128-8101
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1662 - JOANAA RODRIGUES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26796914000102  |  WEB RAZÃO: Extravaganza Comercio de Armarinho LTDA
+WEB FANTASIA: Extravaganza
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   053876350  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CRICIUMA, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 3868, - Japiim, - Manaus/Amazonas, CEP: 69078-452
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98169-9806
+EMAILS WEB:   morayari2@hotmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1224 - JOÃO ROQUE BECL FILHO-ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06046117000192  |  WEB RAZÃO: Joao Roque Becil Filho
+WEB FANTASIA: J R B
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 19, CONJ. 31 DE MARÇO, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Rua 19, 409, - Japiim, - Manaus/Amazonas, CEP: 69077-200
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3321-3747/9902-2212
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 304 - JONASA EMPREENDIMENTOS IMOBLIÁRIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09117125000413  |  WEB RAZÃO: Jonasa Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   04.227.024-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, (FLIAL), [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3133-1872
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

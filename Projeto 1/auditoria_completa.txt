@@ -12369,3 +12369,231 @@ EMAILS WEB:   construtora.kniphoff@gmail.com
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1464 - LOURENÇO & MARQUES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03723560000243  |  WEB RAZÃO: Lourenco & Marques LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   042100690  |  INSC. MUN.: 10738901 —
+
+ENDEREÇO SYS: AV. ABURANA CEASA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Abiurana, 2835, - Mauazinho, - Manaus/Amazonas, CEP: 69075-705
+
+CONTATO SYS:  CLAUDIONORA
+TELEFONE SYS: 3615-6879/98802-0752
+TELEFONE WEB: (69) 3120-0923 / (92) 6156-877
+EMAILS WEB:   lourencoemarques10@gmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1409 - LSM COMÉRCIO DE ALMETOS E NAV. LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07391948000164  |  WEB RAZÃO: L S M Comercio de Produtos Alimenticios e Veterinarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   04.214.181-8  |  INSC. MUN.: 1923101 —
+
+ENDEREÇO SYS: AV PROFESSOR PAULO GRACA, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Professor Paulo Graca, 2505, - Taruma-Acu, - Manaus/Amazonas, CEP: 69023-165
+
+CONTATO SYS:  THIAGO / MARCOS
+TELEFONE SYS: 2121-4555
+TELEFONE WEB: (92) 2121-4555 / (92) 2121-4575
+EMAILS WEB:   contabilidade@fhopeixoto.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 447 - LUIZ G. G. DE SOUZA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01153678000177  |  WEB RAZÃO: Luiz G G de Souza
+WEB FANTASIA: Importadora Sao Luiz
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   04.106.442-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LEOPOLDO PERES, 322, [Vazio] - EDUCANDOS - MANAUS
+ENDEREÇO WEB: Avenida Leopoldo Peres, 322, - Educandos, - Manaus/Amazonas, CEP: 69070-250
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3624-2758
+TELEFONE WEB: (92) 3624-2758
+EMAILS WEB:   contato@islmusic.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 339 - LUIZ GONZAGA SILVA DE ALMEIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01206591000110  |  WEB RAZÃO: Luis Gonzaga Silva Almeida
+WEB FANTASIA: Curso Preparatorio Marechal Rondon
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. EPAMINONDAS, 726, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Epaminondas, 726, - Centro, - Manaus/Amazonas, CEP: 69010-090
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3631-3333
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 737 - LUME COMÉRCIO DE MAT. ELÉTR. ENG. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09356695000113  |  WEB RAZÃO: Lume-Comercio de Materiais Eletricos e Engenharia LTDA
+WEB FANTASIA: Lume
+CAPITAL SOCIAL (WEB): R$ 1.550.000,00
+INSC. EST.:   04.228.486-4  |  INSC. MUN.: 121.961-01 —
+
+ENDEREÇO SYS: LUIS LOPES,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3642-4546
+TELEFONE WEB: (92) 3584-5116 / (92) 3584-5998
+EMAILS WEB:   esetecon@yahoo.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3312 - LUMINE COMERCIO DE MATERIAL ELETRICO E CONSTRUCAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 49718806000109  |  WEB RAZÃO: Lumine Comercio de Material Eletrico e Construcao LTDA
+WEB FANTASIA: Lumine Manaus
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   05.453.944-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BOM JESUS, [Vazio] - COLONIA TERRA NOVA - MANAUS
+ENDEREÇO WEB: Avenida Bom Jesus, 70, - Colonia Terra Nova, - Manaus/Amazonas, CEP: 69015-300
+
+CONTATO SYS:  (92) 2127-6969/ (92) 2127-6977
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2127-6969 / (92) 2127-6977
+EMAILS WEB:   romulo@acomanaus.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 103 - M AÀ DA CUNHA EVANGELISTA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02828274000107  |  WEB RAZÃO: M. A. da Cunha Evangelista
+WEB FANTASIA: M A Consulting
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06.300.477-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA URUCARA 828 À, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  9981-1336 (MARCOS)
+TELEFONE SYS: 3635-0810
+TELEFONE WEB: (92) 3611-8688 / (92) 99167-4400 / (92) 99167-8417
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1724 - M CA CONSTRUTORA EIREL|
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07827407000136  |  WEB RAZÃO: M C A Construtora LTDA
+WEB FANTASIA: M C A Servicos e Comercio LTDA
+CAPITAL SOCIAL (WEB): R$ 8.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RADRINO GAMA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Adrino Gama, 0, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-732
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3233-0627 / (99) 99999-9999
+EMAILS WEB:   mcaconstrutoraltda2@gmail.com
+
+LIMITE:       131.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 62 - M F LOCACAO DE EQUIPAMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15705978000126  |  WEB RAZÃO: M F Locacao de Equipamentos LTDA
+WEB FANTASIA: Qually Sound
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   053256760  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CONSTELACAO DE URSA MAIOR, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Senador Raimundo Parente, 240, - Alvorada, - Manaus/Amazonas, CEP: 69048-662
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3663-6759 / (92) 99967-5952
+EMAILS WEB:   moysesazulay@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1696 - M P DOS SANTOS FERRAGEM
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03284632000112  |  WEB RAZÃO: M P dos Santos & Cia. LTDA
+WEB FANTASIA: Loja Constroi
+CAPITAL SOCIAL (WEB): R$ 2.580.000,00
+INSC. EST.:   041420438  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MANETE MACHADO, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Avenida Ivanete Machado, 1314, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-750
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-9019
+EMAILS WEB:   apoio@lojaconstroi.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 309 - M. FERNANDO DA SILVA LOPES
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04597632000135  |  WEB RAZÃO: M. Fernando da Silva Lopes
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   04.148.277-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ABURANA, 2579, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Letra Chinesa, 396, - Mauazinho, - Manaus/Amazonas, CEP: 69075-085
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3618-9145/3615-3522
+TELEFONE WEB: (92) 3131-5555
+EMAILS WEB:   remocao@oceanictransportes.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 264 - M. LOPES DOS SANTOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09557309000151  |  WEB RAZÃO: M. Lopes dos Santos
+WEB FANTASIA: Casa das Lampadas
+CAPITAL SOCIAL (WEB): R$ 25.000,00
+INSC. EST.:   04..224.573-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ITAUBA, 1164, [Vazio] - JORGE TEXEIRA - MANAUS
+ENDEREÇO WEB: Avenida Itauba, 1164, - Jorge Teixeira, - Manaus/Amazonas, CEP: 69088-240
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3682-4705
+TELEFONE WEB: (92) 3681-3088 / (92) 3682-4705 / (92) 98118-4229
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

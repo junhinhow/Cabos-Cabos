@@ -1,0 +1,18 @@
+{
+    "dns": null,
+    "username": "8665454",
+    "connections": 1,
+    "password": null,
+    "package": "⭐ [DICAS] - RESOLVER PROBLEMAS",
+    "createdAt": "2026-01-10 01:16:24",
+    "createdAtFormatted": "10/01/2026 01:16:24",
+    "expiresAt": "2026-01-10 02:16:24",
+    "expiresAtFormatted": "10/01/2026 02:16:24",
+    "payUrl": "https://havoktv.top/#/checkout/231qZgNL4q/YB1wvEOnWv",
+    "reply": "⚡️ Explicação das dicas básicas\n\n👉 Troque o DNS da TV para 1.1.1.1 ou 8.8.8.8\nO DNS é como um “tradutor” da internet. Se o padrão do seu provedor estiver lento, usar o da Cloudflare (1.1.1.1) ou Google (8.8.8.8) pode deixar a conexão mais rápida e estável.\n\n👉 Exclua a lista e coloque novamente\nÀs vezes a lista pode ficar desatualizada ou corrompida. Ao remover e adicionar novamente, o sistema atualiza todos os canais, filmes e séries disponíveis.\n\n👉 Troque de APP\nCada aplicativo tem formas diferentes de carregar a lista. Se um travar, outro pode rodar melhor no seu aparelho. \n\n👉 Migre para outro servidor (Nivaro, Krypton, Veltrix ou Kyros)\nNem sempre todos os servidores funcionam igual em todas as regiões ou provedores. Se um não estiver estável, teste outro. Ter 4 opções aumenta a chance de ter sempre uma transmissão de qualidade.\n\n👉 Reinicie o roteador\nO roteador pode acumular conexões antigas e gerar lentidão. Reiniciar ajuda a renovar o IP e limpar a conexão, melhorando o desempenho.\n\n\n👉 Se o canal não abrir no aplicativo que você está usando, faça o seguinte ajuste nas configurações do player:\n\n➡️ Altere o formato de reprodução para HLS/M3U8\n\n➡️ Remova as opções .TS ou Default, caso estejam selecionadas\n\n➡️ Alguns players mais antigos podem não funcionar corretamente com o formato .TS, por isso a mudança para HLS/M3U8 resolve na maioria dos casos.\n\nEssa troca costuma restaurar o funcionamento dos canais rapidamente.",
+    "data": [
+        {
+            "message": "⚡️ Explicação das dicas básicas\n\n👉 Troque o DNS da TV para 1.1.1.1 ou 8.8.8.8\nO DNS é como um “tradutor” da internet. Se o padrão do seu provedor estiver lento, usar o da Cloudflare (1.1.1.1) ou Google (8.8.8.8) pode deixar a conexão mais rápida e estável.\n\n👉 Exclua a lista e coloque novamente\nÀs vezes a lista pode ficar desatualizada ou corrompida. Ao remover e adicionar novamente, o sistema atualiza todos os canais, filmes e séries disponíveis.\n\n👉 Troque de APP\nCada aplicativo tem formas diferentes de carregar a lista. Se um travar, outro pode rodar melhor no seu aparelho. \n\n👉 Migre para outro servidor (Nivaro, Krypton, Veltrix ou Kyros)\nNem sempre todos os servidores funcionam igual em todas as regiões ou provedores. Se um não estiver estável, teste outro. Ter 4 opções aumenta a chance de ter sempre uma transmissão de qualidade.\n\n👉 Reinicie o roteador\nO roteador pode acumular conexões antigas e gerar lentidão. Reiniciar ajuda a renovar o IP e limpar a conexão, melhorando o desempenho.\n\n\n👉 Se o canal não abrir no aplicativo que você está usando, faça o seguinte ajuste nas configurações do player:\n\n➡️ Altere o formato de reprodução para HLS/M3U8\n\n➡️ Remova as opções .TS ou Default, caso estejam selecionadas\n\n➡️ Alguns players mais antigos podem não funcionar corretamente com o formato .TS, por isso a mudança para HLS/M3U8 resolve na maioria dos casos.\n\nEssa troca costuma restaurar o funcionamento dos canais rapidamente."
+        }
+    ]
+}

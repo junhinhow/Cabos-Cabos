@@ -1,0 +1,42 @@
+[10/01/2026 00:30:53] 🍿 CineMania - ⚡ Completo Com Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/XYgD9PdLr6)
+Link: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/XYgD9PdLr6
+------------------------------
+[10/01/2026 00:30:57] 🍿 CineMania - ⚡ Completo Sem Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/ayb1BOPLPR)
+Link: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/ayb1BOPLPR
+------------------------------
+[10/01/2026 00:31:10] 👑 Lider - ✨ SHOW - Completo Com Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG)
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG
+------------------------------
+[10/01/2026 00:31:24] 👑 Lider - ✨ SHOW - Completo Sem Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8)
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
+------------------------------
+[10/01/2026 00:31:38] 👑 Lider - ✨ SHOW - Parceria XCloud C/ Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbA41gG)
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbA41gG
+------------------------------
+[10/01/2026 00:31:51] 🏎️ VelozNet - 🇧🇷 VTVBR - Completo Com Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/VpKDaJWRAa)
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/VpKDaJWRAa
+------------------------------
+[10/01/2026 00:31:55] 🏎️ VelozNet - 🇧🇷 VTVBR - Completo Sem Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/EMeWepDnN9)
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/EMeWepDnN9
+------------------------------
+[10/01/2026 00:31:59] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM)
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[10/01/2026 00:32:03] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq)
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------
+[10/01/2026 00:32:07] 💎 Azonix - ♾️ INFINITY - Teste De 24 Horas Com Adulto | Falha na conexão (405 Client Error: Method Not Allowed for url: https://azonixplay.sigma.st/api/chatbot/mVLlBZeWQw/EMeWepDnN9)
+Link: https://azonixplay.sigma.st/api/chatbot/mVLlBZeWQw/EMeWepDnN9
+------------------------------
+[10/01/2026 00:32:10] 💎 Azonix - ♾️ INFINITY - Teste De 24 Horas Sem Adulto | Falha na conexão (405 Client Error: Method Not Allowed for url: https://azonixplay.sigma.st/api/chatbot/mVLlBZeWQw/ANKWPKDPRq)
+Link: https://azonixplay.sigma.st/api/chatbot/mVLlBZeWQw/ANKWPKDPRq
+------------------------------
+[10/01/2026 00:32:24] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR)
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
+------------------------------
+[10/01/2026 00:32:28] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Falha na conexão (405 Client Error: Method Not Allowed for url: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7)
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[10/01/2026 00:32:35] ✅ EVOLUTION - PLAY - ✅ Xcloud | Falha na conexão (405 Client Error: Method Not Allowed for url: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K)
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K
+------------------------------

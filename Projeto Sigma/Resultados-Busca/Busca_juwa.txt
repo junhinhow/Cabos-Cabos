@@ -1,0 +1,2170 @@
+RELATÓRIO DE BUSCA
+Termo: juwa
+Data: 09/01/2026 às 23:21:33
+============================================================
+
+📁 LISTA: Alpha_Master_-__Teste_Completo_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Alpha_Master_-__Teste_Completo_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Aladdin's_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : Series | Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Aladdin's_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : Series | Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__AtivaBox_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__AtivaBox_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Infrax_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Infrax_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Lite_PLAY_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_Completo.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: AtivaBox_-__NetTurbo_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : SERIES | LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : SERIES | LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : SERIES | LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : SERIES | LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES : PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__SH-SERVER_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : VARIEDADES
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: O Jogo da Corrupção S01E05
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : ANIMES
+   ------------------------------
+   ├─ [Canal/Filme]: Web Therapy S04E07
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Jack Wright S01E01
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__SH-SERVER_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : VARIEDADES
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: O Jogo da Corrupção S01E05
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : ANIMES
+   ------------------------------
+   ├─ [Canal/Filme]: Web Therapy S04E07
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Jack Wright S01E01
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : FILMES | - Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : FILMES |  -MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : FILMES   |ROMÂNTICA
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES |  • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES |  • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: VIKINGS S02E04
+   └─ [Categoria]  : -SERIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : -SERIES | PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: HUNTER x HUNTER S02E62
+   └─ [Categoria]  : -SERIES | ANIMES
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : FILMES | - Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : FILMES |  -MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : FILMES   |ROMÂNTICA
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES |  • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES |  • Amazon Prime Video
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__VOLTZ_-_Teste_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] (2020)
+   └─ [Categoria]  : F • Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : F • MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__VOLTZ_-_Teste_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] (2020)
+   └─ [Categoria]  : F • Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : F • MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+
+========================================
+
+📁 LISTA: CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-_1_ONE_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-_1_ONE_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__ALPHA_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__ALPHA_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__LITE_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️| COMEDIA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__LITE_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️| COMEDIA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__MAX_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: Lider_-__MAX_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Romance
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ⚡ NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ⚡ NBC
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ⚡ PRIME VIDEO
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : ⚡Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : ⚡Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : ⚡Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo
+   └─ [Categoria]  : ⚡Filmes | Comedia
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : ⚡Series | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : ⚡Series | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ✅ FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ▶️ ✅ LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__FIRE_-_Teste_12H_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: VIKINGS S02E04
+   └─ [Categoria]  : > NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : > PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: HUNTER x HUNTER S02E62
+   └─ [Categoria]  : > ANIMES
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__FIRE_-_Teste_12H_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : ♦️ Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : ♦️ Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: VIKINGS S02E04
+   └─ [Categoria]  : > NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : > PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: HUNTER x HUNTER S02E62
+   └─ [Categoria]  : > ANIMES
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] () (2020)
+   └─ [Categoria]  : | •FILMES  Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : |• SÉRIES Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : |  • SÉRIES  Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] (2020)
+   └─ [Categoria]  : F • Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : F • MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã Do Noivo [L] (2020)
+   └─ [Categoria]  : F • Legendados
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : F • MGM Plus
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : S • Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : S • Netflix
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : ▶️ Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ▶️ SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ▶️ Series | War & Politics
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : ▶️ Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ▶️ SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ▶️ Series | War & Politics
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : ▶️ Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ▶️ SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ▶️ Series | War & Politics
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : ▶️ Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : ▶️ SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : ▶️ SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : S • Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes ✔️ Romance
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes ✔️ Romance
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Romance
+   ------------------------------
+   ├─ [Canal/Filme]: A IRMA DO NOIVO (2021)
+   └─ [Categoria]  : FILMES COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: ASSIM FALAVA KISHIBE ROHAN S01E02
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: HUNTER x HUNTER S02E62
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: VIKINGS S02E04
+   └─ [Categoria]  : Series | War & Politics
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Pro_Black_-__Teste_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♠️Filmes | Comédia
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | ANIMAÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SERIES | WAR & POLITICS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Pro_Black_-__Teste_Completo_S_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♠️Filmes | Comédia
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | ANIMAÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SERIES | WAR & POLITICS
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__AtivaBox_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__AtivaBox_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__Caracol.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : Series | War & Politics
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__Caracol_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : Series | War & Politics
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__NetTurbo.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__OpenBox.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__OpenBox_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__P2Box.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Servidor_X_-__P2Box_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADAS
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__GOLD_-_Teste_Completo_C_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__GOLD_-_Teste_Completo_S_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__HD_-_Teste_Completo_C_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__HD_-_Teste_Completo_S_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : COMÉDIA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : LEGENDADAS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : DORAMAS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : AMAZON PRIME VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : GLOBO PLAY
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__NEW_-_Teste_Completo_C_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♠️Filmes | Comédia
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : ♣️Séries | Globoplay
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ♣️Séries | Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : ♣️Séries | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : ♣️Séries | Doramas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : ♣️Séries | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__NEW_-_Teste_Completo_S_Adulto.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♠️Filmes | Comédia
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : ♣️Séries | Globoplay
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : ♣️Séries | Amazon Prime Video
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] S01E05
+   └─ [Categoria]  : ♣️Séries | Legendadas
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] S01E03
+   └─ [Categoria]  : ♣️Séries | Doramas
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] S01E01
+   └─ [Categoria]  : ♣️Séries | Legendadas
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__PLAY_-_Teste_Completo_C_Adulto.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Social_Master_-__PLAY_-_Teste_Completo_S_Adulto.m3u
+   ├─ [Canal/Filme]: A Irma Do Noivo
+   └─ [Categoria]  : Filmes | Ficção
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | NETFLIX
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | FICÇÃO
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : SÉRIES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SERIES
+   ------------------------------
+
+========================================
+
+📁 LISTA: Thunder_-__Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : VARIEDADES
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: O Jogo da Corrupção S01E05
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : ANIMES
+   ------------------------------
+   ├─ [Canal/Filme]: Web Therapy S04E07
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Jack Wright S01E01
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Thunder_-__Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : FILMES | ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo S01E17
+   └─ [Categoria]  : VARIEDADES
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : AVENTURA
+   ------------------------------
+   ├─ [Canal/Filme]: O Jogo da Corrupção S01E05
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Hunter x Hunter S02E62
+   └─ [Categoria]  : ANIMES
+   ------------------------------
+   ├─ [Canal/Filme]: Web Therapy S04E07
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: Jack Wright S01E01
+   └─ [Categoria]  : PRIME AMAZON VIDEO
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente [L] (2020) S01E05
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: I Jack Wright [L] (2025) S01E01
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Who Is She [L] (2024) S01E03
+   └─ [Categoria]  : SÉRIES | LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings (2013) S02E04
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente (2020) S01E05
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra o Fogo (2012) S01E17
+   └─ [Categoria]  : SÉRIES : DRAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: Top_Z_-__Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : Series | War & Politics
+   ------------------------------
+
+========================================
+
+📁 LISTA: Top_Z_-__Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: A Irmã do Noivo (2020)
+   └─ [Categoria]  : ♦️ Comedia ✔️
+   ------------------------------
+   ├─ [Canal/Filme]: Assim Falava Kishibe Rohan S01E02
+   └─ [Categoria]  : SÉRIES | Animação
+   ------------------------------
+   ├─ [Canal/Filme]: Jogo da Corrupção S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: El Presidente S01E05
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Chicago Fire: Heróis Contra O Fogo S01E17
+   └─ [Categoria]  : SÉRIES | Drama
+   ------------------------------
+   ├─ [Canal/Filme]: Vikings S02E04
+   └─ [Categoria]  : Series | War & Politics
+   ------------------------------
+
+========================================
+
+📁 LISTA: VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos.m3u
+   ├─ [Canal/Filme]: GLOBO  MANAUS FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: Globo Amazônica Macapá HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO BRASILIA DF FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO BRASILIA DF SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO LIBERAL BELEM HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MANAUS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MINAS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MIRANTE FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO NSC SC HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RIO BRANCO FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RIO BRANCO HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RJ FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RJ SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC CURITIBA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC CURITIBA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC LONDRINA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC LONDRINA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO SP FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO SP SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA GOIANIA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA PALMAS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA PALMAS SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV Integração Uberlândia FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV Integração Uberlândia HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV RIO SUL HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: Globo TV Verdes Mares FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma do Noivo - 2020 (L)
+   └─ [Categoria]  : LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma do Noivo - 2020
+   └─ [Categoria]  : ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Quem e Ela S01E03
+   └─ [Categoria]  : DORAMA
+   ------------------------------
+
+========================================
+
+📁 LISTA: VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos.m3u
+   ├─ [Canal/Filme]: GLOBO  MANAUS FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: Globo Amazônica Macapá HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO BRASILIA DF FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO BRASILIA DF SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO CENTRO AMERICA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO LIBERAL BELEM HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MANAUS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MINAS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO MIRANTE FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO NSC SC HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RIO BRANCO FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RIO BRANCO HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RJ FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RJ SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC CURITIBA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC CURITIBA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC LONDRINA HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO RPC LONDRINA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO SP FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO SP SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA GOIANIA SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA PALMAS HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV ANHANGUERA PALMAS SD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV Integração Uberlândia FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV Integração Uberlândia HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: GLOBO TV RIO SUL HD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: Globo TV Verdes Mares FHD
+   └─ [Categoria]  : ✨GLOBOS CAPITAIS
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma do Noivo - 2020 (L)
+   └─ [Categoria]  : LEGENDADOS
+   ------------------------------
+   ├─ [Canal/Filme]: A Irma do Noivo - 2020
+   └─ [Categoria]  : ROMANCE
+   ------------------------------
+   ├─ [Canal/Filme]: Quem e Ela S01E03
+   └─ [Categoria]  : DORAMA
+   ------------------------------
+
+========================================
+
+Total encontrado: 584

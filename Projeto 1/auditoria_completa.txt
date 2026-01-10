@@ -12084,3 +12084,288 @@ EMAILS WEB:   fabilenoandrade@laghi.com.br
 
 LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2056 - LAV NORTE LAVANDERIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 13452690000161  |  WEB RAZÃO: Lav Norte Lavanderia LTDA
+WEB FANTASIA: Lav Norte
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   054280150  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV ALVARO MAIA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Alvaro Maia, 1348, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-210
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4000 / (92) 98607-1465
+EMAILS WEB:   fiscal@gbringel.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2145 - LDB CONST. E SERVIÇOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05525881000188  |  WEB RAZÃO: Ldb Construcoes e Servicos LTDA
+WEB FANTASIA: Ldb Engenharia
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA SALVADOR 12 ANDAR, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Tancredo Neves, 31, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-700
+
+CONTATO SYS:  MARCUS
+TELEFONE SYS: 991282453
+TELEFONE WEB: (92) 3667-0825 / (92) 98419-9000
+EMAILS WEB:   irande@icloud.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 688 - LEDA BARROCO DE LACERDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05854048000180  |  WEB RAZÃO: Sanar Industria, Servicos e Comercio de Produtos Ambientais LTDA
+WEB FANTASIA: Sanar Cidadania Ambiental
+CAPITAL SOCIAL (WEB): R$ 104.500,00
+INSC. EST.:   04.210.671-0  |  INSC. MUN.: 118256-01/
+
+ENDEREÇO SYS: LORIS CORDOVL,, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Avenida Do Turismo, 8090, - Taruma, - Manaus/Amazonas, CEP: 69041-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3088-0787
+TELEFONE WEB: (92) 3239-2703
+EMAILS WEB:   ---
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 493 - LG ELECTRONICS DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00801450000183  |  WEB RAZÃO: Lg Electronics da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06.200.685-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: JAVARI,, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE DO PEDRO
+TELEFONE SYS: (92)2129-8797/8725/8754
+TELEFONE WEB: (92) 2129-8860 / (92) 3616-8860 / (92) 3617-8795
+EMAILS WEB:   ---
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 875 - LG ELECTRONICS DO BRASL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01166372000821  |  WEB RAZÃO: Lg Electronics do Brasil LTDA
+WEB FANTASIA: Lg Electronics - Manaus
+CAPITAL SOCIAL (WEB): R$ 246.267.877,23
+INSC. EST.:   06200685-1  |  INSC. MUN.: 20140201 —
+
+ENDEREÇO SYS: RUA JAVARI,, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Javari, 1004, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-110
+
+CONTATO SYS:  CLENTE DO PEDRO
+TELEFONE SYS: (92)2129-8797/8725/8754
+TELEFONE WEB: (11) 2162-5471 / (92) 2129-8860 / (92) 2129-8882
+EMAILS WEB:   notificacoes.manaus@lgepartner.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3181 - LINHAS DO NORTE CONSTRUÇÕES SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 42072323000130  |  WEB RAZÃO: Linhas do Norte Construcoes Spe LTDA
+WEB FANTASIA: Linhas do Norte Construcoes Spe
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   054567580  |  INSC. MUN.: 50448901 —
+
+ENDEREÇO SYS: R CONDE DE ITAGUA|] QD. 576 LT 102, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Conde de Itaguai, 374, - Flores, - Manaus/Amazonas, CEP: 69058-582
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3091-3456
+TELEFONE WEB: (62) 3416-4000
+EMAILS WEB:   contabil@enerwatt.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1442 - LIOPOLDO MARQUES JUNIOR ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18684658000125  |  WEB RAZÃO: 007 Comercio de Vestuario LTDA
+WEB FANTASIA: 007 Confeccoes
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   053430336  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. AUTAZ MRIM LOJAA, [Vazio] - CIDADE DE DEUS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3088-1919
+TELEFONE WEB: (92) 3088-1919
+EMAILS WEB:   financ.sup@lojas007.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 820 - LITE-ON MOBLE IND. E COM. DE PLÁST. LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04889830000172  |  WEB RAZÃO: Lite-On Mobile Industria e Comercio de Plasticos Ltda.
+WEB FANTASIA: Lite-On Technology
+CAPITAL SOCIAL (WEB): R$ 109.331.232,00
+INSC. EST.:   06.300.050-4  |  INSC. MUN.: 10502901 —
+
+ENDEREÇO SYS: TORQUATO TAPAJOS,, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7891, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2123-7715
+TELEFONE WEB: (92) 2123-7700 / (92) 2123-7707
+EMAILS WEB:   setor.fiscal@liteon.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 352 - LITHIO CONSTRUÇOÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04205734000168  |  WEB RAZÃO: Lithio Construcoes LTDA Epp
+WEB FANTASIA: Vetor Engenharia
+CAPITAL SOCIAL (WEB): R$ 1.400.000,00
+INSC. EST.:   04.214.841-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA 05 DE SETEMBRO, 117, [Vazio] - SÃO RAIMUNDO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE ELVIS
+TELEFONE SYS: (92)32332593
+TELEFONE WEB: (92) 3233-2593 / (92) 99232-0391
+EMAILS WEB:   contabilidade@lithioconstrucoes.com.br
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2891 - LIVOLTEK POWER BRASIL
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 50562508000151  |  WEB RAZÃO: Livoltek Power Brasil LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 20.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV GUARUBA, [Vazio] - DISTRIT NDUSTRIAL | - MANAUS
+ENDEREÇO WEB: Avenida Guaruba, 585, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-080
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (85) 3366-2500
+EMAILS WEB:   fiscal@eletraenergy.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1344 - LL COMERCIO DE MATERIAL ELETRICO LTDA -ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23256442000107  |  WEB RAZÃO: L Comercio de Material Eletrico Limitada
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   053722140  |  INSC. MUN.: 22306701 —
+
+ENDEREÇO SYS: RUA SÃO BARTOLOMEU, [Vazio] - ZUMBI DOS PALMARES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  ADRIANA FERNANDES
+TELEFONE SYS: 3249-1618
+TELEFONE WEB: (92) 99812-7148
+EMAILS WEB:   lane@casadoeletricistaam.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2753 - LM ENGENHARIA LTDA - EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04449357000102  |  WEB RAZÃO: Lm Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAADVENTO, [Vazio] - DA PAZ - MANAUS
+ENDEREÇO WEB: Rua Advento, 17, - Da Paz, - Manaus/Amazonas, CEP: 69048-090
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1732 - LOGIC PRO SERVIÇOS DE TECNOLOGIA DA INFOR. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 18422603000147  |  WEB RAZÃO: Logic Pro Servicos de Tecnologia da Informacao LTDA
+WEB FANTASIA: Logic Pro Tecnologia
+CAPITAL SOCIAL (WEB): R$ 15.000.000,00
+INSC. EST.:   053406770  |  INSC. MUN.: 20867001 —
+
+ENDEREÇO SYS: RUA BELO HORIZONTE, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 1568, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3090-4000 / (92) 3091-4010
+EMAILS WEB:   financeiro@logicpro.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 989 - LOJAS RENNER S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 92754738023880  |  WEB RAZÃO: Lojas Renner S.a.
+WEB FANTASIA: Renner
+CAPITAL SOCIAL (WEB): R$ 9.540.890.719,68
+INSC. EST.:   053317718  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEIXEIRA, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 5705, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (51) 3272-2487
+TELEFONE WEB: (51) 2121-7000 / (51) 2121-7161
+EMAILS WEB:   csc.nucleodedocumentacao@lojasrenner.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1698 - LOPES E YANAI ENGENHARIA E CONST. LTIDA-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 27954066000177  |  WEB RAZÃO: Kniphoff Servicos de Engenharia e Construcoes de Edifcios LTDA
+WEB FANTASIA: Kniphoff Construtora
+CAPITAL SOCIAL (WEB): R$ 5.000.000,00
+INSC. EST.:   054201454  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. JOAO VALERIO, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Avenida Joao Valerio, 209, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-140
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3321-0426 / (92) 99353-7456
+EMAILS WEB:   construtora.kniphoff@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

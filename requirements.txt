@@ -1,0 +1,13 @@
+# --- Projeto Listas M3U ---
+requests
+dnspython
+tqdm
+
+# --- Projeto Robô Automação ---
+opencv-python
+numpy
+pytesseract
+pyautogui
+pygetwindow
+keyboard
+selenium

@@ -7999,3 +7999,345 @@ EMAILS WEB:   luciano@grupo-farias.com
 
 LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 809 - FCC DO BRASL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02672357000141  |  WEB RAZÃO: Fcc do Brasil LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 31.638.500,00
+INSC. EST.:   06.300.162-4  |  INSC. MUN.: B4802-01 ——
+
+ENDEREÇO SYS: MOGNO,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Mogno, 11, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-170
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2126-0200
+TELEFONE WEB: (92) 6151-402
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1798 - FCF LOGISTICA EREL-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26202367000181  |  WEB RAZÃO: Fcf Logistica LTDA
+WEB FANTASIA: 100 Por Cento Logistica
+CAPITAL SOCIAL (WEB): R$ 1.100.000,00
+INSC. EST.:   053974204  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. OMS, GALPAO 2, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Dos Oitis, 2214, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-842
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3313-2302 / (92) 3090-0122 / (92) 3090-0433
+EMAILS WEB:   adm.fin@100porcentolog.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1891 - FEDERAL MOGUL INDUSTRIA DE AUTOPECAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09241710000188  |  WEB RAZÃO: Stanley-Angstrom Electric da Amazonia Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 56.384.228,00
+INSC. EST.:   063005395  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CUPIUBA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Cupiuba, 761, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 3106-3020 / (11) 4070-6104
+EMAILS WEB:   mana_recebimento@stanley-electric.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 806 - FELBER ENGENHARIA E REPRESENTAÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10704862000159  |  WEB RAZÃO: Felber Engenharia e Representacao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ALVARO BOTELHO MAIA,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 65, - Dom Pedro I, - Manaus/Amazonas, CEP: 69040-270
+
+CONTATO SYS:  CLENTE DO PEDRO
+TELEFONE SYS: 3664 5678-3082 7467 camila
+TELEFONE WEB: (92) 3082-7437 / (92) 3082-7467 / (92) 3084-1631
+EMAILS WEB:   contabilidade@felberengenharia.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 720 - FÊNIX DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02188581000162  |  WEB RAZÃO: Fenix da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   04.136.227-6  |  INSC. MUN.: 79920-01 —
+
+ENDEREÇO SYS: IRIANEOPOLIS,, [Vazio] - C.NOVAI| - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3641-1424
+TELEFONE WEB: (92) 99101-9938
+EMAILS WEB:   eliaspedrosoneto42@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1830 - FERGEL INDUSTRIA DE FERRO E AÇO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84097468000136  |  WEB RAZÃO: Fergel Industria de Ferro e Aco LTDA
+WEB FANTASIA: Fergel
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   062000624  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BURM, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 5800, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  3615-1000
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1796 - FERGEL INDUSTRIA DE FERRO E ACO LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84097468000136  |  WEB RAZÃO: Fergel Industria de Ferro e Aco LTDA
+WEB FANTASIA: Fergel
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BURM, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 5800, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 307 - FERMAZON FERRO E AÇO DO AMAZONAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84464346000130  |  WEB RAZÃO: Fermazon Ferro e Aco do Amazonas LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 33.000.000,00
+INSC. EST.:   06.200.367-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BURIM), 4100, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 4100, - Distrit Industrial I, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92) 3657-0204/0208/
+TELEFONE WEB: (92) 3301-7000 / (92) 3657-0206
+EMAILS WEB:   fiscal@fermazon.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 364 - FERRAGENS PARAIBA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84461151000137  |  WEB RAZÃO: Ferragens Paraiba Limitada
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   04.124.669-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BRIGADEIRO HILARIO GURJAO, [Vazio] - JORGE TEIXEIRA 1 - MANAUS
+ENDEREÇO WEB: Avenida Brigadeiro Hilario Gurjao, 76, - Jorge Teixeira, - Manaus/Amazonas, CEP: 69088-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3649-0800/ 3238-5911
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1552 - FH COMÉCIO DE MATERIAIS DE CONSTRUÇÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 19447605000153  |  WEB RAZÃO: F H Industria e Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: Cimento Dunorte
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   053535910  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. PADRE CABALLERO, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: Avenida Padre Agostinho Caballero Martin, 2.061, - Compensa, - Manaus/Amazonas, CEP: 69035-090
+
+CONTATO SYS:  ALESSANDRA
+TELEFONE SYS: 2121-455 RAMAL 4581
+TELEFONE WEB: (92) 3625-5220
+EMAILS WEB:   fhcimentos.jaime@gmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1231 - FH DE OLIVEIRA PEIXOTO- EIRELI
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15809486000180  |  WEB RAZÃO: F H de Oliveira Peixoto LTDA
+WEB FANTASIA: Fazenda Sao Pedro
+CAPITAL SOCIAL (WEB): R$ 5.000.000,00
+INSC. EST.:   062000713  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ROD. BR 174 KM 03, [Vazio] - ZONA RURAL - MANAUS
+ENDEREÇO WEB: Avenida Professor Paulo Graca, 2505, - Taruma Acu, - Manaus/Amazonas, CEP: 69023-165
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2121-4555
+TELEFONE WEB: (92) 2121-4555 / (92) 2121-4558
+EMAILS WEB:   fiscal@fhopeixoto.com.br
+
+LIMITE:       49.520,23  |  SALDO DEVEDOR: 479,77
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1343 - FHL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15274155000193  |  WEB RAZÃO: Fhl Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 20293401 —
+
+ENDEREÇO SYS: RUA RIO TAPI, N.375,, [Vazio] - SANTO AGOSTINHO - MANAUS
+ENDEREÇO WEB: Rua Leoncio Correa, 101, - Compensa, - Manaus/Amazonas, CEP: 69036-380
+
+CONTATO SYS:  Renata Gomes
+TELEFONE SYS: 9141-0156/ 3625-4396
+TELEFONE WEB: (92) 99929-9203
+EMAILS WEB:   fabiohuss@hotmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1405 - FHL ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15274155000274  |  WEB RAZÃO: Fhl Engenharia LTDA
+WEB FANTASIA: Edificio Solarium do Aruana
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA JOÃO PIMENTEL, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: Rua Joao Pimentel, 120, - Compensa, - Manaus/Amazonas, CEP: 69036-360
+
+CONTATO SYS:  WILLAME
+TELEFONE SYS: 3343-9529
+TELEFONE WEB: (92) 3625-4396 / (92) 99299-2030
+EMAILS WEB:   fhlengenharia@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1077 - FITAS FLAX DAAMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07169868000169  |  WEB RAZÃO: Fitas Flax da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06300390-2  |  INSC. MUN.: 10979701 —
+
+ENDEREÇO SYS: Av. Torquato Tapajos, [Vazio] - COL. STO ANTÔNIO - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 3386, - Colonia Santo Antonio, - Manaus/Amazonas, CEP: 69093-018
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-6700/6749
+TELEFONE WEB: (92) 2101-6700 / (92) 2101-6749
+EMAILS WEB:   mlima@flax.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 18 - FLEX IMP. EXP. IND. E COM. MÁÃQ. MOT. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22798094000129  |  WEB RAZÃO: Flex Imp.export.ind.e Comer de Maquin.e Motores LTDA
+WEB FANTASIA: Flex
+CAPITAL SOCIAL (WEB): R$ 49.193.318,00
+INSC. EST.:   06.300.007-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. BURIT), 4821, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 4.821, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2126-8709/8710
+TELEFONE WEB: (92) 2126-8700 / (92) 2126-8707 / (92) 2126-8721
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1609 - FLEX IND. FIOS CABOS ELETRICOS LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03571805000183  |  WEB RAZÃO: Flex Industria de Fios e Cabos Eletricos LTDA
+WEB FANTASIA: Flex Cabos
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   062007777  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PROF. URSULA MONTEIRO QUADRA 11, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Rua Professora Ursula Monteiro, 0, - Taruma, - Manaus/Amazonas, CEP: 69041-085
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3011-0134 / (92) 3651-9750
+EMAILS WEB:   compras@flexcabos.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1857 - FLF AUTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22208103000184  |  WEB RAZÃO: Flf Autos LTDA
+WEB FANTASIA: Triumph Manaus
+CAPITAL SOCIAL (WEB): R$ 2.200.000,00
+INSC. EST.:   053677927  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DR. THEOMARIO PINTO DA COSTA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Dr. Theomario Pinto da Costa, 0, - Chapada, - Manaus/Amazonas, CEP: 69050-055
+
+CONTATO SYS:  3648-0999
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3346-8564 / (92) 3648-0999
+EMAILS WEB:   contabil@poleam.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2915 - FLJ EMPREENDIMENTOS IMOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11233165000200  |  WEB RAZÃO: Flj Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV RAMOS FERREIRA, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (45) 3222-2739
+EMAILS WEB:   adir@lorensicontadores.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

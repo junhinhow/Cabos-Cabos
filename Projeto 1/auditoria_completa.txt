@@ -7410,3 +7410,345 @@ EMAILS WEB:   engeloc.am@gmail.com
 
 LIMITE:       14.631,30  |  SALDO DEVEDOR: 368,70
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1111 - ENIPEU EMPREENDIMENTOS IMOBLIARIOS LTDA. - SPE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12474916000162  |  WEB RAZÃO: Enipeu Empreendimentos Imobiliarios Spe LTDA - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 31.001.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. COMENDADOR CLEMENTINO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  Shiney
+TELEFONE SYS: 92 8441-2155
+TELEFONE WEB: (11) 4058-2000
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1383 - ENOIZ COMERCIO DE EMBALAGENS PLASTICAS EIREL|
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 24090846000128  |  WEB RAZÃO: Enoiz Comercio de Embalagens Plasticas LTDA
+WEB FANTASIA: Solitech Servico e Comercio
+CAPITAL SOCIAL (WEB): R$ 700.000,00
+INSC. EST.:   05.379.376-5  |  INSC. MUN.: 22515001
+
+ENDEREÇO SYS: AV JOAQUIM NABUCO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Joaquim Nabuco, 129, - Centro, - Manaus/Amazonas, CEP: 69020-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 99396-1809
+TELEFONE WEB: (92) 99358-5753
+EMAILS WEB:   cintiahelenachaves@gmail.com
+
+LIMITE:       9.062,48  |  SALDO DEVEDOR: 4,137,52
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1466 - ENSIN EMPRESA NACIONAL DE SNALIZAÇÃO E ELETRIFICAÇÃO L1
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 58836933000446  |  WEB RAZÃO: Ensin Empresa Nacional de Sinalizacao e Eletrificacao LTDA
+WEB FANTASIA: Ensin Empresa Nac de Sinalizacao e Letrificacao LTDA
+CAPITAL SOCIAL (WEB): R$ 26.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. JACIRA REIA, [Vazio] - SÃO JORGE - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 90, - Sao Jorge, - Manaus/Amazonas, CEP: 69033-008
+
+CONTATO SYS:  ADRELLE
+TELEFONE SYS: 3625-3605
+TELEFONE WEB: (11) 2629-5582 / (11) 4227-2315 / (92) 3654-1819
+EMAILS WEB:   ensi@3nsin.com.br
+
+LIMITE:       6.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2792 - ENTEC - MAQUINAS E EQUIPAMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14593521000104  |  WEB RAZÃO: Entec - Maquinas e Equipamentos LTDA
+WEB FANTASIA: Entec Equipamentos
+CAPITAL SOCIAL (WEB): R$ 10.211.174,00
+INSC. EST.:   04.236.150-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDAAUTAZ MIRIM, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 5391, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3647-2000 / (92) 3647-2001
+EMAILS WEB:   contato@grupoentec.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 39 - ENTEC GUINDASTES E CONTEINERES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04527149000184  |  WEB RAZÃO: Entec Guindastes e Conteineres LTDA
+WEB FANTASIA: Entec Longhi & Cia
+CAPITAL SOCIAL (WEB): R$ 1.300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV COSME FERREIRA,, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Avenida Solimoes, 250, - Mauazinho, - Manaus/Amazonas, CEP: 69075-715
+
+CONTATO SYS:  SR: CLEO
+TELEFONE SYS: 3647-2000
+TELEFONE WEB: (92) 3647-2000
+EMAILS WEB:   contato@grupoentec.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2008 - ENTEC SERVIÇOS E LOCAÇÕES DE EQUIPAMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07154484000172  |  WEB RAZÃO: Entec Servicos e Locacoes de Equipamentos LTDA
+WEB FANTASIA: Entec Longhi & Cia
+CAPITAL SOCIAL (WEB): R$ 30.279.465,00
+INSC. EST.:   041556160  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENIDA AUTAZ MIRIM, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 1415, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-155
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3647-2000 / (92) 6472-001
+EMAILS WEB:   contato@grupoentec.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 539 - ENVISION NDÚSTRIA DE PRODUTOS ELETRÔNICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04176689000160  |  WEB RAZÃO: ---
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06.200.010-1  |  INSC. MUN.: 986101
+
+ENDEREÇO SYS: AV. TORQUATO TAPAJOS, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: 
+
+CONTATO SYS:  CLENTE ANTÔNIO
+TELEFONE SYS: (92)2126-8860/8811
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 361 - EPHIGENIO SALLES EMPREENDIMENTOS IMOBILIARIOS SPE - S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09151631000186  |  WEB RAZÃO: Ephigenio Salles Empreendimento Imobiliario Spe Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. EPHIGENIO SALLES, 2600, SL 27, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Nicolas Boer, 399, - Parque Industrial Tomas Edson, - São Paulo/São Paulo, CEP: 01140-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)2126-9300//3642-
+TELEFONE WEB: (11) 3708-1184
+EMAILS WEB:   vitor.arantes@tecnisa.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 570 - EQUADOR LOG S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11389394000308  |  WEB RAZÃO: Terminais Fluviais do Brasil S/A
+WEB FANTASIA: T.f.b. S/A
+CAPITAL SOCIAL (WEB): R$ 75.736.216,40
+INSC. EST.:   04.229.013-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: PAJURA, [Vazio] - VILA BURMI - MANAUS
+ENDEREÇO WEB: Rua Pajura, 895, - Vila Buriti, - Manaus/Amazonas, CEP: 69072-065
+
+CONTATO SYS:  MICHELA
+TELEFONE SYS: 2129-1277
+TELEFONE WEB: (81) 2123-3900
+EMAILS WEB:   fiscal.recife@gde-br.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 956 - ERIDANO EMPR IMOB LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12474876000159  |  WEB RAZÃO: Eridano Empreendimentos Imobiliarios Spe LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 26.259.580,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: COMENDADOR CLEMENTINO, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  Carios
+TELEFONE SYS: 92 8441-2203
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   tributario@construtoracapital.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1532 - ERLI COMERCIO DE PEÇAS E SERVIÇOS DE MANUTENÇÃO VEICUL)
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07870937000167  |  WEB RAZÃO: Erli Comercio de Pecas e Servicos de Manutencao Veicular LTDA
+WEB FANTASIA: So Cardan - Pecas e Servicos
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   042171393  |  INSC. MUN.: 11620001 —
+
+ENDEREÇO SYS: AVENIDA CAMAPUA, [Vazio] - NOVO ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 9865, - Cidade de Deus, - Manaus/Amazonas, CEP: 69099-145
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3696-8145
+TELEFONE WEB: (92) 3636-1038
+EMAILS WEB:   financeiro@socardan.com.br
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 681 - ESAC ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00892637000130  |  WEB RAZÃO: Esac Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 6.000,00
+INSC. EST.:   042175887  |  INSC. MUN.: 07247901 —
+
+ENDEREÇO SYS: RUAA N 11 CJ SHANGRILA, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Rua Rio Javari, 361, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-110
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3648-0923/ 3236-1980
+TELEFONE WEB: (92) 3236-1980 / (92) 99604-4984
+EMAILS WEB:   elianesigrid@gmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 356 - ESAC ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00892637000130  |  WEB RAZÃO: Esac Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 6.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAA, N. 11, CJ. SHANGRILA, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Rio Javari, 361, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-110
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-1980 / (92) 99604-4984
+EMAILS WEB:   elianesigrid@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 918 - ESEPO EMPREENDIMENTOS IMOBLLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12474836000107  |  WEB RAZÃO: Esepo Empreendimentos Imobiliarios LTDA Spe - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 4058-2000
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2875 - ESGOTEC SERVICOS DE TRANSPORTES LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07402200000110  |  WEB RAZÃO: Esgotec Servicos de Transportes LTDA
+WEB FANTASIA: Esgotec Servicos de Transportes
+CAPITAL SOCIAL (WEB): R$ 7.000.000,00
+INSC. EST.:   042150310  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R PAJURAZINHO, [Vazio] - DISTRITO INDUSTRIAL l - MANAUS
+ENDEREÇO WEB: Rua Pajurazinho, 625, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-410
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3248-9507 / (92) 99192-1069
+EMAILS WEB:   chicaopereira2010@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 984 - ESTACAO NAVAL DO RIO NEGRO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00394502016067  |  WEB RAZÃO: Comando da Marinha
+WEB FANTASIA: Estacao Naval do Rio Negro
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO ITAQUAI!, [Vazio] - VILA BURMI - MANAUS
+ENDEREÇO WEB: Estrada Manaus Porto Velho, SN, - Manaus/Amazonas, CEP: 69020-282
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 92- 2123-4530/37
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 436 - ESTALEIRO BIBI LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05204780000105  |  WEB RAZÃO: Estaleiro Bibi LTDA
+WEB FANTASIA: Estaleiro do Bibi
+CAPITAL SOCIAL (WEB): R$ 18.349.100,00
+INSC. EST.:   06.200.700-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ESTRADA DO PAREDÃO, KM 05, NUMERO 1213, CASAA, [Vazio] - VILA BURMI - MANAUS
+ENDEREÇO WEB: Rua Rio Pirapo, 1213, - Vila Buriti, - Manaus/Amazonas, CEP: 69072-010
+
+CONTATO SYS:  CLENTE ELVIS
+TELEFONE SYS: (92)3624-8802/9114-2
+TELEFONE WEB: (92) 3624-7114
+EMAILS WEB:   estaleiro_bibi@yahoo.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 147 - ESTAMAM-ESTALEIRO MANAUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05089941000167  |  WEB RAZÃO: Delima Comercio e Navegacao LTDA
+WEB FANTASIA: Conasa
+CAPITAL SOCIAL (WEB): R$ 68.000.000,00
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: [Vazio], [Vazio] - VILA ANASTÁCIO - MANAUS
+ENDEREÇO WEB: Rodovia Artur Bernardes, 605, - Telegrafo Sem Fio, - Belém/Pará, CEP: 66115-000
+
+CONTATO SYS:  SERGINHO
+TELEFONE SYS: (092)3618-5112
+TELEFONE WEB: (91) 3202-7000 / (91) 3202-7017 / (91) 3202-7022
+EMAILS WEB:   contabilmtz@gruporeicon.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

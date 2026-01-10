@@ -11837,3 +11837,250 @@ EMAILS WEB:   kathianefreitas@gmail.com
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 16177 - KAELE LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04819323000162  |  WEB RAZÃO: Kaele LTDA
+WEB FANTASIA: K L Rent A Car
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. TARUMA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Taruma, 1585, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 98445-3630
+TELEFONE WEB: (92) 3671-1047
+EMAILS WEB:   kaele@econe.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 576 - KAIROS CONSTRUTORA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02549438000159  |  WEB RAZÃO: Kairos Construtora e Saneamento LTDA
+WEB FANTASIA: Kairos Construtora e Saneamento
+CAPITAL SOCIAL (WEB): R$ 5.240.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 100284-1--
+
+ENDEREÇO SYS: FERNAO DIAS PAES LEMOS,, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Fernao Dias Paes Leme, 135, - Dom Pedro I, - Manaus/Amazonas, CEP: 69042-490
+
+CONTATO SYS:  MOISÉS OLNVEIRA
+TELEFONE SYS: 3657-8286/3084-3498
+TELEFONE WEB: (92) 3656-7576
+EMAILS WEB:   ruisnunes@uol.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 441 - KAWASAKI MOTORES DO BRASIL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09137895000185  |  WEB RAZÃO: Kawasaki Motores do Brasil LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 55.179.718,50
+INSC. EST.:   06.200.629-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DAS ARRAIAS, 2686, [Vazio] - COLÔNIA ANTÔNIO ALEIXO - MANAUS
+ENDEREÇO WEB: Rua Arraias, 286, - Colonia Antonio Aleixo, - Manaus/Amazonas, CEP: 69008-448
+
+CONTATO SYS:  CLENTE BRUNO
+TELEFONE SYS: (92)3305-5930/3305-5
+TELEFONE WEB: (92) 3305-5810 / (92) 3305-5827
+EMAILS WEB:   fiscal_mao@kawasakibrasil.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2740 - KGM ENGENHARIA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 22337975000142  |  WEB RAZÃO: Kgm Engenharia LTDA
+WEB FANTASIA: Grupo K G M
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   053965604  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. FERNAO DIAS PAES LEME, [Vazio] - DOM PEDRO | - MANAUS
+ENDEREÇO WEB: Avenida Fernao Dias Paes Leme, 456, - Dom Pedro I, - Manaus/Amazonas, CEP: 69042-490
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99208-2988
+EMAILS WEB:   gabrielcontabilmanaus@gmail.com
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 840 - KODUHALL COMÉRCIO LTDA - ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11093941000133  |  WEB RAZÃO: Koduhall Comercio LTDA
+WEB FANTASIA: Hall Center
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   04.295.147-0  |  INSC. MUN.: 13006801 —
+
+ENDEREÇO SYS: RUA CORONEL CONRADO NEMEYER, [Vazio] - PETROPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 2610, - Flores, - Manaus/Amazonas, CEP: 69058-795
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98454-5732
+EMAILS WEB:   naber.contabil@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1390 - L RAMOS AVELINO -EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 19968263000117  |  WEB RAZÃO: L. Ramos Avelino
+WEB FANTASIA: Maximum Engenharia e Construcoes
+CAPITAL SOCIAL (WEB): R$ 120.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 21335501
+
+ENDEREÇO SYS: RUA RIO JUTAI, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: Avenida Rio Jutai, 1193, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-020
+
+CONTATO SYS:  LUCAS RAMOS AVELINO
+TELEFONE SYS: 3022-0066
+TELEFONE WEB: (92) 3131-5556 / (92) 98429-2635
+EMAILS WEB:   adm@maximumengenharia.com
+
+LIMITE:       22.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 958 - L V M CONSTRUCOES LTIDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08936233000102  |  WEB RAZÃO: L V M Construcoes LTDA
+WEB FANTASIA: L V M Construcoes
+CAPITAL SOCIAL (WEB): R$ 1.200.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Cel Brito, 228, - Da Paz, - Manaus/Amazonas, CEP: 69049-020
+
+CONTATO SYS:  Andrei
+TELEFONE SYS: 8151-8266/ 4009-3035
+TELEFONE WEB: (92) 3663-9577 / (92) 4009-3031
+EMAILS WEB:   lc-franco@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 113 - L V M DAAMAZONIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07519902000188  |  WEB RAZÃO: Lvm da Amazonia Comercio e Servicos de Pecas LTDA
+WEB FANTASIA: Lvm Equipamentos e Logistica
+CAPITAL SOCIAL (WEB): R$ 1.650.000,00
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV.EPHIGENIO SALES N 1800, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  LUCIO
+TELEFONE SYS: (092)3236-1965
+TELEFONE WEB: (92) 3212-3245 / (92) 3212-3270 / (92) 3236-1965
+EMAILS WEB:   contabilidade@lempar.com.br
+
+LIMITE:       3.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 618 - L. DE ARAUJO FERREIRA-SERVIÇOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10588398000182  |  WEB RAZÃO: L. de Araujo Ferreira - Servicos
+WEB FANTASIA: Essencial Construtora
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 12787001 —
+
+ENDEREÇO SYS: TRAV DESEMBARGADOR GASPAR GUIMARÃES,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3657-6425 / (92) 98118-9009
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 164 - L.L CONSTRUÇOÕES E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 06067915000109  |  WEB RAZÃO: L. L Construcao e Comercio LTDA
+WEB FANTASIA: Flexa Construcoes
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CASTELO BRANCO, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Castelo Branco, 1160, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-011
+
+CONTATO SYS:  LEO SERGIO
+TELEFONE SYS: (092)3247-0221
+TELEFONE WEB: (92) 99241-9529
+EMAILS WEB:   alfredojrcontabil@gmail.com
+
+LIMITE:       4.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3152 - LABEL PARTICIPAÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 16714596000121  |  WEB RAZÃO: Label Participacoes LTDA
+WEB FANTASIA: Label Participacoes
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 20336001 —
+
+ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - COLONIA SANTO ANTONI - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 2047, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-770
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (91) 2101-7300 / (92) 2101-7316
+EMAILS WEB:   juebisilvestre@costaeassociados.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1503 - LABELPRESS INDUSTRIA E COMERCIO DA AMAZONIA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03497916000197  |  WEB RAZÃO: Labelpress Industria e Comercio da Amazonia Ltda.
+WEB FANTASIA: All4Labels
+CAPITAL SOCIAL (WEB): R$ 30.238.056,00
+INSC. EST.:   063002094  |  INSC. MUN.: —
+
+ENDEREÇO SYS: A. TORQUATO TAPAJOS N. 9.691 KM.10, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 9691, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-7316 / (92) 2101-7319 / (92) 6422-603
+EMAILS WEB:   rogerio.strazzer@all4labels.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 963 - LAGHI ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01057727000178  |  WEB RAZÃO: Laghi Engenharia LTDA
+WEB FANTASIA: Laghi Engenharia Consultoria e Projetos
+CAPITAL SOCIAL (WEB): R$ 15.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 7370001 —
+
+ENDEREÇO SYS: RUAALAMEDA SIRIO LIBANES, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Jacira Reis, 600, - Sao Jorge, - Manaus/Amazonas, CEP: 69033-008
+
+CONTATO SYS:  TAIANA
+TELEFONE SYS: 3301-4300/3301-4323
+TELEFONE WEB: (92) 3301-4351 / (92) 3663-6759
+EMAILS WEB:   fabilenoandrade@laghi.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

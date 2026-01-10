@@ -9728,3 +9728,383 @@ EMAILS WEB:   juridicotributario@amaggi.com.br
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 470 - HF CONSTRUÇÕES E TRANSPORTES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84481340000171  |  WEB RAZÃO: Construnort Construcao Civil e Terraplanagem LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 16.550.800,00
+INSC. EST.:   04.294.335-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA VISCONDE DE SINIMBU, QUADRA Y-25, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Visconde de Sinimbu (Prq Laranjeiras),01, - Flores, - Manaus/Amazonas, CEP: 69058-790
+
+CONTATO SYS:  YANE
+TELEFONE SYS: 3646-2282
+TELEFONE WEB: (97) 99150-6071
+EMAILS WEB:   pedrogneto93@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1807 - HISAMITSU FARMACEUTICA DO BRASIL LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 49383250000147  |  WEB RAZÃO: Hisamitsu Farmaceutica do Brasil LTDA
+WEB FANTASIA: Hisamitsu
+CAPITAL SOCIAL (WEB): R$ 17.175.695,00
+INSC. EST.:   06.200.160-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BURM, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 1050, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.838,40  |  SALDO DEVEDOR: 4,161,60
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2788 - HITACHIASTEMO MANAUS CHASSIS SYSTEMS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04012043000148  |  WEB RAZÃO: Astemo Manaus Chassis Systems LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 62.105.968,62
+INSC. EST.:   063001667  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO QUIXITO, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Rio Quixito, 1376, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-831
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3615-0500 / (92) 3615-2808 / (92) 3616-0587
+EMAILS WEB:   aam-sdb-contabilidade@hitachiastemo.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 17 - HMB INDUSTRIA E COM LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03144594000100  |  WEB RAZÃO: Hmb Industria e Comercio Ltda.
+WEB FANTASIA: Hmb
+CAPITAL SOCIAL (WEB): R$ 2.388.350,00
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MAJOR GABREL N 618, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Major Gabriel, 618, - Centro, - Manaus/Amazonas, CEP: 69020-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 622-8110
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1648 - HONDA COMPONENTES DA AMAZÔNIA LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05541925000163  |  WEB RAZÃO: Honda Componentes da Amazonia Limitada
+WEB FANTASIA: Honda Componentes
+CAPITAL SOCIAL (WEB): R$ 744.096.469,00
+INSC. EST.:   063002302  |  INSC. MUN.: —
+
+ENDEREÇO SYS: JAVARI, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Javari, S/N, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-110
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3616-5313
+EMAILS WEB:   maohondafiscalcontrole@honda.com.br
+
+LIMITE:       60.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 677 - HOSPITAL SANTA JÚLIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04666863000153  |  WEB RAZÃO: Hospital Santa Julia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVRÃO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Avenida Ayrao, 507, - Centro, - Manaus/Amazonas, CEP: 69025-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2121-9020/2121-9021
+TELEFONE WEB: (92) 2121-9100
+EMAILS WEB:   contabilidade03@hospitalsantajulia.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 973 - HOSPITAL UNIVERSITARIO GETULIO VARGAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04378626001592  |  WEB RAZÃO: Fundacao Universidade do Amazonas
+WEB FANTASIA: Hospital Universitario Getulio Vargas
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV APURINA, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Tomas de Vila Nova, 0, - Centro, - Manaus/Amazonas, CEP: 69020-545
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99167-9131
+EMAILS WEB:   leandro.costa@ebserh.gov.br
+
+LIMITE:       14.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 334 - HR ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08855123000116  |  WEB RAZÃO: H R Engenharia LTDA
+WEB FANTASIA: J K Projetos e Engenharia
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
+INSC. EST.:   04.222.337-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CAIAPOL Nº 12 LOT. NOVO ALEIXO CIDADE NOLVA, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  ZECA
+TELEFONE SYS: (092)3656-0839/9125-
+TELEFONE WEB: (92) 3656-2961
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 789 - HRT O&G EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11058804000249  |  WEB RAZÃO: Prio Comercializadora Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 4.763.824.461,00
+INSC. EST.:   04..226.510-0  |  INSC. MUN.: 13472301 —
+
+ENDEREÇO SYS: PONTA GROSSA,, [Vazio] - COL. OLV. MACHADO - MANAUS
+ENDEREÇO WEB: Avenida Jorn. Humberto Calderaro Filho, 1015, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-700
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3212-3081/3212-3082/3212-3065
+TELEFONE WEB: (92) 3345-3815 / (92) 3345-3817 / (92) 3345-3818
+EMAILS WEB:   nilva.duarte@petroriosa.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2168 - HSX ENGENHARIA E CONSTRUCOES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 35788297000186  |  WEB RAZÃO: Hsx Engenharia e Construcoes LTDA
+WEB FANTASIA: Hsx Engenharia
+CAPITAL SOCIAL (WEB): R$ 800.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R URUTU, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Rua Urutu, 0, - Taruma, - Manaus/Amazonas, CEP: 69041-090
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98286-0002
+EMAILS WEB:   administrativo@hsxengenharia.com.br
+
+LIMITE:       49.146,28  |  SALDO DEVEDOR: 853,72
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3462 - HTB CONSTRUCOES LTIDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08606901000214  |  WEB RAZÃO: Htb Construcoes Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.895.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ANDRE ARAUJO, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Avenida Andre Araujo, 2721, - Aleixo, - Manaus/Amazonas, CEP: 69060-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 5643-0100
+EMAILS WEB:   nfe@htb.eng.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 923 - HTS SERV. DE HOTELARIA E TURISMO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23033327000599  |  WEB RAZÃO: Hts Servicos de Hotelaria e Turismo LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 35.960.194,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. RIO ITUXI C/ RUA RIO BRANCO, [Vazio] - N. S. DAS GRACAS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-9956
+TELEFONE WEB: (92) 2101-9900 / (92) 2101-9944 / (92) 2101-9948
+EMAILS WEB:   fiscal@grupounipar.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 666 - HTS SERV. DE HOTELARIA E TURISMO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23033327000327  |  WEB RAZÃO: Hts Servicos de Hotelaria e Turismo LTDA
+WEB FANTASIA: Hts - Ed.adrianopolis - Filial I
+CAPITAL SOCIAL (WEB): R$ 35.960.194,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: SALVADOR,, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-2000
+TELEFONE WEB: (92) 6332-001
+EMAILS WEB:   trbrandao@interlins.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 533 - HUAWEI GESTÃO E SERVIÇOS DE TELECOMUNICAÇÕES DO BRAS!
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10519123000510  |  WEB RAZÃO: Huawei Gestao e Servicos de Telecomunicacoes do Brasil Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   04.810.011-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: 220,, [Vazio] - CIDADE NOVAS - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE ANTÔNIO
+TELEFONE SYS: (11)3716-1600/3716-1
+TELEFONE WEB: (92) 3182-3388
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2709 - ESHENG BRASIL INDUSTRIA E COMERCIO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04547098000152  |  WEB RAZÃO: I-Sheng Brasil Industria e Comercio de Componentes Eletronicos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 100.304.483,00
+INSC. EST.:   063001640  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACARA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Acara, 200, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3614-5550 / (92) 3614-5551
+EMAILS WEB:   thiago.faia@isheng.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 41 - |L B. SABBA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04565230004901  |  WEB RAZÃO: I B Sabba S A
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   06.200215-5  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PAJURA 865, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Gebes Medeiros Filho, 206, - Taruma, - Manaus/Amazonas, CEP: 69022-105
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3237-3636
+TELEFONE WEB: (92) 3237-3636 / (92) 99189-8777
+EMAILS WEB:   bena@ibsabba.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3090 - LL.M DE AQUINO LIMITADA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 47696456000100  |  WEB RAZÃO: I. L. M. de Aquino Limitada
+WEB FANTASIA: Luxmax Luz Maxima
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   054493650  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA FURUOKA, NUMERO 128, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Rua Furuoka, 128, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-645
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99508-8866
+EMAILS WEB:   ingridlorahini@hotmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 377 - LR.BALBARADO - ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10662249000116  |  WEB RAZÃO: I. R. B. Albarado
+WEB FANTASIA: Eletrotec Servicos Tecnologicos & Comercio
+CAPITAL SOCIAL (WEB): R$ 20.000,00
+INSC. EST.:   04.293.878-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PADRE MARCELO, 4 À, [Vazio] - NOVA ESPERANÇA 2 - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)9613-2452/8113-8
+TELEFONE WEB: (92) 3656-8719
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2700 - BM ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05526543000160  |  WEB RAZÃO: I3M Engenharia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV TEFE, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 3186, - Japiim, - Manaus/Amazonas, CEP: 69078-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4713
+EMAILS WEB:   paula.hallak@mei.eng.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 897 - IBRAPEM - NDUSTRIA BRASLEIRA DE PAPEIS E EMBALAGENS LTD,
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 14868322000161  |  WEB RAZÃO: Ctk - Industria de Embalagens da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000.000,00
+INSC. EST.:   063007690  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV:BURITI,, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 3650, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-000
+
+CONTATO SYS:  PRISCILA
+TELEFONE SYS: 8111-3232 / 3615-2011
+TELEFONE WEB: (92) 3631-8000 / (92) 3631-8801 / (92) 3631-8803
+EMAILS WEB:   maurilio.neto@ctkembalagens.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

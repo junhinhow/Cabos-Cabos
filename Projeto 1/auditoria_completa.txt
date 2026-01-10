@@ -11628,3 +11628,212 @@ EMAILS WEB:   empresarial@direcional.com.br
 
 LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 905 - JORGE DOS SANTOS OLIVEIRA ESQUADRIAS ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09132461000192  |  WEB RAZÃO: Js Metalurgia LTDA
+WEB FANTASIA: Metalurgica Js
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   042906865  |  INSC. MUN.: 13165801 —
+
+ENDEREÇO SYS: RUA: DOUTOR LOPES GONÇALVES,, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Rua Doutor Lopes Goncalves, 19, - Cidade Nova, - Manaus/Amazonas, CEP: 69098-197
+
+CONTATO SYS:  9122-1265 Jorge dos Santos
+TELEFONE SYS: 3682-0173 Cliciane
+TELEFONE WEB: (92) 3657-8521 / (92) 3682-0173
+EMAILS WEB:   jsmetalurgia@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 222 - JORGE LUIZ MOURA GUERREIRO ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05938561000150  |  WEB RAZÃO: Jorge Luiz Moura Guerreiro
+WEB FANTASIA: A. G. Audio e Instalacao
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   [Vazio]  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV: LEOPOLDO PERES Nº 1013, [Vazio] - SANTA LUZIA - MANAUS
+ENDEREÇO WEB: Avenida 7 de Setembro, 987, - Centro, - Manaus/Amazonas, CEP: 69005-141
+
+CONTATO SYS:  JORGE LUIZ
+TELEFONE SYS: (092)3624-5251
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 707 - JORGE MUSSA FERRAGENS LTDA - EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04805081000158  |  WEB RAZÃO: Jorge Mussa Ferragens LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 110.000,00
+INSC. EST.:   04.172.256-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: MIRANDA LEÃO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Miranda Leao, 527, - Centro, - Manaus/Amazonas, CEP: 69005-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3233-9325/ 3234-9730
+TELEFONE WEB: (92) 3233-9325 / (92) 3234-9730
+EMAILS WEB:   financeirojorge_mussa@hotmail.com
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2802 - JOSE ORLANDO ROLIM DOS SANTOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 49730392000133  |  WEB RAZÃO: Chorro Comercio de Materiais de Construcao LTDA
+WEB FANTASIA: Chorro Material de Construcao
+CAPITAL SOCIAL (WEB): R$ 80.000,00
+INSC. EST.:   054549140  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO NAPUIAU, [Vazio] - SAO JOSE OPERARIO - MANAUS
+ENDEREÇO WEB: Rua Rio Napuiau, 13, - Sao Jose Operario, - Manaus/Amazonas, CEP: 69086-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99207-3044
+EMAILS WEB:   ch.eletricaeconstrucoes@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1199 - JR RODRIGUES VARIEDADES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09631624000181  |  WEB RAZÃO: J R Rodrigues Variedades LTDA
+WEB FANTASIA: Variedades Salmo 91
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   042260701  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MARISA MENDES, COLONIA CHICO MENDES, [Vazio] - JORGE TEXEIRA - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 1052, - Flores, - Manaus/Amazonas, CEP: 69058-830
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3641-0162 3641-2525
+TELEFONE WEB: (92) 3042-0102 / (92) 3232-6530
+EMAILS WEB:   adm@salmo91.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3241 - JS NDUSTRIA DE ARTEFATOS DE CIMENTO LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 20200251000127  |  WEB RAZÃO: J S Industria de Artefatos de Cimento LTDA
+WEB FANTASIA: Paviblocos
+CAPITAL SOCIAL (WEB): R$ 250.000,00
+INSC. EST.:   062016121  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TRAVESSA CACTO AZUL SALA 02, [Vazio] - TARUMA-ACU - MANAUS
+ENDEREÇO WEB: Rua Esus, 381, - Taruma-Acu, - Manaus/Amazonas, CEP: 69023-500
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98216-8992
+EMAILS WEB:   adm@pvblocos.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2646 - JTZ IND. E COMERCIO DE VEICULOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17799666000154  |  WEB RAZÃO: Jtz Industria e Comercio de Veiculos LTDA
+WEB FANTASIA: Jtz
+CAPITAL SOCIAL (WEB): R$ 17.000.000,00
+INSC. EST.:   062010212  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAANINGA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Aninga, 610, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-200
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2125-7450 / (92) 2125-7472 / (92) 2125-7474
+EMAILS WEB:   contabilidade@suzukimotos.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1842 - JULIANA SALGADO DO VALE
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26224940000158  |  WEB RAZÃO: A D Comercio e Servicos de Impressao LTDA
+WEB FANTASIA: Loja da Impressao
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   054017955  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. NOEL NUTELS, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Avenida Noel Nutels, 16, - Cidade Nova, - Manaus/Amazonas, CEP: 69095-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99277-4099
+EMAILS WEB:   lojadaimpressaoam@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 242 - JUMBO IND. DE USINAGEM E ESTAMPARIA DAAMAZ. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09150807000185  |  WEB RAZÃO: Jumbo Industria de Usinagem e Estamparia da Amazonia LTDA
+WEB FANTASIA: Jumbo Industria de Usinagem e Estamparia da Amazonia Lt
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   06.300.527-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R. RIO MUTUZINHO, 200-LOT ITACOLOMI|, [Vazio] - ARMANDO MENDES - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3615-0855
+TELEFONE WEB: (92) 3236-7728 / (92) 98142-9902
+EMAILS WEB:   jumboestamparia@yahoo.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2552 - JURUA ESTALEIROS E NAVEGACAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 63700553000258  |  WEB RAZÃO: Jurua Estaleiros e Navegacao LTDA
+WEB FANTASIA: Jurua Estaleiros
+CAPITAL SOCIAL (WEB): R$ 63.000.000,00
+INSC. EST.:   042331315  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AVENDA PEDRO TEIXERA, [Vazio] - D-PEDRO | - MANAUS
+ENDEREÇO WEB: Rua Laurindo Luis dos Santos, 57, - Compensa, - Manaus/Amazonas, CEP: 69035-356
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99396-0140
+EMAILS WEB:   contabil@juruaestaleiro.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3155 - K F DE FREITAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 52902747000139  |  WEB RAZÃO: K. F. de Freitas
+WEB FANTASIA: Wk Representacoes e Comercio
+CAPITAL SOCIAL (WEB): R$ 50.000,00
+INSC. EST.:   054620384  |  INSC. MUN.: 60146601 ——
+
+ENDEREÇO SYS: RUA GABRIEL MONTEIRO, [Vazio] - CIDADE DE DEUS - MANAUS
+ENDEREÇO WEB: Rua Gabriel Monteiro, 24, - Cidade de Deus, - Manaus/Amazonas, CEP: 69099-123
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98521-5465
+EMAILS WEB:   kathianefreitas@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

@@ -8341,3 +8341,364 @@ EMAILS WEB:   adir@lorensicontadores.com.br
 
 LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1907 - FN DE ALMEDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84111020000120  |  WEB RAZÃO: F N de Almeida LTDA
+WEB FANTASIA: Refrimov
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   041216555  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RU JOSEFA DANTAS, [Vazio] - COLÔNIA SANTO ANTÔNIO - MANAUS
+ENDEREÇO WEB: Rua Josefa Dantas, 3, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-284
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99228-8471
+EMAILS WEB:   refrimov.refrimov@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 743 - FORMAPACK EMBALAGENS PLASTICAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09397075000122  |  WEB RAZÃO: Formapack Embalagens Plasticas LTDA
+WEB FANTASIA: Formapack Embalagens Plasticas
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   06.300.554-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ABURANA, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Abiurana, 980, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3615-8520
+TELEFONE WEB: (92) 3633-1910 / (92) 3878-0130
+EMAILS WEB:   controladoria@formapack.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 472 - FORMATTO CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09563652000109  |  WEB RAZÃO: Formatto Construcoes LTDA
+WEB FANTASIA: Formatto
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DOZE , 31 QD 17, [Vazio] - CIDADE NOVA - MANAUS
+ENDEREÇO WEB: Rua Delfin de Souza, 1000, - Petropolis, - Manaus/Amazonas, CEP: 69063-460
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)3641-8937//8118-
+TELEFONE WEB: (92) 3611-1398
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2925 - FORMOSA COMERCIO DE COMBUSTIVEIS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26037924000156  |  WEB RAZÃO: Formosa Comercio de Combustiveis LTDA
+WEB FANTASIA: Auto Posto Jose Romao
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   053850211  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R JOSE ROMAO, [Vazio] - SAO JOSE OPERARIO - MANAUS
+ENDEREÇO WEB: Rua Jose Romao, 1330, - Sao Jose Operario, - Manaus/Amazonas, CEP: 69085-288
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98482-6601
+EMAILS WEB:   contato@grupoal.log.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2183 - FORT COMERCIO DE BEBIDAS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04259133000138  |  WEB RAZÃO: Fort Comercio de Bebidas LTDA
+WEB FANTASIA: Fort Comercio e Servicos
+CAPITAL SOCIAL (WEB): R$ 5.000.000,00
+INSC. EST.:   041465962  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DEWAS AÀ, [Vazio] - TARUMA-ACU - MANAUS
+ENDEREÇO WEB: Avenida Da Floresta, 3777, - Taruma-Acu, - Manaus/Amazonas, CEP: 69022-440
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3308-3808 / (92) 99985-2524
+EMAILS WEB:   superveneza@uol.com.br
+
+LIMITE:       350.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1596 - FORT FACLLITES ADMINISTRAÇÃO DE OBRAS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 29138454000105  |  WEB RAZÃO: Fort Facilities Administracao de Obras LTDA
+WEB FANTASIA: Fort Facilities
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA ARAPAPA, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Rua Cardinal, 0, - Taruma, - Manaus/Amazonas, CEP: 69022-123
+
+CONTATO SYS:  EDUARDO/TETSU
+TELEFONE SYS: 984495453
+TELEFONE WEB: (92) 98453-2433
+EMAILS WEB:   contato@fortfacilities.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1414 - FORTE COMERCIO DE DERIVADOS DE PETROLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07848998000390  |  WEB RAZÃO: Forte Comercio de Derivados de Petroleo LTDA
+WEB FANTASIA: Forte Auto Posto III
+CAPITAL SOCIAL (WEB): R$ 1.436.433,00
+INSC. EST.:   053322614  |  INSC. MUN.: 114122038 —
+
+ENDEREÇO SYS: RUA VICENTE SALVADOR, [Vazio] - CIDADE DE DEUS - MANAUS
+ENDEREÇO WEB: Avenida Nossa Senhora da Conceicao, 1421, - Cidade de Deus, - Manaus/Amazonas, CEP: 69099-225
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3582-8321
+TELEFONE WEB: (92) 3232-7688
+EMAILS WEB:   contabilidade@forteautoposto.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1413 - FORTE COMÉRCIO DE DERIVADOS DE PETROLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07848998000128  |  WEB RAZÃO: Forte Comercio de Derivados de Petroleo LTDA
+WEB FANTASIA: Forte Auto Posto
+CAPITAL SOCIAL (WEB): R$ 1.436.433,00
+INSC. EST.:   042171768  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: ALVARO BOTELHO MAIA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Avenida Alvaro Botelho Maia, 1690, - Praca 14 de Janeiro, - Manaus/Amazonas, CEP: 69020-210
+
+CONTATO SYS:  3232-7688
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3611-2299 / (92) 3611-3611 / (92) 3671-2349
+EMAILS WEB:   me@internext.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1367 - FORTE COMERCIO DE MATERIAIS HDRAULICOS E ELE. EIREL| -ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 15243802000108  |  WEB RAZÃO: Forte Comercio de Materiais Hidraulicos e Eletricos LTDA
+WEB FANTASIA: Forte Hidraulica
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   053219600  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA THOMAS EDSON, [Vazio] - LÍRIO DO VALE - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  WILLIAM
+TELEFONE SYS: 9159-5570/3656-5400
+TELEFONE WEB: (92) 3611-2803 / (92) 3656-5400 / (92) 99159-5570
+EMAILS WEB:   william@fortehidraulica.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1378 - FORTE COMERCIO DE PETROLEO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07848998000209  |  WEB RAZÃO: Forte Comercio de Derivados de Petroleo LTDA
+WEB FANTASIA: Forte Auto Posto II
+CAPITAL SOCIAL (WEB): R$ 1.436.433,00
+INSC. EST.:   1042330475  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DESEMBARGADOR JOÃO MACHADO, [Vazio] - PLANALTO - MANAUS
+ENDEREÇO WEB: Avenida Desembargador Joao Machado, 3763, - Planalto, - Manaus/Amazonas, CEP: 69045-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3232-7688
+TELEFONE WEB: (92) 3232-7688
+EMAILS WEB:   me@internext.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1472 - FORTE EQUIPAMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03102489000109  |  WEB RAZÃO: Forte Equipamentos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   041412125  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA JAPURA, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Rua Japura, 801, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-150
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 6445-454 / (92) 98146-3493
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 85 - FOXCONN DO BRASIL IND. E COM. DE ELET. LTIDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04009604000150  |  WEB RAZÃO: Fih do Brasil Industria e Comercio de Eletronicos LTDA
+WEB FANTASIA: Foxconn do Brasil Industria e Comercio de Eletronicos
+CAPITAL SOCIAL (WEB): R$ 550.532.590,00
+INSC. EST.:   06.300.196-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV SENADOR RAIMUNDO PARENTE, 1, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Acai, 1580, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  CLENTE MAURÍCIO
+TELEFONE SYS: (92)4009-4000
+TELEFONE WEB: (92) 4009-4208 / (92) 4009-4226
+EMAILS WEB:   dis-acc52o@foxconn.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2828 - FOXCONN MOEBG INDUSTRIA DE ELETRONICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08986284000220  |  WEB RAZÃO: Foxconn Moebg Industria de Eletronicos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 608.664.655,00
+INSC. EST.:   063010895  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PE, [Vazio] - DISTR.IND. - MANAUS
+ENDEREÇO WEB: Rua Ipe, 535, - Distrito Industrial I, - Manaus/Amazonas, CEP: 69075-100
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 4009-4228
+EMAILS WEB:   paula.bove@foxconn.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 350 - FRANKAL CONSTRUÇÕES LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08211266000195  |  WEB RAZÃO: Frankal Construcoes LTDA
+WEB FANTASIA: Construtora Patrimonio
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA JOSE ROMÃO, 49, [Vazio] - SÃO JOSÉ OPERÁRIO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-4178 / (92) 3248-7455
+EMAILS WEB:   ---
+
+LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1195 - FRIGORIFICO VITELLO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84125681000104  |  WEB RAZÃO: Vitello Comercio de Produtos Alimenticios LTDA
+WEB FANTASIA: Bom Tempero
+CAPITAL SOCIAL (WEB): R$ 1.838.230,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MAX TEIXEIRA, [Vazio] - COL. STO ANTÔNIO - MANAUS
+ENDEREÇO WEB: Avenida Max Teixeira, 2795, - Colonia Sto Antonio, - Manaus/Amazonas, CEP: 69093-770
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3651-2017 / (92) 3651-3030 / (92) 3651-5000
+EMAILS WEB:   suzanavitello@gmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 6 - FRIOTERMICA CLIMATIZACAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04941897000109  |  WEB RAZÃO: Friotermica Climatizacao LTDA
+WEB FANTASIA: Frioterm
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   041514432  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CORONEL JAIME MENDONCA, [Vazio] - PETROPOLIS - MANAUS
+ENDEREÇO WEB: Rua Coronel Jaime Mendonca, 775, - Petropolis, - Manaus/Amazonas, CEP: 69063-500
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3237-5242
+EMAILS WEB:   friotermica@friotermica.com
+
+LIMITE:       8.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2858 - FRUTAL EMPREENDIMENTOS IMOBILIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 35729667000295  |  WEB RAZÃO: Frutal Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5400
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2508 - FRUTAL INDUSTRIA E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05646631000104  |  WEB RAZÃO: Frutal Industria e Comercio LTDA
+WEB FANTASIA: Frutal Alimentos
+CAPITAL SOCIAL (WEB): R$ 4.000.000,00
+INSC. EST.:   06.200.426-3  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R DALLAS, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Dallas, 979, - Flores, - Manaus/Amazonas, CEP: 69058-125
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3305-3800 / (92) 3305-3823
+EMAILS WEB:   fiscal@frutalindustria.com.br
+
+LIMITE:       300.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3013 - FTE NCORPORACAO DE EMPREENDIMENTOS IMOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 30154218000161  |  WEB RAZÃO: Fte Incorporacao de Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: Bertolini Empreendimentos Imobiliarios
+CAPITAL SOCIAL (WEB): R$ 2.280.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CORONEL TEXEIRA - BRITANNIA PARK OFFICES, [Vazio] - PONTA NEGRA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3622-8968
+EMAILS WEB:   fiscal@contabilmaestro.com.br
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

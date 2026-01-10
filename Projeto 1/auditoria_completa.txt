@@ -11001,3 +11001,364 @@ EMAILS WEB:   ---
 
 LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 374 - J S NSTALAÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05968077000173  |  WEB RAZÃO: Js Instalacoes LTDA
+WEB FANTASIA: Js Instalacoes
+CAPITAL SOCIAL (WEB): R$ 3.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAAMAZONAS CAVALCANTE, 05, QUADRA 07 CONJ. SHANGRILA NV, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Avenida Pedro Pavao, 9821, - Taruma, - Manaus/Amazonas, CEP: 69041-650
+
+CONTATO SYS:  CLENTE ANTONIO/ JOS
+TELEFONE SYS: (92)3646-1260
+TELEFONE WEB: (92) 6461-260 / (92) 99263-9205
+EMAILS WEB:   josuebarbosa@bol.com.br
+
+LIMITE:       19.508,47  |  SALDO DEVEDOR: 991,53
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 969 - JXDE LIMACOMERCIO E SERVICOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10294087000100  |  WEB RAZÃO: J X de Lima LTDA
+WEB FANTASIA: Casa da Refrigecao
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV AUTAZ MIRM, [Vazio] - TANCREDO NEVES - MANAUS
+ENDEREÇO WEB: Avenida Autaz Mirim, 7205, - Tancredo Neves, - Manaus/Amazonas, CEP: 69087-215
+
+CONTATO SYS:  Johnathan
+TELEFONE SYS: 3663 5347/ 9233-2925
+TELEFONE WEB: (92) 3233-0332 / (92) 98423-2142 / (92) 99143-6006
+EMAILS WEB:   marcel@projecont.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 672 - J. AÀ RUBENS.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02635907000152  |  WEB RAZÃO: Metalurgica Benhur LTDA
+WEB FANTASIA: Ben-Hur Engenharia e Comercio
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   04.138.688-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: 12,, [Vazio] - SÃO JOSÉ OPERÁRIO - MANAUS
+ENDEREÇO WEB: Travessa Jaboiranas, 98, - Jorge Teixeira, - Manaus/Amazonas, CEP: 69088-745
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3644-5504/8162-5493
+TELEFONE WEB: (92) 99264-8899
+EMAILS WEB:   joanicobenhur@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 503 - J. CRUZ NDÚSTRIA E COMÉRCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04398251000127  |  WEB RAZÃO: J. Cruz Industria de Bebidas Ltda.
+WEB FANTASIA: Fabrica Magistral
+CAPITAL SOCIAL (WEB): R$ 32.258.460,00
+INSC. EST.:   06.200.242-2  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. MARIO YPIRANGA, 1500, [Vazio] - ADRIANÓPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Mario Ypiranga, 1500, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-002
+
+CONTATO SYS:  CLENTE MAURÍCIO
+TELEFONE SYS: (92)2123-0500/188 (C
+TELEFONE WEB: (92) 2123-0500 / (92) 2123-0505 / (92) 2123-0525
+EMAILS WEB:   magistral.institucional@magistral-am.com.br
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 403 - J. DE SOUZA LOBATO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 00392297000188  |  WEB RAZÃO: J de Souza Lobato Comercio Varejista de Ferragens e Ferramentas LTDA
+WEB FANTASIA: Central de Parafusos
+CAPITAL SOCIAL (WEB): R$ 120.000,00
+INSC. EST.:   04.131.428-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. BRASL, 3675, [Vazio] - VILA DA PRATA - MANAUS
+ENDEREÇO WEB: Avenida Brasil, 3675, - Vila da Prata, - Manaus/Amazonas, CEP: 69030-665
+
+CONTATO SYS:  CLENTE ELVIS
+TELEFONE SYS: (92)3671-1134
+TELEFONE WEB: (92) 3671-1134 / (92) 6711-134 / (92) 99405-7710
+EMAILS WEB:   contato@centraldeparafusos.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1652 - J. FARIADOS SANTOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01282317000120  |  WEB RAZÃO: J. Faria dos Santos
+WEB FANTASIA: Faria Arquitetura e Consultoria
+CAPITAL SOCIAL (WEB): R$ 30.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. ANDRE ARAUJO, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Avenida Andre Araujo, 97, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3877-4548
+EMAILS WEB:   arq.jeanfaria@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2172 - J. O. DOS SANTOS ROLIM JUNIOR CONSTRUCAO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 41362327000190  |  WEB RAZÃO: J. O. dos Santos Rolim Junior Construcao
+WEB FANTASIA: Chorro Eletrica e Construcoes
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   054300860  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DOS ACAIZEROS, [Vazio] - GILBERTO MESTRINHO - MANAUS
+ENDEREÇO WEB: Rua Rio Napuiau, 13, - Sao Jose Operario, - Manaus/Amazonas, CEP: 69086-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99383-4101
+EMAILS WEB:   ch.eletricaeconstrucoes@gmail.com
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 683 - J. OLVEIRRA MARQUES & CIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04629853000148  |  WEB RAZÃO: J Oliveira Marques & Cia LTDA
+WEB FANTASIA: Grupo Jmarques
+CAPITAL SOCIAL (WEB): R$ 2.642.304,43
+INSC. EST.:   ISENTO  |  INSC. MUN.: 2652401
+
+ENDEREÇO SYS: AV DR THEOMARIO PINTO DA COSTA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Coronel Teixeira, 6225, - Ponta Negra, - Manaus/Amazonas, CEP: 69037-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3651-1926
+TELEFONE WEB: (92) 3633-4040
+EMAILS WEB:   marjorie@grupojmarques.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 370 - J. SOARES CONSTRUÇOES E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08057923000191  |  WEB RAZÃO: J. Soares Construcoes e Comercio LTDA
+WEB FANTASIA: Construtora J. Soares
+CAPITAL SOCIAL (WEB): R$ 400.000,00
+INSC. EST.:   04.293.946-1  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA DO COMERCIO, 99, SALA 14, [Vazio] - PARQUE 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  CLENTE PEDRO
+TELEFONE SYS: (92)3642-0550
+TELEFONE WEB: (92) 99107-1300
+EMAILS WEB:   fsmmoreira@bol.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 324 - J. TOLEDO DAAMAZONIA, IND. E COM. LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84447804000123  |  WEB RAZÃO: J Toledo da Amazonia Industria e Comercio de Veiculos LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 769.080.000,00
+INSC. EST.:   06.200.324-0  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAANINGA, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Aninga, 610, - Distrito Industrial II, - Manaus/Amazonas, CEP: 69007-200
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)2125-7450
+TELEFONE WEB: (92) 2125-7450 / (92) 2125-7452 / (92) 2125-7474
+EMAILS WEB:   contabilidade@suzukimotos.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 187 - J.B. PARMAR
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84494020000156  |  WEB RAZÃO: J. B. Parmar
+WEB FANTASIA: Importadora e Exportadora Chicago
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   04.126.478-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA: MARCLILIO DIAS, 134, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3633-6286
+TELEFONE WEB: (92) 2348-688 / (92) 3233-2170
+EMAILS WEB:   mcgltda@hotmail.com
+
+LIMITE:       6.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 669 - J.R. QUEROZ DE LIMA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 01205435000135  |  WEB RAZÃO: J. R. Queiroz de Lima e Cia LTDA
+WEB FANTASIA: J R Bom Clima Refrigeracao
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   041065611  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BERNARDO MICHLES,, [Vazio] - PETROPOLIS - MANAUS
+ENDEREÇO WEB: Rua Chiquinha Gonzaga, 820, - Petropolis, - Manaus/Amazonas, CEP: 69067-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3663-5347
+TELEFONE WEB: (92) 3082-8641
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 315 - J.R.A INDUSTRIA ELETROMECANICA LTDA EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07760056000193  |  WEB RAZÃO: J. R. A. Industria Eletromecanica LTDA
+WEB FANTASIA: J. R. A. Industria
+CAPITAL SOCIAL (WEB): R$ 200.000,00
+INSC. EST.:   06.300.439-9  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACARAÁ, 200 -Bl, [Vazio] - DISTRITO NDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3237-7031/3237/7914
+TELEFONE WEB: (92) 3236-5525 / (92) 3642-5639 / (92) 3646-2597
+EMAILS WEB:   costaassociados@vivax.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1008 - J.S. DA SILVA MAT. DE CONSTRUCAO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11457274000120  |  WEB RAZÃO: J. S. da Silva Material de Construcao
+WEB FANTASIA: K.m. Material de Construcao
+CAPITAL SOCIAL (WEB): R$ 300.000,00
+INSC. EST.:   04.296.852-6  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. FLOR DE SANTA RITA,, [Vazio] - TARUMÃ - MANAUS
+ENDEREÇO WEB: Avenida Flor de Santa Rita, 152, - Taruma, - Manaus/Amazonas, CEP: 69041-220
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 32286240
+TELEFONE WEB: (92) 98136-4822
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2384 - J.S. MATERIAL DE CONSTRUCAO LIDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04920664000120  |  WEB RAZÃO: Js Materiais de Construcao Ltda.
+WEB FANTASIA: Junior Materiais de Construcao
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   041505085  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - ZUMBI DOS PALMARES - MANAUS
+ENDEREÇO WEB: Avenida Cosme Ferreira, 6920, - Zumbi dos Palmares, - Manaus/Amazonas, CEP: 69085-001
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3249-9803
+EMAILS WEB:   lmcomtab@terra.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3553 - JA ENERGY SOLAR LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 61129229000115  |  WEB RAZÃO: Ja Energy Solar LTDA
+WEB FANTASIA: Ja Energy Solar
+CAPITAL SOCIAL (WEB): R$ 110.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R SARA KUBITSCHEK, [Vazio] - NOVO ISRAEL - MANAUS
+ENDEREÇO WEB: Rua Sara Kubitschek, 50, - Novo Israel, - Manaus/Amazonas, CEP: 69039-175
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99106-7116
+EMAILS WEB:   alexandre.monteiro@energybrasilsolar.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1386 - JABIL DO BRASIL INDUSTRIA ELETROELETRONICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04854120000107  |  WEB RAZÃO: Jabil do Brasil Industria Eletroeletronica LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 340.536.364,00
+INSC. EST.:   06.390.007-6  |  INSC. MUN.: 12215901 —
+
+ENDEREÇO SYS: RUA MATRINXA, [Vazio] - DISTR. IND. - MANAUS
+ENDEREÇO WEB: Rua Matrinxa, 687, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-150
+
+CONTATO SYS:  Vanessa
+TELEFONE SYS: 2121-9400/ 2121-9447
+TELEFONE WEB: (92) 2121-2382 / (92) 2121-5400 / (92) 2121-9400
+EMAILS WEB:   adriane_cordeiro@jabil.com
+
+LIMITE:       25.700,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2652 - JABILL INDUSTRIA DO BRASIL LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04898857000121  |  WEB RAZÃO: Jabil Industrial do Brasil LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 161.349.818,00
+INSC. EST.:   062008250  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ANHANDUI, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Rua Anhandui, 520, - Flores, - Manaus/Amazonas, CEP: 69058-827
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2121-2489 / (92) 2121-5402 / (92) 2121-6928
+EMAILS WEB:   leticia_castro@jabil.com
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1105 - JACIRA REIS EMPRENDIMENTOS IMOBLLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09361953000230  |  WEB RAZÃO: Jacira Reis Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: Mac Canada Empreendimentos
+CAPITAL SOCIAL (WEB): R$ 38.925.296,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. SAO JORGE,, [Vazio] - COMPENSA - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  Wilson Amorim Filho
+TELEFONE SYS: (92) 3342-7684
+TELEFONE WEB: (92) 3231-1132
+EMAILS WEB:   ---
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

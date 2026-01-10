@@ -12597,3 +12597,326 @@ EMAILS WEB:   ---
 
 LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1692 - M.DOS ANJOS PORFIRIO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08892421000186  |  WEB RAZÃO: M. dos Anjos Porfirio
+WEB FANTASIA: Polidata Servicos de Informatica
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA RIO TAPI, [Vazio] - SANTO AGOSTINHO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3584-5829
+EMAILS WEB:   biddu@ibest.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1072 - MABOLE CONSTRUÇÕES E COMERCIO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84508316000189  |  WEB RAZÃO: Mabole Construcoes e Comercio Limitada
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.600.000,00
+INSC. EST.:   062007130  |  INSC. MUN.: es11201 —
+
+ENDEREÇO SYS: Av.Tancredo Neves, [Vazio] - FLORES - MANAUS
+ENDEREÇO WEB: Avenida Tancredo Neves, 2021, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69054-700
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3236-2022 / (92) 3642-3628
+EMAILS WEB:   mabolecomercio@hotmail.com
+
+LIMITE:       15.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 3175 - MACROPECAS COMERCIAL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 10179869000107  |  WEB RAZÃO: Macropecas Comercial LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   041771761  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R DELFIM DE SOUZA, [Vazio] - RAIZ - MANAUS
+ENDEREÇO WEB: Rua Delfim de Souza, 300, - Raiz, - Manaus/Amazonas, CEP: 69068-020
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2374-304
+EMAILS WEB:   ---
+
+LIMITE:       100.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 807 - MAFESA ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11502111000112  |  WEB RAZÃO: Mafesa Engenharia LTDA
+WEB FANTASIA: Mafesa Engenharia de Manutencao
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ALVARO BOTELHO MAIA,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Washington Luiz, 337, - Dom Pedro I, - Manaus/Amazonas, CEP: 69040-210
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3634-5678/8138-3421
+TELEFONE WEB: (92) 3304-1291
+EMAILS WEB:   lc.pires@lcmaisconsultoria.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1637 - MAGS - CLINICA DE MAGENOLOGIA DE MANAUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 28948293000152  |  WEB RAZÃO: Gmed Servicos de Gestao em Saude LTDA
+WEB FANTASIA: Gmed Servicos de Gestao em Saude
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1719, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3611-1581
+EMAILS WEB:   fiscal@jmconsultoria-am.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2389 - MAGSCAN CLINICA DE MAGENOLOGIA DE MANAUS LTDA EM REC.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02733873000139  |  WEB RAZÃO: Magscan Clinica de Imagenologia de Manaus LTDA em Recuperacao Judicial
+WEB FANTASIA: Magscan
+CAPITAL SOCIAL (WEB): R$ 600.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DJALMA BATISTA N MILLENIUM, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista - N. Millenium C, 1661, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3234-6001
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1640 - MALBEC EMPREENDIMENTOS IMOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 23150362000164  |  WEB RAZÃO: Malbec Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: Malbec Empreendimentos
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R SENEGAL, [Vazio] - LÍRIO DO VALE - MANAUS
+ENDEREÇO WEB: Rua Ilha Oregon, 61, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-561
+
+CONTATO SYS:  2101-5800
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2101-5800
+EMAILS WEB:   ---
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1533 - MAM PARTICIPAÇÕES E CONSTRUÇÕES LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07423141000247  |  WEB RAZÃO: Mam Participacoes e Construcoes LTDA
+WEB FANTASIA: Mam Engenharia
+CAPITAL SOCIAL (WEB): R$ 1.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. CARLOTA JOAQUINA, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 4350, - Japiim, - Manaus/Amazonas, CEP: 69077-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (71) 3023-2398
+EMAILS WEB:   contato@contempre.com.br
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1403 - MANAUARA 01 EMPREENDIMENTOS IMOBILIARIOS SPE S.A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 17613905000130  |  WEB RAZÃO: Manauara 01 Empreendimentos Imobiliarios Spe S.a.
+WEB FANTASIA: Manauara 01
+CAPITAL SOCIAL (WEB): R$ 19.760.112,90
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: RUA GABREL CORREA PEDROSA SALA J, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Gabriel Correa Pedrosa, 125, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-011
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2101-1345
+TELEFONE WEB: (92) 2101-1345
+EMAILS WEB:   claudineia.monteiro@rdenge.com.br
+
+LIMITE:       30.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1754 - MANAUARA EMPREENDIMENTOS IMOBLIARIOS LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 19329950000273  |  WEB RAZÃO: Manauara Empreendimentos Imobiliarios LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA ACRE, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5686
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1814 - MANAUARA N EMPREEND. MOBLIARIO SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21869647000124  |  WEB RAZÃO: Manauara III Empreendimento Imobiliario Spe Ltda. em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. GABREL CORREIA PEDROSA, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Gabriel Correa Pedrosa, 125, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-011
+
+CONTATO SYS:  JOVANE
+TELEFONE SYS: 21011316
+TELEFONE WEB: (92) 2101-1345
+EMAILS WEB:   julia.reis@gmail.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1777 - MANAUARA N EMPREENDIMENTO IMOBILIARIO SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 24396084000192  |  WEB RAZÃO: Manauara IV Empreendimento Imobiliario Spe LTDA
+WEB FANTASIA: Manauara 4
+CAPITAL SOCIAL (WEB): R$ 735.850,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUAACRE, [Vazio] - NOSSA SENHORA DAS GRACAS - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5400
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1601 - MANAUARA X EMPREEMD. MOBIL. SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 31329124000149  |  WEB RAZÃO: Manauara Ix Empreendimento Imobiliario Spe S.a. em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 7.517.500,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. GABREL CORREA PEDROSA, [Vazio] - PQ 10 DE NOVEMBRO - MANAUS
+ENDEREÇO WEB: Avenida Gabriel Correa Pedrosa, 125, - Parque 10 de Novembro, - Manaus/Amazonas, CEP: 69055-011
+
+CONTATO SYS:  JOVANE
+TELEFONE SYS: 2101-1300
+TELEFONE WEB: (92) 2126-1337 / (92) 98174-0219
+EMAILS WEB:   val.prestes@rdenge.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2789 - MANAUARA VI EMPREENDIMENTOS IMOBILIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 25237626000147  |  WEB RAZÃO: Manauara Vii Empreendimento Imobiliario Spe LTDA
+WEB FANTASIA: Manauara 7
+CAPITAL SOCIAL (WEB): R$ 7.927.814,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RACRE, [Vazio] - NOSSA SENHORA DAS GR - MANAUS
+ENDEREÇO WEB: Rua Acre, 428, - Nossa Senhora das Gracas, - Manaus/Amazonas, CEP: 69053-130
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (31) 3431-5400
+EMAILS WEB:   empresarial@direcional.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2595 - MANAUS CENTRO DE ATIVIDADES FISICAS LTDA.
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 49476868000151  |  WEB RAZÃO: Manaus Centro de Atividades Fisicas LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 2.600.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 1661, - Chapada, - Manaus/Amazonas, CEP: 69050-970
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (54) 99690-8664
+EMAILS WEB:   juridico@engenhariadocorpo.com.br
+
+LIMITE:       40.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 628 - MANAUS DO BRASIL PROJETOS MOBLIARIOS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 08570840000282  |  WEB RAZÃO: Manaus do Brasil Projetos Imobiliarios Ltda.
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 160.189.837,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA CARLOTA JOAQUINA,, [Vazio] - PARQUE 10 - MANAUS
+ENDEREÇO WEB: Avenida Torquato Tapajos, 7367, - Taruma, - Manaus/Amazonas, CEP: 69041-025
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (11) 5504-7600
+EMAILS WEB:   milena.taniguchi@hines.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 595 - MANAUS LUZ SERVICOS DE LUMINACAO PUBLICA SPE LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 36758211000135  |  WEB RAZÃO: Manaus Luz Servicos de Iluminacao Publica Spe LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 57.647.357,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: BELO HORIZONTE, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 953, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  JULIO CESAR 2129-4816
+TELEFONE SYS: 2129-4815/04/16 FRANTS
+TELEFONE WEB: (11) 99287-1753
+EMAILS WEB:   fm@fmrodrigues.com.br
+
+LIMITE:       300.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

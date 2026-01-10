@@ -10108,3 +10108,250 @@ EMAILS WEB:   maurilio.neto@ctkembalagens.com.br
 
 LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1426 - IG NDÚSTRIA DE EMBALAGEM PLASTICA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05153677000183  |  WEB RAZÃO: Itamar Conceicao Cunha Marques LTDA
+WEB FANTASIA: I G Plasticos
+CAPITAL SOCIAL (WEB): R$ 1.700.000,00
+INSC. EST.:   062009230  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. DESEMBARGADOR JOÃO MACHADO,, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Avenida Desembargador Joao Machado, 50, - Alvorada, - Manaus/Amazonas, CEP: 69044-000
+
+CONTATO SYS:  GLEICE
+TELEFONE SYS: 3651-9785/ 8437-0063/ 9230
+TELEFONE WEB: (92) 3651-9785 / (92) 98413-1344
+EMAILS WEB:   contatoig10@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 404 - IGREJA BATISTA CONSTANTINÓPOLIS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04331096000121  |  WEB RAZÃO: Igreja Batista Constantinopolis
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. LEOPOLDO PERES, 419, [Vazio] - EDUCANDOS - MANAUS
+ENDEREÇO WEB: Avenida Leopoldo Peres, 419, - Educandos, - Manaus/Amazonas, CEP: 69070-250
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: (92)3629-2230/3624-4
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2734 - IGREJA EVANGELICA TEMPLO DE JEOVA -ETJ
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 39680468000100  |  WEB RAZÃO: Igreja Evangelica Templo de Jeova - Ietj
+WEB FANTASIA: Igreja Evangelica Templo de Jeova - Ietj
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R CRISTO REI, [Vazio] - COROADO - MANAUS
+ENDEREÇO WEB: Rua Cristo Rei, 48, - Coroado, - Manaus/Amazonas, CEP: 69082-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99250-3230
+EMAILS WEB:   marcelo.izideo@gmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1989 - IGREJA NTERNACIONAL DA GRACA DE DEUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 30902803203044  |  WEB RAZÃO: Igreja Internacional da Graca de Deus
+WEB FANTASIA: Igreja da Graca
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV CONSTANTINO NERY, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 1965, - Sao Geraldo, - Manaus/Amazonas, CEP: 69050-000
+
+CONTATO SYS:  Simone Gomes
+TELEFONE SYS: 3344-5924
+TELEFONE WEB: (21) 3216-2640 / (21) 3216-2642 / (21) 3216-2646
+EMAILS WEB:   alessandraiigd@hotmail.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1376 - IGREJA MUNDIAL DO PODER DE DEUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 02415583012234  |  WEB RAZÃO: Igreja Mundial do Poder de Deus
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: ISENTO '
+
+ENDEREÇO SYS: AV. DJALMA BATISTA, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Djalma Batista, 440, - Chapada, - Manaus/Amazonas, CEP: 69050-010
+
+CONTATO SYS:  JOELIA
+TELEFONE SYS: 3307-7502/ 3307-7503
+TELEFONE WEB: (11) 3577-3814
+EMAILS WEB:   jmfcont@terra.com.br
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 603 - IGREJA PRESBITERIANA DE MANAUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04462511000186  |  WEB RAZÃO: Igreja Presbiteriana de Manaus
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: SILVA RAMOS,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Silva Ramos, 493, - Centro, - Manaus/Amazonas, CEP: 69025-030
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3641-9160
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       3.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 883 - IGREJA UNIVERSAL DO REINO DE DEUS
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 29744778157096  |  WEB RAZÃO: Igreja Universal do Reino de Deus
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. CONSTANTINO NERY,, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 1515, - Sao Geraldo, - Manaus/Amazonas, CEP: 69050-000
+
+CONTATO SYS:  LEYLA GOMES FIN.
+TELEFONE SYS: (92)2121-1134/ 2121-1173
+TELEFONE WEB: (11) 2392-6722 / (11) 2392-6724
+EMAILS WEB:   atas@sp.universal.org.br
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1146 - IMAK DAAMAZONIA FITAS PARA MPRESSÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84542901000103  |  WEB RAZÃO: Iimak da Amazonia Fitas Para Impressao LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 10.253.000,00
+INSC. EST.:   063000938  |  INSC. MUN.: 6811501 —
+
+ENDEREÇO SYS: RUA PÊ, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  PATRICIA
+TELEFONE SYS: 92 31824000
+TELEFONE WEB: (92) 3182-4000 / (92) 3182-4001 / (92) 3182-4007
+EMAILS WEB:   felipe@iimak.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 992 - LHA GREGAS EMPREENDIMENTO IMOBILIARIO SPE LTDA-EPP
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 09395472000165  |  WEB RAZÃO: Ilhas Gregas Empreendimento Imobiliario Spe LTDA
+WEB FANTASIA: Grife Construcoes
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV DJALMA BATISTA, [Vazio] - SAO GERALDO - MANAUS
+ENDEREÇO WEB: Rua Salvador, 440, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-040
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 3584-0101
+EMAILS WEB:   skn@sknincorporadora.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 888 - IMBRASCO EMPREENDIMENTOS MOBLIARIOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12469265000112  |  WEB RAZÃO: Imbrasco Empreendimentos Imobiliarios LTDA Spe - em Recuperacao Judicial
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 1.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 13444801
+
+ENDEREÇO SYS: RUA: COMENDADOR CLEMENTINO,, [Vazio] - CENTRO - MANAUS
+ENDEREÇO WEB: Rua Henri Dunant, 873, - Santo Amaro, - São Paulo/São Paulo, CEP: 04709-111
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2125-9223
+TELEFONE WEB: (11) 4058-2000
+EMAILS WEB:   fiscalrossi@rossiresidencial.com.br
+
+LIMITE:       20.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1563 - IME INSTITUTO METROPOLITANO METROPOLITANO DE ENSINO LTD/
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03817341000142  |  WEB RAZÃO: Ime Instituto Metropolitano de Ensino LTDA
+WEB FANTASIA: Ime
+CAPITAL SOCIAL (WEB): R$ 21.000.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 9683601 —
+
+ENDEREÇO SYS: AV. CONSTANTINO NERY, [Vazio] - CHAPADA - MANAUS
+ENDEREÇO WEB: Avenida Constantino Nery, 3204, - Chapada, - Manaus/Amazonas, CEP: 69050-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2322-521
+EMAILS WEB:   contabilidade.fiscal@fametro.edu.br
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1138 - IMOVAN ARMAZÉNS GERAIS DA AMAZÔNIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07503739000165  |  WEB RAZÃO: Imovan Armazens Gerais da Amazonia LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 35.214.561,00
+INSC. EST.:   042676894  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA MATRINXA, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Acai, 1325, - Distrito Industrial, - Manaus/Amazonas, CEP: 69075-020
+
+CONTATO SYS:  SILVIA OU JOYCE ou Siivia - SP
+TELEFONE SYS: (92) 4009-3371/ (11)2599-0144
+TELEFONE WEB: (11) 2112-1161
+EMAILS WEB:   wagners@cce.com.br
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1583 - IMPERIO DA INDUSTRIA COMERCIO CONSTRUÇÃO LTDA ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 25024812000106  |  WEB RAZÃO: Imperio da Industria Comercio Construcao LTDA
+WEB FANTASIA: Imperio da Industria
+CAPITAL SOCIAL (WEB): R$ 160.000,00
+INSC. EST.:   053852400  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PROFESSOR ABLIO ALENCAR, [Vazio] - ALVORADA - MANAUS
+ENDEREÇO WEB: Rua Professor Abilio Alencar, 13, - Alvorada, - Manaus/Amazonas, CEP: 69042-010
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98438-5956 / (92) 98457-8309 / (92) 98848-7973
+EMAILS WEB:   financeiro.imperiodaindustria@outlook.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

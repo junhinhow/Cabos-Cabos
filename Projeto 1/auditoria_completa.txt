@@ -7752,3 +7752,250 @@ EMAILS WEB:   contabilmtz@gruporeicon.com.br
 
 LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
 --------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1579 - ESTERLIZA CENTRAL SERV. ESTERLIZAÇÃO
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21457788000130  |  WEB RAZÃO: Esteriliza Central de Servicos de Esterilizacao LTDA
+WEB FANTASIA: Esteriliza
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV. COSME FERREIRA, [Vazio] - ALEIXO - MANAUS
+ENDEREÇO WEB: Estrada Manoel Urbano,, S/N, - Km 02, - Iranduba/Amazonas, CEP: 69415-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 2126-4000 / (92) 2126-4032
+EMAILS WEB:   gcont@gbringel.com
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 522 - ESTRELA GUIA ENGENHARIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 03760088000138  |  WEB RAZÃO: Somex Engenharia LTDA
+WEB FANTASIA: Somex Engenharia
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   04.209.873-4  |  INSC. MUN.: —
+
+ENDEREÇO SYS: TRAVESSA JEREMOABO, 20, SALAA, QUADRA 13, CONJ. AUGUSTO MONTEN, [Vazio] - LÍRIO DO VALE 2 - MANAUS
+ENDEREÇO WEB: Travessa Jeremoabo, 20, - Lirio do Vale, - Manaus/Amazonas, CEP: 69038-400
+
+CONTATO SYS:  CLENTE ANTÔNIO
+TELEFONE SYS: (92)3658-4202
+TELEFONE WEB: (92) 99199-2749
+EMAILS WEB:   egengenharialtda@gmail.com
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 599 - ESTUDIO AMAZONICO DE RADIODIFUSÃO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 05444807000137  |  WEB RAZÃO: Estudio Amazonico de Radiodifusao S.a
+WEB FANTASIA: Studio 5
+CAPITAL SOCIAL (WEB): R$ 75.808.132,00
+INSC. EST.:   04194070-9  |  INSC. MUN.: 44775201
+
+ENDEREÇO SYS: RODRIGO OTAVTIO,, [Vazio] - DISTR. NDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Rodrigo Otavio, 3373, - Crespo, - Manaus/Amazonas, CEP: 69073-177
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3216-3522/3550
+TELEFONE WEB: (92) 3216-3520 / (92) 3216-5519
+EMAILS WEB:   contabilidade@gruporedeamazonica.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 685 - EUROMANAUS IND. E COM DE MOVEIS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11942155000163  |  WEB RAZÃO: Euromanaus Industria e Comercio de Moveis Ltda.
+WEB FANTASIA: Euromanaus Industria
+CAPITAL SOCIAL (WEB): R$ 2.000.000,00
+INSC. EST.:   062007491  |  INSC. MUN.: 13378801 —
+
+ENDEREÇO SYS: AV.TEFE ,, [Vazio] - JAPIM - MANAUS
+ENDEREÇO WEB: Avenida Tefe, 2840, - Japiim, - Manaus/Amazonas, CEP: 69078-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98625-7213 / (92) 99534-9239
+EMAILS WEB:   darlene.veiga@mscasa.com.br
+
+LIMITE:       3.000.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1207 - EVADIN INDUSTRIAIS AMAZONIA S/A
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04180279000193  |  WEB RAZÃO: Evadin Industrias Amazonia Sociedade Anonima - em Recuperacao Judicial
+WEB FANTASIA: Evadin
+CAPITAL SOCIAL (WEB): ---
+INSC. EST.:   062001310  |  INSC. MUN.: —
+
+ENDEREÇO SYS: AV BURM, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Avenida Buriti, 2350, - Industrial, - Manaus/Amazonas, CEP: 69075-903
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2125-3529
+TELEFONE WEB: ---
+EMAILS WEB:   ---
+
+LIMITE:       2.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1420 - EVEREST ARQUITETURA E ENGENHARIA LTDA-ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 21001742000101  |  WEB RAZÃO: Everest Arquitetura e Engenharia LTDA
+WEB FANTASIA: Everest Engenharia
+CAPITAL SOCIAL (WEB): R$ 1.300.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: 21674501
+
+ENDEREÇO SYS: RUA SELMA ACIOLY, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Selma Acioly, 18, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-063
+
+CONTATO SYS:  NDIA
+TELEFONE SYS: 3071-8106/ 99208-9238
+TELEFONE WEB: (92) 99433-9769
+EMAILS WEB:   administracao@engenhariaeverest.com
+
+LIMITE:       25.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1861 - EVOLUTION TERRAPLENAGEM E EMPREENDIMENTOS LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 26391002000142  |  WEB RAZÃO: Evolution Terraplenagem e Empreendimentos LTDA
+WEB FANTASIA: Evolution Engenharia
+CAPITAL SOCIAL (WEB): R$ 1.500.000,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA PRAIA DO TIMBAU, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: Avenida Do Futuro, 1.061, - Taruma, - Manaus/Amazonas, CEP: 69041-005
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 99426-6045
+EMAILS WEB:   evolution-engenharia@hotmail.com
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: B - F E P DISTRIBUIDORA DE PEÇAS LTDA -ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 07517142000170  |  WEB RAZÃO: Valf Intermediacao e Distribuidora de Pecas LTDA
+WEB FANTASIA: Valf
+CAPITAL SOCIAL (WEB): R$ 100.000,00
+INSC. EST.:   04.214.925-8  |  INSC. MUN.: —
+
+ENDEREÇO SYS: CARVALHO LEAL,, [Vazio] - CACHOEIRINHA - MANAUS
+ENDEREÇO WEB: Avenida Carvalho Leal, 420, - Cachoeirinha, - Manaus/Amazonas, CEP: 69065-000
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3635-0289
+TELEFONE WEB: (92) 3233-2610 / (92) 98818-1297
+EMAILS WEB:   valfcomercio@hotmail.com
+
+LIMITE:       50.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1266 - F M RODRIGUES & CIA LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 48893226001167  |  WEB RAZÃO: F M Rodrigues & Cia LTDA
+WEB FANTASIA: Filial 2
+CAPITAL SOCIAL (WEB): R$ 173.195.760,00
+INSC. EST.:   ISENTO  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R BELO HORIZONTE, [Vazio] - ADRIANOPOLIS - MANAUS
+ENDEREÇO WEB: Rua Belo Horizonte, 953, - Adrianopolis, - Manaus/Amazonas, CEP: 69057-060
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 2129-4816
+TELEFONE WEB: (11) 2730-6200 / (92) 3308-2543
+EMAILS WEB:   fm@fmrodrigues.com.br
+
+LIMITE:       502.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 2137 - F. AÀ.L COMERCIO DE MPORTACAO E EXPORTACAO LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 11110793000380  |  WEB RAZÃO: F.a.l. Comercio de Importacao e Exportacao LTDA
+WEB FANTASIA: F.a.l. Distribuidora
+CAPITAL SOCIAL (WEB): R$ 2.500.000,00
+INSC. EST.:   054361737  |  INSC. MUN.: —
+
+ENDEREÇO SYS: R BENJA FLOR VERMELHO, [Vazio] - TARUMA - MANAUS
+ENDEREÇO WEB: - Boa Vista/Roraima
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (95) 99165-7258
+EMAILS WEB:   fal_fisco@falrr.com.br
+
+LIMITE:       10.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1959 - FABRICA RAINHA ISABEL LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 04223244000194  |  WEB RAZÃO: Fabrica Rainha Isabel LTDA
+WEB FANTASIA: ---
+CAPITAL SOCIAL (WEB): R$ 3.442.305,00
+INSC. EST.:   062000926  |  INSC. MUN.: 365501 '
+
+ENDEREÇO SYS: RUA JHONATHAS PEDROSA, [Vazio] - PRACA 14 DE JANEIRO - MANAUS
+ENDEREÇO WEB: Rua Jonathas Pedrosa, 2419, - Praca 14, - Manaus/Amazonas, CEP: 69020-110
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: ---
+EMAILS WEB:   coordenacao@rainhaisabel.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 1221 - FAM DAAMAZONIA IND E COM DE AR COND LTDA
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 84113349000120  |  WEB RAZÃO: Fam da Amazonia Industria e Comercio de Ar Condicionado LTDA
+WEB FANTASIA: Fam da Amazonia
+CAPITAL SOCIAL (WEB): R$ 3.010.000,00
+INSC. EST.:   041207718  |  INSC. MUN.: —
+
+ENDEREÇO SYS: RUA BALATA, [Vazio] - DISTRITO INDUSTRIAL - MANAUS
+ENDEREÇO WEB: Rua Aristofano Antony, 5, - Petropolis, - Manaus/Amazonas, CEP: 69063-300
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: [Vazio]
+TELEFONE WEB: (92) 98144-1100
+EMAILS WEB:   claudete@famarcondicionado.com.br
+
+LIMITE:       5.000,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+AUDITORIA DO CLIENTE: 679 - FARIAS COM. E REPRES. DE PROD. ALIM. EM GERAL LTDA - ME
+--------------------------------------------------------------------------------
+CNPJ SISTEMA: 12613798000126  |  WEB RAZÃO: Farias Comercio e Servicos de Construcao e Imobiliaria LTDA
+WEB FANTASIA: Farias Comercio e Servicos LTDA ME
+CAPITAL SOCIAL (WEB): R$ 500.000,00
+INSC. EST.:   04..229.675-7  |  INSC. MUN.: —
+
+ENDEREÇO SYS: ANTONIO PASSOS DE MIRANDA,, [Vazio] - SÃO FRANCISCO - MANAUS
+ENDEREÇO WEB: - Manaus/Amazonas
+
+CONTATO SYS:  [Vazio]
+TELEFONE SYS: 3664-2527
+TELEFONE WEB: (92) 3234-2743 / (92) 3664-2527
+EMAILS WEB:   luciano@grupo-farias.com
+
+LIMITE:       1.500,00  |  SALDO DEVEDOR: 0,00
+--------------------------------------------------------------------------------

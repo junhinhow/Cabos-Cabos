@@ -1,0 +1,35 @@
+============================================================
+          RELATÓRIO DE SÉRIES: TEMPORADAS E EPISÓDIOS
+ Termo: Kasaba
+ Data:  15/01/2026 17:46:56
+============================================================
+
+📊 RESUMO DE ATUALIZAÇÕES (POR SERVIDOR):
+ > [SERVER: AtivaBox_-__Aladdin's_-_Teste_Completo.m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos.m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos.m3u] -> Conteúdo Único (Filme ou Sem numeração)
+
+============================================================
+
+📝 LISTAGEM COMPLETA DOS ARQUIVOS ENCONTRADOS:
+
+📁 LISTA: AtivaBox_-__Aladdin's_-_Teste_Completo.m3u
+   ├─ 24H Um medico da cidade (The Town Doctor- kasaba doktoru)
+   └─ Localizado: [] em HS NOVELAS TURCAS
+   ------------------------------
+
+
+📁 LISTA: VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos.m3u
+   ├─ 24H Um medico da cidade (The Town Doctor- kasaba doktoru)
+   └─ Localizado: [] em ✨24H NOVELAS TURCAS
+   ------------------------------
+
+
+📁 LISTA: VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos.m3u
+   ├─ 24H Um medico da cidade (The Town Doctor- kasaba doktoru)
+   └─ Localizado: [] em ✨24H NOVELAS TURCAS
+   ------------------------------
+
+
+
+FIM DO RELATÓRIO - Total de links: 3

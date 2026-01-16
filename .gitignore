@@ -1,6 +1,10 @@
 *.m3u
 *.m3u8
-Projeto Sigma/Listas-Downloaded/
 erros_download.txt
 __pycache__/
 *.log
+
+# Arquivos de log e dados grandes
+Projeto Sigma/Atualizações.txt
+Projeto Sigma/erros_mineracao.txt
+Projeto Sigma/Listas-Downloaded/

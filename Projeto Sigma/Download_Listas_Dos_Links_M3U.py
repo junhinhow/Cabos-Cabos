@@ -33,13 +33,11 @@ ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 MAX_SIMULTANEOS = 4      
 CACHE_VALIDADE = 14400   # 4 Horas
-TIMEOUT_PADRAO = 60      
+TIMEOUT_CONEXAO = 10     # Se travar 10s, derruba
 
 PARAR_EXECUCAO = False
 
-# --- CONFIGURAÇÃO DO MOTOR (curl_cffi) ---
-# O curl_cffi não precisa da complexidade de Adapters do requests normal
-# Ele já gerencia conexões como um navegador real.
+# --- CONFIGURAÇÃO DO MOTOR ---
 Navegador = cffi_requests.Session()
 
 APPS_PARCERIA = {
@@ -49,6 +47,16 @@ APPS_PARCERIA = {
     "XCIPTV": "XCIPTV_Dados"
 }
 
+def limpar_lixo_tmp():
+    """Remove arquivos .tmp deixados por execuções anteriores interrompidas"""
+    files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
+    if files:
+        # tqdm.write para não quebrar a barra se estiver rodando
+        tqdm.write(f"🧹 Limpando {len(files)} arquivos temporários (.tmp)...")
+        for f in files:
+            try: os.remove(f)
+            except: pass
+
 def checar_tecla_z():
     global PARAR_EXECUCAO
     if msvcrt.kbhit():
@@ -56,7 +64,6 @@ def checar_tecla_z():
             PARAR_EXECUCAO = True
 
 def limpar_url(url):
-    """Remove lixo, emojis e quebras de linha da URL"""
     if not url: return None
     try: url = url.encode().decode('unicode_escape')
     except: pass
@@ -92,27 +99,13 @@ def salvar_falhas_json(novas_falhas):
     try:
         with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
             json.dump(lista_final, f, indent=4, ensure_ascii=False)
-        print(f"\n💾 Log de Falhas atualizado ({len(lista_final)} itens).")
     except: pass
 
 def salvar_linha_unica(caminho_arquivo, nova_linha):
-    linhas_existentes = set()
-    if os.path.exists(caminho_arquivo):
-        try:
-            with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
-                linhas_existentes = set(linha.strip() for linha in f)
-        except: pass
-
-    linha_limpa = nova_linha.strip()
-    if linha_limpa and linha_limpa not in linhas_existentes:
-        try:
-            with open(caminho_arquivo, 'a', encoding='utf-8') as f:
-                f.write(f"{linha_limpa}\n")
-        except: 
-            time.sleep(0.1)
-            try:
-                with open(caminho_arquivo, 'a', encoding='utf-8') as f: f.write(f"{linha_limpa}\n")
-            except: pass
+    try:
+        with open(caminho_arquivo, 'a', encoding='utf-8') as f:
+            f.write(f"{nova_linha.strip()}\n")
+    except: pass
 
 def extrair_m3u_do_json(caminho_arquivo):
     try:
@@ -199,14 +192,12 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         except: pass
 
     try:
-        # --- AQUI ESTÁ A PROTEÇÃO ---
-        # timeout=10: Se o servidor demorar mais de 10s para conectar 
-        # OU se ficar 10s sem enviar dados durante o download, ele cai.
+        # TIMEOUT CONFIGURADO AQUI (10 Segundos)
         response = Navegador.get(
             url, 
             impersonate="chrome120", 
             stream=True, 
-            timeout=10, 
+            timeout=TIMEOUT_CONEXAO, 
             allow_redirects=True
         )
         
@@ -215,22 +206,20 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
 
         total_size = int(response.headers.get('content-length', 0))
         
-        # Trava para arquivos gigantes (vídeos disfarçados de lista)
         if total_size > 50 * 1024 * 1024:
             return False, "Arquivo muito grande (Provável Vídeo)"
 
         tamanho_baixado = 0
 
-        # Tenta pegar o primeiro pedaço. Se demorar 10s aqui, o timeout ali em cima dispara.
+        # Leitura inicial com verificação de timeout
         try:
             iterator = response.iter_content(chunk_size=512)
             primeiro_chunk = next(iterator)
         except StopIteration:
             return False, "Arquivo vazio recebido"
         except Exception as e:
-            # Captura o timeout logo no início
             if "time" in str(e).lower() or "out" in str(e).lower():
-                return False, "TIMEOUT: Servidor demorou +10s para iniciar"
+                return False, "TIMEOUT: Servidor não enviou dados (+10s)"
             return False, f"Erro inicial: {str(e)}"
 
         if b"<html" in primeiro_chunk.lower() or b"<!doctype" in primeiro_chunk.lower():
@@ -248,8 +237,7 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                 bar.update(len(primeiro_chunk))
                 tamanho_baixado += len(primeiro_chunk)
                 
-                # Loop principal de download
-                # Se o servidor parar de mandar dados aqui, o 'timeout=10' lá do get() vai estourar uma exceção
+                # Loop de download com timeout implícito pelo request
                 for chunk in response.iter_content(chunk_size=64*1024):
                     if PARAR_EXECUCAO: break
                     if chunk:
@@ -258,9 +246,8 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                         bar.update(tam_chunk)
                         tamanho_baixado += tam_chunk
 
-                        # Trava de segurança de tamanho
                         if tamanho_baixado > 20 * 1024 * 1024:
-                            return False, "Abortado: Arquivo excedeu 20MB"
+                            return False, "Abortado: Excedeu 20MB"
 
         if PARAR_EXECUCAO:
             return False, "Interrompido pelo usuário"
@@ -277,13 +264,12 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
 
     except Exception as e:
         msg_erro = str(e).lower()
-        # Aqui personalizamos a mensagem para o seu log
         if "time" in msg_erro or "out" in msg_erro or "deadline" in msg_erro:
-            return False, "TIMEOUT: Servidor travou (+10s sem resposta)"
-        return False, f"Erro: {str(e)[:50]}"
+            return False, "TIMEOUT: Conexão lenta/travada (+10s)"
+        return False, f"Erro: {str(e)[:60]}"
     
     finally:
-        # Limpa o lixo se deu erro
+        # Limpeza GARANTIDA de lixo
         if os.path.exists(caminho_temp):
             try: os.remove(caminho_temp)
             except: pass
@@ -334,6 +320,8 @@ def worker(nome_arquivo_json, fila_slots):
         return "ERRO", nome_base, (str(e), "url_desconhecida")
 
 def main():
+    limpar_lixo_tmp() # Limpa sujeira anterior ao iniciar
+
     for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
         os.makedirs(p, exist_ok=True)
     
@@ -345,7 +333,8 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V15 (IMPERSONATOR) | Arq: {len(arquivos)}")
+    print(f"🚀 SIGMA DOWNLOADER V16 (REAL-TIME LOG) | Arq: {len(arquivos)}")
+    print(f"📁 Erros salvos em: {os.path.abspath(ARQUIVO_ERROS)}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -367,11 +356,19 @@ def main():
                 
                 if status == "ERRO":
                     msg_erro, url_erro = info 
-                    if "404" not in msg_erro:
-                        tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
+                    
+                    # 1. Mostra na tela
+                    tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
+                    
+                    # 2. Grava no arquivo IMEDIATAMENTE (Flush + Sync)
+                    try:
                         with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
                             log.write(f"[{agora}] {nome} | {msg_erro} | URL: {url_erro}\n")
-                    
+                            log.flush() # Força a saída do buffer do Python
+                            os.fsync(log.fileno()) # Força o Windows a escrever no disco físico
+                    except Exception as e:
+                        tqdm.write(f"⚠️ Erro ao salvar no disco: {e}")
+
                     lista_falhas_coletadas.append({
                         "nome": nome,
                         "url": url_erro,
@@ -388,7 +385,8 @@ def main():
 
     if lista_falhas_coletadas:
         salvar_falhas_json(lista_falhas_coletadas)
-
+        
+    limpar_lixo_tmp() # Limpa sujeira final
     print("\n" * (MAX_SIMULTANEOS + 1))
     print(f"🏁 Concluído!")
 

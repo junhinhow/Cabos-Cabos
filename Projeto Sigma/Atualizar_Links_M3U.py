@@ -14,11 +14,15 @@ except ImportError:
 
 # --- CONFIGURAÇÕES ---
 ARQUIVO_FONTES = "fontes.json"
-ARQUIVO_LOG_ERROS = "erros_mineracao.txt"
 
+# Pastas
 PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_PARCERIAS = "Parcerias"
-PASTA_DOWNLOADS = "Downloads"
+PASTA_TXTS = "TXTs"  # Logs e Links ficam aqui
+
+# Arquivos de Texto (Dentro da pasta TXTs)
+ARQUIVO_LOG_ERROS = os.path.join(PASTA_TXTS, "erros_mineracao.txt")
+ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 
 APPS_PARCERIA = {
     "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
@@ -40,47 +44,42 @@ def registrar_erro_log(nome, url, erro):
     timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     msg = f"[{timestamp}] {nome} | {erro}\nLink: {url}\n{'-'*30}\n"
     try:
+        os.makedirs(PASTA_TXTS, exist_ok=True)
         with open(ARQUIVO_LOG_ERROS, 'a', encoding='utf-8') as f:
             f.write(msg)
     except: pass
 
 def baixar_json_blindado(url, caminho_salvar):
     """
-    Usa curl_cffi para tentar POST e GET se passando por um navegador real.
-    Substitui o IDM para arquivos JSON/API.
+    Tenta POST primeiro. Se falhar com erro HTTP (400+), tenta GET.
     """
     session = cffi_requests.Session()
     
-    # 1. Tenta POST (Muitos servidores exigem isso)
+    # 1. TENTATIVA POST
     try:
-        resp = session.post(url, impersonate="chrome120", timeout=15)
+        resp = session.post(url, impersonate="chrome120", timeout=20)
         
-        # Se o servidor reclamar de Método Não Permitido (405), tentamos GET
-        if resp.status_code == 405 or resp.status_code == 404:
-             resp = session.get(url, impersonate="chrome120", timeout=15)
+        if resp.status_code >= 400:
+             raise Exception(f"POST falhou com {resp.status_code}")
         
-        if resp.status_code == 200:
-            # Tenta decodificar para garantir que é JSON válido ou texto útil
-            conteudo = resp.content
-            
-            # Salva no disco
-            with open(caminho_salvar, 'wb') as f:
-                f.write(conteudo)
-            return True, "OK"
-        else:
-            return False, f"Erro HTTP {resp.status_code}"
+        with open(caminho_salvar, 'wb') as f:
+            f.write(resp.content)
+        return True, "OK (via POST)"
 
-    except Exception as e:
-        # Tentativa final com GET caso o POST tenha explodido a conexão
+    except Exception as e_post:
+        # 2. TENTATIVA GET (FALLBACK)
         try:
-            resp = session.get(url, impersonate="chrome120", timeout=15)
+            resp = session.get(url, impersonate="chrome120", timeout=20)
+            
             if resp.status_code == 200:
                 with open(caminho_salvar, 'wb') as f:
                     f.write(resp.content)
                 return True, "OK (via GET Fallback)"
-        except: pass
-        
-        return False, str(e)
+            else:
+                return False, f"Erro Final: HTTP {resp.status_code}"
+                
+        except Exception as e_get:
+            return False, f"Falha total: {str(e_get)}"
 
 def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
     try:
@@ -93,7 +92,8 @@ def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
                  if url not in apks: apks.append(url)
         
         if apks:
-            with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
+            # Salva na pasta TXTs
+            with open(ARQUIVO_LINKS_APKS, 'a', encoding='utf-8') as f:
                 f.write(f"\n--- {nome_exibicao} ---\n")
                 for l in apks: f.write(f"{l}\n")
 
@@ -131,8 +131,10 @@ def verificar_validade_pelo_json(caminho_arquivo):
             except: return False, "Formato data inválido"
 
         agora = datetime.now()
+        str_data_formatada = data_vencimento.strftime("%d/%m/%Y %H:%M:%S")
+
         if (data_vencimento - agora).total_seconds() > 60: 
-            return True, str(data_vencimento - agora).split('.')[0]
+            return True, str_data_formatada
         else:
             return False, "Vencido"
 
@@ -142,7 +144,8 @@ def verificar_validade_pelo_json(caminho_arquivo):
         return False, f"Erro Leitura: {str(e)}"
 
 def main():
-    for p in [PASTA_JSON_RAW, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
+    # Removi PASTA_DOWNLOADS da lista de criação
+    for p in [PASTA_JSON_RAW, PASTA_PARCERIAS, PASTA_TXTS]:
         os.makedirs(p, exist_ok=True)
 
     if os.path.exists(ARQUIVO_LOG_ERROS):
@@ -160,8 +163,8 @@ def main():
     with open(ARQUIVO_FONTES, 'r', encoding='utf-8') as f:
         fontes = json.load(f)
 
-    print(f"🚀 MINERADOR V12 (CURL_CFFI POST/GET) | Fontes: {len(fontes)}")
-    print(f"📥 Modo: Validação Inteligente + Download via Motor Chrome\n")
+    print(f"🚀 MINERADOR V15 (CLEAN) | Fontes: {len(fontes)}")
+    print(f"📥 Organização: Pastas inúteis removidas.\n")
     
     atualizados = 0
     cacheados = 0
@@ -181,7 +184,6 @@ def main():
         conteudo_para_analise = ""
         sucesso_leitura = False
 
-        # --- VALIDAÇÃO ---
         esta_valido, msg_validade = verificar_validade_pelo_json(caminho_json)
         
         if esta_valido:
@@ -196,11 +198,10 @@ def main():
             else:
                 print(f"   ⚠️ Revalidando ({msg_validade})...")
             
-            # --- DOWNLOAD COM CURL_CFFI (Suporta POST) ---
             status, msg = baixar_json_blindado(url, caminho_json)
             
             if status:
-                print("   ✅ Atualizado com sucesso!")
+                print(f"   ✅ Atualizado! ({msg})")
                 atualizados += 1
                 sucesso_leitura = True
             else:
@@ -208,7 +209,6 @@ def main():
                 registrar_erro_log(nome, url, msg)
                 erros += 1
 
-        # --- PROCESSAMENTO ---
         if sucesso_leitura and os.path.exists(caminho_json):
             try:
                 with open(caminho_json, 'r', encoding='utf-8', errors='ignore') as f:
@@ -223,6 +223,7 @@ def main():
     print(f"🆕 Atualizados: {atualizados}")
     print(f"💾 Em Cache: {cacheados}")
     print(f"❌ Falhas: {erros}")
+    print(f"📂 Verifique a pasta '{PASTA_TXTS}' para logs e links.")
 
 if __name__ == "__main__":
     main()

@@ -34,5 +34,47 @@
         "url": "http://aladdins.digital/get.php?username=754976641&password=669299512&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-19 11:42:12"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=717904039&password=556284202&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 11:42:36"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=513453513&password=461472083&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 11:42:38"
+    },
+    {
+        "nome": "BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://cdn.vr766.com:80/get.php?username=230542269&password=824498989&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:42:38"
+    },
+    {
+        "nome": "BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=159302549&password=192144521&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:42:39"
+    },
+    {
+        "nome": "BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://wpm.dcnn.site/get.php?username=125202524&password=797859715&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:42:39"
+    },
+    {
+        "nome": "BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=200017471&password=187970979&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:42:39"
+    },
+    {
+        "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",
+        "url": "http://xcloudcine.xyz/get.php?username=35989050&password=86832828&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:42:41"
     }
 ]

@@ -19,3 +19,18 @@ Link: https://painel.blackbr.site/api/chatbot/QELoQR4Wgr/0RvWGvlDe3
 [19/01/2026 07:57:19] 🎬 CineFlix - 🔗 P2P BinStream Original - C/ Adultos | Erro Final: HTTP 405
 Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/EMeWe0pDnN
 ------------------------------
+[19/01/2026 07:57:31] 🎬 CineFlix - 🔗 P2P BinStream Original - S/ Adultos | Erro Final: HTTP 405
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ANKWP6KLPR
+------------------------------
+[19/01/2026 07:57:32] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
+------------------------------
+[19/01/2026 07:57:33] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[19/01/2026 07:57:35] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
+------------------------------
+[19/01/2026 07:57:39] 🔱 EVOLUTION - PLAY - ✅ Xcloud | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K
+------------------------------

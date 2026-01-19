@@ -57,7 +57,7 @@
         "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
         "url": "http://fristez.xyz/get.php?username=260562397&password=301476714&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 00:01:29"
+        "data": "2026-01-19 00:05:36"
     },
     {
         "nome": "Lider_-_1_ONE_-_Completo_Sem_Adultos",
@@ -69,7 +69,7 @@
         "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
         "url": "http://fristez.xyz/get.php?username=365045364&password=852934483&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 00:01:29"
+        "data": "2026-01-19 00:05:36"
     },
     {
         "nome": "Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos",
@@ -214,5 +214,11 @@
         "url": "http://x26.axpl.shop/get.php?username=33489704&password=41832104&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
         "data": "2026-01-19 00:04:58"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=218643198&password=419219299&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 00:05:35"
     }
 ]

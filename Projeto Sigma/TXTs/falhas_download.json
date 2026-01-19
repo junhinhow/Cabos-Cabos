@@ -106,5 +106,11 @@
         "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:44:11"
+    },
+    {
+        "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
+        "url": "http://iptv1.glloball.shop:80/get.php?username=878488&password=521588&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:44:13"
     }
 ]

@@ -124,5 +124,35 @@
         "url": "http://iptv4.glloball.shop:80/get.php?username=828530&password=230996&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:47:16"
+    },
+    {
+        "nome": "HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix",
+        "url": "http://c.superodim.nl70.top/get.php?username=3529270&password=9216706&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:47:59"
+    },
+    {
+        "nome": "HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus",
+        "url": "http://active10.fhml10.top/get.php?username=5839778&password=1192578&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:01"
+    },
+    {
+        "nome": "HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam",
+        "url": "http://lite.morfeus.site/get.php?username=3742020&password=7882871&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:03"
+    },
+    {
+        "nome": "HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak",
+        "url": "http://dstreaming.win/get.php?username=5164850&password=7379343&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:06"
+    },
+    {
+        "nome": "HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda",
+        "url": "http://dnszayda.run/get.php?username=9712150&password=2899221&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:07"
     }
 ]

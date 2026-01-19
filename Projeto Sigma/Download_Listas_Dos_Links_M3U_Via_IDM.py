@@ -13,7 +13,7 @@ from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# --- IMPORTAÇÕES OPCIONAIS (Para barra visual apenas) ---
+# --- IMPORTAÇÕES OPCIONAIS ---
 try:
     from tqdm import tqdm
 except ImportError:
@@ -32,11 +32,13 @@ ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 # ==============================================================================
-# ✅ SEU CAMINHO DO IDM CONFIGURADO CORRETAMENTE ABAIXO:
+# ✅ CAMINHO DO IDM (Seu caminho correto no disco D:)
 # ==============================================================================
 CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 
-MAX_SIMULTANEOS = 20      
+# OBS: O limite real de velocidade é definido DENTRO do IDM (Agendador), não aqui.
+# Aqui definimos quantos comandos enviamos por vez para não travar o PC.
+MAX_SIMULTANEOS = 10      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 
@@ -144,16 +146,12 @@ def extrair_infos_extras(dados_json, nome_base):
                 salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
-    # Procura arquivos que começam com o nome base na pasta de destino
-    # O escape serve para evitar erro se o nome tiver [ ]
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
     arquivos_existentes = glob.glob(padrao)
     
     if arquivos_existentes:
-        # Pega o mais recente
         arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
         try:
-            # Se for maior que 2KB e tiver menos de 4 horas
             if os.path.getsize(arquivo_antigo) > 2048:
                 if time.time() - os.path.getmtime(arquivo_antigo) < CACHE_VALIDADE:
                     return True, arquivo_antigo
@@ -181,7 +179,7 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         
         # Manda para a fila
         subprocess.run(cmd, check=True)
-        # Força o IDM a começar a baixar a fila
+        # Força o IDM a começar a baixar a fila imediatamente
         subprocess.run([CAMINHO_IDM, '/s'], check=False)
         
         return True, "Enviado para fila do IDM"
@@ -226,7 +224,6 @@ def worker(nome_arquivo_json, fila_slots):
         fila_slots.put(slot)
 
         if sucesso:
-            # Retorna sucesso pois foi entregue ao IDM
             return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
             return "ERRO", nome_base, (msg, url_m3u)
@@ -237,9 +234,8 @@ def worker(nome_arquivo_json, fila_slots):
 
 def main():
     if not os.path.exists(CAMINHO_IDM):
-        print(f"❌ ATENÇÃO CRÍTICA: O IDM não foi encontrado no caminho:")
+        print(f"❌ ATENÇÃO CRÍTICA: IDM não encontrado em:")
         print(f"👉 {CAMINHO_IDM}")
-        print("Verifique se o caminho está correto dentro do script.")
         return
 
     limpar_lixo_tmp()
@@ -251,9 +247,9 @@ def main():
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V20 (IDM INTEGRATION) | Arq: {len(arquivos)}")
+    print(f"🚀 SIGMA DOWNLOADER V24 (IDM GOD MODE) | Arq: {len(arquivos)}")
     print(f"📥 Modo: IDM AUTOMÁTICO")
-    print(f"📁 Caminho IDM: {CAMINHO_IDM}")
+    print(f"⚠️ DICA: Configure o 'Agendador' do IDM para 20+ downloads!")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -278,7 +274,7 @@ def main():
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Links enviados para o IDM! O IDM cuidará dos downloads e erros de rede agora.")
+    print("\n🏁 Links enviados! O IDM vai cuidar de tudo agora.")
 
 if __name__ == "__main__":
     main()

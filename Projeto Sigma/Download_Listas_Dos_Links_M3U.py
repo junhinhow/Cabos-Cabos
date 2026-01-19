@@ -32,6 +32,7 @@ PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
+ARQUIVO_FALHAS_JSON = "falhas_download.json"  # <--- NOVO ARQUIVO DE SAÍDA
 
 MAX_SIMULTANEOS = 4      
 CACHE_VALIDADE = 14400   # 4 Horas
@@ -71,31 +72,58 @@ def limpar_url(url):
     match = re.search(r'(https?://[^\s"\'<>]+)', url)
     return match.group(1) if match else None
 
-# --- FUNÇÃO DE ESCRITA INTELIGENTE (NOVIDADE) ---
-def salvar_linha_unica(caminho_arquivo, nova_linha):
+# --- FUNÇÃO DE SALVAR FALHAS EM JSON (NOVIDADE) ---
+def salvar_falhas_json(novas_falhas):
     """
-    Lê o arquivo, verifica se a linha já existe.
-    Se não existir, adiciona no final (Append).
+    Lê o JSON existente, atualiza com as novas falhas (evitando duplicatas de URL)
+    e salva de volta.
     """
-    linhas_existentes = set()
+    if not novas_falhas:
+        return
+
+    falhas_existentes = []
     
-    # 1. Lê o que já tem no arquivo (se ele existir)
+    # 1. Carrega o que já existe
+    if os.path.exists(ARQUIVO_FALHAS_JSON):
+        try:
+            with open(ARQUIVO_FALHAS_JSON, 'r', encoding='utf-8') as f:
+                falhas_existentes = json.load(f)
+        except:
+            falhas_existentes = []
+
+    # 2. Cria um dicionário para evitar duplicatas (chave = url)
+    mapa_falhas = {item['url']: item for item in falhas_existentes}
+
+    # 3. Atualiza ou Adiciona
+    for falha in novas_falhas:
+        # A chave é a URL. Se já existe, atualiza o erro e a data.
+        mapa_falhas[falha['url']] = falha
+
+    # 4. Converte de volta para lista
+    lista_final = list(mapa_falhas.values())
+
+    # 5. Salva
+    try:
+        with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
+            json.dump(lista_final, f, indent=4, ensure_ascii=False)
+        print(f"\n💾 Relatório de falhas atualizado: {len(lista_final)} links problemáticos salvos em '{ARQUIVO_FALHAS_JSON}'")
+    except Exception as e:
+        print(f"❌ Erro ao salvar JSON de falhas: {e}")
+
+def salvar_linha_unica(caminho_arquivo, nova_linha):
+    linhas_existentes = set()
     if os.path.exists(caminho_arquivo):
         try:
             with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
-                # Carrega tudo na memória removendo espaços extras
                 linhas_existentes = set(linha.strip() for linha in f)
-        except:
-            pass
+        except: pass
 
-    # 2. Verifica se a nova linha é repetida
     linha_limpa = nova_linha.strip()
     if linha_limpa and linha_limpa not in linhas_existentes:
         try:
             with open(caminho_arquivo, 'a', encoding='utf-8') as f:
                 f.write(f"{linha_limpa}\n")
-        except Exception as e:
-            # Em caso de erro de acesso (arquivo em uso), espera um pouco e tenta de novo
+        except: 
             time.sleep(0.1)
             try:
                 with open(caminho_arquivo, 'a', encoding='utf-8') as f:
@@ -136,24 +164,16 @@ def extrair_infos_extras(dados_json, nome_base):
     if not dados_json: return
     texto = json.dumps(dados_json)
     
-    # APKs
     urls = re.findall(r'(https?://[^"\'\s]+)', texto)
     apks = [u for u in urls if any(x in u.lower() for x in ['.apk', 'aftv', 'downloader'])]
     if apks:
         caminho_apk = os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt")
-        cabecalho = f"--- {nome_base} ---"
-        # Só escreve o cabeçalho se formos escrever algum link novo (lógica simplificada: escreve sempre)
-        # Para ficar perfeito, teria que checar cada link antes.
-        # Vamos usar a função inteligente para cada link.
-        
         for apk in set(apks): 
             linha = f"[{nome_base}] {apk}"
             salvar_linha_unica(caminho_apk, linha)
 
-    # Parcerias
     linhas = texto.split('\\n') 
     if len(linhas) < 2: linhas = texto.split('\n')
-    
     for linha in linhas:
         l = linha.strip()
         if len(l) > 300: continue
@@ -235,7 +255,6 @@ def worker(nome_arquivo_json, fila_slots):
     try:
         checar_tecla_z()
         
-        # Extrai infos PRIMEIRO (Para garantir parcerias mesmo se o download falhar ou for cache)
         url_m3u, dados_brutos = extrair_m3u_do_json(caminho_json)
         extrair_infos_extras(dados_brutos, nome_base)
 
@@ -265,11 +284,12 @@ def worker(nome_arquivo_json, fila_slots):
                 except: pass
             return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
-            return "ERRO", nome_base, msg
+            # Retorna o erro JUNTO com a URL para salvar no JSON
+            return "ERRO", nome_base, (msg, url_m3u)
 
     except Exception as e:
         fila_slots.put(slot)
-        return "ERRO", nome_base, str(e)
+        return "ERRO", nome_base, (str(e), "url_desconhecida")
 
 def main():
     for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
@@ -283,13 +303,14 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V12 (SMART APPEND) | Arq: {len(arquivos)}")
+    print(f"🚀 SIGMA DOWNLOADER V13 (THE AUDITOR) | Arq: {len(arquivos)}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
     for i in range(1, MAX_SIMULTANEOS + 1): fila_slots.put(i)
 
     stats = defaultdict(int)
+    lista_falhas_coletadas = []
 
     with ThreadPoolExecutor(max_workers=MAX_SIMULTANEOS) as executor:
         futures = [executor.submit(worker, arq, fila_slots) for arq in arquivos]
@@ -302,10 +323,22 @@ def main():
                 stats[status] += 1
                 agora = datetime.now().strftime("%H:%M:%S")
                 
-                if status == "ERRO" and "404" not in info:
-                    tqdm.write(f"[{agora}] ❌ {nome} -> {info}")
-                    with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
-                        log.write(f"[{agora}] {nome} | {info}\n")
+                if status == "ERRO":
+                    msg_erro, url_erro = info # Desempacota a tupla
+                    
+                    if "404" not in msg_erro:
+                        tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
+                        with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
+                            log.write(f"[{agora}] {nome} | {msg_erro} | URL: {url_erro}\n")
+                    
+                    # COLETA A FALHA PARA O JSON
+                    lista_falhas_coletadas.append({
+                        "nome": nome,
+                        "url": url_erro,
+                        "erro": msg_erro,
+                        "data_tentativa": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                        "arquivo_origem": f"{nome}.json"
+                    })
                 
                 pbar.set_postfix_str(f"✅{stats['SUCESSO']} ⏭️{stats['CACHE']} ❌{stats['ERRO']}")
                 pbar.update(1)
@@ -314,8 +347,12 @@ def main():
                     executor.shutdown(wait=False, cancel_futures=True)
                     break
 
+    # Salva o JSON de falhas no final
+    if lista_falhas_coletadas:
+        salvar_falhas_json(lista_falhas_coletadas)
+
     print("\n" * (MAX_SIMULTANEOS + 1))
-    print(f"🏁 Concluído! Parcerias salvas em modo incremental.")
+    print(f"🏁 Concluído!")
 
 if __name__ == "__main__":
     main()

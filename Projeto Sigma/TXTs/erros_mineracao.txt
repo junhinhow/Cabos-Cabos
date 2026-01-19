@@ -70,3 +70,45 @@ Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/ayb1BQxWPR
 [19/01/2026 07:15:15] 📺 BLACKBR - P2P BINSTREAM - ♦️ TESTE P2P COMPLETO C/ ADULTOS ♦️ | Erro Final: HTTP 405
 Link: https://painel.blackbr.site/api/chatbot/QELoQR4Wgr/ZVdWXVjL3q
 ------------------------------
+[19/01/2026 07:15:27] 📺 BLACKBR - P2P BINSTREAM - ♦️ TESTE P2P COMPLETO S/ ADULTOS ♦️ | Erro Final: HTTP 405
+Link: https://painel.blackbr.site/api/chatbot/QELoQR4Wgr/0RvWGvlDe3
+------------------------------
+[19/01/2026 07:15:29] 📺 New-Servers - Binstream - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[19/01/2026 07:15:31] 📺 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------
+[19/01/2026 07:15:33] 📺 New-Servers - MagicPlay - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
+------------------------------
+[19/01/2026 07:15:34] 📺 New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+------------------------------
+[19/01/2026 07:15:36] 🔝 Top Z - ✅ Completo Com Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[19/01/2026 07:15:38] 🔝 Top Z - ✅ Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[19/01/2026 07:15:40] 🔝 Top Z - 📺 TV Express +18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------
+[19/01/2026 07:15:43] 🔝 Top Z - 📺 TV Express -18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[19/01/2026 07:15:44] 🔝 Top Z - 🔗 P2P Completo Com Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/qK4WrQDeNj
+------------------------------
+[19/01/2026 07:15:45] 🔝 Top Z - 🔗 P2P Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/Yen129WPEa
+------------------------------
+[19/01/2026 07:15:56] 🔰 HAVOK TV - P2P BINSTREAM - 🔰 [Teste 04h] - P2P Binstream | Erro Final: HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMPR104
+------------------------------
+[19/01/2026 07:15:59] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[19/01/2026 07:16:00] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
+------------------------------

@@ -91,3 +91,27 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
 [19/01/2026 07:31:56] 📱 P2VIP - 📱 App Teste Automático Sem Login | Erro Final: HTTP 405
 Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/ayb1BQxWPR
 ------------------------------
+[19/01/2026 07:32:01] 🔝 Top Z - ✅ Completo Com Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[19/01/2026 07:32:02] 🔝 Top Z - ✅ Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[19/01/2026 07:32:04] 🔝 Top Z - 🔗 P2P Completo Com Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/qK4WrQDeNj
+------------------------------
+[19/01/2026 07:32:07] 🔝 Top Z - 🔗 P2P Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/Yen129WPEa
+------------------------------
+[19/01/2026 07:32:08] 🔝 Top Z - 📺 TV Express +18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------
+[19/01/2026 07:32:10] 🔝 Top Z - 📺 TV Express -18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[19/01/2026 07:32:12] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Erro Final: HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+------------------------------
+[19/01/2026 07:32:13] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Erro Final: HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------

@@ -340,5 +340,17 @@
         "url": "http://wpm.dcnn.site/get.php?username=513637696&password=931002182&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:59:40"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=564321855&password=692639059&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:00:48"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=270247935&password=348384519&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:00:50"
     }
 ]

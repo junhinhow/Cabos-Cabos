@@ -1,103 +1,80 @@
-import sys
 import time
 import subprocess
-import os
-from watchdog.observers import Observer
-from watchdog.events import FileSystemEventHandler
 from datetime import datetime
+import os
 
 # --- CONFIGURAÇÕES ---
-PASTA_PARA_VIGIAR = "."  # "." é a pasta atual
-TEMPO_ESPERA = 10        # Segundos para esperar antes de commitar (evita flood)
-BRANCH = "main"          # Ou "master", verifique seu github
+INTERVALO_VERIFICACAO = 10  # Segundos entre checagens
+BRANCH = "main"             # Confirme se é 'main' ou 'master'
 
-class GitHandler(FileSystemEventHandler):
-    def __init__(self):
-        self.last_modified = datetime.now()
-        self.pending_changes = False
-
-    def processar_mudanca(self, event):
-        # Ignora a própria pasta .git para não entrar em loop infinito
-        if ".git" in event.src_path:
-            return
-        
-        # Ignora arquivos temporários comuns
-        if event.src_path.endswith('.tmp') or event.src_path.endswith('.temp'):
-            return
-
-        print(f"👀 Detetado: {event.src_path}")
-        self.last_modified = datetime.now()
-        self.pending_changes = True
-
-    def on_modified(self, event):
-        self.processar_mudanca(event)
-
-    def on_created(self, event):
-        self.processar_mudanca(event)
-
-    def on_deleted(self, event):
-        self.processar_mudanca(event)
-
-    def on_moved(self, event):
-        self.processar_mudanca(event)
-
-def git_push_automatico():
+def verificar_e_enviar():
     try:
-        # 1. Verifica se tem algo para commitar
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        if not status.stdout.strip():
-            return False # Nada mudou de verdade
-
-        timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-        mensagem = f"Auto-Update: {timestamp}"
-
-        print(f"⚡ Iniciando Commit: {mensagem}")
-
-        # 2. Comandos Git
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", mensagem], check=True)
+        # 1. Pergunta ao GIT se tem algo pendente (Staging ou Untracked)
+        # --porcelain gera uma saída limpa e vazia se não houver mudanças
+        result = subprocess.run(
+            ["git", "status", "--porcelain"], 
+            capture_output=True, 
+            text=True, 
+            encoding='utf-8',
+            errors='ignore' # Evita crash com caracteres estranhos
+        )
         
-        print("🚀 Enviando para o GitHub (Push)...")
-        subprocess.run(["git", "push", "origin", BRANCH], check=True)
-        
-        print(f"✅ SUCESSO! Código atualizado às {timestamp}\n")
-        return True
+        mudancas = result.stdout.strip()
 
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Erro no Git: {e}")
-        return False
+        # Se a variável 'mudancas' não estiver vazia, TEM COISA NOVA!
+        if mudancas:
+            timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+            print(f"\n[{timestamp}] 👁️ Git detectou alterações:\n{mudancas}")
+            print("-" * 40)
+            
+            mensagem = f"Auto-Update: {timestamp}"
+            
+            print("⚙️ Adicionando arquivos (git add)...")
+            subprocess.run(["git", "add", "."], check=True)
+            
+            print(f"📝 Commitando (git commit -m '{mensagem}')...")
+            subprocess.run(["git", "commit", "-m", mensagem], check=True)
+            
+            print(f"🚀 Enviando para GitHub (git push origin {BRANCH})...")
+            push_result = subprocess.run(
+                ["git", "push", "origin", BRANCH], 
+                capture_output=True, 
+                text=True
+            )
+            
+            if push_result.returncode == 0:
+                print(f"✅ SUCESSO! Tudo sincronizado às {timestamp}.")
+            else:
+                print(f"⚠️ Atenção no Push:\n{push_result.stderr}")
+            
+            print("-" * 40)
+            return True
+            
+        else:
+            # Se não tem mudanças, não faz nada, só silêncio.
+            return False
+
     except Exception as e:
-        print(f"❌ Erro Geral: {e}")
+        print(f"❌ Erro Crítico: {e}")
         return False
 
 def main():
-    path = PASTA_PARA_VIGIAR
-    event_handler = GitHandler()
-    observer = Observer()
-    observer.schedule(event_handler, path, recursive=True)
-    observer.start()
+    print(f"🔭 VIGIA GIT DIRETO INICIADO")
+    print(f"📂 Pasta: {os.getcwd()}")
+    print(f"⏱️ Verificando o comando 'git status' a cada {INTERVALO_VERIFICACAO} segundos...")
+    print("------------------------------------------------")
 
-    print(f"🔭 VIGIA GITHUB ATIVADO na pasta: {os.path.abspath(path)}")
-    print(f"🕒 Aguardando {TEMPO_ESPERA}s após alterações para commitar...")
-    print("Pressione Ctrl+C para parar.")
-
+    # Loop Infinito
     try:
         while True:
-            time.sleep(1)
+            verificar_e_enviar()
+            time.sleep(INTERVALO_VERIFICACAO)
             
-            # Lógica de Debounce (Espera o usuário parar de mexer)
-            if event_handler.pending_changes:
-                tempo_passado = (datetime.now() - event_handler.last_modified).total_seconds()
-                
-                # Se passaram X segundos desde a última modificação
-                if tempo_passado > TEMPO_ESPERA:
-                    git_push_automatico()
-                    event_handler.pending_changes = False
+            # Pequeno indicador visual de vida (opcional, imprime um ponto a cada ciclo)
+            # print(".", end="", flush=True) 
 
     except KeyboardInterrupt:
-        observer.stop()
-    
-    observer.join()
+        print("\n🛑 Parando script.")
 
 if __name__ == "__main__":
     main()

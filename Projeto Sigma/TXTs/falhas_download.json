@@ -81,7 +81,7 @@
         "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
         "url": "http://x26.axpl.shop/get.php?username=58051066&password=94963746&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
-        "data": "2026-01-19 14:11:24"
+        "data": "2026-01-19 14:32:19"
     },
     {
         "nome": "CineFlix_-__VOLTZ_-_Teste_C_Adultos",
@@ -105,7 +105,7 @@
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
         "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 14:11:55"
+        "data": "2026-01-19 14:32:21"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
@@ -171,7 +171,7 @@
         "nome": "INVICTOS_EXTREME_-",
         "url": "http://gladiadorplay.xyz/get.php?username=108799294569&password=432337225746&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 14:15:11"
+        "data": "2026-01-19 14:32:25"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
@@ -525,31 +525,31 @@
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
         "url": "http://evoplaytop.shop/get.php?username=619111&password=992575&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 14:11:54"
+        "data": "2026-01-19 14:32:20"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=394146&password=222015&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 14:11:55"
+        "data": "2026-01-19 14:32:21"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://parceria.parclll.site/get.php?username=241308&password=835400&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 14:11:56"
+        "data": "2026-01-19 14:32:22"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=989275&password=154861&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 14:11:57"
+        "data": "2026-01-19 14:32:23"
     },
     {
         "nome": "HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda",
         "url": "http://dnszayda.run/get.php?username=7974852&password=6279951&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 14:14:18"
+        "data": "2026-01-19 14:32:25"
     },
     {
         "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",

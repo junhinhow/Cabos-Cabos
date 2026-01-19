@@ -1,0 +1,152 @@
+[
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=46903232&password=78805343&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-19 00:01:26"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
+        "url": "http://evoplaytop.shop/get.php?username=320286&password=978287&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 00:01:26"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
+        "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:27"
+    },
+    {
+        "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO",
+        "url": "http://topcdn.fun/get.php?username=952046&password=555529&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:27"
+    },
+    {
+        "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=386543&password=459145&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:27"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=984545&password=163396&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:28"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=599773&password=130705&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:28"
+    },
+    {
+        "nome": "HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda",
+        "url": "http://dnszayda.run/get.php?username=6194230&password=7818449&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:28"
+    },
+    {
+        "nome": "Lider_-_1_ONE_-_Completo_Com_Adultos",
+        "url": "http://c.svmain.top/get.php?username=589344012&password=873450375&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:28"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
+        "url": "http://fristez.xyz/get.php?username=260562397&password=301476714&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:29"
+    },
+    {
+        "nome": "Lider_-_1_ONE_-_Completo_Sem_Adultos",
+        "url": "http://c.svmain.top/get.php?username=638523176&password=955000673&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:29"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
+        "url": "http://fristez.xyz/get.php?username=365045364&password=852934483&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:29"
+    },
+    {
+        "nome": "Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos",
+        "url": "http://cdn.turbox.tv.br/get.php?username=667078101&password=172496388&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:29"
+    },
+    {
+        "nome": "Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos",
+        "url": "http://cdn.turbox.tv.br/get.php?username=629115188&password=850609008&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:29"
+    },
+    {
+        "nome": "Lider_-__LITE_-_Completo_Com_Adultos",
+        "url": "http://anubis.cmstech2.top/get.php?username=549919406&password=957982680&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:30"
+    },
+    {
+        "nome": "Lider_-__LITE_-_Completo_Sem_Adultos",
+        "url": "http://anubis.cmstech2.top/get.php?username=874384485&password=356846150&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:30"
+    },
+    {
+        "nome": "Lider_-__MAX_-_Completo_Com_Adultos",
+        "url": "http://c.apexplayer.site/get.php?username=640453960&password=167641234&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "Lider_-__MAX_-_Completo_Sem_Adultos",
+        "url": "http://c.apexplayer.site/get.php?username=537769471&password=355186234&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Com_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=320050358&password=274983060&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=966662096&password=294082540&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=365566090&password=997930743&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=530130589&password=186414974&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
+        "url": "http://cddn1.site/get.php?username=383884505&password=529102287&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:31"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_sADULTOS",
+        "url": "http://cddn1.site/get.php?username=767149550&password=927336942&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:01:32"
+    },
+    {
+        "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_sADULTOS",
+        "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:01:32"
+    }
+]

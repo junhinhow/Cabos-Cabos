@@ -27,18 +27,19 @@ warnings.filterwarnings("ignore")
 PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
-PASTA_DOWNLOADS = "Downloads"
-ARQUIVO_ERROS = "erros_download.txt"
-ARQUIVO_FALHAS_JSON = "falhas_download.json"
+PASTA_TXTS = "TXTs"  # <--- NOVA PASTA ORGANIZADORA
+
+# Arquivos movidos para dentro da pasta TXTs
+ARQUIVO_ERROS = os.path.join(PASTA_TXTS, "erros_download.txt")
+ARQUIVO_FALHAS_JSON = os.path.join(PASTA_TXTS, "falhas_download.json")
+ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 
 # ==============================================================================
 # ✅ CAMINHO DO IDM (Seu caminho correto no disco D:)
 # ==============================================================================
 CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 
-# OBS: O limite real de velocidade é definido DENTRO do IDM (Agendador), não aqui.
-# Aqui definimos quantos comandos enviamos por vez para não travar o PC.
-MAX_SIMULTANEOS = 10      
+MAX_SIMULTANEOS = 20      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 
@@ -80,21 +81,27 @@ def limpar_url(url):
 def salvar_falhas_json(novas_falhas):
     if not novas_falhas: return
     falhas_existentes = []
+    # Garante que a pasta existe antes de ler/salvar
     if os.path.exists(ARQUIVO_FALHAS_JSON):
         try:
             with open(ARQUIVO_FALHAS_JSON, 'r', encoding='utf-8') as f:
                 content = f.read().strip()
                 if content: falhas_existentes = json.loads(content)
         except: falhas_existentes = []
+    
     mapa_falhas = {item['url']: item for item in falhas_existentes}
     for falha in novas_falhas: mapa_falhas[falha['url']] = falha
+    
     try:
+        os.makedirs(PASTA_TXTS, exist_ok=True)
         with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
             json.dump(list(mapa_falhas.values()), f, indent=4, ensure_ascii=False)
     except: pass
 
 def salvar_linha_unica(caminho_arquivo, nova_linha):
     try:
+        # Garante criação da pasta pai se não existir (para TXTs ou Parcerias)
+        os.makedirs(os.path.dirname(caminho_arquivo), exist_ok=True)
         with open(caminho_arquivo, 'a', encoding='utf-8') as f:
             f.write(f"{nova_linha.strip()}\n")
     except: pass
@@ -134,8 +141,9 @@ def extrair_infos_extras(dados_json, nome_base):
     urls = re.findall(r'(https?://[^"\'\s]+)', texto)
     apks = [u for u in urls if any(x in u.lower() for x in ['.apk', 'aftv', 'downloader'])]
     if apks:
-        caminho_apk = os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt")
-        for apk in set(apks): salvar_linha_unica(caminho_apk, f"[{nome_base}] {apk}")
+        # Agora salva na pasta TXTs
+        for apk in set(apks): salvar_linha_unica(ARQUIVO_LINKS_APKS, f"[{nome_base}] {apk}")
+    
     linhas = texto.split('\\n') if '\\n' in texto else texto.split('\n')
     for linha in linhas:
         l = linha.strip()
@@ -148,7 +156,6 @@ def extrair_infos_extras(dados_json, nome_base):
 def gerenciar_cache_inteligente(nome_base):
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
     arquivos_existentes = glob.glob(padrao)
-    
     if arquivos_existentes:
         arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
         try:
@@ -158,16 +165,15 @@ def gerenciar_cache_inteligente(nome_base):
         except: pass
     return False, None
 
-def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    # O IDM precisa do caminho absoluto da pasta (ex: D:\Pasta...)
+def adicionar_ao_idm(url, caminho_destino):
     pasta_absoluta = os.path.abspath(os.path.dirname(caminho_destino))
     nome_arquivo = os.path.basename(caminho_destino)
     
     if not os.path.exists(CAMINHO_IDM):
-        return False, f"IDM não encontrado em: {CAMINHO_IDM}"
+        return False, f"IDM não encontrado."
 
     try:
-        # /d URL /p PASTA /f NOME /n (silencioso) /a (adicionar na fila)
+        # /n = Silencioso, /a = Fila (Sem iniciar)
         cmd = [
             CAMINHO_IDM,
             '/d', url,
@@ -176,18 +182,12 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
             '/n',
             '/a' 
         ]
-        
-        # Manda para a fila
         subprocess.run(cmd, check=True)
-        # Força o IDM a começar a baixar a fila imediatamente
-        subprocess.run([CAMINHO_IDM, '/s'], check=False)
-        
-        return True, "Enviado para fila do IDM"
+        time.sleep(0.1) 
+        return True, "Na Fila"
 
-    except subprocess.CalledProcessError:
-        return False, "Erro ao enviar comando para IDM"
     except Exception as e:
-        return False, f"Erro Script IDM: {str(e)}"
+        return False, f"Erro IDM: {str(e)}"
 
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
@@ -218,8 +218,7 @@ def worker(nome_arquivo_json, fila_slots):
         novo_nome_arquivo = f"{nome_base}_{timestamp}.m3u"
         caminho_final = os.path.join(PASTA_DESTINO, novo_nome_arquivo)
 
-        desc = f"Slot {slot} | {nome_base[:15]}"
-        sucesso, msg = baixar_arquivo(url_m3u, caminho_final, desc, slot)
+        sucesso, msg = adicionar_ao_idm(url_m3u, caminho_final)
         
         fila_slots.put(slot)
 
@@ -234,12 +233,12 @@ def worker(nome_arquivo_json, fila_slots):
 
 def main():
     if not os.path.exists(CAMINHO_IDM):
-        print(f"❌ ATENÇÃO CRÍTICA: IDM não encontrado em:")
-        print(f"👉 {CAMINHO_IDM}")
+        print(f"❌ ATENÇÃO: IDM não encontrado em: {CAMINHO_IDM}")
         return
 
     limpar_lixo_tmp()
-    for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]: os.makedirs(p, exist_ok=True)
+    # Cria pasta TXTs e remove a criação da antiga Downloads
+    for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_TXTS]: os.makedirs(p, exist_ok=True)
     
     if not os.path.exists(PASTA_JSON_RAW):
         print("❌ Pasta Dados-Brutos não encontrada."); return
@@ -247,9 +246,8 @@ def main():
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V24 (IDM GOD MODE) | Arq: {len(arquivos)}")
-    print(f"📥 Modo: IDM AUTOMÁTICO")
-    print(f"⚠️ DICA: Configure o 'Agendador' do IDM para 20+ downloads!")
+    print(f"🚀 SIGMA DOWNLOADER V26 (IDM + TXTs CLEAN) | Arq: {len(arquivos)}")
+    print(f"📁 Logs movidos para: {PASTA_TXTS}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -269,12 +267,25 @@ def main():
                     tqdm.write(f"❌ {nome} -> {msg_erro}")
                     erro_obj = {"nome": nome, "url": url_erro, "erro": msg_erro, "data": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
                     salvar_falhas_json([erro_obj])
+                    
+                    # Salva erro no TXT dentro da pasta nova
+                    try:
+                        with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
+                            log.write(f"[{datetime.now().strftime('%H:%M:%S')}] {nome} | {msg_erro} | URL: {url_erro}\n")
+                    except: pass
                 
-                pbar.set_postfix_str(f"✅IDM:{stats['SUCESSO']} ⏭️Skip:{stats['CACHE']} ❌Err:{stats['ERRO']}")
+                pbar.set_postfix_str(f"✅Fila:{stats['SUCESSO']} ⏭️Skip:{stats['CACHE']} ❌Err:{stats['ERRO']}")
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Links enviados! O IDM vai cuidar de tudo agora.")
+    print("\n⚡ Todos os links foram adicionados à fila!")
+    print("🚀 Iniciando o processamento da fila no IDM agora...")
+    
+    try:
+        subprocess.run([CAMINHO_IDM, '/s'], check=False)
+        print("✅ Comando de START enviado com sucesso.")
+    except:
+        print("⚠️ Não foi possível iniciar a fila automaticamente.")
 
 if __name__ == "__main__":
     main()

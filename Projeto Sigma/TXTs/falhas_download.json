@@ -459,13 +459,13 @@
         "nome": "Top_Z_-__Completo_Com_Adultos",
         "url": "http://cdntopz.xyz/get.php?username=433167634&password=204293460&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:32:26"
+        "data": "2026-01-19 14:40:05"
     },
     {
         "nome": "Top_Z_-__Completo_Sem_Adultos",
         "url": "http://cdntopz.xyz/get.php?username=127180167&password=328277534&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:32:26"
+        "data": "2026-01-19 14:40:06"
     },
     {
         "nome": "VelozNet_-__VTVBR_-_Completo_Sem_Adultos",
@@ -604,5 +604,17 @@
         "url": "http://daxoi.online/get.php?username=257452044&password=239919243&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-19 14:38:56"
+    },
+    {
+        "nome": "SUBZERO_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://fgut.shop/get.php?username=957803233&password=704561888&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:40:03"
+    },
+    {
+        "nome": "SUBZERO_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://fgut.shop/get.php?username=434271153&password=866847277&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:40:05"
     }
 ]

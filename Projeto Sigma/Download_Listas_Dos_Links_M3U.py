@@ -27,9 +27,12 @@ warnings.filterwarnings("ignore")
 PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
-PASTA_DOWNLOADS = "Downloads"
-ARQUIVO_ERROS = "erros_download.txt"
-ARQUIVO_FALHAS_JSON = "falhas_download.json"
+PASTA_TXTS = "TXTs" # <--- NOVA PASTA
+
+# Arquivos organizados
+ARQUIVO_ERROS = os.path.join(PASTA_TXTS, "erros_download.txt")
+ARQUIVO_FALHAS_JSON = os.path.join(PASTA_TXTS, "falhas_download.json")
+ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 
 MAX_SIMULTANEOS = 3      
 CACHE_VALIDADE = 14400   
@@ -45,7 +48,6 @@ APPS_PARCERIA = {
 }
 
 def limpar_lixo_tmp():
-    """Remove arquivos .tmp deixados por execuções anteriores"""
     files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
     if files:
         try:
@@ -81,11 +83,9 @@ def limpar_url(url):
     return None
 
 def salvar_falhas_json(novas_falhas):
-    """Lê o JSON existente, adiciona as novas falhas e salva tudo de volta."""
     if not novas_falhas: return
     falhas_existentes = []
     
-    # Tenta ler o que já existe
     if os.path.exists(ARQUIVO_FALHAS_JSON):
         try:
             with open(ARQUIVO_FALHAS_JSON, 'r', encoding='utf-8') as f:
@@ -94,22 +94,22 @@ def salvar_falhas_json(novas_falhas):
                     falhas_existentes = json.loads(content)
         except: falhas_existentes = []
 
-    # Cria um mapa para evitar duplicatas baseadas na URL
     mapa_falhas = {item['url']: item for item in falhas_existentes}
     for falha in novas_falhas: mapa_falhas[falha['url']] = falha
     
     lista_final = list(mapa_falhas.values())
     
-    # Grava de volta no disco
     try:
+        os.makedirs(PASTA_TXTS, exist_ok=True)
         with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
             json.dump(lista_final, f, indent=4, ensure_ascii=False)
             f.flush()
-            os.fsync(f.fileno()) # Força a escrita no HD
+            os.fsync(f.fileno())
     except: pass
 
 def salvar_linha_unica(caminho_arquivo, nova_linha):
     try:
+        os.makedirs(os.path.dirname(caminho_arquivo), exist_ok=True)
         with open(caminho_arquivo, 'a', encoding='utf-8') as f:
             f.write(f"{nova_linha.strip()}\n")
     except: pass
@@ -157,9 +157,8 @@ def extrair_infos_extras(dados_json, nome_base):
     urls = re.findall(r'(https?://[^"\'\s]+)', texto)
     apks = [u for u in urls if any(x in u.lower() for x in ['.apk', 'aftv', 'downloader'])]
     if apks:
-        caminho_apk = os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt")
         for apk in set(apks): 
-            salvar_linha_unica(caminho_apk, f"[{nome_base}] {apk}")
+            salvar_linha_unica(ARQUIVO_LINKS_APKS, f"[{nome_base}] {apk}")
 
     linhas = texto.split('\\n') 
     if len(linhas) < 2: linhas = texto.split('\n')
@@ -214,7 +213,6 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
 
         total_size = int(response.headers.get('content-length', 0))
         
-        # Trava de 500MB (Para vídeos 4K diretos)
         if total_size > 500 * 1024 * 1024:
             local_session.close()
             return False, "Arquivo muito grande (+500MB - Provável Vídeo)"
@@ -258,7 +256,6 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                         bar.update(tam_chunk)
                         tamanho_baixado += tam_chunk
 
-                        # TRAVA DE SEGURANÇA: 500MB
                         if tamanho_baixado > 500 * 1024 * 1024:
                             local_session.close()
                             return False, "Abortado: Excedeu 500 MB"
@@ -346,7 +343,8 @@ def worker(nome_arquivo_json, fila_slots):
 def main():
     limpar_lixo_tmp()
 
-    for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
+    # Cria pasta TXTs e remove criação da pasta Downloads
+    for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_TXTS]:
         os.makedirs(p, exist_ok=True)
     
     if not os.path.exists(PASTA_JSON_RAW):
@@ -357,9 +355,8 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V18 (REALTIME-JSON) | Arq: {len(arquivos)}")
-    print(f"📁 Log de Erros: {os.path.abspath(ARQUIVO_ERROS)}")
-    print(f"📁 Log de JSON: {os.path.abspath(ARQUIVO_FALHAS_JSON)}")
+    print(f"🚀 SIGMA DOWNLOADER V19 (CLEAN LOGS) | Arq: {len(arquivos)}")
+    print(f"📁 Logs e Links em: {PASTA_TXTS}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -385,19 +382,16 @@ def main():
                 if status == "ERRO":
                     msg_erro, url_erro = info 
                     
-                    # 1. Tela
                     tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
                     
-                    # 2. Arquivo TXT (Tempo Real)
                     try:
+                        os.makedirs(PASTA_TXTS, exist_ok=True)
                         with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
                             log.write(f"[{agora}] {nome} | {msg_erro} | URL: {url_erro}\n")
                             log.flush()
                             os.fsync(log.fileno())
                     except: pass
 
-                    # 3. Arquivo JSON (AGORA EM TEMPO REAL)
-                    # Criamos um objeto de erro e salvamos imediatamente
                     erro_obj = {
                         "nome": nome,
                         "url": url_erro,

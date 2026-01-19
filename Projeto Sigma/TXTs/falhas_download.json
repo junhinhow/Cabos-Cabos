@@ -190,5 +190,23 @@
         "url": "http://invictosserver.xyz/get.php?username=836107395660&password=384000129025&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
         "data": "2026-01-19 11:48:15"
+    },
+    {
+        "nome": "Lider_-__ALPHA_-_Completo_Com_Adultos",
+        "url": "http://fripnt.xyz/get.php?username=690020785&password=197406290&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:49:17"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
+        "url": "http://fristez.xyz/get.php?username=517906313&password=399896798&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:49:18"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
+        "url": "http://fristez.xyz/get.php?username=185222484&password=653654293&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:49:18"
     }
 ]

@@ -19,11 +19,14 @@ CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 # Timeout para o IDM baixar (segundos)
 TIMEOUT_DOWNLOAD_IDM = 60 
 
+# Lista expandida de parcerias
 APPS_PARCERIA = {
-    "Assist": "Assist_Plus_Play_Sim", "Play Sim": "Assist_Plus_Play_Sim",
-    "Lazer": "Lazer_Play", "Vizzion": "Vizzion", "Unitv": "UniTV",
-    "Xcloud": "XCloud_TV", "P2P": "Codigos_P2P_Geral", "Smarters": "IPTV_Smarters_DNS",
-    "XCIPTV": "XCIPTV_Dados"
+    "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
+    "LAZER": "Lazer_Play", "VIZZION": "Vizzion", "UNITV": "UniTV",
+    "XCLOUD": "XCloud_TV", "P2P": "Codigos_P2P_Geral", "SMARTERS": "IPTV_Smarters_DNS",
+    "XCIPTV": "XCIPTV_Dados", "EAGLE": "Eagle_TV", "FLASH": "Flash_P2P",
+    "TVE": "TV_Express", "MY FAMILY": "MyFamily_Cinema", "REDPLAY": "RedPlay",
+    "BTV": "BTV_Codes", "HTV": "HTV_Codes"
 }
 
 def limpar_nome_arquivo(nome):
@@ -63,6 +66,7 @@ def baixar_json_via_idm(url, caminho_completo):
             '/a'
         ]
         subprocess.run(cmd, check=True)
+        # Tenta iniciar a fila logo em seguida
         subprocess.run([CAMINHO_IDM, '/s'], check=False)
         return True, "Enviado ao IDM"
     except Exception as e:
@@ -80,68 +84,82 @@ def esperar_download_concluir(caminho_arquivo):
 
 def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
     linhas = texto_resposta.split('\n')
+    
+    # Extração de APKs
     urls = re.findall(r'(https?://[^\s<>"]+)', texto_resposta)
     apks = []
     for url in urls:
-        if '.apk' in url.lower() or 'aftv.news' in url.lower() or 'dl.ntdev' in url.lower():
+        url_lower = url.lower()
+        if '.apk' in url_lower or 'aftv.news' in url_lower or 'dl.ntdev' in url_lower or 'mediafire' in url_lower:
              if url not in apks: apks.append(url)
     
     if apks:
-        with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
-            f.write(f"\n--- {nome_exibicao} ---\n")
-            for l in apks: f.write(f"{l}\n")
+        try:
+            with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
+                f.write(f"\n--- {nome_exibicao} ---\n")
+                for l in apks: f.write(f"{l}\n")
+        except: pass
 
-    app_atual = None
+    # Extração de Parcerias
     for linha in linhas:
         l = linha.strip()
         if not l or len(l) > 300: continue
+        
+        app_detectado = None
+        
+        # Verifica se alguma chave do dicionário está na linha
         for k, v in APPS_PARCERIA.items():
-            if k.upper() in l.upper():
-                app_atual = v
+            if k in l.upper():
+                app_detectado = v
                 break
-        if app_atual and any(x in l.upper() for x in ["CÓDIGO", "USUÁRIO", "SENHA", "PIN", "DNS", "URL"]):
-            with open(os.path.join(PASTA_PARCERIAS, f"{app_atual}.txt"), 'a', encoding='utf-8') as f:
-                f.write(f"[{nome_exibicao}] {l}\n")
+        
+        # Se achou o nome do app E palavras chave de credencial
+        if app_detectado and any(x in l.upper() for x in ["CÓDIGO", "CODIGO", "USUÁRIO", "USER", "SENHA", "PASS", "PIN", "DNS", "URL"]):
+            try:
+                with open(os.path.join(PASTA_PARCERIAS, f"{app_detectado}.txt"), 'a', encoding='utf-8') as f:
+                    f.write(f"[{nome_exibicao}] {l}\n")
+            except: pass
 
-# --- NOVA FUNÇÃO DE VALIDAÇÃO PELO JSON ---
+# --- FUNÇÃO CORRIGIDA ---
 def verificar_validade_pelo_json(caminho_arquivo):
     """
-    Abre o JSON, lê 'expiresAt' e compara com a hora atual.
-    Retorna True se ainda estiver válido.
-    Retorna False se venceu, não existe ou deu erro.
+    Retorna SEMPRE uma tupla (bool, str).
     """
     if not os.path.exists(caminho_arquivo):
-        return False
+        return False, "Arquivo inexistente" # CORRIGIDO: Retorna tupla
 
     try:
         with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
             dados = json.load(f)
         
-        # Procura o campo expiresAt
         expires_at_str = dados.get("expiresAt")
         
         if not expires_at_str:
-            # Se não tem data de validade, consideramos inválido para forçar atualização
-            return False 
+            return False, "Sem campo expiresAt" # CORRIGIDO: Retorna tupla
 
-        # Converte string "2026-01-19 06:00:20" para objeto datetime
-        # Formato esperado: YYYY-MM-DD HH:MM:SS
-        data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%d %H:%M:%S")
+        # Tenta converter a data
+        try:
+            data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%d %H:%M:%S")
+        except ValueError:
+            # Tenta formato alternativo (com T) caso apareça
+            try:
+                 data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%dT%H:%M:%S")
+            except:
+                 return False, "Formato data inválido"
+
         agora = datetime.now()
-
-        # Calcula tempo restante
         tempo_restante = (data_vencimento - agora).total_seconds()
 
-        if tempo_restante > 60: # Se faltar mais de 1 minuto para vencer
-            # Formatamos para mostrar no log
+        if tempo_restante > 60: 
             msg_tempo = str(data_vencimento - agora).split('.')[0]
             return True, msg_tempo
         else:
             return False, "Vencido"
 
-    except Exception:
-        # Se o arquivo estiver corrompido ou formato de data errado
-        return False, "Erro Leitura"
+    except json.JSONDecodeError:
+        return False, "JSON Corrompido"
+    except Exception as e:
+        return False, f"Erro Leitura: {str(e)}"
 
 def main():
     for p in [PASTA_JSON_RAW, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
@@ -151,6 +169,7 @@ def main():
         try: os.remove(ARQUIVO_LOG_ERROS)
         except: pass
 
+    # Limpa arquivos de parcerias antigos para não duplicar
     for f in os.listdir(PASTA_PARCERIAS):
         try: os.remove(os.path.join(PASTA_PARCERIAS, f))
         except: pass
@@ -162,7 +181,7 @@ def main():
     with open(ARQUIVO_FONTES, 'r', encoding='utf-8') as f:
         fontes = json.load(f)
 
-    print(f"🚀 MINERADOR V10 (SMART EXPIRATION) | Fontes: {len(fontes)}")
+    print(f"🚀 MINERADOR V11 (BUGFIXED) | Fontes: {len(fontes)}")
     print(f"📥 Modo: Validação via 'expiresAt' do JSON\n")
     
     atualizados = 0
@@ -183,7 +202,7 @@ def main():
         conteudo_para_analise = ""
         sucesso_leitura = False
 
-        # --- NOVA LÓGICA DE VALIDAÇÃO ---
+        # Verifica validade
         esta_valido, msg_validade = verificar_validade_pelo_json(caminho_json)
         
         if esta_valido:
@@ -193,8 +212,10 @@ def main():
         else:
             if msg_validade == "Vencido":
                 print("   🔄 Arquivo VENCIDO. Baixando atualização...")
+            elif msg_validade == "Arquivo inexistente":
+                print("   ⬇️ Arquivo novo. Baixando via IDM...")
             else:
-                print("   ⬇️ Arquivo novo ou inválido. Baixando via IDM...")
+                print(f"   ⚠️ Revalidando ({msg_validade}). Baixando novo...")
             
             status, msg = baixar_json_via_idm(url, caminho_json)
             
@@ -205,14 +226,14 @@ def main():
                     atualizados += 1
                     sucesso_leitura = True
                 else:
-                    print("   ❌ Timeout: IDM demorou demais.")
+                    print("   ❌ Timeout: IDM demorou ou link off.")
                     registrar_erro_log(nome, url, "Timeout IDM")
                     erros += 1
             else:
                 print(f"   ❌ Erro IDM: {msg}")
                 erros += 1
 
-        # Processa o arquivo (seja antigo válido ou novo baixado)
+        # Processamento
         if sucesso_leitura and os.path.exists(caminho_json):
             try:
                 with open(caminho_json, 'r', encoding='utf-8', errors='ignore') as f:
@@ -224,8 +245,8 @@ def main():
         print("-" * 40)
 
     print(f"\n✅ FIM DA MINERAÇÃO.")
-    print(f"🆕 Atualizados (Vencidos/Novos): {atualizados}")
-    print(f"💾 Mantidos (Ainda no prazo): {cacheados}")
+    print(f"🆕 Atualizados: {atualizados}")
+    print(f"💾 Em Cache: {cacheados}")
     print(f"❌ Falhas: {erros}")
 
 if __name__ == "__main__":

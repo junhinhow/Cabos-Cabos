@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 
 # --- CONFIGURAÇÕES ---
 PASTA_ALVO = 'Listas-Downloaded'  # Pasta onde estão os arquivos .m3u
-ARQUIVO_SAIDA = 'Relatorio_Servidores.txt'
+ARQUIVO_SAIDA = 'TXTs\Relatorio_Servidores.txt'
 # ---------------------
 
 def extrair_servidor_base(url):

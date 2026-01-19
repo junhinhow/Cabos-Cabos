@@ -46,3 +46,12 @@ Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
 [19/01/2026 07:57:55] 👑 Lider - ✨ SHOW - Parceria XCloud C/ Adultos | Erro Final: HTTP 405
 Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbA41gG
 ------------------------------
+[19/01/2026 07:57:56] 🌐 NetPlay - 📸 FLASH - Teste 12H C/ Adultos | Erro Final: HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/z2BDvomWrk
+------------------------------
+[19/01/2026 07:58:00] 🌐 NetPlay - 📸 FLASH - Teste 12H S/ Adultos | Erro Final: HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/VpKDa6xWRA
+------------------------------
+[19/01/2026 07:58:11] 🌐 NetPlay - 🔗 P2P BinStream NetPlay - Teste C/ Adulto 12 Horas | Erro Final: HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/aYB1w5nDvm
+------------------------------

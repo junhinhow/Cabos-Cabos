@@ -37,7 +37,7 @@ EMOJI_DEFAULT = "📺"
 # Cria lista de todos os emojis possíveis para saber o que limpar
 TODOS_EMOJIS = list(MAPA_EMOJIS.values())
 TODOS_EMOJIS.append(EMOJI_DEFAULT)
-# Adiciona variações e outros emojis que possam ter aparecido
+# Adiciona variações extras que podem estar sujando os nomes
 OUTROS_EMOJIS_LIXO = ["❌", "✅", "☁️", "👽", "🍄", "🌹", "🐝", "☔", "🛑", "⚽", "〽️", "🔴", "💜", "🤍", "💚", "💛", "🥈", "🏹", "🟢", "🚘", "♾️", "🌎", "🍥", "⚡", "📡", "®️", "♦️", "🥇", "♟️", "🔷", "🪙", "⭐"]
 TODOS_EMOJIS.extend(OUTROS_EMOJIS_LIXO)
 
@@ -50,23 +50,20 @@ def definir_emoji_correto(nome):
 
 def limpar_inicio_nome(nome):
     """
-    Remove recursivamente emojis e espaços do início da string
-    até encontrar uma letra, número ou símbolo de texto (como [ ou ().
+    Remove recursivamente emojis e espaços do início da string.
     """
     texto = nome
     limpo = False
     
     while not limpo:
-        texto = texto.strip() # Tira espaços das pontas
+        texto = texto.strip()
         encontrou_lixo = False
         
-        # Verifica se começa com algum emoji conhecido
         for emoji in TODOS_EMOJIS:
             if texto.startswith(emoji):
-                # Remove o emoji do inicio
                 texto = texto[len(emoji):]
                 encontrou_lixo = True
-                break # Reinicia o loop para checar se tem MAIS emojis
+                break 
         
         if not encontrou_lixo:
             limpo = True
@@ -78,7 +75,6 @@ def main():
         print(f"❌ Arquivo '{ARQUIVO_ALVO}' não encontrado.")
         return
 
-    # 1. Backup
     shutil.copy2(ARQUIVO_ALVO, ARQUIVO_BACKUP)
     print(f"📦 Backup criado: {ARQUIVO_BACKUP}")
 
@@ -87,7 +83,7 @@ def main():
 
     contador = 0
     
-    print("🧹 Iniciando limpeza e padronização...")
+    print("🧹 Iniciando limpeza e padronização...\n")
 
     for item in dados:
         nome_original = item.get('nome', '')
@@ -95,24 +91,22 @@ def main():
         # 1. Descobre qual emoji DEVERIA estar lá
         emoji_correto = definir_emoji_correto(nome_original)
         
-        # 2. Limpa TUDO que for emoji no começo do nome atual
+        # 2. Limpa TUDO que for emoji no começo
         nome_limpo = limpar_inicio_nome(nome_original)
         
-        # 3. Monta o nome perfeito
+        # 3. Monta o nome novo
         novo_nome = f"{emoji_correto} {nome_limpo}"
 
-        # Só salva e avisa se houve mudança
+        # 4. Mostra o log se mudou algo
         if novo_nome != nome_original:
             item['nome'] = novo_nome
             contador += 1
-            # print(f"✨ Ajustado: {nome_original} -> {novo_nome}") 
+            print(f"🔧 Ajustado: {nome_original}  -->  {novo_nome}")
 
-    # 4. Salvar
     with open(ARQUIVO_ALVO, 'w', encoding='utf-8') as f:
         json.dump(dados, f, indent=4, ensure_ascii=False)
     
-    print(f"\n✅ Finalizado! {contador} nomes foram corrigidos/padronizados.")
-    print("   Agora não deve haver emojis duplicados no início.")
+    print(f"\n✅ Finalizado! {contador} nomes corrigidos.")
 
 if __name__ == "__main__":
     main()

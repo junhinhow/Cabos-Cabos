@@ -7,10 +7,21 @@ import os
 INTERVALO_VERIFICACAO = 10  # Segundos entre checagens
 BRANCH = "main"             # Confirme se é 'main' ou 'master'
 
+def obter_raiz_git():
+    """Descobre a pasta raiz do repositório para evitar erros de caminho relativo"""
+    try:
+        result = subprocess.run(
+            ["git", "rev-parse", "--show-toplevel"], 
+            capture_output=True, text=True, encoding='utf-8', errors='ignore'
+        )
+        if result.returncode == 0:
+            return result.stdout.strip()
+    except: pass
+    return None
+
 def verificar_e_enviar():
     try:
         # 1. Pergunta ao GIT se tem algo pendente
-        # O comando 'git status --porcelain' é feito para scripts lerem
         result = subprocess.run(
             ["git", "status", "--porcelain"], 
             capture_output=True, 
@@ -21,34 +32,51 @@ def verificar_e_enviar():
         
         mudancas = result.stdout.strip()
 
-        # Se tiver qualquer texto na variável 'mudancas', significa que tem arquivo novo/modificado
         if mudancas:
+            # Cria lista de arquivos, ignorando linhas vazias
+            lista_arquivos = [linha for linha in mudancas.split('\n') if linha.strip()]
             timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-            print(f"\n[{timestamp}] 👁️ Git detectou alterações!")
             
-            # Pequena pausa para garantir que o arquivo terminou de ser salvo pelo editor
+            print(f"\n[{timestamp}] 👁️ Git detectou {len(lista_arquivos)} alteração(ões)!")
+            
+            # Pausa para garantir salvamento do editor
             time.sleep(2)
-            
-            mensagem = f"Auto-Update: {timestamp}"
-            
-            print("⚙️ Adicionando arquivos...")
-            subprocess.run(["git", "add", "."], check=True)
-            
-            print(f"📝 Commitando...")
-            subprocess.run(["git", "commit", "-m", mensagem], check=True)
-            
-            print(f"🚀 Enviando para GitHub...")
-            push_result = subprocess.run(
-                ["git", "push", "origin", BRANCH], 
-                capture_output=True, 
-                text=True
-            )
-            
-            if push_result.returncode == 0:
-                print(f"✅ SUCESSO! Sincronizado.")
-            else:
-                print(f"⚠️ O Push falhou (pode ser internet ou conflito):\n{push_result.stderr}")
-            
+
+            for linha in lista_arquivos:
+                # O formato porcelain é "XY Caminho/Do/Arquivo"
+                # Pegamos do caractere 3 para frente para ignorar o status (M, ??, etc)
+                nome_bruto = linha[3:].strip()
+                
+                # Remove aspas duplas das pontas (Git adiciona aspas se tiver espaço no nome)
+                nome_arquivo = nome_bruto.strip('"')
+
+                print(f"🔄 Processando: {nome_arquivo}")
+
+                try:
+                    # a) Adiciona
+                    subprocess.run(["git", "add", nome_arquivo], check=True)
+                    
+                    # b) Commita
+                    msg_commit = f"Auto-Update: {os.path.basename(nome_arquivo)} | {timestamp}"
+                    subprocess.run(["git", "commit", "-m", msg_commit], check=True)
+                    
+                    # c) Push Imediato
+                    print(f"🚀 Enviando {os.path.basename(nome_arquivo)}...")
+                    push_result = subprocess.run(
+                        ["git", "push", "origin", BRANCH], 
+                        capture_output=True, text=True
+                    )
+
+                    if push_result.returncode == 0:
+                        print(f"✅ SUCESSO! Sincronizado.")
+                    else:
+                        print(f"⚠️ Push falhou:\n{push_result.stderr}")
+
+                except subprocess.CalledProcessError as e:
+                    print(f"❌ Erro no Git (Add/Commit): {e}")
+                except Exception as e:
+                    print(f"❌ Erro genérico no arquivo: {e}")
+
             print("-" * 40)
             return True
             
@@ -56,12 +84,19 @@ def verificar_e_enviar():
             return False
 
     except Exception as e:
-        print(f"❌ Erro no Script: {e}")
+        print(f"❌ Erro Crítico no Script: {e}")
         return False
 
 def main():
-    print(f"🔭 VIGIA GIT (MODO DIRETO) INICIADO")
-    print(f"📂 Pasta: {os.getcwd()}")
+    # --- CORREÇÃO DE DIRETÓRIO ---
+    raiz_git = obter_raiz_git()
+    if raiz_git:
+        os.chdir(raiz_git) # Muda o script para rodar na raiz do projeto
+        print(f"📂 Contexto ajustado para Raiz Git: {raiz_git}")
+    else:
+        print(f"⚠️ Não foi possível achar a raiz Git. Rodando em: {os.getcwd()}")
+
+    print(f"🔭 VIGIA GIT (MODO INDIVIDUAL/CORRIGIDO) INICIADO")
     print("------------------------------------------------")
 
     try:

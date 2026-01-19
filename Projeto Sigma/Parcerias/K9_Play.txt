@@ -1,3 +1,2 @@
 [🏟️ AtivaBox - 🎯 Lite PLAY - Teste S/ Adultos] "payUrl": "https://painel.ativabox.xyz/#/checkout/0m1EeVM1lE/dqLk90J8WA",
 [🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV C/ Adultos] "payUrl": "https://cineflx.topbrr.shop/#/checkout/RXDgQzY1ex/dqLk9PogWA",
-[🎖️ INVICTOS SERVER -  TESTE COMPLETO PARA IOS] "payUrl": "https://invictosplay.site/#/checkout/2BDveZ6Lrk/dqLk99wZWA",

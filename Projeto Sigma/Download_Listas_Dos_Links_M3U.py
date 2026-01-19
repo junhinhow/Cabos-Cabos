@@ -193,41 +193,45 @@ def gerenciar_cache_inteligente(nome_base):
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
     caminho_temp = caminho_destino + ".tmp"
     
-    # Garante que começa limpo
+    # Limpeza preventiva
     if os.path.exists(caminho_temp): 
         try: os.remove(caminho_temp)
         except: pass
 
     try:
+        # --- AQUI ESTÁ A PROTEÇÃO ---
+        # timeout=10: Se o servidor demorar mais de 10s para conectar 
+        # OU se ficar 10s sem enviar dados durante o download, ele cai.
         response = Navegador.get(
             url, 
             impersonate="chrome120", 
             stream=True, 
-            timeout=30, # Reduzi para 30s para falhar mais rápido se o server não responder
+            timeout=10, 
             allow_redirects=True
         )
         
         if response.status_code != 200:
             return False, f"Erro HTTP {response.status_code}"
 
-        # Pega o tamanho total (pode vir 0 se o servidor não informar)
         total_size = int(response.headers.get('content-length', 0))
         
-        # Se o servidor diz que o arquivo é gigante (>50MB), provavelmente é vídeo e não M3U
+        # Trava para arquivos gigantes (vídeos disfarçados de lista)
         if total_size > 50 * 1024 * 1024:
-            return False, "Arquivo muito grande (Provável Stream de Vídeo)"
+            return False, "Arquivo muito grande (Provável Vídeo)"
 
         tamanho_baixado = 0
 
-        # Verifica o primeiro pedaço para ver se é HTML ou JSON de erro
-        primeiro_chunk = b""
+        # Tenta pegar o primeiro pedaço. Se demorar 10s aqui, o timeout ali em cima dispara.
         try:
             iterator = response.iter_content(chunk_size=512)
-            primeiro_chunk = next(iterator) # Pega o primeiro pedaço manualmente
+            primeiro_chunk = next(iterator)
         except StopIteration:
             return False, "Arquivo vazio recebido"
         except Exception as e:
-            return False, f"Erro ao iniciar leitura: {str(e)}"
+            # Captura o timeout logo no início
+            if "time" in str(e).lower() or "out" in str(e).lower():
+                return False, "TIMEOUT: Servidor demorou +10s para iniciar"
+            return False, f"Erro inicial: {str(e)}"
 
         if b"<html" in primeiro_chunk.lower() or b"<!doctype" in primeiro_chunk.lower():
              return False, "Bloqueio (HTML Detectado)"
@@ -235,7 +239,6 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         if b"{" in primeiro_chunk and b"error" in primeiro_chunk.lower():
              return False, "Erro API (JSON Detectado)"
 
-        # Inicia a barra e o download do restante
         with tqdm(total=total_size, unit='B', unit_scale=True, desc=desc_barra, 
                   position=posicao, leave=False, ncols=90, 
                   bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
@@ -245,7 +248,8 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                 bar.update(len(primeiro_chunk))
                 tamanho_baixado += len(primeiro_chunk)
                 
-                # Continua de onde parou (iterator já consumiu o primeiro chunk)
+                # Loop principal de download
+                # Se o servidor parar de mandar dados aqui, o 'timeout=10' lá do get() vai estourar uma exceção
                 for chunk in response.iter_content(chunk_size=64*1024):
                     if PARAR_EXECUCAO: break
                     if chunk:
@@ -254,16 +258,15 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                         bar.update(tam_chunk)
                         tamanho_baixado += tam_chunk
 
-                        # TRAVA DE SEGURANÇA: Se passar de 20MB, aborta.
+                        # Trava de segurança de tamanho
                         if tamanho_baixado > 20 * 1024 * 1024:
-                            return False, "Abortado: Arquivo excedeu 20MB (Não é lista)"
+                            return False, "Abortado: Arquivo excedeu 20MB"
 
         if PARAR_EXECUCAO:
             return False, "Interrompido pelo usuário"
 
-        # Verificação final de tamanho mínimo
-        if os.path.getsize(caminho_temp) < 100: # Aumentei um pouco a tolerância mínima
-            return False, "Arquivo muito pequeno ou vazio"
+        if os.path.getsize(caminho_temp) < 100:
+            return False, "Arquivo muito pequeno"
 
         if os.path.exists(caminho_destino): 
             try: os.remove(caminho_destino)
@@ -273,14 +276,18 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         return True, "OK"
 
     except Exception as e:
-        return False, f"Erro Crítico: {str(e)[:100]}"
+        msg_erro = str(e).lower()
+        # Aqui personalizamos a mensagem para o seu log
+        if "time" in msg_erro or "out" in msg_erro or "deadline" in msg_erro:
+            return False, "TIMEOUT: Servidor travou (+10s sem resposta)"
+        return False, f"Erro: {str(e)[:50]}"
     
     finally:
-        # LIXEIRO: Se sobrar arquivo .tmp e não foi renomeado (deu erro), apaga ele.
+        # Limpa o lixo se deu erro
         if os.path.exists(caminho_temp):
             try: os.remove(caminho_temp)
             except: pass
-            
+                    
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
     if PARAR_EXECUCAO: return "PARADO", None, None

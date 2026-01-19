@@ -1,0 +1,20 @@
+
+============================================================
+📁 ARQUIVO: AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+📅 DATA: 19/01/2026 00:45
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 271873 itens.
+
+============================================================
+📁 ARQUIVO: AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+📅 DATA: 19/01/2026 07:14
+------------------------------------------------------------
+🟢 ENTRARAM (8):
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - FHD - Disney+  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - FHD - ESPN 4  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - HD - Disney+  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - HD - ESPN 4  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - SD - Disney+  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - SD - ESPN 4  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - UHD - Disney+  | (1ª vez: 19/01/2026 07:14)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - UHD - ESPN 4  | (1ª vez: 19/01/2026 07:14)

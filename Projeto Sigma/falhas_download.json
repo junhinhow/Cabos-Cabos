@@ -220,5 +220,11 @@
         "url": "http://dns.azonixsupreme.fun/get.php?username=218643198&password=419219299&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-19 00:05:35"
+    },
+    {
+        "nome": "Lider_-__LITE_-_Completo_Sem_Adultos",
+        "url": "http://anubis.cmstech2.top/get.php?username=103227266&password=526438802&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 00:06:13"
     }
 ]

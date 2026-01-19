@@ -34,3 +34,15 @@ Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
 [19/01/2026 07:57:39] 🔱 EVOLUTION - PLAY - ✅ Xcloud | Erro Final: HTTP 405
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K
 ------------------------------
+[19/01/2026 07:57:50] 🔰 HAVOK TV - P2P BINSTREAM - 🔰 [Teste 04h] - P2P Binstream | Erro Final: HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMPR104
+------------------------------
+[19/01/2026 07:57:52] 👑 Lider - ✨ SHOW - Completo Com Adultos | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG
+------------------------------
+[19/01/2026 07:57:53] 👑 Lider - ✨ SHOW - Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
+------------------------------
+[19/01/2026 07:57:55] 👑 Lider - ✨ SHOW - Parceria XCloud C/ Adultos | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbA41gG
+------------------------------

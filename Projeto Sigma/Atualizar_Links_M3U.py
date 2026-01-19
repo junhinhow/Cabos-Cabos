@@ -1,32 +1,32 @@
 import json
-import requests
 import os
 import re
 import time
 from datetime import datetime
 
+# --- IMPORTAÇÃO DO MOTOR POTENTE ---
+try:
+    from curl_cffi import requests as cffi_requests
+except ImportError:
+    print("❌ ERRO: Biblioteca 'curl_cffi' faltando.")
+    print("Instale: pip install curl_cffi --user")
+    exit()
+
 # --- CONFIGURAÇÕES ---
 ARQUIVO_FONTES = "fontes.json"
 ARQUIVO_LOG_ERROS = "erros_mineracao.txt"
-ARQUIVO_MASTER_JSON = "master_db_sigma.json"
 
 PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 
-# Regra de validade do cache: 4 Horas (4 * 60 * 60 = 14400 segundos)
-TEMPO_VALIDADE_CACHE = 14400 
-
-HEADERS_FAKE = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "Upgrade-Insecure-Requests": "1"
-}
-
 APPS_PARCERIA = {
-    "Assist": "Assist_Plus_Play_Sim", "Play Sim": "Assist_Plus_Play_Sim",
-    "Lazer": "Lazer_Play", "Vizzion": "Vizzion", "Unitv": "UniTV",
-    "Xcloud": "XCloud_TV", "P2P": "Codigos_P2P_Geral", "Smarters": "IPTV_Smarters_DNS",
-    "XCIPTV": "XCIPTV_Dados"
+    "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
+    "LAZER": "Lazer_Play", "VIZZION": "Vizzion", "UNITV": "UniTV",
+    "XCLOUD": "XCloud_TV", "P2P": "Codigos_P2P_Geral", "SMARTERS": "IPTV_Smarters_DNS",
+    "XCIPTV": "XCIPTV_Dados", "EAGLE": "Eagle_TV", "FLASH": "Flash_P2P",
+    "TVE": "TV_Express", "MY FAMILY": "MyFamily_Cinema", "REDPLAY": "RedPlay",
+    "BTV": "BTV_Codes", "HTV": "HTV_Codes"
 }
 
 def limpar_nome_arquivo(nome):
@@ -37,7 +37,6 @@ def limpar_nome_arquivo(nome):
     return re.sub(r'[<>:"/\\|?*]', '', nome_ascii).strip().replace(" ", "_")
 
 def registrar_erro_log(nome, url, erro):
-    """Salva o erro no arquivo de texto"""
     timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     msg = f"[{timestamp}] {nome} | {erro}\nLink: {url}\n{'-'*30}\n"
     try:
@@ -45,105 +44,111 @@ def registrar_erro_log(nome, url, erro):
             f.write(msg)
     except: pass
 
-def arquivo_eh_recente(caminho_arquivo):
-    """Retorna True se o arquivo existe e tem menos de 4 horas"""
-    if not os.path.exists(caminho_arquivo): return False
+def baixar_json_blindado(url, caminho_salvar):
+    """
+    Usa curl_cffi para tentar POST e GET se passando por um navegador real.
+    Substitui o IDM para arquivos JSON/API.
+    """
+    session = cffi_requests.Session()
     
-    timestamp_mod = os.path.getmtime(caminho_arquivo)
-    idade_do_arquivo = time.time() - timestamp_mod
-    
-    return idade_do_arquivo < TEMPO_VALIDADE_CACHE
+    # 1. Tenta POST (Muitos servidores exigem isso)
+    try:
+        resp = session.post(url, impersonate="chrome120", timeout=15)
+        
+        # Se o servidor reclamar de Método Não Permitido (405), tentamos GET
+        if resp.status_code == 405 or resp.status_code == 404:
+             resp = session.get(url, impersonate="chrome120", timeout=15)
+        
+        if resp.status_code == 200:
+            # Tenta decodificar para garantir que é JSON válido ou texto útil
+            conteudo = resp.content
+            
+            # Salva no disco
+            with open(caminho_salvar, 'wb') as f:
+                f.write(conteudo)
+            return True, "OK"
+        else:
+            return False, f"Erro HTTP {resp.status_code}"
 
-def requisicao_inteligente(url):
-    session = requests.Session()
-    session.headers.update(HEADERS_FAKE)
-    max_retries = 3
-    backoff_factor = 1  # segundos
-    
-    for attempt in range(max_retries):
+    except Exception as e:
+        # Tentativa final com GET caso o POST tenha explodido a conexão
         try:
-            # Tenta resolver o DNS primeiro
-            try:
-                import socket
-                from urllib.parse import urlparse
-                domain = urlparse(url).netloc
-                socket.gethostbyname(domain)
-            except socket.gaierror:
-                if attempt == max_retries - 1:  # Última tentativa
-                    raise Exception(f"Não foi possível resolver o endereço: {domain}")
-                time.sleep(backoff_factor * (2 ** attempt))  # Backoff exponencial
-                continue
-                
-            # Tenta POST primeiro
-            try:
-                resp = session.post(url, timeout=15, verify=False)
-                if resp.status_code == 200: 
-                    return resp
-            except Exception as e:
-                if attempt == max_retries - 1:  # Última tentativa
-                    raise
-                time.sleep(backoff_factor * (2 ** attempt))
-                continue
-                
-            # Tenta GET (Fallback)
-            try:
-                resp = session.get(url, timeout=15, verify=False)
-                resp.raise_for_status()
-                return resp
-            except Exception as e:
-                if attempt == max_retries - 1:  # Última tentativa
-                    raise
-                time.sleep(backoff_factor * (2 ** attempt))
-                
-        except Exception as e:
-            if attempt == max_retries - 1:  # Última tentativa
-                raise Exception(f"Falha na conexão após {max_retries} tentativas: {str(e)}")
-            time.sleep(backoff_factor * (2 ** attempt))
+            resp = session.get(url, impersonate="chrome120", timeout=15)
+            if resp.status_code == 200:
+                with open(caminho_salvar, 'wb') as f:
+                    f.write(resp.content)
+                return True, "OK (via GET Fallback)"
+        except: pass
+        
+        return False, str(e)
 
 def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
-    linhas = texto_resposta.split('\n')
-    
-    # Extrai Downloads (APKs)
-    urls = re.findall(r'(https?://[^\s<>"]+)', texto_resposta)
-    apks = []
-    for url in urls:
-        if '.apk' in url.lower() or 'aftv.news' in url.lower() or 'dl.ntdev' in url.lower():
-             if url not in apks: apks.append(url)
-    
-    if apks:
-        with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
-            f.write(f"\n--- {nome_exibicao} ---\n")
-            for l in apks: f.write(f"{l}\n")
+    try:
+        linhas = texto_resposta.split('\n')
+        urls = re.findall(r'(https?://[^\s<>"]+)', texto_resposta)
+        apks = []
+        for url in urls:
+            url_lower = url.lower()
+            if '.apk' in url_lower or 'aftv.news' in url_lower or 'dl.ntdev' in url_lower or 'mediafire' in url_lower:
+                 if url not in apks: apks.append(url)
+        
+        if apks:
+            with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
+                f.write(f"\n--- {nome_exibicao} ---\n")
+                for l in apks: f.write(f"{l}\n")
 
-    # Extrai Parcerias (Senhas)
-    app_atual = None
-    for linha in linhas:
-        l = linha.strip()
-        # Ignora linhas gigantes (provavelmente JSON raw)
-        if not l or len(l) > 300: continue
+        for linha in linhas:
+            l = linha.strip()
+            if not l or len(l) > 300: continue
+            
+            app_detectado = None
+            for k, v in APPS_PARCERIA.items():
+                if k in l.upper():
+                    app_detectado = v
+                    break
+            
+            if app_detectado and any(x in l.upper() for x in ["CÓDIGO", "CODIGO", "USUÁRIO", "USER", "SENHA", "PASS", "PIN", "DNS", "URL"]):
+                with open(os.path.join(PASTA_PARCERIAS, f"{app_detectado}.txt"), 'a', encoding='utf-8') as f:
+                    f.write(f"[{nome_exibicao}] {l}\n")
+    except: pass
+
+def verificar_validade_pelo_json(caminho_arquivo):
+    if not os.path.exists(caminho_arquivo):
+        return False, "Arquivo inexistente"
+
+    try:
+        with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
+            dados = json.load(f)
         
-        for k, v in APPS_PARCERIA.items():
-            if k.upper() in l.upper():
-                app_atual = v
-                break
-        
-        if app_atual and any(x in l.upper() for x in ["CÓDIGO", "USUÁRIO", "SENHA", "PIN", "DNS", "URL"]):
-            with open(os.path.join(PASTA_PARCERIAS, f"{app_atual}.txt"), 'a', encoding='utf-8') as f:
-                f.write(f"[{nome_exibicao}] {l}\n")
+        expires_at_str = dados.get("expiresAt")
+        if not expires_at_str:
+            return False, "Sem campo expiresAt"
+
+        try:
+            data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%d %H:%M:%S")
+        except ValueError:
+            try: data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%dT%H:%M:%S")
+            except: return False, "Formato data inválido"
+
+        agora = datetime.now()
+        if (data_vencimento - agora).total_seconds() > 60: 
+            return True, str(data_vencimento - agora).split('.')[0]
+        else:
+            return False, "Vencido"
+
+    except json.JSONDecodeError:
+        return False, "JSON Corrompido"
+    except Exception as e:
+        return False, f"Erro Leitura: {str(e)}"
 
 def main():
-    requests.packages.urllib3.disable_warnings()
-    
-    # Cria pastas necessárias
     for p in [PASTA_JSON_RAW, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
         os.makedirs(p, exist_ok=True)
 
-    # Limpa log de erros anterior
     if os.path.exists(ARQUIVO_LOG_ERROS):
         try: os.remove(ARQUIVO_LOG_ERROS)
         except: pass
 
-    # Limpa parcerias antigas para evitar duplicatas
     for f in os.listdir(PASTA_PARCERIAS):
         try: os.remove(os.path.join(PASTA_PARCERIAS, f))
         except: pass
@@ -155,7 +160,8 @@ def main():
     with open(ARQUIVO_FONTES, 'r', encoding='utf-8') as f:
         fontes = json.load(f)
 
-    print(f"🚀 MINERADOR V8 (Regra 4h): Auditando {len(fontes)} fontes...\n")
+    print(f"🚀 MINERADOR V12 (CURL_CFFI POST/GET) | Fontes: {len(fontes)}")
+    print(f"📥 Modo: Validação Inteligente + Download via Motor Chrome\n")
     
     atualizados = 0
     cacheados = 0
@@ -172,73 +178,51 @@ def main():
 
         print(f"📡 {nome}")
 
-        # --- LÓGICA DE CACHE (4 HORAS) ---
-        usar_cache = False
+        conteudo_para_analise = ""
+        sucesso_leitura = False
+
+        # --- VALIDAÇÃO ---
+        esta_valido, msg_validade = verificar_validade_pelo_json(caminho_json)
         
-        if arquivo_eh_recente(caminho_json):
-            print("   ⏳ Cache válido (< 4h). Usando arquivo local.")
-            usar_cache = True
+        if esta_valido:
+            print(f"   ⏳ Cache válido! Vence em: {msg_validade}")
             cacheados += 1
+            sucesso_leitura = True
         else:
-            print("   🌐 Cache expirado ou ausente. Atualizando da API...")
-
-        texto_completo = ""
-
-        try:
-            if usar_cache:
-                with open(caminho_json, 'r', encoding='utf-8') as f:
-                    dados = json.load(f)
-                texto_completo = json.dumps(dados, ensure_ascii=False)
+            if msg_validade == "Vencido":
+                print("   🔄 Arquivo VENCIDO. Atualizando...")
+            elif msg_validade == "Arquivo inexistente":
+                print("   ⬇️ Arquivo novo. Baixando...")
             else:
-                # PAUSA ANTI-BLOQUEIO (Importante!)
-                time.sleep(2) 
-                
-                resp = requisicao_inteligente(url)
-                try:
-                    dados = resp.json()
-                    texto_completo = json.dumps(dados, ensure_ascii=False)
-                except:
-                    # Se não for JSON, salva como texto puro
-                    dados = {"raw_text": resp.text}
-                    texto_completo = resp.text
-                
-                with open(caminho_json, 'w', encoding='utf-8') as f:
-                    json.dump(dados, f, indent=4, ensure_ascii=False)
-                
+                print(f"   ⚠️ Revalidando ({msg_validade})...")
+            
+            # --- DOWNLOAD COM CURL_CFFI (Suporta POST) ---
+            status, msg = baixar_json_blindado(url, caminho_json)
+            
+            if status:
+                print("   ✅ Atualizado com sucesso!")
                 atualizados += 1
-                print("   💾 Dados atualizados em 'Dados-Brutos'.")
-
-            # Sempre processa as parcerias, mesmo vindo do cache
-            extrair_parcerias_e_downloads(texto_completo, nome)
-
-        except requests.exceptions.SSLError as e:
-            msg_erro = f"Erro de certificado SSL: {str(e)}"
-            print(f"   ❌ {msg_erro}")
-            registrar_erro_log(nome, url, msg_erro)
-            erros += 1
-        except requests.exceptions.ConnectionError as e:
-            if "NameResolutionError" in str(e) or "getaddrinfo failed" in str(e):
-                msg_erro = f"Não foi possível conectar ao servidor. Verifique sua conexão com a internet."
+                sucesso_leitura = True
             else:
-                msg_erro = f"Erro de conexão: {str(e)}"
-            print(f"   ❌ {msg_erro}")
-            registrar_erro_log(nome, url, msg_erro)
-            erros += 1
-        except Exception as e:
-            msg_erro = f"Erro inesperado: {str(e)}"
-            print(f"   ❌ {msg_erro}")
-            registrar_erro_log(nome, url, msg_erro)
-            erros += 1
-        
+                print(f"   ❌ Falha no Download: {msg}")
+                registrar_erro_log(nome, url, msg)
+                erros += 1
+
+        # --- PROCESSAMENTO ---
+        if sucesso_leitura and os.path.exists(caminho_json):
+            try:
+                with open(caminho_json, 'r', encoding='utf-8', errors='ignore') as f:
+                    conteudo_para_analise = f.read()
+                extrair_parcerias_e_downloads(conteudo_para_analise, nome)
+            except Exception as e:
+                print(f"   ⚠️ Erro ao processar JSON: {e}")
+
         print("-" * 40)
 
     print(f"\n✅ FIM DA MINERAÇÃO.")
-    print(f"🆕 Baixados da API: {atualizados}")
-    print(f"💾 Lidos do Cache: {cacheados}")
+    print(f"🆕 Atualizados: {atualizados}")
+    print(f"💾 Em Cache: {cacheados}")
     print(f"❌ Falhas: {erros}")
-    
-    if erros > 0:
-        print(f"📄 Detalhes salvos em: '{ARQUIVO_LOG_ERROS}'")
 
 if __name__ == "__main__":
     main()

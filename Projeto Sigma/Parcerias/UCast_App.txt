@@ -1,0 +1,8 @@
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos] \u26a1 *Link (M3U) 1 :* http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=mpegts
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos] \u26a1 *Link (HLS):* http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=hls
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos] \u26a1 *Link (M3U) 1 :* http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=mpegts
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos] \u26a1 *Link (HLS):* http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=hls
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos] \u26a1 *Link (M3U) 1 :* http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=mpegts
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos] \u26a1 *Link (HLS):* http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=hls
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos] \u26a1 *Link (M3U) 1 :* http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=mpegts
+[ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos] \u26a1 *Link (HLS):* http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=hls

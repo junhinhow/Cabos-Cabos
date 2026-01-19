@@ -4,3 +4,50 @@
 📅 DATA: 19/01/2026 00:45
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 265142 itens.
+
+============================================================
+📁 ARQUIVO: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
+📅 DATA: 19/01/2026 18:27
+------------------------------------------------------------
+🟢 ENTRARAM (41):
+   + [CANAIS • SBT] SBT Allamanda RO HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Alterosa MG FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Alterosa MG HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Aratu BA HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Brasilia DF HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Brasilia FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Cidade Verde PI HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Cidade Verde Picos PI FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT GO HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Guajará PA FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Interior SP HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Internacional  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Jangadeiro CE FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Londrina HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT MA HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Maringá HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Minas HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Nacional FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Naipi Foz do Iguaçu HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Noroeste MT HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Nova Mutum  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT PA HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT PE HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT PR HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Piauí HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Ponta Verde AL HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT RJ FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT RJ HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT RN HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT RS HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Ribeirão Preto HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT SC HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT SP FHD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT SP HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT TAMBAU PB HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT TH+ Vale HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT TO HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT TV Jornal PE HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT TV SIM ES HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT Tribuna ES HD  | (1ª vez: 19/01/2026 18:27)
+   + [CANAIS • SBT] SBT VTV Campinas HD  | (1ª vez: 19/01/2026 18:27)

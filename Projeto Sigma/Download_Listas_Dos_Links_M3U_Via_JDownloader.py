@@ -25,19 +25,18 @@ warnings.filterwarnings("ignore")
 
 # --- CONFIGURAÇÕES ---
 PASTA_JSON_RAW = "Dados-Brutos"
-PASTA_DESTINO = "Listas-Downloaded" # O JD2 decide a pasta, mas mantemos a variável
+PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 # ==============================================================================
-# ✅ CAMINHO DO JDOWNLOADER 2
+# ✅ CAMINHO DO JDOWNLOADER 2 (Seu caminho)
 # ==============================================================================
 CAMINHO_JD2 = r"D:\Program Files\JDownloader 2\JDownloader2.exe"
 
-# Aumentado para 10 como solicitado (Envio de links)
-# Obs: Configure o limite de download DENTRO do JDownloader também!
+# Script envia 10 links por vez para o JD2
 MAX_SIMULTANEOS = 10      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
@@ -50,7 +49,6 @@ APPS_PARCERIA = {
 }
 
 def limpar_lixo_tmp():
-    # JD2 cria arquivos .part, não .tmp do python, mas mantemos a limpeza da pasta
     files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
     if files:
         for f in files:
@@ -147,9 +145,6 @@ def extrair_infos_extras(dados_json, nome_base):
                 salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
-    # Nota: Com JD2 é difícil saber se o arquivo já foi baixado pelo nome exato,
-    # pois o JD2 costuma usar o nome original do servidor.
-    # Mantemos a lógica caso você organize a pasta manualmente depois.
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
     arquivos_existentes = glob.glob(padrao)
     
@@ -163,27 +158,22 @@ def gerenciar_cache_inteligente(nome_base):
     return False, None
 
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    # O JD2 recebe a URL. Ele é um "Link Grabber".
-    # Diferente do IDM, o JD2 geralmente ignora o nome de saída via linha de comando
-    # e usa o nome que o servidor manda.
-    
     if not os.path.exists(CAMINHO_JD2):
         return False, f"JD2 não encontrado em: {CAMINHO_JD2}"
 
+    # --- CORREÇÃO DO ERRO 'COULD NOT LOAD MAIN CLASS' ---
+    # Pegamos a pasta onde o JD2 está instalado
+    pasta_do_jd2 = os.path.dirname(CAMINHO_JD2)
+
     try:
-        # Comando para adicionar links ao JDownloader 2
-        # A flag --add-links (ou apenas passar a URL) diz para ele pegar
-        cmd = [
-            CAMINHO_JD2,
-            url
-        ]
+        cmd = [CAMINHO_JD2, url]
         
-        # subprocess.Popen é melhor aqui para não travar o script esperando o JD2 fechar
-        # O JD2 recebe o link e libera o processo.
-        subprocess.Popen(cmd, shell=False)
+        # O parâmetro 'cwd' (Current Working Directory) é a mágica aqui.
+        # Ele faz o programa rodar "como se estivesse" na pasta dele.
+        subprocess.Popen(cmd, cwd=pasta_do_jd2, shell=False)
         
-        # Pequeno delay para garantir que o JD2 processe o comando sem engasgar
-        time.sleep(0.2) 
+        # Delay para garantir que o JD2 pegou o comando
+        time.sleep(0.3) 
         
         return True, "Enviado para o JDownloader"
 
@@ -218,7 +208,6 @@ def worker(nome_arquivo_json, fila_slots):
         timestamp = datetime.now().strftime("[%d-%m-%Y_%Hh%M]")
         novo_nome_arquivo = f"{nome_base}_{timestamp}.m3u"
         
-        # Enviamos para o JD2. O nome do arquivo dependerá do servidor/JD2.
         caminho_final = os.path.join(PASTA_DESTINO, novo_nome_arquivo)
 
         desc = f"Slot {slot} | {nome_base[:15]}"
@@ -239,7 +228,6 @@ def main():
     if not os.path.exists(CAMINHO_JD2):
         print(f"❌ ATENÇÃO CRÍTICA: JDownloader 2 não encontrado em:")
         print(f"👉 {CAMINHO_JD2}")
-        print("Verifique se o caminho está correto.")
         return
 
     limpar_lixo_tmp()
@@ -251,9 +239,9 @@ def main():
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V21 (JD2 POWER) | Arq: {len(arquivos)}")
-    print(f"📥 Modo: JDOWNLOADER 2 (10 Slots de Envio)")
-    print(f"⚠️ DICA: Configure 'Downloads Simultâneos' p/ 10 dentro do JD2!")
+    print(f"🚀 SIGMA DOWNLOADER V22 (JD2 FIXED) | Arq: {len(arquivos)}")
+    print(f"📥 Modo: JDOWNLOADER 2")
+    print(f"⚠️ DICA: Se o JD2 já estiver aberto, funciona melhor.")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -278,7 +266,7 @@ def main():
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Links enviados para o JDownloader! Verifique a aba 'Captura de Links' ou 'Downloads'.")
+    print("\n🏁 Processo Finalizado.")
 
 if __name__ == "__main__":
     main()

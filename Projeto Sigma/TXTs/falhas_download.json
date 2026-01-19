@@ -76,5 +76,35 @@
         "url": "http://xcloudcine.xyz/get.php?username=35989050&password=86832828&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:42:41"
+    },
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=58051066&password=94963746&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-19 11:43:55"
+    },
+    {
+        "nome": "CineFlix_-__VOLTZ_-_Teste_C_Adultos",
+        "url": "http://vltz.space/get.php?username=26981295&password=97046415&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:44:07"
+    },
+    {
+        "nome": "CineFlix_-__VOLTZ_-_Teste_S_Adultos",
+        "url": "http://vltz.space/get.php?username=84411401&password=52827142&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:44:07"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
+        "url": "http://evoplaytop.shop/get.php?username=275995&password=329682&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:44:10"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
+        "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:44:11"
     }
 ]

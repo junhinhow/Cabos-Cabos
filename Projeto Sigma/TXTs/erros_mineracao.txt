@@ -37,3 +37,9 @@ Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ANKWP6KLPR
 [19/01/2026 07:13:59] 🏟️ AtivaBox - 😇 Divinu's P2P - Teste Completo | Erro Final: HTTP 405
 Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/ayb1BxDPR9
 ------------------------------
+[19/01/2026 07:14:10] 🏟️ AtivaBox - 😇 Divinu's P2P - Teste S/ Adultos | Erro Final: HTTP 405
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/Kr6LJjLv9m
+------------------------------
+[19/01/2026 07:14:22] 🐺 Alpha Master - 🔗 P2P BinStream - Teste Completo C/ Adulto | Erro Final: HTTP 405
+Link: https://alphamaster.sigma.st/api/chatbot/bQELodEDgr/lze15A15KB
+------------------------------

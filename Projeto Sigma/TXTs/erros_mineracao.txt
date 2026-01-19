@@ -85,3 +85,6 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
 [19/01/2026 01:41:57] 📺 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
 ------------------------------
+[19/01/2026 01:42:08] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------

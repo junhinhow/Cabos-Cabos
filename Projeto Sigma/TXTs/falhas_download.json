@@ -3,516 +3,564 @@
         "nome": "AMERICAN_-_PLAY_-__American_Play_CAdultos",
         "url": "http://am.frxapp.shop/get.php?username=60176103&password=94454800&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:41:56"
+        "data": "2026-01-19 12:31:29"
     },
     {
         "nome": "AMERICAN_-_PLAY_-__American_Play_SAdultos",
         "url": "http://am.frxapp.shop/get.php?username=51566483&password=23604691&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:41:56"
+        "data": "2026-01-19 12:31:29"
     },
     {
         "nome": "AMERICAN_-_NEW_-__New_Completo_CAdultos",
         "url": "http://new.hrsp.space/get.php?username=80207386&password=48377531&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:41:56"
+        "data": "2026-01-19 12:31:29"
     },
     {
         "nome": "AtivaBox_-__AtivaBox_-_Teste_Completo",
         "url": "http://morfeus.site/get.php?username=291874353&password=603027369&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:41:57"
+        "data": "2026-01-19 12:31:30"
     },
     {
         "nome": "AtivaBox_-__Infrax_-_Teste_Completo",
         "url": "http://croxm.site/get.php?username=809612766&password=548581141&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:41:58"
+        "data": "2026-01-19 12:31:30"
     },
     {
         "nome": "AtivaBox_-__Aladdin's_-_Teste_S_Adultos",
         "url": "http://aladdins.digital/get.php?username=754976641&password=669299512&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 11:42:12"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:31:30"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=717904039&password=556284202&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 11:42:36"
+        "data": "2026-01-19 14:10:19"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=513453513&password=461472083&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 11:42:38"
+        "data": "2026-01-19 14:10:04"
     },
     {
         "nome": "BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://cdn.vr766.com:80/get.php?username=230542269&password=824498989&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:42:38"
+        "data": "2026-01-19 12:31:31"
     },
     {
         "nome": "BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=159302549&password=192144521&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:42:39"
+        "data": "2026-01-19 12:31:32"
     },
     {
         "nome": "BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://wpm.dcnn.site/get.php?username=125202524&password=797859715&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:42:39"
+        "data": "2026-01-19 12:31:31"
     },
     {
         "nome": "BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=200017471&password=187970979&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:42:39"
+        "data": "2026-01-19 12:31:32"
     },
     {
         "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",
         "url": "http://xcloudcine.xyz/get.php?username=35989050&password=86832828&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:42:41"
+        "data": "2026-01-19 12:31:33"
     },
     {
         "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
         "url": "http://x26.axpl.shop/get.php?username=58051066&password=94963746&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
-        "data": "2026-01-19 11:43:55"
+        "data": "2026-01-19 14:11:24"
     },
     {
         "nome": "CineFlix_-__VOLTZ_-_Teste_C_Adultos",
         "url": "http://vltz.space/get.php?username=26981295&password=97046415&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:44:07"
+        "data": "2026-01-19 12:31:35"
     },
     {
         "nome": "CineFlix_-__VOLTZ_-_Teste_S_Adultos",
         "url": "http://vltz.space/get.php?username=84411401&password=52827142&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:44:07"
+        "data": "2026-01-19 12:31:36"
     },
     {
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
         "url": "http://evoplaytop.shop/get.php?username=275995&password=329682&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:44:10"
+        "data": "2026-01-19 12:31:37"
     },
     {
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
         "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:44:11"
+        "data": "2026-01-19 14:11:55"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=878488&password=521588&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:44:13"
+        "data": "2026-01-19 12:31:38"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://parceria.parclll.site/get.php?username=987795&password=870886&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:44:55"
+        "data": "2026-01-19 12:31:39"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=828530&password=230996&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:47:16"
+        "data": "2026-01-19 12:31:39"
     },
     {
         "nome": "HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix",
         "url": "http://c.superodim.nl70.top/get.php?username=3529270&password=9216706&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:47:59"
+        "data": "2026-01-19 12:31:40"
     },
     {
         "nome": "HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus",
         "url": "http://active10.fhml10.top/get.php?username=5839778&password=1192578&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:01"
+        "data": "2026-01-19 12:31:42"
     },
     {
         "nome": "HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam",
         "url": "http://lite.morfeus.site/get.php?username=3742020&password=7882871&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:03"
+        "data": "2026-01-19 12:31:43"
     },
     {
         "nome": "HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak",
         "url": "http://dstreaming.win/get.php?username=5164850&password=7379343&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:06"
+        "data": "2026-01-19 12:31:44"
     },
     {
         "nome": "HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda",
         "url": "http://dnszayda.run/get.php?username=9712150&password=2899221&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:07"
+        "data": "2026-01-19 12:31:44"
     },
     {
         "nome": "Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos",
         "url": "http://shiuk.xyz/get.php?username=105316759&password=848212600&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:09"
+        "data": "2026-01-19 12:31:45"
     },
     {
         "nome": "Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos",
         "url": "http://shiuk.xyz/get.php?username=697737235&password=795645040&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:48:10"
+        "data": "2026-01-19 12:31:46"
     },
     {
         "nome": "INVICTOS_EXTREME_-",
         "url": "http://gladiadorplay.xyz/get.php?username=108799294569&password=432337225746&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:48:11"
+        "data": "2026-01-19 14:15:11"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
         "url": "http://gladiadorplay.xyz/get.php?username=561384623655&password=782937680945&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:48:12"
+        "data": "2026-01-19 12:31:47"
     },
     {
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)",
         "url": "http://invictosserver.xyz/get.php?username=341194007224&password=184520686550&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:48:14"
+        "data": "2026-01-19 12:31:48"
     },
     {
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS",
         "url": "http://invictosserver.xyz/get.php?username=836107395660&password=384000129025&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:48:15"
+        "data": "2026-01-19 12:31:48"
     },
     {
         "nome": "Lider_-__ALPHA_-_Completo_Com_Adultos",
         "url": "http://fripnt.xyz/get.php?username=690020785&password=197406290&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:49:17"
+        "data": "2026-01-19 12:31:49"
     },
     {
         "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
         "url": "http://fristez.xyz/get.php?username=517906313&password=399896798&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:49:18"
+        "data": "2026-01-19 12:31:50"
     },
     {
         "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
         "url": "http://fristez.xyz/get.php?username=185222484&password=653654293&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:49:18"
+        "data": "2026-01-19 12:31:50"
     },
     {
         "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
         "url": "http://br.bossplay.top/get.php?username=966662096&password=294082540&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:52:01"
+        "data": "2026-01-19 12:31:50"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
         "url": "http://cdn.ax66.shop:80/get.php?username=546057995&password=696855265&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:52:01"
+        "data": "2026-01-19 12:31:50"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
         "url": "http://cdn.ax66.shop:80/get.php?username=759653409&password=310527877&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:52:01"
+        "data": "2026-01-19 12:31:50"
     },
     {
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS",
         "url": "http://ratinhov6.click/get.php?username=170636368&password=508742357&type=m3u_plus&output=mpegts",
-        "erro": "Arquivo muito pequeno",
-        "data": "2026-01-19 11:53:01"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:31:51"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
         "url": "http://cddn1.site/get.php?username=284185272&password=594726483&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:53:17"
+        "data": "2026-01-19 12:31:52"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_sADULTOS",
         "url": "http://cddn1.site/get.php?username=723695340&password=569818722&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:53:18"
+        "data": "2026-01-19 12:31:53"
     },
     {
         "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_CADULTOS",
         "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:53:18"
+        "data": "2026-01-19 12:31:53"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
         "url": "http://c.lifetop.top:80/get.php?username=466565582&password=967300466&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-19 11:53:33"
+        "data": "2026-01-19 12:32:08"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_SADULTOS",
         "url": "http://c.lifetop.top:80/get.php?username=387824733&password=919152790&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-19 11:53:48"
+        "data": "2026-01-19 12:32:23"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
         "url": "http://c.lifetop.top:80/get.php?username=159418638&password=120734489&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-19 11:53:59"
+        "data": "2026-01-19 12:32:23"
     },
     {
         "nome": "NetPlay_-__FLASH_-_Teste_12H_C_Adultos",
         "url": "http://flash.netpl4y.com/get.php?username=97978751245&password=68873155075&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
-        "data": "2026-01-19 11:56:13"
+        "data": "2026-01-19 12:32:09"
     },
     {
         "nome": "NetPlay_-__FLASH_-_Teste_12H_S_Adultos",
         "url": "http://flash.netpl4y.com/get.php?username=27796447952&password=54282286624&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
-        "data": "2026-01-19 11:56:14"
+        "data": "2026-01-19 12:32:10"
     },
     {
         "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS",
         "url": "http://dns.blessed7.xyz:80/get.php?username=288503292&password=927643093&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:59:29"
+        "data": "2026-01-19 12:32:11"
     },
     {
         "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_SEM_ADULTOS",
         "url": "http://dns.blessed7.xyz:80/get.php?username=757275963&password=882320272&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 11:59:29"
+        "data": "2026-01-19 12:32:11"
     },
     {
         "nome": "New-Servers_-_NicePlayer_-_COMPLETO_COM_ADULTOS",
         "url": "http://sadmaxplus.top/get.php?username=718285038&password=259799130&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:59:29"
+        "data": "2026-01-19 12:32:11"
     },
     {
         "nome": "New-Servers_-_NicePlayer_-_COMPLETO_SEM_ADULTOS",
         "url": "http://sadmaxplus.top/get.php?username=557393875&password=518863845&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 11:59:29"
+        "data": "2026-01-19 12:32:11"
     },
     {
         "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_COM_ADULTOS",
         "url": "http://dns.ofmp.site/get.php?username=891432217&password=285432414&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 520",
-        "data": "2026-01-19 11:59:33"
+        "data": "2026-01-19 12:32:12"
     },
     {
         "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_SEM_ADULTOS",
         "url": "http://dns.ofmp.site/get.php?username=109892874&password=994832794&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 520",
-        "data": "2026-01-19 11:59:34"
+        "data": "2026-01-19 12:32:13"
     },
     {
         "nome": "P2VIP_-__Teste_Completo_C_Adulto",
         "url": "http://cdn.p2vip.top/get.php?username=43392576&password=45320077&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:59:35"
+        "data": "2026-01-19 12:32:14"
     },
     {
         "nome": "P2VIP_-__Teste_Completo_S_Adultos",
         "url": "http://cdn.p2vip.top/get.php?username=98713630&password=66246686&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:59:36"
+        "data": "2026-01-19 12:32:15"
     },
     {
         "nome": "PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://wpm.dcnn.site/get.php?username=526284048&password=364206949&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:59:39"
+        "data": "2026-01-19 12:32:15"
     },
     {
         "nome": "PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://wpm.dcnn.site/get.php?username=513637696&password=931002182&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 11:59:40"
+        "data": "2026-01-19 12:32:16"
     },
     {
         "nome": "PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=564321855&password=692639059&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:00:48"
+        "data": "2026-01-19 12:32:16"
     },
     {
         "nome": "PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=270247935&password=348384519&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:00:50"
+        "data": "2026-01-19 12:32:17"
     },
     {
         "nome": "Pro_Black_-__Teste_Completo_Com_Adultos",
         "url": "http://queroassistir.top/get.php?username=658513948&password=385441684&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:01:59"
+        "data": "2026-01-19 12:32:18"
     },
     {
         "nome": "Pro_Black_-__Teste_Completo_S_Adulto",
         "url": "http://queroassistir.top/get.php?username=632959621&password=461163216&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:00"
+        "data": "2026-01-19 12:32:18"
     },
     {
         "nome": "Servidor_X_-__DUO_Teste_-_C_Adulto",
         "url": "http://daxoi.online/get.php?username=967139225&password=133715215&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:02:08"
+        "data": "2026-01-19 12:32:19"
     },
     {
         "nome": "Servidor_X_-__DUO_Teste_-_S_Adulto",
         "url": "http://daxoi.online/get.php?username=953847615&password=956045433&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:02:11"
+        "data": "2026-01-19 12:32:20"
     },
     {
         "nome": "Servidor_X_-__NetTurbo",
         "url": "http://megaplay.uno/get.php?username=296155933&password=613718258&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:12"
+        "data": "2026-01-19 12:32:21"
     },
     {
         "nome": "Social_Master_-__GOLD_-_Teste_Completo_C_Adulto",
         "url": "http://alohax.space/get.php?username=188855&password=295131&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:13"
+        "data": "2026-01-19 12:32:22"
     },
     {
         "nome": "Social_Master_-__GOLD_-_Teste_Completo_S_Adulto",
         "url": "http://alohax.space/get.php?username=238619&password=158591&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:15"
+        "data": "2026-01-19 12:32:23"
     },
     {
         "nome": "Social_Master_-__HD_-_Teste_Completo_C_Adulto",
         "url": "http://c.zztech.top/get.php?username=490070&password=937252&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:16"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "Social_Master_-__HD_-_Teste_Completo_S_Adulto",
         "url": "http://c.zztech.top/get.php?username=152557&password=718450&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:18"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "Social_Master_-__NEW_-_Teste_Completo_C_Adulto",
         "url": "http://jhysa.top/get.php?username=530308&password=856330&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:19"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "Social_Master_-__NEW_-_Teste_Completo_S_Adulto",
         "url": "http://jhysa.top/get.php?username=125728&password=493801&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:20"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "Social_Master_-__PLAY_-_Teste_Completo_C_Adulto",
         "url": "http://c.srvi.top/get.php?username=349724&password=130830&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:21"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=687461335&password=628121641&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:22"
+        "data": "2026-01-19 12:32:24"
     },
     {
         "nome": "Social_Master_-__PLAY_-_Teste_Completo_S_Adulto",
         "url": "http://c.srvi.top/get.php?username=779765&password=154960&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:22"
+        "data": "2026-01-19 12:32:25"
     },
     {
         "nome": "SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=512234356&password=419951004&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:22"
+        "data": "2026-01-19 12:32:25"
     },
     {
         "nome": "SUBZERO_-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://fgut.shop/get.php?username=107416648&password=746413634&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:23"
+        "data": "2026-01-19 12:32:25"
     },
     {
         "nome": "SUBZERO_-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://fgut.shop/get.php?username=347041147&password=312569012&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:23"
+        "data": "2026-01-19 12:32:25"
     },
     {
         "nome": "Top_Z_-__Completo_Com_Adultos",
         "url": "http://cdntopz.xyz/get.php?username=433167634&password=204293460&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:30"
+        "data": "2026-01-19 12:32:26"
     },
     {
         "nome": "Top_Z_-__Completo_Sem_Adultos",
         "url": "http://cdntopz.xyz/get.php?username=127180167&password=328277534&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:31"
+        "data": "2026-01-19 12:32:26"
     },
     {
         "nome": "VelozNet_-__VTVBR_-_Completo_Sem_Adultos",
         "url": "http://vtvbr.com:80/get.php?username=7624335459&password=8668580419&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 12:02:47"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:32:26"
     },
     {
         "nome": "WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://echeap.shop/get.php?username=255460&password=975735&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:49"
+        "data": "2026-01-19 12:32:26"
     },
     {
         "nome": "WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://echeap.shop/get.php?username=646773&password=659577&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:02:49"
+        "data": "2026-01-19 12:32:26"
     },
     {
         "nome": "WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS",
         "url": "http://primegold.fun/get.php?username=217278&password=171693&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:03:42"
+        "data": "2026-01-19 12:32:27"
     },
     {
         "nome": "WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS",
         "url": "http://primegold.fun/get.php?username=112783&password=109346&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:03:42"
+        "data": "2026-01-19 12:32:27"
     },
     {
         "nome": "x_-",
         "url": "http://gladiadorplay.xyz/get.php?username=732727068281&password=918970970850&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 12:03:43"
+        "data": "2026-01-19 12:32:27"
     },
     {
         "nome": "ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos",
         "url": "http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:03:46"
+        "data": "2026-01-19 12:32:27"
     },
     {
         "nome": "ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos",
         "url": "http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 12:03:47"
+        "data": "2026-01-19 12:32:28"
+    },
+    {
+        "nome": "HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus",
+        "url": "http://seliga.fun/get.php?username=5941668&password=1375413&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:31:41"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
+        "url": "http://evoplaytop.shop/get.php?username=619111&password=992575&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 14:11:54"
+    },
+    {
+        "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
+        "url": "http://iptv1.glloball.shop:80/get.php?username=394146&password=222015&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:11:55"
+    },
+    {
+        "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
+        "url": "http://parceria.parclll.site/get.php?username=241308&password=835400&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:11:56"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=989275&password=154861&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:11:57"
+    },
+    {
+        "nome": "HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda",
+        "url": "http://dnszayda.run/get.php?username=7974852&password=6279951&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:14:18"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
+        "url": "http://fristez.xyz/get.php?username=448902878&password=501158868&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 14:16:27"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
+        "url": "http://fristez.xyz/get.php?username=207503232&password=374324563&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 14:16:27"
     }
 ]

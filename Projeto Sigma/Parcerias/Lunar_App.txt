@@ -1,6 +1,0 @@
-[🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas] "dns": "http://lunar.netpl4y.com",
-[🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas (Android)] "dns": "http://lunar.netpl4y.com",
-[🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 2 Horas] "dns": "http://lunar.netpl4y.com",
-[🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 2 Horas (Android)] "dns": "http://lunar.netpl4y.com",
-[🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 12 Horas] "dns": "http://lunar.netpl4y.com",
-[🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 12 Horas] "dns": "http://lunar.netpl4y.com",

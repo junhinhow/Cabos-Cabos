@@ -12,16 +12,13 @@ from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# --- IMPORTAÇÕES ---
+# --- IMPORTAÇÕES (Motor Novo) ---
 try:
     from tqdm import tqdm
-    import cloudscraper
-    import requests
-    from requests.adapters import HTTPAdapter
-    from urllib3.util.retry import Retry
+    from curl_cffi import requests as cffi_requests
 except ImportError:
-    print("❌ ERRO: Faltam bibliotecas.")
-    print("Instale: pip install tqdm cloudscraper requests")
+    print("❌ ERRO: Bibliotecas faltando.")
+    print("Execute no terminal: pip install tqdm curl_cffi --user")
     sys.exit()
 
 warnings.filterwarnings("ignore")
@@ -32,7 +29,7 @@ PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
-ARQUIVO_FALHAS_JSON = "falhas_download.json"  # <--- NOVO ARQUIVO DE SAÍDA
+ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 MAX_SIMULTANEOS = 4      
 CACHE_VALIDADE = 14400   # 4 Horas
@@ -40,18 +37,10 @@ TIMEOUT_PADRAO = 60
 
 PARAR_EXECUCAO = False
 
-# --- MOTOR DE CONEXÃO ---
-def criar_sessao_blindada():
-    sessao = cloudscraper.create_scraper(
-        browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False, 'desktop': True}
-    )
-    retry = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504, 520, 521, 522])
-    adapter = HTTPAdapter(max_retries=retry)
-    sessao.mount("https://", adapter)
-    sessao.mount("http://", adapter)
-    return sessao
-
-Navegador = criar_sessao_blindada()
+# --- CONFIGURAÇÃO DO MOTOR (curl_cffi) ---
+# O curl_cffi não precisa da complexidade de Adapters do requests normal
+# Ele já gerencia conexões como um navegador real.
+Navegador = cffi_requests.Session()
 
 APPS_PARCERIA = {
     "Assist": "Assist_Plus_Play_Sim", "Play Sim": "Assist_Plus_Play_Sim",
@@ -67,48 +56,44 @@ def checar_tecla_z():
             PARAR_EXECUCAO = True
 
 def limpar_url(url):
+    """Remove lixo, emojis e quebras de linha da URL"""
     if not url: return None
-    url = url.replace('\\/', '/').replace('%5C', '').strip()
-    match = re.search(r'(https?://[^\s"\'<>]+)', url)
-    return match.group(1) if match else None
+    try: url = url.encode().decode('unicode_escape')
+    except: pass
 
-# --- FUNÇÃO DE SALVAR FALHAS EM JSON (NOVIDADE) ---
+    for lixo in ['\\n', '\n', '\r', '\t', ' ']:
+        url = url.replace(lixo, '')
+
+    match = re.search(r'(https?://[a-zA-Z0-9\.\-_:/?=&%@]+)', url)
+    if match:
+        url_limpa = match.group(1)
+        if 'output=mpegts' in url_limpa:
+            return url_limpa.split('output=mpegts')[0] + 'output=mpegts'
+        if '.m3u8' in url_limpa:
+            return url_limpa.split('.m3u8')[0] + '.m3u8'
+        if '.m3u' in url_limpa:
+            return url_limpa.split('.m3u')[0] + '.m3u'
+        return url_limpa
+    return None
+
 def salvar_falhas_json(novas_falhas):
-    """
-    Lê o JSON existente, atualiza com as novas falhas (evitando duplicatas de URL)
-    e salva de volta.
-    """
-    if not novas_falhas:
-        return
-
+    if not novas_falhas: return
     falhas_existentes = []
-    
-    # 1. Carrega o que já existe
     if os.path.exists(ARQUIVO_FALHAS_JSON):
         try:
             with open(ARQUIVO_FALHAS_JSON, 'r', encoding='utf-8') as f:
                 falhas_existentes = json.load(f)
-        except:
-            falhas_existentes = []
+        except: falhas_existentes = []
 
-    # 2. Cria um dicionário para evitar duplicatas (chave = url)
     mapa_falhas = {item['url']: item for item in falhas_existentes}
-
-    # 3. Atualiza ou Adiciona
-    for falha in novas_falhas:
-        # A chave é a URL. Se já existe, atualiza o erro e a data.
-        mapa_falhas[falha['url']] = falha
-
-    # 4. Converte de volta para lista
+    for falha in novas_falhas: mapa_falhas[falha['url']] = falha
+    
     lista_final = list(mapa_falhas.values())
-
-    # 5. Salva
     try:
         with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
             json.dump(lista_final, f, indent=4, ensure_ascii=False)
-        print(f"\n💾 Relatório de falhas atualizado: {len(lista_final)} links problemáticos salvos em '{ARQUIVO_FALHAS_JSON}'")
-    except Exception as e:
-        print(f"❌ Erro ao salvar JSON de falhas: {e}")
+        print(f"\n💾 Log de Falhas atualizado ({len(lista_final)} itens).")
+    except: pass
 
 def salvar_linha_unica(caminho_arquivo, nova_linha):
     linhas_existentes = set()
@@ -126,8 +111,7 @@ def salvar_linha_unica(caminho_arquivo, nova_linha):
         except: 
             time.sleep(0.1)
             try:
-                with open(caminho_arquivo, 'a', encoding='utf-8') as f:
-                    f.write(f"{linha_limpa}\n")
+                with open(caminho_arquivo, 'a', encoding='utf-8') as f: f.write(f"{linha_limpa}\n")
             except: pass
 
 def extrair_m3u_do_json(caminho_arquivo):
@@ -135,28 +119,34 @@ def extrair_m3u_do_json(caminho_arquivo):
         with open(caminho_arquivo, 'r', encoding='utf-8') as f:
             conteudo = json.load(f)
         
+        url_encontrada = None
         if isinstance(conteudo, dict):
             chaves = ['link_m3u', 'url', 'link', 'endereco', 'source', 'm3u']
             for k in chaves:
                 if k in conteudo:
                     limpo = limpar_url(conteudo[k])
-                    if limpo: return limpo, conteudo
+                    if limpo: 
+                        url_encontrada = limpo
+                        break
             texto = json.dumps(conteudo)
-        
         elif isinstance(conteudo, list):
             if conteudo and isinstance(conteudo[0], str) and conteudo[0].startswith('http'):
-                return limpar_url(conteudo[0]), conteudo
+                url_encontrada = limpar_url(conteudo[0])
             texto = json.dumps(conteudo)
         else:
             return None, conteudo
 
-        urls = re.findall(r'(https?://[^"\'\s]+)', texto)
-        for url in urls:
-            u_lower = url.lower()
-            if ('.m3u' in u_lower or 'get.php' in u_lower or 'mpegts' in u_lower):
-                if 'aftv.news' not in u_lower:
-                    return limpar_url(url), conteudo
-        return None, conteudo
+        if not url_encontrada:
+            urls = re.findall(r'(https?://[^"\'\s\\]+)', texto)
+            for url in urls:
+                u_lower = url.lower()
+                if ('.m3u' in u_lower or 'get.php' in u_lower or 'mpegts' in u_lower):
+                    if 'aftv.news' not in u_lower:
+                        limpo = limpar_url(url)
+                        if limpo:
+                            url_encontrada = limpo
+                            break
+        return url_encontrada, conteudo
     except:
         return None, None
 
@@ -169,8 +159,7 @@ def extrair_infos_extras(dados_json, nome_base):
     if apks:
         caminho_apk = os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt")
         for apk in set(apks): 
-            linha = f"[{nome_base}] {apk}"
-            salvar_linha_unica(caminho_apk, linha)
+            salvar_linha_unica(caminho_apk, f"[{nome_base}] {apk}")
 
     linhas = texto.split('\\n') 
     if len(linhas) < 2: linhas = texto.split('\n')
@@ -181,8 +170,7 @@ def extrair_infos_extras(dados_json, nome_base):
             if key.upper() in l.upper():
                 if any(x in l.upper() for x in ['USER', 'PASS', 'SENHA', 'CODIGO', 'LOGIN']):
                     caminho_txt = os.path.join(PASTA_PARCERIAS, f"{nome_arquivo}.txt")
-                    conteudo = f"[{nome_base}] {l}"
-                    salvar_linha_unica(caminho_txt, conteudo)
+                    salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
@@ -207,28 +195,46 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
     if os.path.exists(caminho_temp): os.remove(caminho_temp)
 
     try:
-        with Navegador.get(url, stream=True, timeout=TIMEOUT_PADRAO) as resposta:
-            resposta.raise_for_status()
-            
-            primeiro_pedaco = next(resposta.iter_content(chunk_size=512), b"")
-            if b"<html" in primeiro_pedaco.lower() or b"<!doctype" in primeiro_pedaco.lower():
-                return False, "Bloqueio HTML Detectado"
-            
-            tamanho_total = int(resposta.headers.get('content-length', 0))
-            
-            with tqdm(total=tamanho_total, unit='B', unit_scale=True, desc=desc_barra, 
-                      position=posicao, leave=False, ncols=90, 
-                      bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
-                
-                with open(caminho_temp, 'wb') as f:
-                    f.write(primeiro_pedaco)
-                    bar.update(len(primeiro_pedaco))
-                    for pedaco in resposta.iter_content(chunk_size=8192):
-                        if PARAR_EXECUCAO: break
-                        if pedaco:
-                            f.write(pedaco)
-                            bar.update(len(pedaco))
+        # --- AQUI ESTÁ A MÁGICA DO V15 ---
+        # impersonate="chrome120" faz o servidor achar que somos o Google Chrome real
+        response = Navegador.get(
+            url, 
+            impersonate="chrome120", 
+            stream=True, 
+            timeout=TIMEOUT_PADRAO,
+            allow_redirects=True
+        )
         
+        if response.status_code != 200:
+            return False, f"Erro HTTP {response.status_code}"
+
+        primeiro_chunk = b""
+        for chunk in response.iter_content(chunk_size=512):
+            primeiro_chunk = chunk
+            break
+            
+        if b"<html" in primeiro_chunk.lower() or b"<!doctype" in primeiro_chunk.lower():
+             return False, "Bloqueio (HTML Detectado)"
+        
+        if b"{" in primeiro_chunk and b"error" in primeiro_chunk.lower():
+             return False, "Erro API (JSON Detectado)"
+
+        total_size = int(response.headers.get('content-length', 0))
+
+        with tqdm(total=total_size, unit='B', unit_scale=True, desc=desc_barra, 
+                  position=posicao, leave=False, ncols=90, 
+                  bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
+            
+            with open(caminho_temp, 'wb') as f:
+                f.write(primeiro_chunk)
+                bar.update(len(primeiro_chunk))
+                
+                for chunk in response.iter_content(chunk_size=64*1024):
+                    if PARAR_EXECUCAO: break
+                    if chunk:
+                        f.write(chunk)
+                        bar.update(len(chunk))
+
         if PARAR_EXECUCAO:
             if os.path.exists(caminho_temp): os.remove(caminho_temp)
             return False, "Interrompido"
@@ -242,7 +248,7 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         return True, "OK"
 
     except Exception as e:
-        return False, f"Erro: {str(e)[:40]}"
+        return False, f"Erro: {str(e)[:50]}"
 
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
@@ -254,7 +260,6 @@ def worker(nome_arquivo_json, fila_slots):
     
     try:
         checar_tecla_z()
-        
         url_m3u, dados_brutos = extrair_m3u_do_json(caminho_json)
         extrair_infos_extras(dados_brutos, nome_base)
 
@@ -284,7 +289,6 @@ def worker(nome_arquivo_json, fila_slots):
                 except: pass
             return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
-            # Retorna o erro JUNTO com a URL para salvar no JSON
             return "ERRO", nome_base, (msg, url_m3u)
 
     except Exception as e:
@@ -303,7 +307,7 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V13 (THE AUDITOR) | Arq: {len(arquivos)}")
+    print(f"🚀 SIGMA DOWNLOADER V15 (IMPERSONATOR) | Arq: {len(arquivos)}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -324,20 +328,17 @@ def main():
                 agora = datetime.now().strftime("%H:%M:%S")
                 
                 if status == "ERRO":
-                    msg_erro, url_erro = info # Desempacota a tupla
-                    
+                    msg_erro, url_erro = info 
                     if "404" not in msg_erro:
                         tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
                         with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
                             log.write(f"[{agora}] {nome} | {msg_erro} | URL: {url_erro}\n")
                     
-                    # COLETA A FALHA PARA O JSON
                     lista_falhas_coletadas.append({
                         "nome": nome,
                         "url": url_erro,
                         "erro": msg_erro,
-                        "data_tentativa": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                        "arquivo_origem": f"{nome}.json"
+                        "data": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                     })
                 
                 pbar.set_postfix_str(f"✅{stats['SUCESSO']} ⏭️{stats['CACHE']} ❌{stats['ERRO']}")
@@ -347,7 +348,6 @@ def main():
                     executor.shutdown(wait=False, cancel_futures=True)
                     break
 
-    # Salva o JSON de falhas no final
     if lista_falhas_coletadas:
         salvar_falhas_json(lista_falhas_coletadas)
 

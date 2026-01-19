@@ -484,5 +484,35 @@
         "url": "http://echeap.shop/get.php?username=646773&password=659577&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 12:02:49"
+    },
+    {
+        "nome": "WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://primegold.fun/get.php?username=217278&password=171693&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:03:42"
+    },
+    {
+        "nome": "WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://primegold.fun/get.php?username=112783&password=109346&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:03:42"
+    },
+    {
+        "nome": "x_-",
+        "url": "http://gladiadorplay.xyz/get.php?username=732727068281&password=918970970850&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 12:03:43"
+    },
+    {
+        "nome": "ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_C_Adultos",
+        "url": "http://ucast.zeroum.blog/get.php?username=871337&password=991292&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:03:46"
+    },
+    {
+        "nome": "ZEROUM_-_UCAST_PLAY_-__Teste_IPTV_Completo_S_Adultos",
+        "url": "http://ucast.zeroum.blog/get.php?username=433095&password=201149&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:03:47"
     }
 ]

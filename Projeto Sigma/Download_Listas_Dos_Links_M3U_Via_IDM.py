@@ -37,8 +37,8 @@ ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 # ==============================================================================
 # ✅ CAMINHO DO IDM (Seu caminho correto no disco D:)
 # ==============================================================================
-#CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
-CAMINHO_IDM = r"C:\Program Files (x86)\Internet Download Manager\IDMan.exe"
+CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
+#CAMINHO_IDM = r"C:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 
 MAX_SIMULTANEOS = 20      
 CACHE_VALIDADE = 43200   

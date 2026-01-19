@@ -36,7 +36,7 @@ ARQUIVO_FALHAS_JSON = "falhas_download.json"
 # ==============================================================================
 CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 
-MAX_SIMULTANEOS = 10      
+MAX_SIMULTANEOS = 20      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 

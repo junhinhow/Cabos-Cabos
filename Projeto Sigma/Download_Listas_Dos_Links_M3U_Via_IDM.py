@@ -8,7 +8,7 @@ import msvcrt
 import shutil
 import warnings
 import glob
-import subprocess # Necessário para chamar o IDM
+import subprocess 
 from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 try:
     from tqdm import tqdm
 except ImportError:
-    print("❌ ERRO: Bibliotecas faltando.")
+    print("❌ ERRO: Biblioteca 'tqdm' faltando.")
     print("Execute no terminal: pip install tqdm --user")
     sys.exit()
 
@@ -31,10 +31,12 @@ PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
-# CAMINHO DO IDM (VERIFIQUE SE O SEU ESTÁ AQUI)
-CAMINHO_IDM = r"C:\Program Files (x86)\Internet Download Manager\idman.exe"
+# ==============================================================================
+# ✅ SEU CAMINHO DO IDM CONFIGURADO CORRETAMENTE ABAIXO:
+# ==============================================================================
+CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
 
-MAX_SIMULTANEOS = 5      # Com IDM pode aumentar, pois o envio de comando é rápido
+MAX_SIMULTANEOS = 5      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 
@@ -46,7 +48,6 @@ APPS_PARCERIA = {
 }
 
 def limpar_lixo_tmp():
-    # IDM não gera .tmp da mesma forma que o Python, mas mantivemos por limpeza
     files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
     if files:
         for f in files:
@@ -143,11 +144,16 @@ def extrair_infos_extras(dados_json, nome_base):
                 salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
+    # Procura arquivos que começam com o nome base na pasta de destino
+    # O escape serve para evitar erro se o nome tiver [ ]
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
     arquivos_existentes = glob.glob(padrao)
+    
     if arquivos_existentes:
+        # Pega o mais recente
         arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
         try:
+            # Se for maior que 2KB e tiver menos de 4 horas
             if os.path.getsize(arquivo_antigo) > 2048:
                 if time.time() - os.path.getmtime(arquivo_antigo) < CACHE_VALIDADE:
                     return True, arquivo_antigo
@@ -155,16 +161,15 @@ def gerenciar_cache_inteligente(nome_base):
     return False, None
 
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    # O IDM precisa do caminho absoluto da pasta (C:\...) e não relativo
+    # O IDM precisa do caminho absoluto da pasta (ex: D:\Pasta...)
     pasta_absoluta = os.path.abspath(os.path.dirname(caminho_destino))
     nome_arquivo = os.path.basename(caminho_destino)
     
-    # Verifica se o IDM existe
     if not os.path.exists(CAMINHO_IDM):
-        return False, "Erro: Caminho do IDM incorreto no script."
+        return False, f"IDM não encontrado em: {CAMINHO_IDM}"
 
     try:
-        # /d URL /p PASTA /f NOME /n (silencioso) /a (fila)
+        # /d URL /p PASTA /f NOME /n (silencioso) /a (adicionar na fila)
         cmd = [
             CAMINHO_IDM,
             '/d', url,
@@ -174,9 +179,9 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
             '/a' 
         ]
         
-        # Envia para a fila
+        # Manda para a fila
         subprocess.run(cmd, check=True)
-        # Inicia a fila
+        # Força o IDM a começar a baixar a fila
         subprocess.run([CAMINHO_IDM, '/s'], check=False)
         
         return True, "Enviado para fila do IDM"
@@ -221,7 +226,7 @@ def worker(nome_arquivo_json, fila_slots):
         fila_slots.put(slot)
 
         if sucesso:
-            # Não removemos o antigo aqui porque o IDM ainda não baixou o novo!
+            # Retorna sucesso pois foi entregue ao IDM
             return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
             return "ERRO", nome_base, (msg, url_m3u)
@@ -232,20 +237,23 @@ def worker(nome_arquivo_json, fila_slots):
 
 def main():
     if not os.path.exists(CAMINHO_IDM):
-        print(f"❌ ATENÇÃO: IDM não encontrado em: {CAMINHO_IDM}")
-        print("Edite a variável CAMINHO_IDM no script.")
+        print(f"❌ ATENÇÃO CRÍTICA: O IDM não foi encontrado no caminho:")
+        print(f"👉 {CAMINHO_IDM}")
+        print("Verifique se o caminho está correto dentro do script.")
         return
 
     limpar_lixo_tmp()
     for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]: os.makedirs(p, exist_ok=True)
+    
     if not os.path.exists(PASTA_JSON_RAW):
         print("❌ Pasta Dados-Brutos não encontrada."); return
 
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V19 (IDM INTEGRATION) | Arq: {len(arquivos)}")
-    print(f"📥 Modo: Envia links para o IDM baixar automaticamente")
+    print(f"🚀 SIGMA DOWNLOADER V20 (IDM INTEGRATION) | Arq: {len(arquivos)}")
+    print(f"📥 Modo: IDM AUTOMÁTICO")
+    print(f"📁 Caminho IDM: {CAMINHO_IDM}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -270,7 +278,7 @@ def main():
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Links enviados para o IDM! Verifique a fila do programa.")
+    print("\n🏁 Links enviados para o IDM! O IDM cuidará dos downloads e erros de rede agora.")
 
 if __name__ == "__main__":
     main()

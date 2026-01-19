@@ -21,12 +21,58 @@ TIMEOUT_DOWNLOAD_IDM = 60
 
 # Lista expandida de parcerias
 APPS_PARCERIA = {
-    "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
-    "LAZER": "Lazer_Play", "VIZZION": "Vizzion", "UNITV": "UniTV",
-    "XCLOUD": "XCloud_TV", "P2P": "Codigos_P2P_Geral", "SMARTERS": "IPTV_Smarters_DNS",
-    "XCIPTV": "XCIPTV_Dados", "EAGLE": "Eagle_TV", "FLASH": "Flash_P2P",
-    "TVE": "TV_Express", "MY FAMILY": "MyFamily_Cinema", "REDPLAY": "RedPlay",
-    "BTV": "BTV_Codes", "HTV": "HTV_Codes"
+    # --- APLICATIVOS FAMOSOS (TV BOX/ANDROID) ---
+    "ASSIST": "Assist_Plus_Play_Sim", 
+    "PLAY SIM": "Assist_Plus_Play_Sim",
+    "LAZER": "Lazer_Play", 
+    "VIZZION": "Vizzion", 
+    "UNITV": "UniTV",
+    "UNI TV": "UniTV",
+    "XCLOUD": "XCloud_TV", 
+    "P2P": "Codigos_P2P_Geral", 
+    "SMARTERS": "IPTV_Smarters_DNS",
+    "XCIPTV": "XCIPTV_Dados",
+    "SSIPTV": "SSIPTV_Playlist",
+    "NETRANGE": "NetRange",
+    "CLOUDDY": "Clouddy_App",
+    "IBO": "IBO_Player",
+    "DUPLEX": "Duplex_Play",
+    
+    # --- SERVIÇOS PREMIUM ---
+    "EAGLE": "Eagle_TV", 
+    "FLASH": "Flash_P2P",
+    "TVE": "TV_Express", 
+    "TV EXPRESS": "TV_Express",
+    "MY FAMILY": "MyFamily_Cinema", 
+    "MFC": "MyFamily_Cinema",
+    "REDPLAY": "RedPlay",
+    "BTV": "BTV_Codes", 
+    "HTV": "HTV_Codes",
+    "YOUCINE": "YouCine",
+    "BLUE": "Blue_TV",
+    
+    # --- SERVIDORES ESPECÍFICOS (Que apareceram nos JSONs) ---
+    "UCAST": "UCast_App",
+    "ALPHA": "Alpha_Master_App",
+    "WAVE": "Wave_App",
+    "TITÃ": "Tita_App",
+    "ATENA": "Atena_App",
+    "ANDRÔMEDA": "Andromeda_App",
+    "SOLAR": "Solar_App",
+    "FIRE": "Fire_App",
+    "LUNAR": "Lunar_App",
+    "GALAXY": "Galaxy_App",
+    "OLYMPUS": "Olympus_App",
+    "SPEED": "Speed_App",
+    "SEVEN": "Seven_App",
+    "SKY": "Sky_Alternative_App",
+    "HADES": "Hades_App",
+    "VÊNUS": "Venus_App",
+    "URANO": "Urano_App",
+    "K9": "K9_Play",
+    "CINEMAX": "Cinemax_App",
+    "GREEN": "Green_TV",
+    "GTA": "GTA_Player"
 }
 
 def limpar_nome_arquivo(nome):

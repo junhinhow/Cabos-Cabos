@@ -1,0 +1,3812 @@
+============================================================
+          RELATÓRIO DE SÉRIES (SIMPLES)
+ Termo: Yu-Gi-Oh
+ Data:  19/01/2026 14:52:55
+============================================================
+
+📊 RESUMO INTELIGENTE (ÚLTIMO EPISÓDIO POR TEMPORADA):
+
+ > [SERVER: Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_14h07].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_14h07].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_14h07].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ 24H Yu-Gi-Oh Duel Monsters
+   └─ Localizado: [Outros | ] em H DESENHOS
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_14h08].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ 24H Yu-Gi-Oh Duel Monsters
+   └─ Localizado: [Outros | ] em H DESENHOS
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_14h09].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_14h09].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_10h20].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_11h42].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_11h42].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_14h09].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_14h10].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_14h10].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_14h10].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_11h42].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_14h10].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_11h42].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_11h43].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026_11h43].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em ANIMES   ⚠ -ESP
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em ANIMES   ⚠ -ESP
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_11h43].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em CANAIS | ANIMES ESP
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em -SERIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES |  • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em CANAIS | ANIMES ESP
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em -SERIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES |  • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES |  • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_14h11].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_14h11].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: CineMania_-__Completo_Com_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Piramide de Luz - 2004
+   └─ Localizado: [Outros | ] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em DISNEY+
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: CineMania_-__Completo_Sem_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Piramide de Luz - 2004
+   └─ Localizado: [Outros | ] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em DISNEY+
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h44].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h44].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h44].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h45].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h45].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h46].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_11h47].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h47].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h47].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+   └─ Localizado: [Outros | ] em Filmes | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ♦️SÉRIES -ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️SÉRIES -ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️SÉRIES -ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️SÉRIES -ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️SÉRIES -ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_14h11].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_14h12].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em ANIMES   ⚠ -ESP
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E212
+   └─ Localizado: [1ª Temp | Ep: 212] em SÉRIES | Animes²
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix¹
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix¹
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix¹
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix¹
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_14h13].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ YU-GI-OH! O LADO NEGRO DAS DIMENSÕES (2016)
+   └─ Localizado: [Outros | ] em FILMES ANIMAÇÃO
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_14h13].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_14h13].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+   └─ Localizado: [Outros | ] em Filmes | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Séries | Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_14h14].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_14h14].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_14h15].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_14h15].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_11h48].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_11h48].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_11h49].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_11h49].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_11h50].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♥️ | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_11h50].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♥️ | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_11h50].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_11h51].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_11h52].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[19-01-2026_11h52].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-01-2026_11h52].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_11h53].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_sADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+   └─ Localizado: [Outros | ] em Filmes | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Séries | Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_11h53].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_11h53].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+   └─ Localizado: [Outros | ] em Filmes | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Séries | Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_11h53].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Lado Negro das Dimensões (2016)
+   └─ Localizado: [Outros | ] em Filmes | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Séries | Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_11h54].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_11h55].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡Series | Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡Series | Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_11h56].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E100
+   └─ Localizado: [1ª Temp | Ep: 100] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S02E180
+   └─ Localizado: [2ª Temp | Ep: 180] em ⭐ Séries | Animes
+      ⚠️  ATENÇÃO: Faltam eps nesta sequência: 52 episódios (ex: [49, 50, 51, 52, 53]...)
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ▶️ ✅ NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em ⭐ Séries | Animes
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em ⭐ Séries | Animes
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♥️ | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♥️ | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♥️ | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_11h56].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_11h56].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em FILMES | DIVERSOS
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em FILMES | DIVERSOS
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026_11h57].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes ✔️ Animacao
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes ✔️ Animacao
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_11h58].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 1ª | Maior Ep: 221
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em Filmes | Animação
+   ----------------------------------------
+   ├─ YU-GI-OH! S01E221
+   └─ Localizado: [1ª Temp | Ep: 221] em > ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_11h58].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_11h58].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_11h59].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ YU-GI-OH 24hs
+   └─ Localizado: [Outros | ] em ✨ 24 HORAS ALTER
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! 5D's S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_11h59].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_10h20].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em | FILMES  ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em |• SÉRIES  Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em |  • SÉRIES  Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em |  • SÉRIES  Netflix
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_11h59].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ♦️ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ♦️ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_11h59].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo (2010)
+   └─ Localizado: [Outros | ] em ⚡ Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ⚡ PRIME VIDEO
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ⚡ PRIME VIDEO
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_12h00].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_12h00].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além Do Tempo
+   └─ Localizado: [Outros | ] em ▶️ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em ▶️ Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_12h00].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_12h01].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__Caracol_[19-01-2026_10h21].m3u] -> Maior Temp: 1ª | Maior Ep: 180
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+   └─ Localizado: [Outros | ] em ♦️LANÇAMENTOS DIARIOS 2025-2026♦️
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em Series | Disney
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__OpenBox_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Servidor_X_-__P2Box_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S01E49
+   └─ Localizado: [1ª Temp | Ep: 49] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em SÉRIES | NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! (2000) S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em SÉRIES | NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: Thunder_-__Completo_Com_Adultos_[19-01-2026_12h02].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em ANIMES   ⚠ -ESP
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: Thunder_-__Completo_Sem_Adultos_[19-01-2026_12h02].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+   └─ Localizado: [Outros | ] em ANIMES   ⚠ -ESP
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ANIMES
+   ----------------------------------------
+
+
+ > [SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Piramide de Luz - 2004
+   └─ Localizado: [Outros | ] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S03E24
+   └─ Localizado: [3ª Temp | Ep: 24] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S04E23
+   └─ Localizado: [4ª Temp | Ep: 23] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S05E39
+   └─ Localizado: [5ª Temp | Ep: 39] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em CRUNCHYROLL
+   ----------------------------------------
+
+
+ > [SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 7ª | Maior Ep: 26
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Piramide de Luz - 2004
+   └─ Localizado: [Outros | ] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S03E24
+   └─ Localizado: [3ª Temp | Ep: 24] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S04E23
+   └─ Localizado: [4ª Temp | Ep: 23] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S05E39
+   └─ Localizado: [5ª Temp | Ep: 39] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S06E14
+   └─ Localizado: [6ª Temp | Ep: 14] em CRUNCHYROLL
+   ----------------------------------------
+   ├─ Yu-Gi-Oh Duel Monsters S07E26
+   └─ Localizado: [7ª Temp | Ep: 26] em CRUNCHYROLL
+   ----------------------------------------
+
+
+ > [SERVER: VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Piramide de Luz - 2004
+   └─ Localizado: [Outros | ] em ANIMES
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em DISNEY+
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em NETFLIX
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em NETFLIX
+   ----------------------------------------
+
+
+ > [SERVER: WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_12h02].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! O Filme: Pirâmide de Luz
+   └─ Localizado: [Outros | ] em F • Amazon Prime Video
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! GX S01E180
+   └─ Localizado: [1ª Temp | Ep: 180] em S • Crunchyroll
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em S • Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em S • Netflix
+   ----------------------------------------
+
+
+ > [SERVER: ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+ > [SERVER: ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_10h21].m3u] -> Maior Temp: 5ª | Maior Ep: 52
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Vínculos Além do Tempo
+   └─ Localizado: [Outros | ] em ◾ Filmes | Animação
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! Sevens [L] S01E92
+   └─ Localizado: [1ª Temp | Ep: 92] em ◾ Séries | Legendada
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S02E48
+   └─ Localizado: [2ª Temp | Ep: 48] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S03E47
+   └─ Localizado: [3ª Temp | Ep: 47] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S04E40
+   └─ Localizado: [4ª Temp | Ep: 40] em ◾ Netflix
+   ----------------------------------------
+   ├─ Yu-Gi-Oh! S05E52
+   └─ Localizado: [5ª Temp | Ep: 52] em ◾ Netflix
+   ----------------------------------------
+
+
+
+FIM DO RELATÓRIO - Total de itens encontrados: 95329

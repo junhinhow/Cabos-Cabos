@@ -8,7 +8,6 @@ import msvcrt
 import shutil
 import warnings
 import glob
-import subprocess 
 from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -25,19 +24,22 @@ warnings.filterwarnings("ignore")
 
 # --- CONFIGURAÇÕES ---
 PASTA_JSON_RAW = "Dados-Brutos"
-PASTA_DESTINO = "Listas-Downloaded"
+PASTA_DESTINO = "Listas-Downloaded" # Mantido para organização lógica
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 # ==============================================================================
-# ✅ CAMINHO DO JDOWNLOADER 2 (Seu caminho)
+# ✅ CAMINHO DO JDOWNLOADER 2
 # ==============================================================================
-CAMINHO_JD2 = r"D:\Program Files\JDownloader 2\JDownloader2.exe"
+CAMINHO_JD2_EXE = r"D:\Program Files\JDownloader 2\JDownloader2.exe"
 
-# Script envia 10 links por vez para o JD2
-MAX_SIMULTANEOS = 10      
+# O JDownloader tem uma pasta especial que ele monitora
+# Geralmente fica na mesma pasta do executável, chamada "folderwatch"
+PASTA_JD2_WATCH = os.path.join(os.path.dirname(CAMINHO_JD2_EXE), "folderwatch")
+
+MAX_SIMULTANEOS = 20      # O Script apenas gera arquivos, pode ser super rápido
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 
@@ -49,8 +51,9 @@ APPS_PARCERIA = {
 }
 
 def limpar_lixo_tmp():
-    files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
-    if files:
+    # Limpa jobs antigos que talvez tenham ficado
+    if os.path.exists(PASTA_JD2_WATCH):
+        files = glob.glob(os.path.join(PASTA_JD2_WATCH, "*.crawljob"))
         for f in files:
             try: os.remove(f)
             except: pass
@@ -145,40 +148,42 @@ def extrair_infos_extras(dados_json, nome_base):
                 salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
-    padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
-    arquivos_existentes = glob.glob(padrao)
-    
-    if arquivos_existentes:
-        arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
-        try:
-            if os.path.getsize(arquivo_antigo) > 2048:
-                if time.time() - os.path.getmtime(arquivo_antigo) < CACHE_VALIDADE:
-                    return True, arquivo_antigo
-        except: pass
+    # Lógica simplificada pois o JD2 gerencia os arquivos
+    # Apenas evitamos re-enviar se tivermos certeza
     return False, None
 
-def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    if not os.path.exists(CAMINHO_JD2):
-        return False, f"JD2 não encontrado em: {CAMINHO_JD2}"
+def enviar_para_jd2(url, nome_arquivo_final, desc_barra, posicao):
+    """
+    Gera um arquivo .crawljob na pasta 'folderwatch' do JDownloader.
+    Isso é 100% mais confiável que linha de comando.
+    """
+    if not os.path.exists(PASTA_JD2_WATCH):
+        try: os.makedirs(PASTA_JD2_WATCH, exist_ok=True)
+        except: return False, "Erro ao criar pasta folderwatch"
 
-    # --- CORREÇÃO DO ERRO 'COULD NOT LOAD MAIN CLASS' ---
-    # Pegamos a pasta onde o JD2 está instalado
-    pasta_do_jd2 = os.path.dirname(CAMINHO_JD2)
+    # Conteúdo do comando para o JD2
+    # Forçamos autoStart e tentamos definir o nome do pacote
+    conteudo_job = f"""
+    text={url}
+    packageName={nome_arquivo_final.replace('.m3u', '')}
+    filename={nome_arquivo_final}
+    autoStart=TRUE
+    forceDownload=TRUE
+    enabled=TRUE
+    """
+    
+    # Nome único para o job
+    job_name = f"job_{int(time.time()*1000)}_{posicao}.crawljob"
+    caminho_job = os.path.join(PASTA_JD2_WATCH, job_name)
 
     try:
-        cmd = [CAMINHO_JD2, url]
+        with open(caminho_job, "w", encoding="utf-8") as f:
+            f.write(conteudo_job.strip())
         
-        # O parâmetro 'cwd' (Current Working Directory) é a mágica aqui.
-        # Ele faz o programa rodar "como se estivesse" na pasta dele.
-        subprocess.Popen(cmd, cwd=pasta_do_jd2, shell=False)
-        
-        # Delay para garantir que o JD2 pegou o comando
-        time.sleep(0.3) 
-        
-        return True, "Enviado para o JDownloader"
-
+        return True, "Enviado (FolderWatch)"
     except Exception as e:
-        return False, f"Erro Script JD2: {str(e)}"
+        return False, f"Erro ao criar Job: {str(e)}"
+
 
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
@@ -196,11 +201,6 @@ def worker(nome_arquivo_json, fila_slots):
             fila_slots.put(slot)
             return "ERRO", nome_base, ("Erro Leitura JSON", "N/A")
 
-        cache_valido, arquivo_antigo = gerenciar_cache_inteligente(nome_base)
-        if cache_valido:
-            fila_slots.put(slot)
-            return "CACHE", os.path.basename(arquivo_antigo), "Válido"
-
         if not url_m3u:
             fila_slots.put(slot)
             return "IGNORADO", nome_base, "Link não encontrado"
@@ -208,10 +208,8 @@ def worker(nome_arquivo_json, fila_slots):
         timestamp = datetime.now().strftime("[%d-%m-%Y_%Hh%M]")
         novo_nome_arquivo = f"{nome_base}_{timestamp}.m3u"
         
-        caminho_final = os.path.join(PASTA_DESTINO, novo_nome_arquivo)
-
         desc = f"Slot {slot} | {nome_base[:15]}"
-        sucesso, msg = baixar_arquivo(url_m3u, caminho_final, desc, slot)
+        sucesso, msg = enviar_para_jd2(url_m3u, novo_nome_arquivo, desc, slot)
         
         fila_slots.put(slot)
 
@@ -225,10 +223,19 @@ def worker(nome_arquivo_json, fila_slots):
         return "ERRO", nome_base, (f"CRASH: {str(e)}", "url_desconhecida")
 
 def main():
-    if not os.path.exists(CAMINHO_JD2):
+    if not os.path.exists(CAMINHO_JD2_EXE):
         print(f"❌ ATENÇÃO CRÍTICA: JDownloader 2 não encontrado em:")
-        print(f"👉 {CAMINHO_JD2}")
+        print(f"👉 {CAMINHO_JD2_EXE}")
         return
+    
+    # Tenta criar a pasta watch se não existir
+    if not os.path.exists(PASTA_JD2_WATCH):
+        try: 
+            os.makedirs(PASTA_JD2_WATCH)
+            print(f"✅ Pasta 'folderwatch' criada com sucesso!")
+        except:
+            print(f"❌ Erro ao criar pasta 'folderwatch'. Verifique permissões.")
+            return
 
     limpar_lixo_tmp()
     for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]: os.makedirs(p, exist_ok=True)
@@ -239,9 +246,9 @@ def main():
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V22 (JD2 FIXED) | Arq: {len(arquivos)}")
-    print(f"📥 Modo: JDOWNLOADER 2")
-    print(f"⚠️ DICA: Se o JD2 já estiver aberto, funciona melhor.")
+    print(f"🚀 SIGMA DOWNLOADER V23 (FOLDER WATCH) | Arq: {len(arquivos)}")
+    print(f"📥 Modo: JDOWNLOADER 'FOLDER WATCH'")
+    print(f"📂 Pasta Watch: {PASTA_JD2_WATCH}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -250,7 +257,7 @@ def main():
 
     with ThreadPoolExecutor(max_workers=MAX_SIMULTANEOS) as executor:
         futures = [executor.submit(worker, arq, fila_slots) for arq in arquivos]
-        with tqdm(total=len(arquivos), unit="links") as pbar:
+        with tqdm(total=len(arquivos), unit="jobs") as pbar:
             for f in as_completed(futures):
                 try: status, nome, info = f.result()
                 except: status, nome, info = "ERRO", "UNK", ("Fatal", "N/A")
@@ -262,11 +269,11 @@ def main():
                     erro_obj = {"nome": nome, "url": url_erro, "erro": msg_erro, "data": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
                     salvar_falhas_json([erro_obj])
                 
-                pbar.set_postfix_str(f"✅JD2:{stats['SUCESSO']} ⏭️Skip:{stats['CACHE']} ❌Err:{stats['ERRO']}")
+                pbar.set_postfix_str(f"✅Enviado:{stats['SUCESSO']} ❌Err:{stats['ERRO']}")
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Processo Finalizado.")
+    print("\n🏁 Ordens enviadas! Verifique o JDownloader.")
 
 if __name__ == "__main__":
     main()

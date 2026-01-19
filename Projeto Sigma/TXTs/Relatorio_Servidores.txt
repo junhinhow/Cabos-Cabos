@@ -1,645 +1,1014 @@
-RELATÓRIO DE SERVIDORES IPTV - 18/01/2026 20:33
-==============================================================================================================
-NOME DA LISTA (JSON)                     | ARQUIVO .M3U                   | SERVIDOR BASE (DNS)
-==============================================================================================================
-❌ Servidor X - 🚀 NetTurbo                | Servidor_X_-__NetTurbo.m3u..   | http://fontez.cc:80
-❌ Servidor X - 📦 P2Box                   | Servidor_X_-__P2Box.m3u..      | http://wpls.shop:80
-❌ Servidor X - 📦 P2Box Sem Adultos       | Servidor_X_-__P2Box_Sem_Adu..  | http://wpls.shop:80
-❌ Servidor X - 🐂 P2Box - Touro BOX C/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-❌ Servidor X - 🐂 P2Box - Touro BOX S/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-❌ Servidor X - 🐌 Caracol                 | Servidor_X_-__Caracol.m3u..    | http://vidaloka.fun:80
-❌ Servidor X - 🐌 Caracol Sem Adultos     | Servidor_X_-__Caracol_Sem_A..  | http://vidaloka.fun:80
-❌ Servidor X - 🎁 OpenBox                 | Servidor_X_-__OpenBox.m3u..    | http://sourceopbx.sbs:80
-❌ Servidor X - 🎁 OpenBox Sem Adultos     | Servidor_X_-__OpenBox_Sem_A..  | http://sourceopbx.sbs:80
-❌ Servidor X - 🏟️ AtivaBox Com Adulto..  | Servidor_X_-__AtivaBox_Com_..  | http://xui.brfontes.fun:80
-❌ Servidor X - 🏟️ AtivaBox Sem Adulto..  | Servidor_X_-__AtivaBox_Sem_..  | http://xui.brfontes.fun:80
-❌ Servidor X - 👥 DUO Teste - C/ Adult..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-❌ Servidor X - 👥 DUO Teste - S/ Adult..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🍿 CineMania - ⚡ Completo Com Adultos     | CineMania_-__Completo_Com_A..  | http://dns.blessed7.xyz:80
-🍿 CineMania - ⚡ Completo Sem Adultos     | CineMania_-__Completo_Sem_A..  | http://dns.blessed7.xyz:80
-🐺 Alpha Master - 📋 Teste Completo C/ ..  | Alpha_Master_-__Teste_Compl..  | http://74.91.29.44:80
-🐺 Alpha Master - 📋 Teste Completo S/ ..  | Alpha_Master_-__Teste_Compl..  | http://74.91.29.44:80
-🐺 Alpha Master - 🤝 App Parceiro - ASS..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🐺 Alpha Master - 🇺🇸 P2P Americano (Co..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🐺 Alpha Master - 🇺🇸 P2P Americano (Se..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🐺 Alpha Master - 🔗 P2P BinStream - Te..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🐺 Alpha Master - 🔗 P2P BinStream - Te..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - ☁️ LUVEM - Teste Completo..  | Infrax_-__LUVEM_-_Teste_Com..  | http://cloudsalex.space:80
-🏗️ Infrax - ☁️ LUVEM - Teste Completo..  | Infrax_-__LUVEM_-_Teste_Com..  | http://cloudsalex.space:80
-🏗️ Infrax - 🔴 LUVEM - RedPlay Teste C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - 🔴 LUVEM - RedPlay Teste S..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - 📲 LUVEM - Teste IPTV Smar..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - 📲 LUVEM - Teste IPTV Smar..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - 🎮 LUVEM - Teste XCloud Co..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏗️ Infrax - 🎮 LUVEM - Teste XCloud Se..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌩️ Thunder - ⚡ Completo Com Adultos      | Thunder_-__Completo_Com_Adu..  | http://sxhs.cgpsx.site:80
-🌩️ Thunder - ⚡ Completo Sem Adultos      | Thunder_-__Completo_Sem_Adu..  | http://sxhs.cgpsx.site:80
-👑 Lider - 🅰️ ALPHA - Completo Com Adu..  | Lider_-__ALPHA_-_Completo_C..  | http://74.91.29.44:80
-👑 Lider - 🅰️ ALPHA - Completo Sem Adu..  | Lider_-__ALPHA_-_Completo_S..  | http://74.91.29.44:80
-👑 Lider - 🛠️ ASSIST TV - Completo Com..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🛠️ ASSIST TV - Completo Sem..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🛠️ ASSIST TV - Parceria XCl..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🔥 Fire PLAY - TURBO - Compl..  | Lider_-__Fire_PLAY_-_TURBO_..  | http://cdn.turbox.tv.br:80
-👑 Lider - 🔥 Fire PLAY - TURBO - Compl..  | Lider_-__Fire_PLAY_-_TURBO_..  | http://cdn.turbox.tv.br:80
-👑 Lider - 🔥 Fire PLAY - TURBO - Parce..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🍃 LITE - Completo Com Adult..  | Lider_-__LITE_-_Completo_Co..  | http://207.58.175.8:80
-👑 Lider - 🍃 LITE - Completo Sem Adult..  | Lider_-__LITE_-_Completo_Se..  | http://207.58.175.8:80
-👑 Lider - 🍃 LITE - Parceria XCloud C/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - Ⓜ️ MAX - Completo Com Adult..  | Lider_-__MAX_-_Completo_Com..  | http://c.superodin.nl70.top:80
-👑 Lider - Ⓜ️ MAX - Completo Sem Adult..  | Lider_-__MAX_-_Completo_Sem..  | http://c.superodin.nl70.top:80
-👑 Lider - Ⓜ️ MAX - Parceria XCloud C/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 1️⃣ ONE - Completo Com Adul..  | Lider_-_1_ONE_-_Completo_Co..  | http://fontez.cc:80
-👑 Lider - 1️⃣ ONE - Completo Sem Adul..  | Lider_-_1_ONE_-_Completo_Se..  | http://fontez.cc:80
-👑 Lider - 1️⃣ ONE - Parceria XCloud C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - ✨ SHOW - Completo Com Adult..  | Lider_-__SHOW_-_Completo_Co..  | http://157.173.97.235:80
-👑 Lider - ✨ SHOW - Completo Sem Adult..  | Lider_-__SHOW_-_Completo_Se..  | http://157.173.97.235:80
-👑 Lider - ✨ SHOW - Parceria XCloud C/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🆙 TOP SERVERS - Completo Co..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 Lider - 🆙 TOP SERVERS - Completo Se..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏟️ AtivaBox - 😇 Divinu's P2P - Teste ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏟️ AtivaBox - 😇 Divinu's P2P - Teste ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏟️ AtivaBox - 🏟️ AtivaBox - Teste Com..  | AtivaBox_-__AtivaBox_-_Test..  | http://xui.brfontes.fun:80
-🏟️ AtivaBox - 🏟️ AtivaBox - Teste S/ ..  | AtivaBox_-__AtivaBox_-_Test..  | http://xui.brfontes.fun:80
-🏟️ AtivaBox - 🚀 NetTurbo - Teste Comp..  | AtivaBox_-__NetTurbo_-_Test..  | http://fontez.cc:80
-🏟️ AtivaBox - 🚀 NetTurbo - Teste S/ A..  | AtivaBox_-__NetTurbo_-_Test..  | http://fontez.cc:80
-🏟️ AtivaBox - 🎯 Lite PLAY - Teste Com..  | AtivaBox_-__Lite_PLAY_-_Tes..  | http://cdn.andromedaz.site:80
-🏟️ AtivaBox - 🎯 Lite PLAY - Teste S/ ..  | AtivaBox_-__Lite_PLAY_-_Tes..  | http://cdn.andromedaz.site:80
-🏟️ AtivaBox - 🏗️ Infrax - ASSIST+ Com..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏟️ AtivaBox - 🏗️ Infrax - Teste Compl..  | AtivaBox_-__Infrax_-_Teste_..  | http://cloudsalex.space:80
-🏟️ AtivaBox - 🏗️ Infrax - Teste S/ Ad..  | AtivaBox_-__Infrax_-_Teste_..  | http://cloudsalex.space:80
-🏟️ AtivaBox - 🧞 Aladdin's - Teste Com..  | AtivaBox_-__Aladdin's_-_Tes..  | http://7sevenplay10.top:80
-🏟️ AtivaBox - 🧞 Aladdin's - Teste S/ ..  | AtivaBox_-__Aladdin's_-_Tes..  | http://7sevenplay10.top:80
-🏎️ VelozNet - 🖥️ MeuServidor TV - Com..  | VelozNet_-__MeuServidor_TV_..  | http://veloz.tvbrlive.com:80
-🏎️ VelozNet - 🖥️ MeuServidor TV - Com..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏎️ VelozNet - 🖥️ MeuServidor TV - Com..  | VelozNet_-__MeuServidor_TV_..  | http://veloz.tvbrlive.com:80
-🏎️ VelozNet - 🖥️ MeuServidor TV - Com..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏎️ VelozNet - 🇧🇷 VTVBR - Completo Com..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🏎️ VelozNet - 🇧🇷 VTVBR - Completo Sem..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🌊 WAVE - Teste IPTV C/ A..  | CineFlix_-__WAVE_-_Teste_IP..  | http://x25.acxll.shop:80
-🎬 CineFlix - 🌊 WAVE - Teste IPTV S/ A..  | CineFlix_-__WAVE_-_Teste_IP..  | http://x25.acxll.shop:80
-🎬 CineFlix - 🌊 WAVE - 💜 ASSIST OU 🧡 P..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🌊 WAVE - 🔴 UNITV            | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - ⚡ Thunder PLAY - Teste C..  | CineFlix_-__Thunder_PLAY_-_..  | http://xxx.pxlst.site:80
-🎬 CineFlix - ⚡ Thunder PLAY - Teste S..  | CineFlix_-__Thunder_PLAY_-_..  | http://xxx.pxlst.site:80
-🎬 CineFlix - ⚡ Thunder PLAY - 🔴 UNITV    | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV..  | CineFlix_-__Cine_RAIO_-_Tes..  | http://srv3.site:80
-🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV..  | CineFlix_-__Cine_RAIO_-_Tes..  | http://srv3.site:80
-🎬 CineFlix - 🟣 RYZEN - Teste IPTV C/ ..  | CineFlix_-__RYZEN_-_Teste_I..  | http://38.147.106.155:80
-🎬 CineFlix - 🟣 RYZEN - Teste IPTV S/ ..  | CineFlix_-__RYZEN_-_Teste_I..  | http://38.147.106.155:80
-🎬 CineFlix - 🟣 RYZEN - 🚨 Brasil IPTV ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🟣 RYZEN - 💜 ASSIST OU 🧡 ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV..  | CineFlix_-_1_NET-ONE_-_Test..  | http://fontez.cc:80
-🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV..  | CineFlix_-_1_NET-ONE_-_Test..  | http://fontez.cc:80
-🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV..  | CineFlix_-_1_NET-ONE_-_Test..  | http://fontez.cc:80
-🎬 CineFlix - 1️⃣ NET-ONE - 🔴 UNITV       | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV ..  | CineFlix_-__Cine_BR_-_Teste..  | http://cdn.andromedaz.site:80
-🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV ..  | CineFlix_-__Cine_BR_-_Teste..  | http://cdn.andromedaz.site:80
-🎬 CineFlix - 🔋 VOLTZ - Teste C/ Adult..  | CineFlix_-__VOLTZ_-_Teste_C..  | http://wpm.dcnn.site:80
-🎬 CineFlix - 🔋 VOLTZ - Teste S/ Adult..  | CineFlix_-__VOLTZ_-_Teste_S..  | http://wpm.dcnn.site:80
-🎬 CineFlix - 🟠 SH-SERVER - Teste S/ A..  | CineFlix_-__SH-SERVER_-_Tes..  | http://sxhs.cgpsx.site:80
-🎬 CineFlix - 🟠 SH-SERVER - Teste C/ A..  | CineFlix_-__SH-SERVER_-_Tes..  | http://sxhs.cgpsx.site:80
-🎬 CineFlix - 🔱 Cine Z - Teste IPTV C/..  | CineFlix_-__Cine_Z_-_Teste_..  | http://cloudsalex.space:80
-🎬 CineFlix - 🔱 Cine Z - Teste IPTV S/..  | CineFlix_-__Cine_Z_-_Teste_..  | http://cloudsalex.space:80
-🎬 CineFlix - 🔗 P2P BinStream Original..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎬 CineFlix - 🔗 P2P BinStream Original..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 7️⃣ SEVEN - Teste C/ Adul..  | NetPlay_-_7_SEVEN_-_Teste_C..  | http://38.147.106.155:80
-🌐 NetPlay - 7️⃣ SEVEN - Teste S/ Adul..  | NetPlay_-_7_SEVEN_-_Teste_S..  | http://38.147.106.155:80
-🌐 NetPlay - 7️⃣ SEVEN - Teste C/ Adul..  | NetPlay_-_7_SEVEN_-_Teste_C..  | http://38.147.106.155:80
-🌐 NetPlay - 7️⃣ SEVEN - Teste S/ Adul..  | NetPlay_-_7_SEVEN_-_Teste_S..  | http://38.147.106.155:80
-🌐 NetPlay - 🌌 GALAXY - Teste C/ Adult..  | NetPlay_-__GALAXY_-_Teste_C..  | http://x25.acxll.shop:80
-🌐 NetPlay - 🌌 GALAXY - Teste S/ Adult..  | NetPlay_-__GALAXY_-_Teste_S..  | http://x25.acxll.shop:80
-🌐 NetPlay - 🌌 GALAXY - Teste C/ Adult..  | NetPlay_-__GALAXY_-_Teste_C..  | http://x25.acxll.shop:80
-🌐 NetPlay - 🌌 GALAXY - Teste S/ Adult..  | NetPlay_-__GALAXY_-_Teste_S..  | http://x25.acxll.shop:80
-🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto..  | NetPlay_-__LUNAR_-_Teste_C_..  | http://protec.sbs:80
-🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto..  | NetPlay_-__LUNAR_-_Teste_S_..  | http://protec.sbs:80
-🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto..  | NetPlay_-__LUNAR_-_Teste_C_..  | http://protec.sbs:80
-🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto..  | NetPlay_-__LUNAR_-_Teste_S_..  | http://protec.sbs:80
-🌐 NetPlay - ⏩ SPEED - Teste C/ Adulto..  | NetPlay_-__SPEED_-_Teste_C_..  | http://topcdn.fun:80
-🌐 NetPlay - ⏩ SPEED - Teste S/ Adulto..  | NetPlay_-__SPEED_-_Teste_S_..  | http://topcdn.fun:80
-🌐 NetPlay - 🏛️ OLYMPUS - Teste C/ Adu..  | NetPlay_-__OLYMPUS_-_Teste_..  | http://cdn.andromedaz.site:80
-🌐 NetPlay - 🏛️ OLYMPUS - Teste S/ Adu..  | NetPlay_-__OLYMPUS_-_Teste_..  | http://cdn.andromedaz.site:80
-🌐 NetPlay - 💣 EXPLOSION - Teste Compl..  | NetPlay_-__EXPLOSION_-_Test..  | http://proxyphtop.shop:80
-🌐 NetPlay - 💣 EXPLOSION - Teste Compl..  | NetPlay_-__EXPLOSION_-_Test..  | http://proxyphtop.shop:80
-🌐 NetPlay - 💣 EXPLOSION - Teste C/ Ad..  | NetPlay_-__EXPLOSION_-_Test..  | http://proxyreversophplay.space:80
-🌐 NetPlay - 💣 EXPLOSION - Teste S/ Ad..  | NetPlay_-__EXPLOSION_-_Test..  | http://proxyphtop.shop:80
-🌐 NetPlay - 👺 TITÃ - Teste C/ Adulto ..  | NetPlay_-__TIT_-_Teste_C_Ad..  | http://cdn.andromedaz.site:80
-🌐 NetPlay - 👺 TITÃ - Teste S/ Adulto ..  | NetPlay_-__TIT_-_Teste_S_Ad..  | http://cdn.andromedaz.site:80
-🌐 NetPlay - 📡 SKY - Teste C/ Adulto 1..  | NetPlay_-__SKY_-_Teste_C_Ad..  | http://xui.brfontes.fun:80
-🌐 NetPlay - 📡 SKY - Teste S/ Adulto 1..  | NetPlay_-__SKY_-_Teste_S_Ad..  | http://xui.brfontes.fun:80
-🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - ☀️ SOLAR - Teste 12 Horas..  | NetPlay_-__SOLAR_-_Teste_12..  | http://eogdos.shop:80
-🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - ☀️ SOLAR - Teste 12 Horas..  | NetPlay_-__SOLAR_-_Teste_12..  | http://eogdos.shop:80
-🌐 NetPlay - 🪐 URANO - Teste C/ Adulto..  | NetPlay_-__URANO_-_Teste_C_..  | http://c.superodin.nl70.top:80
-🌐 NetPlay - 🪐 URANO - Teste S/ Adulto..  | NetPlay_-__URANO_-_Teste_S_..  | http://c.superodin.nl70.top:80
-🌐 NetPlay - 🦉 ATENA - Teste C/ Adulto..  | NetPlay_-__ATENA_-_Teste_C_..  | http://cdnp.xyz:80
-🌐 NetPlay - 🦉 ATENA - Teste S/ Adulto..  | NetPlay_-__ATENA_-_Teste_S_..  | http://cdnp.xyz:80
-🌐 NetPlay - ☄️ ANDRÔMEDA - Teste C/ A..  | NetPlay_-__ANDRMEDA_-_Teste..  | http://cloudsalex.space:80
-🌐 NetPlay - ☄️ ANDRÔMEDA - Teste S/ A..  | NetPlay_-__ANDRMEDA_-_Teste..  | http://cloudsalex.space:80
-🌐 NetPlay - 🔥 HADES - Teste C/ Adulto..  | NetPlay_-__HADES_-_Teste_C_..  | http://wpm.dcnn.site:80
-🌐 NetPlay - 🔥 HADES - Teste S/ Adulto..  | NetPlay_-__HADES_-_Teste_S_..  | http://wpm.dcnn.site:80
-🌐 NetPlay - ♀️ VÊNUS - Teste C/ Adult..  | NetPlay_-__VNUS_-_Teste_C_A..  | http://fontez.cc:80
-🌐 NetPlay - ♀️ VÊNUS - Teste S/ Adult..  | NetPlay_-__VNUS_-_Teste_S_A..  | http://fontez.cc:80
-🌐 NetPlay - 📸 FLASH - Teste 12H C/ Ad..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 📸 FLASH - Teste 12H S/ Ad..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 🔥 FIRE - Teste 12H C/ Adu..  | NetPlay_-__FIRE_-_Teste_12H..  | http://207.58.175.8:80
-🌐 NetPlay - 🔥 FIRE - Teste 12H S/ Adu..  | NetPlay_-__FIRE_-_Teste_12H..  | http://207.58.175.8:80
-🌐 NetPlay - 🔗 P2P BinStream NetPlay -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 NetPlay - 🔗 P2P BinStream NetPlay -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚫ Pro Black - ✅ Teste Completo Com Ad..  | Pro_Black_-__Teste_Completo..  | http://queroassistir.top:80
-⚫ Pro Black - ✅ Teste Completo S/ Adu..  | Pro_Black_-__Teste_Completo..  | http://queroassistir.top:80
-⚫ Pro Black - ☁️ Teste XCloud TV         | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔝 Top Z - ✅ Completo Com Adultos         | Top_Z_-__Completo_Com_Adult..  | http://vidaloka.fun:80
-🔝 Top Z - ✅ Completo Sem Adultos         | Top_Z_-__Completo_Sem_Adult..  | http://vidaloka.fun:80
-🔝 Top Z - 🔗 P2P Completo Com Adultos     | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔝 Top Z - 🔗 P2P Completo Sem Adultos     | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔝 Top Z - 📺 TV Express +18               | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔝 Top Z - 📺 TV Express -18               | ---                            | ❌ ARQUIVO NÃO BAIXADO
-💎 Azonix - 👑 SUPREME - Teste De 24 Ho..  | Azonix_-__SUPREME_-_Teste_D..  | http://top.gpsrv.shop:80
-💎 Azonix - 👑 SUPREME - Teste De 24 Ho..  | Azonix_-__SUPREME_-_Teste_D..  | http://top.gpsrv.shop:80
-💎 Azonix - ▶️ PLAY - Teste De 24 Hora..  | Azonix_-__PLAY_-_Teste_De_2..  | http://proxyphtop.shop:80
-💎 Azonix - ▶️ PLAY - Teste De 24 Hora..  | Azonix_-__PLAY_-_Teste_De_2..  | http://proxyphtop.shop:80
-💎 Azonix - ♾️ INFINITY - Teste De 24 ..  | Azonix_-__INFINITY_-_Teste_..  | https://wpls.shop:443
-💎 Azonix - ♾️ INFINITY - Teste De 24 ..  | Azonix_-__INFINITY_-_Teste_..  | https://wpls.shop:443
-📱 P2VIP - 📱 App Teste Automático Sem ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟢 P2VIP - 🟢 Teste P2P Americano          | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟢 P2VIP - 🟢 Teste Completo C/ Adulto     | P2VIP_-__Teste_Completo_C_A..  | http://cdn.p2vip.top:80
-🟢 P2VIP - 🟢 Teste Completo S/ Adultos    | P2VIP_-__Teste_Completo_S_A..  | http://cdn.p2vip.top:80
-🟢 P2VIP - 🟢 Teste Xcloud S/ Adulto       | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟢 P2VIP - 🟢 Teste Xcloud C/ Adulto       | ---                            | ❌ ARQUIVO NÃO BAIXADO
-〽️ ZEROUM - 〽️ Teste IPTV Completo C/..  | ZEROUM_-__Teste_IPTV_Comple..  | http://topcdn.fun:80
-〽️ ZEROUM - 〽️ Teste IPTV Completo S/..  | ZEROUM_-__Teste_IPTV_Comple..  | http://topcdn.fun:80
-🔴 ZEROUM - 🔴 Teste Uni TV Completo C/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔴 ZEROUM - 🔴 Teste Uni TV Completo S/..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV ..  | ZEROUM_-_UCAST_PLAY_-__Test..  | http://cdn.andromedaz.site:80
-⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV ..  | ZEROUM_-_UCAST_PLAY_-__Test..  | http://cdn.andromedaz.site:80
-🔱 EVOLUTION - PLAY - 🔱 Teste Rápido C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔱 EVOLUTION - PLAY - 🔱 Teste Rápido C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-✅ EVOLUTION - PLAY - ✅ Xcloud            | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👽 EVOLUTION - EVO PRIME - 👽 Teste +18    | EVOLUTION_-_EVO_PRIME_-__Te..  | ⚠️ ARQUIVO VAZIO/ERRO
-👽 EVOLUTION - EVO PRIME - 👽 Teste -18    | EVOLUTION_-_EVO_PRIME_-__Te..  | ⚠️ ARQUIVO VAZIO/ERRO
-✅ EVOLUTION - BOX - ✅ Teste Completo ..  | EVOLUTION_-_BOX_-__Teste_Co..  | http://c.superodin.nl70.top:80
-✅ EVOLUTION - BOX - ✅ Teste Completo ..  | EVOLUTION_-_BOX_-__Teste_Co..  | http://c.superodin.nl70.top:80
-🧲 HAVOK TV - MAGNUS - 🧲 [Teste 6h] - ..  | HAVOK_TV_-_MAGNUS_-__[Teste..  | http://sxhs.cgpsx.site:80
-👑 HAVOK TV - NEON - 👑 [Teste 6h] - Ne..  | HAVOK_TV_-_NEON_-__[Teste_6..  | http://lbgthost.shop:80
-🍁 HAVOK TV - ORION - 🍁 [Teste 04h] - ..  | HAVOK_TV_-_ORION_-__[Teste_..  | http://x25.acxll.shop:80
-♨️ HAVOK TV - TIGER - ♨️ [Teste 06h] ..  | HAVOK_TV_-_TIGER_-__[Teste_..  | http://38.147.106.155:80
-🔥 HAVOK TV - ZAYDA - 🔥 [Teste 04h] - ..  | HAVOK_TV_-_ZAYDA_-__[Teste_..  | http://cdn.serversnetuno.site:80
-⚡️ HAVOK TV - KYROS - ⚡️ [Teste 04h] ..  | HAVOK_TV_-_KYROS_-__[Teste_..  | http://cloudsalex.space:80
-🎩 HAVOK TV - SHAZAM - 🎩 [Teste 04h] -..  | HAVOK_TV_-_SHAZAM_-__[Teste..  | http://cdn.andromedaz.site:80
-☀️ HAVOK TV - VORNAK - ☀️ [Teste 04h]..  | HAVOK_TV_-_VORNAK_-__[Teste..  | http://dstreaming.win:80
-🏰 HAVOK TV - ANDROMEDA - 🏰 [Teste 04h..  | HAVOK_TV_-_ANDROMEDA_-__[Te..  | http://tigeragile.uk:80
-🍄 HAVOK TV - KLAUS - 🍄 [Teste 04h] - ..  | HAVOK_TV_-_KLAUS_-__[Teste_..  | http://xui.brfontes.fun:80
-🦾 HAVOK TV - OMEGA - 🦾 [Teste 04h] - ..  | HAVOK_TV_-_OMEGA_-__[Teste_..  | http://fontez.cc:80
-🌹 HAVOK TV - DIGNUS - 🌹 [Teste 04h] -..  | HAVOK_TV_-_DIGNUS_-__[Teste..  | http://cloudsalex.space:80
-🐝 HAVOK TV - NEXUS - 🐝 [Teste 04h] - ..  | HAVOK_TV_-_NEXUS_-__[Teste_..  | http://fhmplay.shop:80
-☔ HAVOK TV - FÊNIX - ☔ [Teste 04h] - ..  | HAVOK_TV_-_FNIX_-__[Teste_0..  | http://c.superodin.nl70.top:80
-🔰 HAVOK TV - P2P BINSTREAM - 🔰 [Teste..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚠️ HAVOK TV - APLICATIVOS - ⚠️ Integr..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🟥 HAVOK TV - APLICATIVOS - 🟥 [Apps] -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚠️ HAVOK TV - DICAS - ⚠️ Material De ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚠️ HAVOK TV - DICAS - ⚠️ Servidores D..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚠️ HAVOK TV - DICAS - ⚠️ Seu Próprio ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🛑 HAVOK TV - DICAS - 🛑 Migrar Entre O..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🛑 HAVOK TV - DICAS - 🛑 Trafego Pago -..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚽ HAVOK TV - DICAS - ⚽ Jogos Do Dia A..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Bloq..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Como..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Como..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Como..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Como..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Reso..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Supo..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Tenh..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Códi..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Apli..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Curs..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Manu..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Comp..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Qual..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Trav..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⭐ HAVOK TV - DICAS - ⭐ [Dicas] - Curs..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔴 AMERICAN - PLAY - 🔴 Uni TV             | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 AMERICAN - PLAY - 🌐 American Play C..  | AMERICAN_-_PLAY_-__American..  | http://fontez.cc:80
-🌐 AMERICAN - PLAY - 🌐 American Play S..  | AMERICAN_-_PLAY_-__American..  | http://fontez.cc:80
-💜 AMERICAN - NEW - 💜 Assist Ou Playsi..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🔴 AMERICAN - NEW - 🔴 Uni TV              | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🌐 AMERICAN - NEW - 🌐 New Completo C/A..  | AMERICAN_-_NEW_-__New_Compl..  | http://x25.acxll.shop:80
-🌐 AMERICAN - NEW - 🌐 New Completo S/A..  | AMERICAN_-_NEW_-__New_Compl..  | http://x25.acxll.shop:80
-♾️ AMERICAN - SUPER - ♾️ American Sup..  | AMERICAN_-_SUPER_-__America..  | http://xui.brfontes.fun:80
-♾️ AMERICAN - SUPER - ♾️ American Sup..  | AMERICAN_-_SUPER_-__America..  | http://xui.brfontes.fun:80
-💙 AMERICAN - SUPER - 💙 App S>A Pro Pl..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 SUBZERO - 🔵 TESTE COMPLETO C/ ADULT..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 SUBZERO - 🔵 TESTE COMPLETO S/ ADULT..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 SUBZERO - FÊNIX - 〽️ TESTE COMPLETO..  | SUBZERO_-_FNIX_-__TESTE_COM..  | http://topcdn.fun:80
-📺 SUBZERO - FÊNIX - 〽️ TESTE COMPLETO..  | SUBZERO_-_FNIX_-__TESTE_COM..  | http://topcdn.fun:80
-📺 SUBZERO - FÊNIX - 🛑 UNITV COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 SUBZERO - FÊNIX - 🛑 UNITV COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-⚡ New-Servers - AtivaBox - COMPLETO C..  | New-Servers_-_AtivaBox_-_CO..  | http://xui.brfontes.fun:80
-⚡ New-Servers - AtivaBox - COMPLETO S..  | New-Servers_-_AtivaBox_-_CO..  | http://xui.brfontes.fun:80
-📺 New-Servers - Binstream - COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - Binstream - COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - BLESSED SERVER - COMP..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - BLESSED SERVER - COMP..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 New-Servers - LIDER TV - COMPLETO C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-👑 New-Servers - LIDER TV - COMPLETO S..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - MagicPlay - COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - MagicPlay - COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🚀 New-Servers - NetTurbo - COMPLETO C..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🚀 New-Servers - NetTurbo - COMPLETO S..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - NicePlayer - COMPLETO..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - NicePlayer - COMPLETO..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - PLUS TV - COMPLETO CO..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 New-Servers - PLUS TV - COMPLETO SE..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 PRIME LUX - PRIME X 🔷 - 🔴🔷TESTE UNI..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 PRIME LUX - PRIME X 🔷 - 🔴🔷TESTE UNI..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 PRIME LUX - PRIME X 🔷 - 🔷 TESTE IPT..  | PRIME_LUX_-_PRIME_X__-__TES..  | http://protec.sbs:80
-📺 PRIME LUX - PRIME X 🔷 - 🔷 TESTE IPT..  | PRIME_LUX_-_PRIME_X__-__TES..  | http://protec.sbs:80
-📺 PRIME LUX - PRIME ZEROUM 〽️ - ◾ TES..  | PRIME_LUX_-_PRIME_ZEROUM__-..  | http://topcdn.fun:80
-📺 PRIME LUX - PRIME ZEROUM 〽️ - ◾ TES..  | PRIME_LUX_-_PRIME_ZEROUM__-..  | http://topcdn.fun:80
-📺 PRIME LUX - PRIMEMAX - ⚡ TESTE COMP..  | PRIME_LUX_-_PRIMEMAX_-__TES..  | http://x25.acxll.shop:80
-📺 PRIME LUX - PRIMEMAX - ⚡ TESTE COMP..  | PRIME_LUX_-_PRIMEMAX_-__TES..  | http://x25.acxll.shop:80
-📺 PRIME LUX - PRIMEULTRA - ♣️ TESTE C..  | PRIME_LUX_-_PRIMEULTRA_-__T..  | http://38.147.106.155:80
-📺 PRIME LUX - PRIMEULTRA - ♣️ TESTE C..  | PRIME_LUX_-_PRIMEULTRA_-__T..  | http://38.147.106.155:80
-📺 PRIME LUX - PRIME Z - ⭐ TESTE COMPL..  | PRIME_LUX_-_PRIME_Z_-__TEST..  | http://cdn.andromedaz.site:80
-📺 PRIME LUX - PRIME Z - ⭐ TESTE COMPL..  | PRIME_LUX_-_PRIME_Z_-__TEST..  | http://cdn.andromedaz.site:80
-📺 PRIME LUX - PRIMEHUB - ▶️ TESTE COM..  | PRIME_LUX_-_PRIMEHUB_-__TES..  | http://wpm.dcnn.site:80
-📺 PRIME LUX - PRIMEHUB - ▶️ TESTE COM..  | PRIME_LUX_-_PRIMEHUB_-__TES..  | http://wpm.dcnn.site:80
-📺 PRIME LUX - PRIMEBLACK - ♠️ TESTE C..  | PRIME_LUX_-_PRIMEBLACK_-__T..  | http://fontez.cc:80
-📺 PRIME LUX - PRIMEBLACK - ♠️ TESTE C..  | PRIME_LUX_-_PRIMEBLACK_-__T..  | http://fontez.cc:80
-📺 PRIME LUX - PRIMEGOLD - ▶️ TESTE CO..  | PRIME_LUX_-_PRIMEGOLD_-__TE..  | http://xui.brfontes.fun:80
-📺 PRIME LUX - PRIMEGOLD - ▶️ TESTE CO..  | PRIME_LUX_-_PRIMEGOLD_-__TE..  | http://xui.brfontes.fun:80
-📺 PRIME LUX - PRIMEONE - 🔰 TESTE COMP..  | PRIME_LUX_-_PRIMEONE_-__TES..  | http://cloudsalex.space:80
-📺 PRIME LUX - PRIMEONE - 🔰 TESTE COMP..  | PRIME_LUX_-_PRIMEONE_-__TES..  | http://cloudsalex.space:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 1HR || CO..  | GLOBAL__IPTV_1_-_TESTE_1HR_..  | http://wxpago.sbs:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 1HR || SE..  | GLOBAL__IPTV_1_-_TESTE_1HR_..  | http://wxpago.sbs:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 3HRS || C..  | GLOBAL__IPTV_1_-_TESTE_3HRS..  | http://cdnp.xyz:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 3HRS || S..  | GLOBAL__IPTV_1_-_TESTE_3HRS..  | http://cdnp.xyz:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 6HRS || C..  | GLOBAL__IPTV_1_-_TESTE_6HRS..  | http://cdnp.xyz:80
-💜GLOBAL || IPTV 1💜 - 💜TESTE 6HRS || S..  | GLOBAL__IPTV_1_-_TESTE_6HRS..  | http://cdnp.xyz:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 1HR || CO..  | GLOBAL__IPTV_2_-_TESTE_1HR_..  | http://protec.sbs:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 1HR || SE..  | GLOBAL__IPTV_2_-_TESTE_1HR_..  | http://protec.sbs:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 3HRS || C..  | GLOBAL__IPTV_2_-_TESTE_3HRS..  | http://protec.sbs:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 3HRS || S..  | GLOBAL__IPTV_2_-_TESTE_3HRS..  | http://protec.sbs:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 6HRS || C..  | GLOBAL__IPTV_2_-_TESTE_6HRS..  | http://protec.sbs:80
-🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 6HRS || S..  | GLOBAL__IPTV_2_-_TESTE_6HRS..  | http://protec.sbs:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 1HR || CO..  | GLOBAL__IPTV_3_-_TESTE_1HR_..  | http://topcdn.fun:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 1HR || SE..  | GLOBAL__IPTV_3_-_TESTE_1HR_..  | http://topcdn.fun:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 3HRS || C..  | GLOBAL__IPTV_3_-_TESTE_3HRS..  | http://topcdn.fun:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 3HRS || S..  | GLOBAL__IPTV_3_-_TESTE_3HRS..  | http://topcdn.fun:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 6HRS || C..  | GLOBAL__IPTV_3_-_TESTE_6HRS..  | http://topcdn.fun:80
-💚GLOBAL || IPTV 3💚 - 💚TESTE 6HRS || S..  | GLOBAL__IPTV_3_-_TESTE_6HRS..  | http://topcdn.fun:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 1HR || CO..  | GLOBAL__IPTV_4_-_TESTE_1HR_..  | http://x25.acxll.shop:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 1HR || SE..  | GLOBAL__IPTV_4_-_TESTE_1HR_..  | http://x25.acxll.shop:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 3HRS || C..  | GLOBAL__IPTV_4_-_TESTE_3HRS..  | http://x25.acxll.shop:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 3HRS || S..  | GLOBAL__IPTV_4_-_TESTE_3HRS..  | http://x25.acxll.shop:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 6HRS || C..  | GLOBAL__IPTV_4_-_TESTE_6HRS..  | http://x25.acxll.shop:80
-💛GLOBAL || IPTV 4💛 - 💛TESTE 6HRS || S..  | GLOBAL__IPTV_4_-_TESTE_6HRS..  | http://x25.acxll.shop:80
-🎖️ INVICTOS SERVER - TESTE COMPLETO S..  | INVICTOS_SERVER_-_TESTE_COM..  | http://sourceopbx.sbs:80
-🎖️ INVICTOS SERVER -  TESTE COMPLETO ..  | INVICTOS_SERVER_-__TESTE_CO..  | ⚠️ ARQUIVO VAZIO/ERRO
-🎖️ INVICTOS SERVER -  TESTE COMPLETO ..  | INVICTOS_SERVER_-__TESTE_CO..  | ⚠️ ARQUIVO VAZIO/ERRO
-🎖️ INVICTOS SERVER -  TESTE COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🎖️ INVICTOS SERVER -  TESTE COMPLETO ..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-🥈INVICTOS EXTREME -  𝐓𝐄𝐒𝐓𝐄 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐂..  | INVICTOS_EXTREME_-.m3u..       | http://sourceopbx.sbs:80
-🥈INVICTOS EXTREME -  𝐓𝐄𝐒𝐓𝐄 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐒..  | INVICTOS_EXTREME_-.m3u..       | http://sourceopbx.sbs:80
-📺 LIFE UHD - ARES PLAY - 🏹ARES PLAY T..  | LIFE_UHD_-_ARES_PLAY_-_ARES..  | http://cdneshow.xyz:80
-📺 LIFE UHD - ARES PLAY - 🏹ARES PLAY T..  | LIFE_UHD_-_ARES_PLAY_-_ARES..  | http://cdneshow.xyz:80
-📺 LIFE UHD - CINEMAX - 🟢 CINEMAX TEST..  | LIFE_UHD_-_CINEMAX_-__CINEM..  | http://cdn.andromedaz.site:80
-📺 LIFE UHD - CINEMAX - 🟢 CINEMAX TEST..  | LIFE_UHD_-_CINEMAX_-__CINEM..  | http://cdn.andromedaz.site:80
-📺 LIFE UHD - GreenTv - 🇧🇷GREEN PLAY T..  | LIFE_UHD_-_GreenTv_-_GREEN_..  | http://xui.brfontes.fun:80
-📺 LIFE UHD - GreenTv - 🇧🇷GREEN PLAY T..  | LIFE_UHD_-_GreenTv_-_GREEN_..  | http://xui.brfontes.fun:80
-📺 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYE..  | LIFE_UHD_-_GTA_PLAYER_-__GT..  | http://srv3.site:80
-📺 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYE..  | LIFE_UHD_-_GTA_PLAYER_-__GT..  | http://srv3.site:80
-📺 LIFE UHD - INFINITIPPLUS - ♾️ INFIN..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 LIFE UHD - INFINITIPPLUS - ♾️ INFIN..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TEST..  | LIFE_UHD_-_K9_PLAY_-__K9_PL..  | http://protec.sbs:80
-📺 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TEST..  | LIFE_UHD_-_K9_PLAY_-__K9_PL..  | http://protec.sbs:80
-📺 LIFE UHD - Onetv - 📺 LIFE ONETV TES..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 LIFE UHD - Onetv - 📺 LIFE ONETV TES..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 LIFE UHD - Onetv - 📺 LIFE ONETV TES..  | ---                            | ❌ ARQUIVO NÃO BAIXADO
-📺 LIFE UHD - RedPlay - 🍥RedPlay TESTE..  | LIFE_UHD_-_RedPlay_-_RedPla..  | http://wpm.dcnn.site:80
-📺 LIFE UHD - RedPlay - 🍥RedPlay TESTE..  | LIFE_UHD_-_RedPlay_-_RedPla..  | http://wpm.dcnn.site:80
-📺 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TES..  | LIFE_UHD_-_TOPD+_-__TOPD+_P..  | http://cloudsalex.space:80
-📺 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TES..  | LIFE_UHD_-_TOPD+_-__TOPD+_P..  | http://cloudsalex.space:80
-📺 LIFE UHD - TURBO FLIX - 📡 TURBO FLI..  | LIFE_UHD_-_TURBO_FLIX_-__TU..  | http://cdn.kplaysuper.site:80
-📺 LIFE UHD - TURBO FLIX - 📡 TURBO FLI..  | LIFE_UHD_-_TURBO_FLIX_-__TU..  | http://cdn.kplaysuper.site:80
+RELATÓRIO DE SERVIDORES IPTV - 19/01/2026 18:54
+Baseado apenas nos arquivos da pasta: Listas-Downloaded
+====================================================================================================
+NOME DO ARQUIVO                                    | SERVIDOR BASE IDENTIFICADO
+====================================================================================================
+AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-..  | http://x25.acxll.shop:80
+AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-..  | http://x25.acxll.shop:80
+AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-..  | http://x25.acxll.shop:80
+AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-..  | http://x25.acxll.shop:80
+AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-0..  | http://fontez.cc:80
+AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-0..  | http://fontez.cc:80
+AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-0..  | http://fontez.cc:80
+AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-0..  | http://fontez.cc:80
+AMERICAN_-_SUPER_-__American_Super_CAdultos_[19..  | http://xui.brfontes.fun:80
+AMERICAN_-_SUPER_-__American_Super_CAdultos_[19..  | http://xui.brfontes.fun:80
+AMERICAN_-_SUPER_-__American_Super_SAdultos_[19..  | http://xui.brfontes.fun:80
+AMERICAN_-_SUPER_-__American_Super_SAdultos_[19..  | http://xui.brfontes.fun:80
+Alpha_Master_-__Teste_Completo_C_Adultos_[19-01..  | http://74.91.29.44:80
+Alpha_Master_-__Teste_Completo_C_Adultos_[19-01..  | http://74.91.29.44:80
+Alpha_Master_-__Teste_Completo_S_Adultos_[19-01..  | http://74.91.29.44:80
+Alpha_Master_-__Teste_Completo_S_Adultos_[19-01..  | http://74.91.29.44:80
+AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2..  | http://7sevenplay10.top:80
+AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2..  | http://7sevenplay10.top:80
+AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-..  | http://7sevenplay10.top:80
+AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-..  | http://7sevenplay10.top:80
+AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-20..  | http://xui.brfontes.fun:80
+AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-20..  | http://xui.brfontes.fun:80
+AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2..  | http://xui.brfontes.fun:80
+AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2..  | http://xui.brfontes.fun:80
+AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026..  | http://cloudsalex.space:80
+AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026..  | http://cloudsalex.space:80
+AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-202..  | http://cloudsalex.space:80
+AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-202..  | http://cloudsalex.space:80
+AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2..  | http://cdn.andromedaz.site:80
+AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2..  | http://cdn.andromedaz.site:80
+AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-..  | http://cdn.andromedaz.site:80
+AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-..  | http://cdn.andromedaz.site:80
+AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-20..  | http://fontez.cc:80
+AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-20..  | http://fontez.cc:80
+AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2..  | http://fontez.cc:80
+AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2..  | http://fontez.cc:80
+Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adul..  | https://wpls.shop:443
+Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[..  | http://proxyphtop.shop:80
+Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[..  | http://proxyphtop.shop:80
+Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[..  | http://proxyphtop.shop:80
+Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[..  | http://proxyphtop.shop:80
+Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adult..  | http://top.gpsrv.shop:80
+Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adult..  | http://top.gpsrv.shop:80
+Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adult..  | http://top.gpsrv.shop:80
+Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adult..  | http://top.gpsrv.shop:80
+BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADUL..  | http://srv3.site:80
+BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADUL..  | http://srv3.site:80
+BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADUL..  | http://srv3.site:80
+BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADUL..  | http://srv3.site:80
+BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULT..  | http://x25.acxll.shop:80
+BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULT..  | http://x25.acxll.shop:80
+BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULT..  | http://x25.acxll.shop:80
+BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULT..  | http://x25.acxll.shop:80
+BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_..  | http://fontez.cc:80
+BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_..  | http://fontez.cc:80
+BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_..  | http://fontez.cc:80
+BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_..  | http://fontez.cc:80
+BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS..  | http://xui.brfontes.fun:80
+BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS..  | http://xui.brfontes.fun:80
+BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS..  | http://xui.brfontes.fun:80
+BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS..  | http://xui.brfontes.fun:80
+BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS..  | http://cloudsalex.space:80
+BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS..  | http://cloudsalex.space:80
+BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS..  | http://cloudsalex.space:80
+BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS..  | http://cloudsalex.space:80
+BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULT..  | http://38.147.106.155:80
+BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULT..  | http://38.147.106.155:80
+BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULT..  | http://38.147.106.155:80
+BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULT..  | http://38.147.106.155:80
+BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[..  | http://wpm.dcnn.site:80
+BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[..  | http://wpm.dcnn.site:80
+BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[..  | http://wpm.dcnn.site:80
+BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[..  | http://wpm.dcnn.site:80
+BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADUL..  | http://topcdn.fun:80
+BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADUL..  | http://topcdn.fun:80
+BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADUL..  | http://topcdn.fun:80
+BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADUL..  | http://topcdn.fun:80
+BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19..  | http://protec.sbs:80
+BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19..  | http://protec.sbs:80
+BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19..  | http://protec.sbs:80
+BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19..  | http://protec.sbs:80
+CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO_[19-..  | http://infra10.top:80
+CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO_[19-..  | http://infra10.top:80
+CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_1..  | http://rynox.top:80
+CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_1..  | http://rynox.top:80
+CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-..  | http://cdn.viadoveio.uk:80
+CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-..  | http://cdn.viadoveio.uk:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19..  | http://fontez.cc:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19..  | http://fontez.cc:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacion..  | http://fontez.cc:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacion..  | http://fontez.cc:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19..  | http://fontez.cc:80
+CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19..  | http://fontez.cc:80
+CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-..  | http://cdn.andromedaz.site:80
+CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-..  | http://cdn.andromedaz.site:80
+CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-..  | http://cdn.andromedaz.site:80
+CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-..  | http://cdn.andromedaz.site:80
+CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[1..  | http://srv3.site:80
+CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[1..  | http://srv3.site:80
+CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[1..  | http://srv3.site:80
+CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[1..  | http://srv3.site:80
+CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-0..  | http://cloudsalex.space:80
+CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-0..  | http://cloudsalex.space:80
+CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-0..  | http://cloudsalex.space:80
+CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-0..  | http://cloudsalex.space:80
+CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01..  | http://38.147.106.155:80
+CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01..  | http://38.147.106.155:80
+CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01..  | http://38.147.106.155:80
+CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01..  | http://38.147.106.155:80
+CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-..  | http://sxhs.cgpsx.site:80
+CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-..  | http://sxhs.cgpsx.site:80
+CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-..  | http://sxhs.cgpsx.site:80
+CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-..  | http://sxhs.cgpsx.site:80
+CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-..  | http://xxx.pxlst.site:80
+CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-..  | http://xxx.pxlst.site:80
+CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-..  | http://xxx.pxlst.site:80
+CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-..  | http://xxx.pxlst.site:80
+CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026..  | http://wpm.dcnn.site:80
+CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026..  | http://wpm.dcnn.site:80
+CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026..  | http://wpm.dcnn.site:80
+CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026..  | http://wpm.dcnn.site:80
+CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-..  | http://x25.acxll.shop:80
+CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-..  | http://x25.acxll.shop:80
+CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-..  | http://x25.acxll.shop:80
+CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-..  | http://x25.acxll.shop:80
+CineMania_-__Completo_Com_Adultos_[19-01-2026_0..  | http://dns.blessed7.xyz:80
+CineMania_-__Completo_Com_Adultos_[19-01-2026_0..  | http://dns.blessed7.xyz:80
+CineMania_-__Completo_Sem_Adultos_[19-01-2026_0..  | http://dns.blessed7.xyz:80
+CineMania_-__Completo_Sem_Adultos_[19-01-2026_0..  | http://dns.blessed7.xyz:80
+EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-..  | http://c.superodin.nl70.top:80
+EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-..  | http://c.superodin.nl70.top:80
+EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-..  | http://c.superodin.nl70.top:80
+EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-..  | http://c.superodin.nl70.top:80
+GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://wxpago.sbs:80
+GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://protec.sbs:80
+GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://protec.sbs:80
+GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://topcdn.fun:80
+GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://topcdn.fun:80
+GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-202..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-20..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-20..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01..  | http://x25.acxll.shop:80
+HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda..  | http://tigeragile.uk:80
+HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda..  | http://tigeragile.uk:80
+HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-0..  | http://cloudsalex.space:80
+HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-0..  | http://cloudsalex.space:80
+HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-20..  | http://c.superodin.nl70.top:80
+HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-20..  | http://c.superodin.nl70.top:80
+HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-..  | http://xui.brfontes.fun:80
+HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-..  | http://xui.brfontes.fun:80
+HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-..  | http://cloudsalex.space:80
+HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-..  | http://cloudsalex.space:80
+HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01..  | http://sxhs.cgpsx.site:80
+HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01..  | http://sxhs.cgpsx.site:80
+HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-202..  | http://lbgthost.shop:80
+HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-202..  | http://lbgthost.shop:80
+HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-..  | http://fhmplay.shop:80
+HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-..  | http://fhmplay.shop:80
+HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-..  | http://fontez.cc:80
+HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-..  | http://fontez.cc:80
+HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-..  | http://x25.acxll.shop:80
+HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-..  | http://x25.acxll.shop:80
+HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-0..  | http://cdn.andromedaz.site:80
+HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-0..  | http://cdn.andromedaz.site:80
+HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-..  | http://38.147.106.155:80
+HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-..  | http://38.147.106.155:80
+HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-0..  | http://dstreaming.win:80
+HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-0..  | http://dstreaming.win:80
+HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-..  | http://cdn.serversnetuno.site:80
+HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-..  | http://cdn.serversnetuno.site:80
+INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u          | http://sourceopbx.sbs:80
+INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_..  | http://sourceopbx.sbs:80
+INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[1..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[1..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[..  | http://sourceopbx.sbs:80
+Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[1..  | http://cloudsalex.space:80
+Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[1..  | http://cloudsalex.space:80
+Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[1..  | http://cloudsalex.space:80
+Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[1..  | http://cloudsalex.space:80
+LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULT..  | http://cdneshow.xyz:80
+LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULT..  | http://cdneshow.xyz:80
+LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULT..  | http://cdneshow.xyz:80
+LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULT..  | http://cdneshow.xyz:80
+LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_..  | http://cdn.andromedaz.site:80
+LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_..  | http://cdn.andromedaz.site:80
+LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_..  | http://cdn.andromedaz.site:80
+LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_..  | http://cdn.andromedaz.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CAD..  | http://srv3.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CAD..  | http://srv3.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SAD..  | http://srv3.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SAD..  | http://srv3.site:80
+LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTO..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTO..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTO..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTO..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS..  | http://cloudsalex.space:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS..  | http://cloudsalex.space:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS..  | http://cloudsalex.space:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS..  | http://cloudsalex.space:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CAD..  | http://cdn.kplaysuper.site:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CAD..  | http://cdn.kplaysuper.site:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sAD..  | http://cdn.kplaysuper.site:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sAD..  | http://cdn.kplaysuper.site:80
+Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-202..  | http://fontez.cc:80
+Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-202..  | http://fontez.cc:80
+Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-202..  | http://fontez.cc:80
+Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-202..  | http://fontez.cc:80
+Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-20..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-20..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-20..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-20..  | http://74.91.29.44:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adult..  | http://cdn.turbox.tv.br:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adult..  | http://cdn.turbox.tv.br:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adult..  | http://cdn.turbox.tv.br:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adult..  | http://cdn.turbox.tv.br:80
+Lider_-__LITE_-_Completo_Com_Adultos_[19-01-202..  | http://207.58.175.8:80
+Lider_-__LITE_-_Completo_Com_Adultos_[19-01-202..  | http://207.58.175.8:80
+Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-202..  | http://207.58.175.8:80
+Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-202..  | http://207.58.175.8:80
+Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026..  | http://c.superodin.nl70.top:80
+Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026..  | http://c.superodin.nl70.top:80
+Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026..  | http://c.superodin.nl70.top:80
+Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026..  | http://c.superodin.nl70.top:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[1..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[1..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[1..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[1..  | http://38.147.106.155:80
+NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[..  | http://cloudsalex.space:80
+NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[..  | http://cloudsalex.space:80
+NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[..  | http://cloudsalex.space:80
+NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[..  | http://cloudsalex.space:80
+NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-..  | http://wxpago.sbs:80
+NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-..  | http://wxpago.sbs:80
+NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-..  | http://wxpago.sbs:80
+NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-..  | http://wxpago.sbs:80
+NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adul..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adul..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adul..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adul..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_..  | http://proxyphtop.shop:80
+NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-20..  | http://207.58.175.8:80
+NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-20..  | http://207.58.175.8:80
+NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-20..  | http://207.58.175.8:80
+NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-20..  | http://207.58.175.8:80
+NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[1..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[1..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[1..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[1..  | http://x25.acxll.shop:80
+NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-..  | http://wpm.dcnn.site:80
+NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-..  | http://wpm.dcnn.site:80
+NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-..  | http://wpm.dcnn.site:80
+NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-..  | http://wpm.dcnn.site:80
+NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-0..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-0..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-0..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-0..  | http://protec.sbs:80
+NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[1..  | http://cdn.andromedaz.site:80
+NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[1..  | http://cdn.andromedaz.site:80
+NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[1..  | http://cdn.andromedaz.site:80
+NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[1..  | http://cdn.andromedaz.site:80
+NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01..  | http://xui.brfontes.fun:80
+NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01..  | http://xui.brfontes.fun:80
+NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01..  | http://xui.brfontes.fun:80
+NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01..  | http://xui.brfontes.fun:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19..  | http://eogdos.shop:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19..  | http://eogdos.shop:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19..  | http://eogdos.shop:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19..  | http://eogdos.shop:80
+NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-..  | http://topcdn.fun:80
+NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-..  | http://topcdn.fun:80
+NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-..  | http://topcdn.fun:80
+NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01..  | http://cdn.andromedaz.site:80
+NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01..  | http://cdn.andromedaz.site:80
+NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01..  | http://cdn.andromedaz.site:80
+NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01..  | http://cdn.andromedaz.site:80
+NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-..  | http://c.superodin.nl70.top:80
+NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-..  | http://c.superodin.nl70.top:80
+NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19..  | http://c.superodin.nl70.top:80
+NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19..  | http://c.superodin.nl70.top:80
+NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-0..  | http://fontez.cc:80
+NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-0..  | http://fontez.cc:80
+NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-0..  | http://fontez.cc:80
+NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-0..  | http://fontez.cc:80
+New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[..  | http://xui.brfontes.fun:80
+New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[..  | http://xui.brfontes.fun:80
+New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[..  | http://xui.brfontes.fun:80
+New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[..  | http://xui.brfontes.fun:80
+P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_01..  | http://cdn.p2vip.top:80
+P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_07..  | http://cdn.p2vip.top:80
+P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_0..  | http://cdn.p2vip.top:80
+P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_0..  | http://cdn.p2vip.top:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADUL..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADUL..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADUL..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADUL..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULT..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULT..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULT..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULT..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTO..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTO..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTO..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTO..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTO..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTO..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTO..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTO..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTO..  | http://cloudsalex.space:80
+PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTO..  | http://cloudsalex.space:80
+PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTO..  | http://cloudsalex.space:80
+PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTO..  | http://cloudsalex.space:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADUL..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADUL..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADUL..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADUL..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_A..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_A..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_A..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_A..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_A..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_A..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_A..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_A..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS..  | http://cdn.andromedaz.site:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS..  | http://cdn.andromedaz.site:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS..  | http://cdn.andromedaz.site:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS..  | http://cdn.andromedaz.site:80
+Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-..  | http://queroassistir.top:80
+Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-..  | http://queroassistir.top:80
+Pro_Black_-__Teste_Completo_S_Adulto_[19-01-202..  | http://queroassistir.top:80
+Pro_Black_-__Teste_Completo_S_Adulto_[19-01-202..  | http://queroassistir.top:80
+SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-..  | http://topcdn.fun:80
+SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-..  | http://topcdn.fun:80
+SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-..  | http://topcdn.fun:80
+SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-..  | http://topcdn.fun:80
+Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_..  | http://xui.brfontes.fun:80
+Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_..  | http://xui.brfontes.fun:80
+Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_..  | http://xui.brfontes.fun:80
+Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_..  | http://xui.brfontes.fun:80
+Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_0..  | http://vidaloka.fun:80
+Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_0..  | http://vidaloka.fun:80
+Servidor_X_-__Caracol_[19-01-2026_01h12].m3u       | http://vidaloka.fun:80
+Servidor_X_-__Caracol_[19-01-2026_07h14].m3u       | http://vidaloka.fun:80
+Servidor_X_-__NetTurbo_[19-01-2026_01h12].m3u      | http://fontez.cc:80
+Servidor_X_-__NetTurbo_[19-01-2026_07h14].m3u      | http://fontez.cc:80
+Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_0..  | http://sourceopbx.sbs:80
+Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_0..  | http://sourceopbx.sbs:80
+Servidor_X_-__OpenBox_[19-01-2026_01h12].m3u       | http://sourceopbx.sbs:80
+Servidor_X_-__OpenBox_[19-01-2026_07h14].m3u       | http://sourceopbx.sbs:80
+Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_01h..  | https://wpls.shop:443
+Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_07h..  | https://wpls.shop:443
+Servidor_X_-__P2Box_[19-01-2026_01h12].m3u         | https://wpls.shop:443
+Servidor_X_-__P2Box_[19-01-2026_07h14].m3u         | https://wpls.shop:443
+Stark_-_Pro_[18-01-2026_20h31].m3u                 | http://proxyphtop.shop:80
+Stark_-_Ultimate_[18-01-2026_20h32].m3u            | http://c.superodin.nl70.top:80
+Thunder_-__Completo_Com_Adultos_[19-01-2026_01h..  | http://sxhs.cgpsx.site:80
+Thunder_-__Completo_Com_Adultos_[19-01-2026_07h..  | http://sxhs.cgpsx.site:80
+Thunder_-__Completo_Sem_Adultos_[19-01-2026_01h..  | http://sxhs.cgpsx.site:80
+Thunder_-__Completo_Sem_Adultos_[19-01-2026_07h..  | http://sxhs.cgpsx.site:80
+VelozNet_-__MeuServidor_TV_-_Completo_Com_Adult..  | http://veloz.tvbrlive.com:80
+VelozNet_-__MeuServidor_TV_-_Completo_Com_Adult..  | http://veloz.tvbrlive.com:80
+VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adult..  | http://veloz.tvbrlive.com:80
+VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adult..  | http://veloz.tvbrlive.com:80
+VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01..  | http://dns.blessed7.xyz:80
+VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01..  | http://dns.blessed7.xyz:80
+VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01..  | http://dns.blessed7.xyz:80
+VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01..  | http://dns.blessed7.xyz:80
+WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2..  | http://fontez.cc:80
+WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2..  | http://fontez.cc:80
+WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2..  | http://fontez.cc:80
+WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2..  | http://fontez.cc:80
+WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01..  | http://wpm.dcnn.site:80
+WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01..  | http://wpm.dcnn.site:80
+WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01..  | http://wpm.dcnn.site:80
+WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01..  | http://wpm.dcnn.site:80
+WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-..  | http://xui.brfontes.fun:80
+WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-..  | http://xui.brfontes.fun:80
+WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-..  | http://xui.brfontes.fun:80
+WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-..  | http://xui.brfontes.fun:80
+ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-..  | http://topcdn.fun:80
+ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-..  | http://topcdn.fun:80
+ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-..  | http://topcdn.fun:80
+ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-..  | http://topcdn.fun:80
+playlist_160090903_plus.m3u                        | http://38.147.106.155:80
 
 
-==============================================================================================================
-RESUMO: LISTAS QUE USAM O MESMO SERVIDOR
-==============================================================================================================
+====================================================================================================
+RESUMO: GRUPOS POR SERVIDOR (Quem é 'clone' de quem)
+====================================================================================================
 
 📡 SERVIDOR: http://fontez.cc:80
-   Total de listas: 15
-   ├─ ❌ Servidor X - 🚀 NetTurbo
-   ├─ 👑 Lider - 1️⃣ ONE - Completo Com Adultos
-   ├─ 👑 Lider - 1️⃣ ONE - Completo Sem Adultos
-   ├─ 🏟️ AtivaBox - 🚀 NetTurbo - Teste Completo
-   ├─ 🏟️ AtivaBox - 🚀 NetTurbo - Teste S/ Adultos
-   ├─ 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV S/ Adultos
-   ├─ 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV C/ Internacionais +18
-   ├─ 🌐 NetPlay - ♀️ VÊNUS - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - ♀️ VÊNUS - Teste S/ Adulto 12 Horas
-   ├─ 🦾 HAVOK TV - OMEGA - 🦾 [Teste 04h] - Omega
-   ├─ 🌐 AMERICAN - PLAY - 🌐 American Play C/Adultos
-   ├─ 🌐 AMERICAN - PLAY - 🌐 American Play S/Adultos
-   ├─ 📺 PRIME LUX - PRIMEBLACK - ♠️ TESTE COMPLETO C/ ADULTOS ♠️
-   ├─ 📺 PRIME LUX - PRIMEBLACK - ♠️ TESTE COMPLETO S/ ADULTOS ♠️
-
-📡 SERVIDOR: http://wpls.shop:80
-   Total de listas: 2
-   ├─ ❌ Servidor X - 📦 P2Box
-   ├─ ❌ Servidor X - 📦 P2Box Sem Adultos
-
-📡 SERVIDOR: http://vidaloka.fun:80
-   Total de listas: 4
-   ├─ ❌ Servidor X - 🐌 Caracol
-   ├─ ❌ Servidor X - 🐌 Caracol Sem Adultos
-   ├─ 🔝 Top Z - ✅ Completo Com Adultos
-   ├─ 🔝 Top Z - ✅ Completo Sem Adultos
-
-📡 SERVIDOR: http://sourceopbx.sbs:80
-   Total de listas: 5
-   ├─ ❌ Servidor X - 🎁 OpenBox
-   ├─ ❌ Servidor X - 🎁 OpenBox Sem Adultos
-   ├─ 🎖️ INVICTOS SERVER - TESTE COMPLETO SEM ADULTOS
-   ├─ 🥈INVICTOS EXTREME -  𝐓𝐄𝐒𝐓𝐄 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐂/ 𝐀𝐃𝐔𝐋𝐓𝐎
-   ├─ 🥈INVICTOS EXTREME -  𝐓𝐄𝐒𝐓𝐄 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐎 𝐒/ 𝐀𝐃𝐔𝐋𝐓𝐎
+   Quantidade de listas: 38
+   ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_01h03].m3u
+   ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_07h14].m3u
+   ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h54].m3u
+   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_00h54].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_01h04].m3u
+   ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_07h14].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ Servidor_X_-__NetTurbo_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__NetTurbo_[19-01-2026_07h14].m3u
+   ├─ WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h40].m3u
+   ├─ WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
 
 📡 SERVIDOR: http://xui.brfontes.fun:80
-   Total de listas: 15
-   ├─ ❌ Servidor X - 🏟️ AtivaBox Com Adultos
-   ├─ ❌ Servidor X - 🏟️ AtivaBox Sem Adultos
-   ├─ 🏟️ AtivaBox - 🏟️ AtivaBox - Teste Completo
-   ├─ 🏟️ AtivaBox - 🏟️ AtivaBox - Teste S/ Adultos
-   ├─ 🌐 NetPlay - 📡 SKY - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 📡 SKY - Teste S/ Adulto 12 Horas
-   ├─ 🍄 HAVOK TV - KLAUS - 🍄 [Teste 04h] - Klaus
-   ├─ ♾️ AMERICAN - SUPER - ♾️ American Super S/Adultos
-   ├─ ♾️ AMERICAN - SUPER - ♾️ American Super C/Adultos
-   ├─ ⚡ New-Servers - AtivaBox - COMPLETO COM ADULTOS
-   ├─ ⚡ New-Servers - AtivaBox - COMPLETO SEM ADULTOS
-   ├─ 📺 PRIME LUX - PRIMEGOLD - ▶️ TESTE COMPLETO C/ ADULTOS ▶️
-   ├─ 📺 PRIME LUX - PRIMEGOLD - ▶️ TESTE COMPLETO S/ ADULTOS ▶️
-   ├─ 📺 LIFE UHD - GreenTv - 🇧🇷GREEN PLAY TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - GreenTv - 🇧🇷GREEN PLAY TESTE - S/ADULTOS
-
-📡 SERVIDOR: http://dns.blessed7.xyz:80
-   Total de listas: 2
-   ├─ 🍿 CineMania - ⚡ Completo Com Adultos
-   ├─ 🍿 CineMania - ⚡ Completo Sem Adultos
-
-📡 SERVIDOR: http://74.91.29.44:80
-   Total de listas: 4
-   ├─ 🐺 Alpha Master - 📋 Teste Completo C/ Adultos
-   ├─ 🐺 Alpha Master - 📋 Teste Completo S/ Adultos
-   ├─ 👑 Lider - 🅰️ ALPHA - Completo Com Adultos
-   ├─ 👑 Lider - 🅰️ ALPHA - Completo Sem Adultos
-
-📡 SERVIDOR: http://cloudsalex.space:80
-   Total de listas: 14
-   ├─ 🏗️ Infrax - ☁️ LUVEM - Teste Completo Com Adultos
-   ├─ 🏗️ Infrax - ☁️ LUVEM - Teste Completo Sem Adultos
-   ├─ 🏟️ AtivaBox - 🏗️ Infrax - Teste Completo
-   ├─ 🏟️ AtivaBox - 🏗️ Infrax - Teste S/ Adultos
-   ├─ 🎬 CineFlix - 🔱 Cine Z - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 🔱 Cine Z - Teste IPTV S/ Adultos
-   ├─ 🌐 NetPlay - ☄️ ANDRÔMEDA - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - ☄️ ANDRÔMEDA - Teste S/ Adulto 12 Horas
-   ├─ ⚡️ HAVOK TV - KYROS - ⚡️ [Teste 04h] - Kyros
-   ├─ 🌹 HAVOK TV - DIGNUS - 🌹 [Teste 04h] - Dignus
-   ├─ 📺 PRIME LUX - PRIMEONE - 🔰 TESTE COMPLETO C/ ADULTOS 🔰
-   ├─ 📺 PRIME LUX - PRIMEONE - 🔰 TESTE COMPLETO S/ ADULTOS 🔰
-   ├─ 📺 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - C/ADULTOS⚡
-   ├─ 📺 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - s/ADULTOS⚡
-
-📡 SERVIDOR: http://sxhs.cgpsx.site:80
-   Total de listas: 5
-   ├─ 🌩️ Thunder - ⚡ Completo Com Adultos
-   ├─ 🌩️ Thunder - ⚡ Completo Sem Adultos
-   ├─ 🎬 CineFlix - 🟠 SH-SERVER - Teste S/ Adultos
-   ├─ 🎬 CineFlix - 🟠 SH-SERVER - Teste C/ Adultos
-   ├─ 🧲 HAVOK TV - MAGNUS - 🧲 [Teste 6h] - Magnus
-
-📡 SERVIDOR: http://cdn.turbox.tv.br:80
-   Total de listas: 2
-   ├─ 👑 Lider - 🔥 Fire PLAY - TURBO - Completo Com Adultos
-   ├─ 👑 Lider - 🔥 Fire PLAY - TURBO - Completo Sem Adultos
-
-📡 SERVIDOR: http://207.58.175.8:80
-   Total de listas: 4
-   ├─ 👑 Lider - 🍃 LITE - Completo Com Adultos
-   ├─ 👑 Lider - 🍃 LITE - Completo Sem Adultos
-   ├─ 🌐 NetPlay - 🔥 FIRE - Teste 12H C/ Adultos
-   ├─ 🌐 NetPlay - 🔥 FIRE - Teste 12H S/ Adultos
-
-📡 SERVIDOR: http://c.superodin.nl70.top:80
-   Total de listas: 7
-   ├─ 👑 Lider - Ⓜ️ MAX - Completo Com Adultos
-   ├─ 👑 Lider - Ⓜ️ MAX - Completo Sem Adultos
-   ├─ 🌐 NetPlay - 🪐 URANO - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🪐 URANO - Teste S/ Adultos 12 Horas
-   ├─ ✅ EVOLUTION - BOX - ✅ Teste Completo C/Adultos
-   ├─ ✅ EVOLUTION - BOX - ✅ Teste Completo S/Adultos
-   ├─ ☔ HAVOK TV - FÊNIX - ☔ [Teste 04h] - Fênix
-
-📡 SERVIDOR: http://157.173.97.235:80
-   Total de listas: 2
-   ├─ 👑 Lider - ✨ SHOW - Completo Com Adultos
-   ├─ 👑 Lider - ✨ SHOW - Completo Sem Adultos
-
-📡 SERVIDOR: http://cdn.andromedaz.site:80
-   Total de listas: 15
-   ├─ 🏟️ AtivaBox - 🎯 Lite PLAY - Teste Completo
-   ├─ 🏟️ AtivaBox - 🎯 Lite PLAY - Teste S/ Adultos
-   ├─ 🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV S/ Adultos
-   ├─ 🌐 NetPlay - 🏛️ OLYMPUS - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🏛️ OLYMPUS - Teste S/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 👺 TITÃ - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 👺 TITÃ - Teste S/ Adulto 12 Horas
-   ├─ ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos
-   ├─ ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos
-   ├─ 🎩 HAVOK TV - SHAZAM - 🎩 [Teste 04h] - Shazam
-   ├─ 📺 PRIME LUX - PRIME Z - ⭐ TESTE COMPLETO C/ ADULTOS ⭐
-   ├─ 📺 PRIME LUX - PRIME Z - ⭐ TESTE COMPLETO S/ ADULTOS ⭐
-   ├─ 📺 LIFE UHD - CINEMAX - 🟢 CINEMAX TESTE - C/ADULTOS🟢
-   ├─ 📺 LIFE UHD - CINEMAX - 🟢 CINEMAX TESTE - s/ADULTOS🟢
-
-📡 SERVIDOR: http://7sevenplay10.top:80
-   Total de listas: 2
-   ├─ 🏟️ AtivaBox - 🧞 Aladdin's - Teste Completo
-   ├─ 🏟️ AtivaBox - 🧞 Aladdin's - Teste S/ Adultos
-
-📡 SERVIDOR: http://veloz.tvbrlive.com:80
-   Total de listas: 2
-   ├─ 🏎️ VelozNet - 🖥️ MeuServidor TV - Completo Com Adultos
-   ├─ 🏎️ VelozNet - 🖥️ MeuServidor TV - Completo Sem Adultos
+   Quantidade de listas: 38
+   ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_00h54].m3u
+   ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_07h52].m3u
+   ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
+   ├─ HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_01h03].m3u
+   ├─ HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
 
 📡 SERVIDOR: http://x25.acxll.shop:80
-   Total de listas: 17
-   ├─ 🎬 CineFlix - 🌊 WAVE - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 🌊 WAVE - Teste IPTV S/ Adultos
-   ├─ 🌐 NetPlay - 🌌 GALAXY - Teste C/ Adultos 12 Horas
-   ├─ 🌐 NetPlay - 🌌 GALAXY - Teste S/ Adultos 12 Horas
-   ├─ 🌐 NetPlay - 🌌 GALAXY - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🌌 GALAXY - Teste S/ Adulto 12 Horas
-   ├─ 🍁 HAVOK TV - ORION - 🍁 [Teste 04h] - Orion
-   ├─ 🌐 AMERICAN - NEW - 🌐 New Completo C/Adultos
-   ├─ 🌐 AMERICAN - NEW - 🌐 New Completo S/Adultos
-   ├─ 📺 PRIME LUX - PRIMEMAX - ⚡ TESTE COMPLETO C/ ADULTOS ⚡
-   ├─ 📺 PRIME LUX - PRIMEMAX - ⚡ TESTE COMPLETO S/ ADULTOS ⚡
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 1HR || COMPLETO💛
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 1HR || SEM ADULTOS💛
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 3HRS || COMPLETO💛
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 3HRS || SEM ADULTOS💛
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 6HRS || COMPLETO💛
-   ├─ 💛GLOBAL || IPTV 4💛 - 💛TESTE 6HRS || SEM ADULTOS💛
+   Quantidade de listas: 37
+   ├─ AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_00h54].m3u
+   ├─ AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_07h14].m3u
+   ├─ AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_07h58].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h44].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_01h04].m3u
+   ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h58].m3u
 
-📡 SERVIDOR: http://xxx.pxlst.site:80
-   Total de listas: 2
-   ├─ 🎬 CineFlix - ⚡ Thunder PLAY - Teste C/ Adultos
-   ├─ 🎬 CineFlix - ⚡ Thunder PLAY - Teste S/ Adultos
-
-📡 SERVIDOR: http://srv3.site:80
-   Total de listas: 4
-   ├─ 🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV S/ Adultos
-   ├─ 📺 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - S/ADULTOS
-
-📡 SERVIDOR: http://38.147.106.155:80
-   Total de listas: 9
-   ├─ 🎬 CineFlix - 🟣 RYZEN - Teste IPTV C/ Adultos
-   ├─ 🎬 CineFlix - 🟣 RYZEN - Teste IPTV S/ Adultos
-   ├─ 🌐 NetPlay - 7️⃣ SEVEN - Teste C/ Adultos 12 Horas
-   ├─ 🌐 NetPlay - 7️⃣ SEVEN - Teste S/ Adultos 12 Horas
-   ├─ 🌐 NetPlay - 7️⃣ SEVEN - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 7️⃣ SEVEN - Teste S/ Adulto 12 Horas
-   ├─ ♨️ HAVOK TV - TIGER - ♨️ [Teste 06h] - Tiger
-   ├─ 📺 PRIME LUX - PRIMEULTRA - ♣️ TESTE COMPLETO C/ ADULTOS ♣️
-   ├─ 📺 PRIME LUX - PRIMEULTRA - ♣️ TESTE COMPLETO S/ ADULTOS ♣️
-
-📡 SERVIDOR: http://wpm.dcnn.site:80
-   Total de listas: 8
-   ├─ 🎬 CineFlix - 🔋 VOLTZ - Teste C/ Adultos
-   ├─ 🎬 CineFlix - 🔋 VOLTZ - Teste S/ Adultos
-   ├─ 🌐 NetPlay - 🔥 HADES - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🔥 HADES - Teste S/ Adulto 12 Horas
-   ├─ 📺 PRIME LUX - PRIMEHUB - ▶️ TESTE COMPLETO C/ ADULTOS ▶️
-   ├─ 📺 PRIME LUX - PRIMEHUB - ▶️ TESTE COMPLETO S/ ADULTOS ▶️
-   ├─ 📺 LIFE UHD - RedPlay - 🍥RedPlay TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - RedPlay - 🍥RedPlay TESTE - s/ADULTOS
-
-📡 SERVIDOR: http://protec.sbs:80
-   Total de listas: 14
-   ├─ 🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas
-   ├─ 🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 2 Horas
-   ├─ 🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 12 Horas
-   ├─ 📺 PRIME LUX - PRIME X 🔷 - 🔷 TESTE IPTV COMPLETO C/ ADULTOS 🔷
-   ├─ 📺 PRIME LUX - PRIME X 🔷 - 🔷 TESTE IPTV COMPLETO S/ ADULTOS 🔷
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 1HR || COMPLETO🤍
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 1HR || SEM ADULTOS🤍
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 3HRS || COMPLETO🤍
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 3HRS || SEM ADULTOS🤍
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 6HRS || COMPLETO🤍
-   ├─ 🤍GLOBAL || IPTV 2🤍 - 🤍TESTE 6HRS || SEM ADULTOS🤍
-   ├─ 📺 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - s/ADULTOS
+📡 SERVIDOR: http://cloudsalex.space:80
+   Quantidade de listas: 32
+   ├─ AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
+   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_01h03].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_01h12].m3u
+   ├─ HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_01h44].m3u
+   ├─ HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_07h14].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_01h04].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
 
 📡 SERVIDOR: http://topcdn.fun:80
-   Total de listas: 14
-   ├─ 🌐 NetPlay - ⏩ SPEED - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - ⏩ SPEED - Teste S/ Adulto 12 Horas
-   ├─ 〽️ ZEROUM - 〽️ Teste IPTV Completo C/ Adultos
-   ├─ 〽️ ZEROUM - 〽️ Teste IPTV Completo S/ Adultos
-   ├─ 📺 SUBZERO - FÊNIX - 〽️ TESTE COMPLETO C/ ADULTOS 〽️
-   ├─ 📺 SUBZERO - FÊNIX - 〽️ TESTE COMPLETO S/ ADULTOS 〽️
-   ├─ 📺 PRIME LUX - PRIME ZEROUM 〽️ - ◾ TESTE COMPLETO C/ ADULTOS ◾
-   ├─ 📺 PRIME LUX - PRIME ZEROUM 〽️ - ◾ TESTE COMPLETO S/ ADULTOS ◾
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 1HR || COMPLETO💚
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 1HR || SEM ADULTOS💚
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 3HRS || COMPLETO💚
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 3HRS || SEM ADULTOS💚
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 6HRS || COMPLETO💚
-   ├─ 💚GLOBAL || IPTV 3💚 - 💚TESTE 6HRS || SEM ADULTOS💚
+   Quantidade de listas: 31
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h58].m3u
+   ├─ NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h49].m3u
+   ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_00h54].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_07h14].m3u
 
-📡 SERVIDOR: http://proxyphtop.shop:80
-   Total de listas: 5
-   ├─ 🌐 NetPlay - 💣 EXPLOSION - Teste Completo 2H C/ Adultos
-   ├─ 🌐 NetPlay - 💣 EXPLOSION - Teste Completo 2H S/ Adultos
-   ├─ 🌐 NetPlay - 💣 EXPLOSION - Teste S/ Adulto 12 Horas
-   ├─ 💎 Azonix - ▶️ PLAY - Teste De 24 Horas Com Adulto
-   ├─ 💎 Azonix - ▶️ PLAY - Teste De 24 Horas Sem Adulto
+📡 SERVIDOR: http://protec.sbs:80
+   Quantidade de listas: 28
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h12].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
 
-📡 SERVIDOR: http://eogdos.shop:80
-   Total de listas: 2
-   ├─ 🌐 NetPlay - ☀️ SOLAR - Teste 12 Horas C/ Adultos
-   ├─ 🌐 NetPlay - ☀️ SOLAR - Teste 12 Horas S/ Adultos
+📡 SERVIDOR: http://cdn.andromedaz.site:80
+   Quantidade de listas: 26
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_07h52].m3u
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_01h04].m3u
+   ├─ HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h58].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
 
-📡 SERVIDOR: http://cdnp.xyz:80
-   Total de listas: 6
-   ├─ 🌐 NetPlay - 🦉 ATENA - Teste C/ Adulto 12 Horas
-   ├─ 🌐 NetPlay - 🦉 ATENA - Teste S/ Adulto 12 Horas
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 3HRS || COMPLETO💜
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 3HRS || SEM ADULTOS💜
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 6HRS || COMPLETO💜
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 6HRS || SEM ADULTOS💜
+📡 SERVIDOR: http://wpm.dcnn.site:80
+   Quantidade de listas: 24
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_01h03].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01-2026_18h27].m3u
+   ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_02h00].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h40].m3u
+   ├─ WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_18h49].m3u
 
-📡 SERVIDOR: http://queroassistir.top:80
-   Total de listas: 2
-   ├─ ⚫ Pro Black - ✅ Teste Completo Com Adultos
-   ├─ ⚫ Pro Black - ✅ Teste Completo S/ Adulto
-
-📡 SERVIDOR: http://top.gpsrv.shop:80
-   Total de listas: 2
-   ├─ 💎 Azonix - 👑 SUPREME - Teste De 24 Horas Com Adulto
-   ├─ 💎 Azonix - 👑 SUPREME - Teste De 24 Horas Sem Adulto
-
-📡 SERVIDOR: https://wpls.shop:443
-   Total de listas: 2
-   ├─ 💎 Azonix - ♾️ INFINITY - Teste De 24 Horas Com Adulto
-   ├─ 💎 Azonix - ♾️ INFINITY - Teste De 24 Horas Sem Adulto
-
-📡 SERVIDOR: http://cdn.p2vip.top:80
-   Total de listas: 2
-   ├─ 🟢 P2VIP - 🟢 Teste Completo C/ Adulto
-   ├─ 🟢 P2VIP - 🟢 Teste Completo S/ Adultos
+📡 SERVIDOR: http://38.147.106.155:80
+   Quantidade de listas: 23
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h44].m3u
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h44].m3u
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026_07h52].m3u
+   ├─ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_01h12].m3u
+   ├─ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ playlist_160090903_plus.m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h58].m3u
 
 📡 SERVIDOR: http://wxpago.sbs:80
-   Total de listas: 2
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 1HR || COMPLETO💜
-   ├─ 💜GLOBAL || IPTV 1💜 - 💜TESTE 1HR || SEM ADULTOS💜
+   Quantidade de listas: 16
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://c.superodin.nl70.top:80
+   Quantidade de listas: 15
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_00h45].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_07h14].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_00h45].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_01h03].m3u
+   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_07h14].m3u
+   ├─ Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ Stark_-_Ultimate_[18-01-2026_20h32].m3u
+
+📡 SERVIDOR: http://proxyphtop.shop:80
+   Quantidade de listas: 13
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_00h45].m3u
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_07h14].m3u
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_00h45].m3u
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ Stark_-_Pro_[18-01-2026_20h31].m3u
+
+📡 SERVIDOR: http://sourceopbx.sbs:80
+   Quantidade de listas: 13
+   ├─ INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__OpenBox_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__OpenBox_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://srv3.site:80
+   Quantidade de listas: 12
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h44].m3u
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://sxhs.cgpsx.site:80
+   Quantidade de listas: 10
+   ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_01h03].m3u
+   ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_01h12].m3u
+   ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_07h14].m3u
+   ├─ Thunder_-__Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Thunder_-__Completo_Com_Adultos_[19-01-2026_07h58].m3u
+   ├─ Thunder_-__Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Thunder_-__Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://74.91.29.44:80
+   Quantidade de listas: 8
+   ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_01h03].m3u
+   ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_02h00].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://dns.blessed7.xyz:80
+   Quantidade de listas: 8
+   ├─ CineMania_-__Completo_Com_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineMania_-__Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineMania_-__Completo_Sem_Adultos_[19-01-2026_01h03].m3u
+   ├─ CineMania_-__Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://207.58.175.8:80
+   Quantidade de listas: 8
+   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: https://wpls.shop:443
+   Quantidade de listas: 5
+   ├─ Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_02h00].m3u
+   ├─ Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_01h44].m3u
+   ├─ Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__P2Box_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__P2Box_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://7sevenplay10.top:80
+   Quantidade de listas: 4
+   ├─ AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_07h52].m3u
+   ├─ AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://top.gpsrv.shop:80
+   Quantidade de listas: 4
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_00h54].m3u
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_07h14].m3u
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_00h45].m3u
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://xxx.pxlst.site:80
+   Quantidade de listas: 4
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_07h52].m3u
+
+📡 SERVIDOR: http://cdn.turbox.tv.br:80
+   Quantidade de listas: 4
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
 
 📡 SERVIDOR: http://cdneshow.xyz:80
-   Total de listas: 2
-   ├─ 📺 LIFE UHD - ARES PLAY - 🏹ARES PLAY TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - ARES PLAY - 🏹ARES PLAY TESTE - s/ADULTOS
+   Quantidade de listas: 4
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h58].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
 
 📡 SERVIDOR: http://cdn.kplaysuper.site:80
-   Total de listas: 2
-   ├─ 📺 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - C/ADULTOS
-   ├─ 📺 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - s/ADULTOS
+   Quantidade de listas: 4
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://eogdos.shop:80
+   Quantidade de listas: 4
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://cdn.p2vip.top:80
+   Quantidade de listas: 4
+   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_01h12].m3u
+   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_07h14].m3u
+   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_07h58].m3u
+
+📡 SERVIDOR: http://queroassistir.top:80
+   Quantidade de listas: 4
+   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_07h52].m3u
+   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_01h12].m3u
+   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://vidaloka.fun:80
+   Quantidade de listas: 4
+   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__Caracol_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__Caracol_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://veloz.tvbrlive.com:80
+   Quantidade de listas: 4
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_07h52].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_01h44].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://infra10.top:80
+   Quantidade de listas: 2
+   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h49].m3u
+
+📡 SERVIDOR: http://rynox.top:80
+   Quantidade de listas: 2
+   ├─ CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h40].m3u
+   ├─ CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+
+📡 SERVIDOR: http://cdn.viadoveio.uk:80
+   Quantidade de listas: 2
+   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+
+📡 SERVIDOR: http://tigeragile.uk:80
+   Quantidade de listas: 2
+   ├─ HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_01h03].m3u
+   ├─ HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://lbgthost.shop:80
+   Quantidade de listas: 2
+   ├─ HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_01h03].m3u
+   ├─ HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://fhmplay.shop:80
+   Quantidade de listas: 2
+   ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_01h03].m3u
+   ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://dstreaming.win:80
+   Quantidade de listas: 2
+   ├─ HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_01h12].m3u
+   ├─ HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_07h14].m3u
+
+📡 SERVIDOR: http://cdn.serversnetuno.site:80
+   Quantidade de listas: 2
+   ├─ HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_01h04].m3u
+   ├─ HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_07h52].m3u

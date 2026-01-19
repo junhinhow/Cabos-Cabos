@@ -58,3 +58,18 @@ Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/aYB1w5nDvm
 [19/01/2026 07:51:09] 🌐 NetPlay - 🔗 P2P BinStream NetPlay - Teste S/ Adulto 12 Horas | Erro Final: HTTP 405
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/64vLbJ4LgG
 ------------------------------
+[19/01/2026 07:51:10] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Erro Final: HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[19/01/2026 07:51:11] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Erro Final: HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------
+[19/01/2026 07:51:13] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[19/01/2026 07:51:15] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------
+[19/01/2026 07:51:26] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------

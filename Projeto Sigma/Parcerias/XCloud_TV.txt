@@ -18,3 +18,7 @@
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=36673493&password=84012824&type=m3u_plus&output=hls
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos] \ud83d\udfe2 *M3U:* http://xcloudcine.xyz/get.php?username=36673493&password=84012824&type=m3u_plus&output=mpegts
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=36673493&password=84012824&type=m3u_plus&output=hls
+[CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe2 *M3U:* http://xcloudcine.xyz/get.php?username=85046784&password=55357089&type=m3u_plus&output=mpegts
+[CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=85046784&password=55357089&type=m3u_plus&output=hls
+[CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe2 *M3U:* http://xcloudcine.xyz/get.php?username=85046784&password=55357089&type=m3u_plus&output=mpegts
+[CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=85046784&password=55357089&type=m3u_plus&output=hls

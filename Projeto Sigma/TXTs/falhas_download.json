@@ -39,13 +39,13 @@
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=717904039&password=556284202&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 14:10:19"
+        "data": "2026-01-19 14:32:56"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=513453513&password=461472083&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-19 14:10:04"
+        "data": "2026-01-19 14:32:56"
     },
     {
         "nome": "BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
@@ -213,19 +213,19 @@
         "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
         "url": "http://br.bossplay.top/get.php?username=966662096&password=294082540&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:31:50"
+        "data": "2026-01-19 14:32:57"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
         "url": "http://cdn.ax66.shop:80/get.php?username=546057995&password=696855265&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:31:50"
+        "data": "2026-01-19 14:32:57"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
         "url": "http://cdn.ax66.shop:80/get.php?username=759653409&password=310527877&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:31:50"
+        "data": "2026-01-19 14:32:57"
     },
     {
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS",
@@ -249,7 +249,7 @@
         "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_CADULTOS",
         "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 12:31:53"
+        "data": "2026-01-19 14:33:40"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
@@ -555,12 +555,24 @@
         "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
         "url": "http://fristez.xyz/get.php?username=448902878&password=501158868&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 14:16:27"
+        "data": "2026-01-19 14:32:56"
     },
     {
         "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
         "url": "http://fristez.xyz/get.php?username=207503232&password=374324563&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 14:16:27"
+        "data": "2026-01-19 14:32:57"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
+        "url": "http://cddn1.site/get.php?username=294017653&password=898449223&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:33:40"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_sADULTOS",
+        "url": "http://cddn1.site/get.php?username=174424768&password=543099494&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 14:33:40"
     }
 ]

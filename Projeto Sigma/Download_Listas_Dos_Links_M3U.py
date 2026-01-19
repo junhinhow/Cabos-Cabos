@@ -249,7 +249,7 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                         bar.update(tam_chunk)
                         tamanho_baixado += tam_chunk
 
-                        if tamanho_baixado > 20 * 1024 * 1024 * 100:
+                        if tamanho_baixado > 2000 * 1024 * 1024:
                             local_session.close()
                             return False, "Abortado: Excedeu 2.000 MB"
 

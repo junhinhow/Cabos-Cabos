@@ -13,7 +13,7 @@ from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# --- IMPORTAÇÕES OPCIONAIS (Para barra visual apenas) ---
+# --- IMPORTAÇÕES OPCIONAIS ---
 try:
     from tqdm import tqdm
 except ImportError:
@@ -25,18 +25,20 @@ warnings.filterwarnings("ignore")
 
 # --- CONFIGURAÇÕES ---
 PASTA_JSON_RAW = "Dados-Brutos"
-PASTA_DESTINO = "Listas-Downloaded"
+PASTA_DESTINO = "Listas-Downloaded" # O JD2 decide a pasta, mas mantemos a variável
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
 # ==============================================================================
-# ✅ SEU CAMINHO DO IDM CONFIGURADO CORRETAMENTE ABAIXO:
+# ✅ CAMINHO DO JDOWNLOADER 2
 # ==============================================================================
-CAMINHO_IDM = r"D:\Program Files (x86)\Internet Download Manager\IDMan.exe"
+CAMINHO_JD2 = r"D:\Program Files\JDownloader 2\JDownloader2.exe"
 
-MAX_SIMULTANEOS = 20      
+# Aumentado para 10 como solicitado (Envio de links)
+# Obs: Configure o limite de download DENTRO do JDownloader também!
+MAX_SIMULTANEOS = 10      
 CACHE_VALIDADE = 14400   
 PARAR_EXECUCAO = False
 
@@ -48,6 +50,7 @@ APPS_PARCERIA = {
 }
 
 def limpar_lixo_tmp():
+    # JD2 cria arquivos .part, não .tmp do python, mas mantemos a limpeza da pasta
     files = glob.glob(os.path.join(PASTA_DESTINO, "*.tmp"))
     if files:
         for f in files:
@@ -144,16 +147,15 @@ def extrair_infos_extras(dados_json, nome_base):
                 salvar_linha_unica(caminho_txt, f"[{nome_base}] {l}")
 
 def gerenciar_cache_inteligente(nome_base):
-    # Procura arquivos que começam com o nome base na pasta de destino
-    # O escape serve para evitar erro se o nome tiver [ ]
+    # Nota: Com JD2 é difícil saber se o arquivo já foi baixado pelo nome exato,
+    # pois o JD2 costuma usar o nome original do servidor.
+    # Mantemos a lógica caso você organize a pasta manualmente depois.
     padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
     arquivos_existentes = glob.glob(padrao)
     
     if arquivos_existentes:
-        # Pega o mais recente
         arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
         try:
-            # Se for maior que 2KB e tiver menos de 4 horas
             if os.path.getsize(arquivo_antigo) > 2048:
                 if time.time() - os.path.getmtime(arquivo_antigo) < CACHE_VALIDADE:
                     return True, arquivo_antigo
@@ -161,35 +163,32 @@ def gerenciar_cache_inteligente(nome_base):
     return False, None
 
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    # O IDM precisa do caminho absoluto da pasta (ex: D:\Pasta...)
-    pasta_absoluta = os.path.abspath(os.path.dirname(caminho_destino))
-    nome_arquivo = os.path.basename(caminho_destino)
+    # O JD2 recebe a URL. Ele é um "Link Grabber".
+    # Diferente do IDM, o JD2 geralmente ignora o nome de saída via linha de comando
+    # e usa o nome que o servidor manda.
     
-    if not os.path.exists(CAMINHO_IDM):
-        return False, f"IDM não encontrado em: {CAMINHO_IDM}"
+    if not os.path.exists(CAMINHO_JD2):
+        return False, f"JD2 não encontrado em: {CAMINHO_JD2}"
 
     try:
-        # /d URL /p PASTA /f NOME /n (silencioso) /a (adicionar na fila)
+        # Comando para adicionar links ao JDownloader 2
+        # A flag --add-links (ou apenas passar a URL) diz para ele pegar
         cmd = [
-            CAMINHO_IDM,
-            '/d', url,
-            '/p', pasta_absoluta,
-            '/f', nome_arquivo,
-            '/n',
-            '/a' 
+            CAMINHO_JD2,
+            url
         ]
         
-        # Manda para a fila
-        subprocess.run(cmd, check=True)
-        # Força o IDM a começar a baixar a fila
-        subprocess.run([CAMINHO_IDM, '/s'], check=False)
+        # subprocess.Popen é melhor aqui para não travar o script esperando o JD2 fechar
+        # O JD2 recebe o link e libera o processo.
+        subprocess.Popen(cmd, shell=False)
         
-        return True, "Enviado para fila do IDM"
+        # Pequeno delay para garantir que o JD2 processe o comando sem engasgar
+        time.sleep(0.2) 
+        
+        return True, "Enviado para o JDownloader"
 
-    except subprocess.CalledProcessError:
-        return False, "Erro ao enviar comando para IDM"
     except Exception as e:
-        return False, f"Erro Script IDM: {str(e)}"
+        return False, f"Erro Script JD2: {str(e)}"
 
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
@@ -218,6 +217,8 @@ def worker(nome_arquivo_json, fila_slots):
 
         timestamp = datetime.now().strftime("[%d-%m-%Y_%Hh%M]")
         novo_nome_arquivo = f"{nome_base}_{timestamp}.m3u"
+        
+        # Enviamos para o JD2. O nome do arquivo dependerá do servidor/JD2.
         caminho_final = os.path.join(PASTA_DESTINO, novo_nome_arquivo)
 
         desc = f"Slot {slot} | {nome_base[:15]}"
@@ -226,7 +227,6 @@ def worker(nome_arquivo_json, fila_slots):
         fila_slots.put(slot)
 
         if sucesso:
-            # Retorna sucesso pois foi entregue ao IDM
             return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
             return "ERRO", nome_base, (msg, url_m3u)
@@ -236,10 +236,10 @@ def worker(nome_arquivo_json, fila_slots):
         return "ERRO", nome_base, (f"CRASH: {str(e)}", "url_desconhecida")
 
 def main():
-    if not os.path.exists(CAMINHO_IDM):
-        print(f"❌ ATENÇÃO CRÍTICA: O IDM não foi encontrado no caminho:")
-        print(f"👉 {CAMINHO_IDM}")
-        print("Verifique se o caminho está correto dentro do script.")
+    if not os.path.exists(CAMINHO_JD2):
+        print(f"❌ ATENÇÃO CRÍTICA: JDownloader 2 não encontrado em:")
+        print(f"👉 {CAMINHO_JD2}")
+        print("Verifique se o caminho está correto.")
         return
 
     limpar_lixo_tmp()
@@ -251,9 +251,9 @@ def main():
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V20 (IDM INTEGRATION) | Arq: {len(arquivos)}")
-    print(f"📥 Modo: IDM AUTOMÁTICO")
-    print(f"📁 Caminho IDM: {CAMINHO_IDM}")
+    print(f"🚀 SIGMA DOWNLOADER V21 (JD2 POWER) | Arq: {len(arquivos)}")
+    print(f"📥 Modo: JDOWNLOADER 2 (10 Slots de Envio)")
+    print(f"⚠️ DICA: Configure 'Downloads Simultâneos' p/ 10 dentro do JD2!")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
@@ -274,11 +274,11 @@ def main():
                     erro_obj = {"nome": nome, "url": url_erro, "erro": msg_erro, "data": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
                     salvar_falhas_json([erro_obj])
                 
-                pbar.set_postfix_str(f"✅IDM:{stats['SUCESSO']} ⏭️Skip:{stats['CACHE']} ❌Err:{stats['ERRO']}")
+                pbar.set_postfix_str(f"✅JD2:{stats['SUCESSO']} ⏭️Skip:{stats['CACHE']} ❌Err:{stats['ERRO']}")
                 pbar.update(1)
                 if PARAR_EXECUCAO: executor.shutdown(wait=False, cancel_futures=True); break
     
-    print("\n🏁 Links enviados para o IDM! O IDM cuidará dos downloads e erros de rede agora.")
+    print("\n🏁 Links enviados para o JDownloader! Verifique a aba 'Captura de Links' ou 'Downloads'.")
 
 if __name__ == "__main__":
     main()

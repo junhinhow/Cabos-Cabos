@@ -52,3 +52,36 @@ Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/Yen129WPEa
 [19/01/2026 01:41:44] 🔝 Top Z - 📺 TV Express +18 | Erro Final: HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
 ------------------------------
+[19/01/2026 01:41:45] 🔝 Top Z - 📺 TV Express -18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[19/01/2026 01:41:46] 📱 P2VIP - 📱 App Teste Automático Sem Login | Erro Final: HTTP 405
+Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/ayb1BQxWPR
+------------------------------
+[19/01/2026 01:41:47] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Erro Final: HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+------------------------------
+[19/01/2026 01:41:48] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Erro Final: HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------
+[19/01/2026 01:41:49] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
+------------------------------
+[19/01/2026 01:41:50] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[19/01/2026 01:41:51] ✅ EVOLUTION - PLAY - ✅ Xcloud | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K
+------------------------------
+[19/01/2026 01:41:52] 👽 EVOLUTION - EVO PRIME - 👽 Teste -18 | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
+------------------------------
+[19/01/2026 01:41:53] 🔰 HAVOK TV - P2P BINSTREAM - 🔰 [Teste 04h] - P2P Binstream | Erro Final: HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMPR104
+------------------------------
+[19/01/2026 01:41:55] 📺 New-Servers - Binstream - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[19/01/2026 01:41:57] 📺 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------

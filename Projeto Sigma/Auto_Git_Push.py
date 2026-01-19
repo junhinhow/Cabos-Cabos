@@ -9,33 +9,35 @@ BRANCH = "main"             # Confirme se é 'main' ou 'master'
 
 def verificar_e_enviar():
     try:
-        # 1. Pergunta ao GIT se tem algo pendente (Staging ou Untracked)
-        # --porcelain gera uma saída limpa e vazia se não houver mudanças
+        # 1. Pergunta ao GIT se tem algo pendente
+        # O comando 'git status --porcelain' é feito para scripts lerem
         result = subprocess.run(
             ["git", "status", "--porcelain"], 
             capture_output=True, 
             text=True, 
             encoding='utf-8',
-            errors='ignore' # Evita crash com caracteres estranhos
+            errors='ignore'
         )
         
         mudancas = result.stdout.strip()
 
-        # Se a variável 'mudancas' não estiver vazia, TEM COISA NOVA!
+        # Se tiver qualquer texto na variável 'mudancas', significa que tem arquivo novo/modificado
         if mudancas:
             timestamp = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-            print(f"\n[{timestamp}] 👁️ Git detectou alterações:\n{mudancas}")
-            print("-" * 40)
+            print(f"\n[{timestamp}] 👁️ Git detectou alterações!")
+            
+            # Pequena pausa para garantir que o arquivo terminou de ser salvo pelo editor
+            time.sleep(2)
             
             mensagem = f"Auto-Update: {timestamp}"
             
-            print("⚙️ Adicionando arquivos (git add)...")
+            print("⚙️ Adicionando arquivos...")
             subprocess.run(["git", "add", "."], check=True)
             
-            print(f"📝 Commitando (git commit -m '{mensagem}')...")
+            print(f"📝 Commitando...")
             subprocess.run(["git", "commit", "-m", mensagem], check=True)
             
-            print(f"🚀 Enviando para GitHub (git push origin {BRANCH})...")
+            print(f"🚀 Enviando para GitHub...")
             push_result = subprocess.run(
                 ["git", "push", "origin", BRANCH], 
                 capture_output=True, 
@@ -43,35 +45,29 @@ def verificar_e_enviar():
             )
             
             if push_result.returncode == 0:
-                print(f"✅ SUCESSO! Tudo sincronizado às {timestamp}.")
+                print(f"✅ SUCESSO! Sincronizado.")
             else:
-                print(f"⚠️ Atenção no Push:\n{push_result.stderr}")
+                print(f"⚠️ O Push falhou (pode ser internet ou conflito):\n{push_result.stderr}")
             
             print("-" * 40)
             return True
             
         else:
-            # Se não tem mudanças, não faz nada, só silêncio.
             return False
 
     except Exception as e:
-        print(f"❌ Erro Crítico: {e}")
+        print(f"❌ Erro no Script: {e}")
         return False
 
 def main():
-    print(f"🔭 VIGIA GIT DIRETO INICIADO")
+    print(f"🔭 VIGIA GIT (MODO DIRETO) INICIADO")
     print(f"📂 Pasta: {os.getcwd()}")
-    print(f"⏱️ Verificando o comando 'git status' a cada {INTERVALO_VERIFICACAO} segundos...")
     print("------------------------------------------------")
 
-    # Loop Infinito
     try:
         while True:
             verificar_e_enviar()
             time.sleep(INTERVALO_VERIFICACAO)
-            
-            # Pequeno indicador visual de vida (opcional, imprime um ponto a cada ciclo)
-            # print(".", end="", flush=True) 
 
     except KeyboardInterrupt:
         print("\n🛑 Parando script.")

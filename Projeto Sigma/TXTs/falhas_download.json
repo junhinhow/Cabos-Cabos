@@ -622,5 +622,11 @@
         "url": "http://vtvbr.com:80/get.php?username=9586939122&password=4767143806&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-19 14:40:22"
+    },
+    {
+        "nome": "WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://primegold.fun/get.php?username=101671&password=847658&type=m3u_plus&output=mpegts",
+        "erro": "Arquivo muito pequeno",
+        "data": "2026-01-19 14:41:01"
     }
 ]

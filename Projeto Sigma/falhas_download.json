@@ -195,19 +195,19 @@
         "nome": "New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS",
         "url": "http://meuscanais.pro/get.php?username=157660589&password=506133313&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 00:02:03"
+        "data": "2026-01-19 00:06:55"
     },
     {
         "nome": "New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS",
         "url": "http://meuscanais.pro/get.php?username=573094326&password=373727536&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 00:02:03"
+        "data": "2026-01-19 00:06:55"
     },
     {
         "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS",
         "url": "http://dns.blessed7.xyz:80/get.php?username=160338046&password=861258382&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-19 00:02:04"
+        "data": "2026-01-19 00:06:55"
     },
     {
         "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
@@ -238,5 +238,35 @@
         "url": "http://cdn.ax66.shop:80/get.php?username=577024172&password=859917903&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-19 00:06:36"
+    },
+    {
+        "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://dns.blessed7.xyz:80/get.php?username=152643464&password=175896999&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 00:06:55"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_COM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=432689521&password=838082126&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:06:55"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=495127857&password=853253127&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:06:55"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=519034001&password=548092675&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-19 00:06:55"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_COM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=916412509&password=559031178&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-19 00:06:55"
     }
 ]

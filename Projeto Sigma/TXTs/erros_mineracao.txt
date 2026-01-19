@@ -79,3 +79,15 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
 [19/01/2026 07:31:41] 📺 New-Servers - MagicPlay - COMPLETO COM ADULTOS | Erro Final: HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
 ------------------------------
+[19/01/2026 07:31:43] 📺 New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+------------------------------
+[19/01/2026 07:31:52] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
+------------------------------
+[19/01/2026 07:31:54] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
+------------------------------
+[19/01/2026 07:31:56] 📱 P2VIP - 📱 App Teste Automático Sem Login | Erro Final: HTTP 405
+Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/ayb1BQxWPR
+------------------------------

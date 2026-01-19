@@ -285,36 +285,48 @@ def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
                 f.write(f"[{nome_exibicao}] {l}\n")
 
 def baixar_arquivo_com_progresso(url, caminho_saida, nome_exibicao, posicao_barra):
+    caminho_temp = caminho_saida + ".temp"
     try:
+        # Remove lixo de tentativas anteriores
+        if os.path.exists(caminho_temp):
+            os.remove(caminho_temp)
+
         # Usa a função de requisição inteligente
         resp = requisicao_inteligente(url)
         
         total_size = int(resp.headers.get('content-length', 0))
-        if total_size > 0 and total_size < 150: 
+        if total_size > 0 and total_size < 150:
             return False, "Arquivo suspeito (muito pequeno)"
 
         # Barra de progresso do slot
-        desc = f"Slot {posicao_barra} | {nome_exibicao[:10]}..."
+        desc = f"Slot {posicao_barra} | {nome_exibicao[:15]}"
         
-        with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024, 
-                 desc=desc, position=posicao_barra, leave=False, ncols=100) as bar:
+        with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024,
+                 desc=desc.ljust(30), position=posicao_barra, leave=False, ncols=100,
+                 bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
             
-            with open(caminho_saida, 'wb') as f:
+            with open(caminho_temp, 'wb') as f:
                 for chunk in resp.iter_content(chunk_size=32768):
-                    if PARAR_EXECUCAO: 
+                    if PARAR_EXECUCAO:
                         break
                     if chunk:
                         f.write(chunk)
                         bar.update(len(chunk))
         
         if PARAR_EXECUCAO:
-            if os.path.exists(caminho_saida): 
-                os.remove(caminho_saida)
+            if os.path.exists(caminho_temp):
+                os.remove(caminho_temp)
             return False, "Interrompido"
 
-        # Verifica se o arquivo baixado é válido
-        if os.path.getsize(caminho_saida) < 100: 
+        # Verifica se o arquivo baixado é válido antes de renomear
+        if not os.path.exists(caminho_temp) or os.path.getsize(caminho_temp) < 100:
+            if os.path.exists(caminho_temp): os.remove(caminho_temp)
             return False, "Arquivo vazio ou inválido"
+        
+        # Finaliza: move temp para original
+        if os.path.exists(caminho_saida):
+            os.remove(caminho_saida)
+        os.rename(caminho_temp, caminho_saida)
             
         return True, "OK"
         
@@ -440,9 +452,14 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     
-    print(f"🚀 DOWNLOADER DASHBOARD V5.1 (Com Logs Timestamp)")
-    print(f"📂 Arquivos: {len(arquivos)} | ⚡ Threads: {MAX_SIMULTANEOS}")
-    print("⌨️  Pressione 'Z' para encerrar.\n")
+    print(f"============================================================")
+    print(f"🚀 SIGMA DOWNLOADER PRO | V6.0")
+    print(f"============================================================")
+    print(f"📂 Arquivos para processar: {len(arquivos)}")
+    print(f"⚡ Slots de Download: {MAX_SIMULTANEOS}")
+    print(f"🕒 Cache: {CACHE_VALIDADE_SEGUNDOS//3600}h | 💾 Temp: Ativado (.temp)")
+    print(f"⌨️  Pressione 'Z' para parar com segurança.")
+    print(f"------------------------------------------------------------\n")
 
     fila_posicoes = queue.Queue()
     for i in range(1, MAX_SIMULTANEOS + 1): fila_posicoes.put(i)
@@ -463,12 +480,19 @@ def main():
                 if status:
                     stats[status] += 1
                     
-                    if status == "ERRO":
-                        # --- GERA TIMESTAMP ---
-                        agora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+                    # Log em tempo real no terminal (acima das barras)
+                    agora = datetime.now().strftime("%H:%M:%S")
+                    if status == "SUCESSO":
+                        tqdm.write(f"[{agora}] ✅ CONCLUÍDO: {nome}")
+                    elif status == "ERRO":
+                        tqdm.write(f"[{agora}] ❌ FALHA: {nome} -> {info[:50]}...")
+                        # Salva no arquivo de erros
                         with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
-                            # Formato: [Data] Nome | Erro | Link
-                            log.write(f"[{agora}] {nome} | {info}\n")
+                            log.write(f"[{datetime.now().strftime('%d/%m/%Y %H:%M:%S')}] {nome} | {info}\n")
+                    elif status == "PULADO":
+                        tqdm.write(f"[{agora}] ⏭️  CACHE: {nome}")
+                    elif status == "IGNORADO":
+                        tqdm.write(f"[{agora}] ℹ️  IGNORADO: {nome}")
 
                 resumo = f"✅{stats['SUCESSO']} ⏭️{stats['PULADO']} ℹ️{stats['IGNORADO']} ❌{stats['ERRO']}"
                 if PARAR_EXECUCAO: resumo += " 🛑 PARANDO..."

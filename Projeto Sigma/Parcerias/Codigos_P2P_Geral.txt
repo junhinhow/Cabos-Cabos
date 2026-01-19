@@ -1,7 +1,3 @@
 [🎬 CineFlix - 🌊 WAVE - 🔴 UNITV] "password": "p2pturbo50",
 [🎬 CineFlix - ⚡ Thunder PLAY - 🔴 UNITV] "password": "p2pturbo50",
 [🎬 CineFlix - 1️⃣ NET-ONE - 🔴 UNITV] "password": "p2pturbo50",
-[🟢 P2VIP - 🟢 Teste P2P Americano] "reply": "Bem vindo a P2VIP\nBAIXE NOSSO APP\n\n*P2P AMERICANO*\nhttp://aftv.news/447127\n\nCÓDIGO: 68109675\n\nSeu teste é valido até: 4 horas\n\nAtt: P2VIP",
-[🟢 P2VIP - 🟢 Teste P2P Americano] "message": "Bem vindo a P2VIP\nBAIXE NOSSO APP\n\n*P2P AMERICANO*\nhttp://aftv.news/447127\n\nCÓDIGO: 68109675\n\nSeu teste é valido até: 4 horas\n\nAtt: P2VIP"
-[🔴 AMERICAN - PLAY - 🔴 Uni TV] "password": "p2pturbo50",
-[🔴 AMERICAN - NEW - 🔴 Uni TV] "password": "p2pturbo50",

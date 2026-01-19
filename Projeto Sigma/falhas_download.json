@@ -111,13 +111,13 @@
         "nome": "Lider_-__SHOW_-_Completo_Com_Adultos",
         "url": "http://br.bossplay.top/get.php?username=320050358&password=274983060&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 00:01:31"
+        "data": "2026-01-19 00:06:36"
     },
     {
         "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
         "url": "http://br.bossplay.top/get.php?username=966662096&password=294082540&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 00:01:31"
+        "data": "2026-01-19 00:06:36"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
@@ -135,19 +135,19 @@
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
         "url": "http://cddn1.site/get.php?username=383884505&password=529102287&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 00:01:31"
+        "data": "2026-01-19 00:06:37"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_sADULTOS",
         "url": "http://cddn1.site/get.php?username=767149550&password=927336942&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-19 00:01:32"
+        "data": "2026-01-19 00:06:37"
     },
     {
         "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_sADULTOS",
         "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-19 00:01:32"
+        "data": "2026-01-19 00:06:38"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
@@ -226,5 +226,17 @@
         "url": "http://anubis.cmstech2.top/get.php?username=103227266&password=526438802&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-19 00:06:13"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=429777171&password=914252304&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:06:36"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=577024172&password=859917903&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 00:06:36"
     }
 ]

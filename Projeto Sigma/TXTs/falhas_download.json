@@ -112,5 +112,11 @@
         "url": "http://iptv1.glloball.shop:80/get.php?username=878488&password=521588&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:44:13"
+    },
+    {
+        "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
+        "url": "http://parceria.parclll.site/get.php?username=987795&password=870886&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:44:55"
     }
 ]

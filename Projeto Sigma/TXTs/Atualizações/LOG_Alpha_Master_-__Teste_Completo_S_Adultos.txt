@@ -1,0 +1,15 @@
+
+============================================================
+📁 ARQUIVO: Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_01h03].m3u
+📅 DATA DO ARQUIVO: 19/01/2026 01:03
+🔁 COMPARADO COM: Versão anterior (ou carga inicial)
+------------------------------------------------------------
+ℹ️ CARGA INICIAL: 261142 itens identificados.
+   (Mudanças serão rastreadas a partir do próximo arquivo)
+
+============================================================
+📁 ARQUIVO: Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_07h14].m3u
+📅 DATA DO ARQUIVO: 19/01/2026 07:14
+🔁 COMPARADO COM: Versão anterior (ou carga inicial)
+------------------------------------------------------------
+✅ NENHUMA ALTERAÇÃO DETECTADA NA GRADE.

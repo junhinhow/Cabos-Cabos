@@ -274,5 +274,47 @@
         "url": "http://dns.azonixsupreme.fun/get.php?username=717904039&password=556284202&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-19 00:41:37"
+    },
+    {
+        "nome": "Pro_Black_-__Teste_Completo_Com_Adultos",
+        "url": "http://queroassistir.top/get.php?username=665300218&password=625279028&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:37"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://pbklux.shop/get.php?username=100477293&password=469442109&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:37"
+    },
+    {
+        "nome": "Servidor_X_-__AtivaBox_Com_Adultos",
+        "url": "http://meuscanais.pro/get.php?username=951884421&password=637534113&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:37"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://parceria.parclll.site/get.php?username=498926605&password=373775180&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:37"
+    },
+    {
+        "nome": "Pro_Black_-__Teste_Completo_S_Adulto",
+        "url": "http://queroassistir.top/get.php?username=476851975&password=802461766&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:37"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://pbklux.shop/get.php?username=739532519&password=591314915&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:38"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=532572770&password=807731526&type=m3u_plus&output=mpegts",
+        "erro": "Erro Script JD2: [WinError 1450] Não existem recursos de sistema suficientes para concluir o serviço solicitado",
+        "data": "2026-01-19 00:59:38"
     }
 ]

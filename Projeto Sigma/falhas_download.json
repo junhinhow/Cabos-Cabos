@@ -268,5 +268,11 @@
         "url": "http://dns.ofmp.site/get.php?username=916412509&password=559031178&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 520",
         "data": "2026-01-19 00:06:55"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=717904039&password=556284202&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 00:41:37"
     }
 ]

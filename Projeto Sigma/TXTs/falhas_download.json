@@ -262,5 +262,11 @@
         "url": "http://c.lifetop.top:80/get.php?username=387824733&password=919152790&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-19 11:53:48"
+    },
+    {
+        "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
+        "url": "http://c.lifetop.top:80/get.php?username=159418638&password=120734489&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-19 11:53:59"
     }
 ]

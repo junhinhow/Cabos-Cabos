@@ -11783,3 +11783,17 @@ https://aftv.news/6985274\n*DOWNLOADER
 [WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6220831\n\n\ud83d\udd39
 [WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/8845054\n\nAcesso
 [WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6245886\n\n\ud83d\udd39
+[WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/6220831\n\n\ud83d\udd39
+[WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/8845054\n\nAcesso
+[WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS] https://aftv.news/1650495\n\ud83d\udce5
+[WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/6245886\n\n\ud83d\udd39
+[WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6220831\n\n\ud83d\udd39
+[WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/8845054\n\nAcesso
+[WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS] https://aftv.news/1650495\n\ud83d\udce5
+[WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6245886\n\n\ud83d\udd39
+[WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/6220831\n\n\ud83d\udd39
+[WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/8845054\n\nAcesso
+[WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS] http://aftv.news/6245886\n\n\ud83d\udd39
+[WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6220831\n\n\ud83d\udd39
+[WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/8845054\n\nAcesso
+[WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS] http://aftv.news/6245886\n\n\ud83d\udd39

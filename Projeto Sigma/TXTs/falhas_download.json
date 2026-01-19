@@ -592,5 +592,17 @@
         "url": "http://c.lifetop.top:80/get.php?username=836302501&password=558790540&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-19 14:34:10"
+    },
+    {
+        "nome": "Servidor_X_-__DUO_Teste_-_C_Adulto",
+        "url": "http://daxoi.online/get.php?username=962053369&password=621111486&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 14:38:55"
+    },
+    {
+        "nome": "Servidor_X_-__DUO_Teste_-_S_Adulto",
+        "url": "http://daxoi.online/get.php?username=257452044&password=239919243&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 14:38:56"
     }
 ]

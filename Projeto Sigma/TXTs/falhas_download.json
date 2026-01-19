@@ -154,5 +154,41 @@
         "url": "http://dnszayda.run/get.php?username=9712150&password=2899221&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 11:48:07"
+    },
+    {
+        "nome": "Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos",
+        "url": "http://shiuk.xyz/get.php?username=105316759&password=848212600&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:09"
+    },
+    {
+        "nome": "Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos",
+        "url": "http://shiuk.xyz/get.php?username=697737235&password=795645040&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:48:10"
+    },
+    {
+        "nome": "INVICTOS_EXTREME_-",
+        "url": "http://gladiadorplay.xyz/get.php?username=108799294569&password=432337225746&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:48:11"
+    },
+    {
+        "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
+        "url": "http://gladiadorplay.xyz/get.php?username=561384623655&password=782937680945&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:48:12"
+    },
+    {
+        "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)",
+        "url": "http://invictosserver.xyz/get.php?username=341194007224&password=184520686550&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:48:14"
+    },
+    {
+        "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS",
+        "url": "http://invictosserver.xyz/get.php?username=836107395660&password=384000129025&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:48:15"
     }
 ]

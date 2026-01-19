@@ -7,11 +7,12 @@ import time
 import msvcrt
 import shutil
 import warnings
+import glob
 from datetime import datetime
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# --- IMPORTAÇÕES OBRIGATÓRIAS ---
+# --- IMPORTAÇÕES ---
 try:
     from tqdm import tqdm
     import cloudscraper
@@ -23,7 +24,6 @@ except ImportError:
     print("Instale: pip install tqdm cloudscraper requests")
     sys.exit()
 
-# Ignora avisos de SSL inseguro (comuns em IPTV)
 warnings.filterwarnings("ignore")
 
 # --- CONFIGURAÇÕES ---
@@ -32,44 +32,26 @@ PASTA_DESTINO = "Listas-Downloaded"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
-ARQUIVO_ATUALIZACOES = "Atualizações.txt"
 
-MAX_SIMULTANEOS = 4      # Reduzi para 4 para evitar bloqueio por "flood"
+MAX_SIMULTANEOS = 4      
 CACHE_VALIDADE = 14400   # 4 Horas
-TIMEOUT_PADRAO = 60      # Aumentado para servidores lentos
+TIMEOUT_PADRAO = 60      
 
-# Controle Global
 PARAR_EXECUCAO = False
 
-# --- MOTOR DE CONEXÃO (O TANQUE) ---
+# --- MOTOR DE CONEXÃO ---
 def criar_sessao_blindada():
-    """Cria uma sessão que simula um navegador real e insiste na conexão"""
-    # 1. Configura o CloudScraper (Anti-Bot)
     sessao = cloudscraper.create_scraper(
-        browser={
-            'browser': 'chrome',
-            'platform': 'windows',
-            'mobile': False,
-            'desktop': True,
-        }
+        browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False, 'desktop': True}
     )
-    
-    # 2. Configura Retentativas (Retry) para quedas de conexão
-    retry_strategy = Retry(
-        total=3,  # Tenta 3 vezes
-        backoff_factor=1, # Espera 1s, 2s, 4s...
-        status_forcelist=[500, 502, 503, 504, 520, 521, 522], # Erros de servidor que valem a pena tentar de novo
-    )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
+    retry = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504, 520, 521, 522])
+    adapter = HTTPAdapter(max_retries=retry)
     sessao.mount("https://", adapter)
     sessao.mount("http://", adapter)
-    
     return sessao
 
-# Instância global do navegador falso
 Navegador = criar_sessao_blindada()
 
-# Dicionário de Parcerias
 APPS_PARCERIA = {
     "Assist": "Assist_Plus_Play_Sim", "Play Sim": "Assist_Plus_Play_Sim",
     "Lazer": "Lazer_Play", "Vizzion": "Vizzion", "Unitv": "UniTV",
@@ -83,67 +65,74 @@ def checar_tecla_z():
         if msvcrt.getch().decode('utf-8').lower() == 'z':
             PARAR_EXECUCAO = True
 
-def arquivo_cache_valido(caminho):
-    """Verifica se o arquivo existe, é grande o suficiente e é recente"""
-    if not os.path.exists(caminho): return False
-    try:
-        if os.path.getsize(caminho) < 5000: # Aumentei régua: menos de 5KB é suspeito para lista completa
-            return False
-        idade = time.time() - os.path.getmtime(caminho)
-        return idade < CACHE_VALIDADE
-    except:
-        return False
-
 def limpar_url(url):
-    """Limpa URLs sujas vindas de JSONs mal formatados"""
     if not url: return None
-    # Remove caracteres de escape comuns em JSON raw
     url = url.replace('\\/', '/').replace('%5C', '').strip()
     match = re.search(r'(https?://[^\s"\'<>]+)', url)
     return match.group(1) if match else None
 
+# --- FUNÇÃO DE ESCRITA INTELIGENTE (NOVIDADE) ---
+def salvar_linha_unica(caminho_arquivo, nova_linha):
+    """
+    Lê o arquivo, verifica se a linha já existe.
+    Se não existir, adiciona no final (Append).
+    """
+    linhas_existentes = set()
+    
+    # 1. Lê o que já tem no arquivo (se ele existir)
+    if os.path.exists(caminho_arquivo):
+        try:
+            with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
+                # Carrega tudo na memória removendo espaços extras
+                linhas_existentes = set(linha.strip() for linha in f)
+        except:
+            pass
+
+    # 2. Verifica se a nova linha é repetida
+    linha_limpa = nova_linha.strip()
+    if linha_limpa and linha_limpa not in linhas_existentes:
+        try:
+            with open(caminho_arquivo, 'a', encoding='utf-8') as f:
+                f.write(f"{linha_limpa}\n")
+        except Exception as e:
+            # Em caso de erro de acesso (arquivo em uso), espera um pouco e tenta de novo
+            time.sleep(0.1)
+            try:
+                with open(caminho_arquivo, 'a', encoding='utf-8') as f:
+                    f.write(f"{linha_limpa}\n")
+            except: pass
+
 def extrair_m3u_do_json(caminho_arquivo):
-    """Lê o JSON e tenta achar o link M3U de qualquer jeito"""
     try:
         with open(caminho_arquivo, 'r', encoding='utf-8') as f:
             conteudo = json.load(f)
         
-        # 1. Busca direta se for dicionário
         if isinstance(conteudo, dict):
-            # Lista de chaves possíveis
             chaves = ['link_m3u', 'url', 'link', 'endereco', 'source', 'm3u']
             for k in chaves:
                 if k in conteudo:
                     limpo = limpar_url(conteudo[k])
                     if limpo: return limpo, conteudo
-            
-            # Se não achou, converte para texto e busca regex
             texto = json.dumps(conteudo)
         
-        # 2. Busca se for lista
         elif isinstance(conteudo, list):
-            # Tenta pegar o primeiro item se for string
             if conteudo and isinstance(conteudo[0], str) and conteudo[0].startswith('http'):
                 return limpar_url(conteudo[0]), conteudo
             texto = json.dumps(conteudo)
         else:
             return None, conteudo
 
-        # 3. Busca Regex (Último recurso)
-        # Procura por padrões comuns de M3U
         urls = re.findall(r'(https?://[^"\'\s]+)', texto)
         for url in urls:
             u_lower = url.lower()
             if ('.m3u' in u_lower or 'get.php' in u_lower or 'mpegts' in u_lower):
-                if 'aftv.news' not in u_lower: # Ignora links de apps
+                if 'aftv.news' not in u_lower:
                     return limpar_url(url), conteudo
-                    
         return None, conteudo
-    except Exception:
+    except:
         return None, None
 
 def extrair_infos_extras(dados_json, nome_base):
-    """Extrai APKs e Senhas para arquivos de texto"""
     if not dados_json: return
     texto = json.dumps(dados_json)
     
@@ -151,53 +140,69 @@ def extrair_infos_extras(dados_json, nome_base):
     urls = re.findall(r'(https?://[^"\'\s]+)', texto)
     apks = [u for u in urls if any(x in u.lower() for x in ['.apk', 'aftv', 'downloader'])]
     if apks:
-        with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
-            f.write(f"\n--- {nome_base} ---\n")
-            for apk in set(apks): f.write(f"{apk}\n")
+        caminho_apk = os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt")
+        cabecalho = f"--- {nome_base} ---"
+        # Só escreve o cabeçalho se formos escrever algum link novo (lógica simplificada: escreve sempre)
+        # Para ficar perfeito, teria que checar cada link antes.
+        # Vamos usar a função inteligente para cada link.
+        
+        for apk in set(apks): 
+            linha = f"[{nome_base}] {apk}"
+            salvar_linha_unica(caminho_apk, linha)
 
-    # Parcerias (Senhas)
-    linhas = texto.split('\\n') # Tenta quebrar por nova linha escapada
+    # Parcerias
+    linhas = texto.split('\\n') 
     if len(linhas) < 2: linhas = texto.split('\n')
     
     for linha in linhas:
         l = linha.strip()
-        if len(l) > 300: continue # Ignora lixo
-        
+        if len(l) > 300: continue
         for key, nome_arquivo in APPS_PARCERIA.items():
             if key.upper() in l.upper():
                 if any(x in l.upper() for x in ['USER', 'PASS', 'SENHA', 'CODIGO', 'LOGIN']):
-                    with open(os.path.join(PASTA_PARCERIAS, f"{nome_arquivo}.txt"), 'a', encoding='utf-8') as f:
-                        f.write(f"[{nome_base}] {l}\n")
+                    caminho_txt = os.path.join(PASTA_PARCERIAS, f"{nome_arquivo}.txt")
+                    conteudo = f"[{nome_base}] {l}"
+                    salvar_linha_unica(caminho_txt, conteudo)
+
+def gerenciar_cache_inteligente(nome_base):
+    padrao = os.path.join(PASTA_DESTINO, f"{glob.escape(nome_base)}_[*.m3u")
+    arquivos_existentes = glob.glob(padrao)
+    
+    arquivo_antigo = None
+    cache_valido = False
+
+    if arquivos_existentes:
+        arquivo_antigo = max(arquivos_existentes, key=os.path.getmtime)
+        try:
+            if os.path.getsize(arquivo_antigo) > 2048:
+                idade = time.time() - os.path.getmtime(arquivo_antigo)
+                if idade < CACHE_VALIDADE:
+                    cache_valido = True
+        except: pass
+            
+    return cache_valido, arquivo_antigo
 
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
-    """Baixa o arquivo com barra de progresso e validação rigorosa"""
     caminho_temp = caminho_destino + ".tmp"
     if os.path.exists(caminho_temp): os.remove(caminho_temp)
 
     try:
-        # stream=True é essencial para arquivos grandes
         with Navegador.get(url, stream=True, timeout=TIMEOUT_PADRAO) as resposta:
-            resposta.raise_for_status() # Lança erro se for 404, 500, etc
+            resposta.raise_for_status()
             
-            # --- VALIDAÇÃO ANTI-BLOQUEIO ---
-            # Lê os primeiros bytes para ver se é HTML (bloqueio) ou Texto (M3U)
             primeiro_pedaco = next(resposta.iter_content(chunk_size=512), b"")
-            
             if b"<html" in primeiro_pedaco.lower() or b"<!doctype" in primeiro_pedaco.lower():
-                return False, "Bloqueio Detectado (HTML)"
+                return False, "Bloqueio HTML Detectado"
             
-            # Pega tamanho total
             tamanho_total = int(resposta.headers.get('content-length', 0))
             
-            # Configura barra de progresso
             with tqdm(total=tamanho_total, unit='B', unit_scale=True, desc=desc_barra, 
                       position=posicao, leave=False, ncols=90, 
                       bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
                 
                 with open(caminho_temp, 'wb') as f:
-                    f.write(primeiro_pedaco) # Grava o pedaço de teste
+                    f.write(primeiro_pedaco)
                     bar.update(len(primeiro_pedaco))
-                    
                     for pedaco in resposta.iter_content(chunk_size=8192):
                         if PARAR_EXECUCAO: break
                         if pedaco:
@@ -208,19 +213,14 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
             if os.path.exists(caminho_temp): os.remove(caminho_temp)
             return False, "Interrompido"
 
-        # --- VALIDAÇÃO FINAL ---
-        tamanho_final = os.path.getsize(caminho_temp)
-        if tamanho_final < 2048: # Menor que 2KB
+        if os.path.getsize(caminho_temp) < 2048:
             os.remove(caminho_temp)
-            return False, f"Arquivo suspeito ({tamanho_final} bytes)"
+            return False, "Arquivo muito pequeno (Erro)"
 
-        # Sucesso!
         if os.path.exists(caminho_destino): os.remove(caminho_destino)
         os.rename(caminho_temp, caminho_destino)
         return True, "OK"
 
-    except requests.exceptions.HTTPError as e:
-        return False, f"Erro HTTP {e.response.status_code}"
     except Exception as e:
         return False, f"Erro: {str(e)[:40]}"
 
@@ -231,34 +231,39 @@ def worker(nome_arquivo_json, fila_slots):
     slot = fila_slots.get()
     nome_base = nome_arquivo_json.replace('.json', '')
     caminho_json = os.path.join(PASTA_JSON_RAW, nome_arquivo_json)
-    caminho_final = os.path.join(PASTA_DESTINO, f"{nome_base}.m3u")
-
+    
     try:
         checar_tecla_z()
         
-        # 1. Verifica Cache
-        if arquivo_cache_valido(caminho_final):
-            fila_slots.put(slot)
-            return "CACHE", nome_base, "Válido"
-
-        # 2. Extrai Link
+        # Extrai infos PRIMEIRO (Para garantir parcerias mesmo se o download falhar ou for cache)
         url_m3u, dados_brutos = extrair_m3u_do_json(caminho_json)
-        
-        # Extrai senhas/APKs mesmo se o download falhar
         extrair_infos_extras(dados_brutos, nome_base)
+
+        cache_valido, arquivo_antigo = gerenciar_cache_inteligente(nome_base)
+        
+        if cache_valido:
+            fila_slots.put(slot)
+            nome_exibicao = os.path.basename(arquivo_antigo)
+            return "CACHE", nome_exibicao, "Válido"
 
         if not url_m3u:
             fila_slots.put(slot)
             return "IGNORADO", nome_base, "Link não encontrado"
 
-        # 3. Baixa
+        timestamp = datetime.now().strftime("[%d-%m-%Y_%Hh%M]")
+        novo_nome_arquivo = f"{nome_base}_{timestamp}.m3u"
+        caminho_final = os.path.join(PASTA_DESTINO, novo_nome_arquivo)
+
         desc = f"Slot {slot} | {nome_base[:15]}"
         sucesso, msg = baixar_arquivo(url_m3u, caminho_final, desc, slot)
         
-        fila_slots.put(slot) # Libera slot
+        fila_slots.put(slot)
 
         if sucesso:
-            return "SUCESSO", nome_base, url_m3u
+            if arquivo_antigo and os.path.exists(arquivo_antigo):
+                try: os.remove(arquivo_antigo)
+                except: pass
+            return "SUCESSO", novo_nome_arquivo, url_m3u
         else:
             return "ERRO", nome_base, msg
 
@@ -267,7 +272,6 @@ def worker(nome_arquivo_json, fila_slots):
         return "ERRO", nome_base, str(e)
 
 def main():
-    # Cria estrutura
     for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
         os.makedirs(p, exist_ok=True)
     
@@ -279,11 +283,9 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V10 (TANK EDITION)")
-    print(f"📂 Arquivos: {len(arquivos)} | ⚡ Slots: {MAX_SIMULTANEOS}")
+    print(f"🚀 SIGMA DOWNLOADER V12 (SMART APPEND) | Arq: {len(arquivos)}")
     print(f"============================================================\n")
 
-    # Gerenciador de Slots para TQDM
     fila_slots = queue.Queue()
     for i in range(1, MAX_SIMULTANEOS + 1): fila_slots.put(i)
 
@@ -298,17 +300,13 @@ def main():
             for f in as_completed(futures):
                 status, nome, info = f.result()
                 stats[status] += 1
-                
                 agora = datetime.now().strftime("%H:%M:%S")
                 
-                if status == "ERRO":
-                    # Só loga erro se NÃO for 404 (porque 404 é normal de lista morta)
-                    if "404" not in info:
-                        tqdm.write(f"[{agora}] ❌ {nome} -> {info}")
+                if status == "ERRO" and "404" not in info:
+                    tqdm.write(f"[{agora}] ❌ {nome} -> {info}")
                     with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
                         log.write(f"[{agora}] {nome} | {info}\n")
                 
-                # Atualiza rodapé
                 pbar.set_postfix_str(f"✅{stats['SUCESSO']} ⏭️{stats['CACHE']} ❌{stats['ERRO']}")
                 pbar.update(1)
                 
@@ -317,7 +315,7 @@ def main():
                     break
 
     print("\n" * (MAX_SIMULTANEOS + 1))
-    print(f"🏁 Concluído! | ✅ Baixados: {stats['SUCESSO']} | ❌ Falhas: {stats['ERRO']}")
+    print(f"🏁 Concluído! Parcerias salvas em modo incremental.")
 
 if __name__ == "__main__":
     main()

@@ -208,5 +208,23 @@
         "url": "http://fristez.xyz/get.php?username=185222484&password=653654293&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-19 11:49:18"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=966662096&password=294082540&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:52:01"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=546057995&password=696855265&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:52:01"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=759653409&password=310527877&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:52:01"
     }
 ]

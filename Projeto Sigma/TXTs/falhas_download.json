@@ -226,5 +226,11 @@
         "url": "http://cdn.ax66.shop:80/get.php?username=759653409&password=310527877&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-19 11:52:01"
+    },
+    {
+        "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS",
+        "url": "http://ratinhov6.click/get.php?username=170636368&password=508742357&type=m3u_plus&output=mpegts",
+        "erro": "Arquivo muito pequeno",
+        "data": "2026-01-19 11:53:01"
     }
 ]

@@ -280,5 +280,65 @@
         "url": "http://flash.netpl4y.com/get.php?username=27796447952&password=54282286624&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
         "data": "2026-01-19 11:56:14"
+    },
+    {
+        "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS",
+        "url": "http://dns.blessed7.xyz:80/get.php?username=288503292&password=927643093&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:59:29"
+    },
+    {
+        "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://dns.blessed7.xyz:80/get.php?username=757275963&password=882320272&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 11:59:29"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_COM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=718285038&password=259799130&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:59:29"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=557393875&password=518863845&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-19 11:59:29"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_COM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=891432217&password=285432414&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-19 11:59:33"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=109892874&password=994832794&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-19 11:59:34"
+    },
+    {
+        "nome": "P2VIP_-__Teste_Completo_C_Adulto",
+        "url": "http://cdn.p2vip.top/get.php?username=43392576&password=45320077&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:59:35"
+    },
+    {
+        "nome": "P2VIP_-__Teste_Completo_S_Adultos",
+        "url": "http://cdn.p2vip.top/get.php?username=98713630&password=66246686&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:59:36"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://wpm.dcnn.site/get.php?username=526284048&password=364206949&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:59:39"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://wpm.dcnn.site/get.php?username=513637696&password=931002182&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 11:59:40"
     }
 ]

@@ -1,0 +1,20 @@
+
+============================================================
+📁 ARQUIVO: AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_00h54].m3u
+📅 DATA: 19/01/2026 00:54
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 282071 itens.
+
+============================================================
+📁 ARQUIVO: AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_07h52].m3u
+📅 DATA: 19/01/2026 07:52
+------------------------------------------------------------
+🟢 ENTRARAM (8):
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - FHD - Disney+  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - FHD - ESPN 4  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - HD - Disney+  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - HD - ESPN 4  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - SD - Disney+  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - SD - ESPN 4  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - UHD - Disney+  | (1ª vez: 19/01/2026 07:52)
+   + [⚽ JOGOS DO DIA] ⏰ 17h00 La Liga - 25/26 ⚽ Elche x Sevilla - UHD - ESPN 4  | (1ª vez: 19/01/2026 07:52)

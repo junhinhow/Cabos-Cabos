@@ -31,9 +31,9 @@ PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_FALHAS_JSON = "falhas_download.json"
 
-MAX_SIMULTANEOS = 3      # Reduzi para 3 para aumentar estabilidade
-CACHE_VALIDADE = 14400   # 4 Horas
-TIMEOUT_CONEXAO = 15     # Aumentei um pouco para evitar falso-positivo em net lenta
+MAX_SIMULTANEOS = 3      
+CACHE_VALIDADE = 14400   
+TIMEOUT_CONEXAO = 15     
 
 PARAR_EXECUCAO = False
 
@@ -81,21 +81,31 @@ def limpar_url(url):
     return None
 
 def salvar_falhas_json(novas_falhas):
+    """Lê o JSON existente, adiciona as novas falhas e salva tudo de volta."""
     if not novas_falhas: return
     falhas_existentes = []
+    
+    # Tenta ler o que já existe
     if os.path.exists(ARQUIVO_FALHAS_JSON):
         try:
             with open(ARQUIVO_FALHAS_JSON, 'r', encoding='utf-8') as f:
-                falhas_existentes = json.load(f)
+                content = f.read().strip()
+                if content:
+                    falhas_existentes = json.loads(content)
         except: falhas_existentes = []
 
+    # Cria um mapa para evitar duplicatas baseadas na URL
     mapa_falhas = {item['url']: item for item in falhas_existentes}
     for falha in novas_falhas: mapa_falhas[falha['url']] = falha
     
     lista_final = list(mapa_falhas.values())
+    
+    # Grava de volta no disco
     try:
         with open(ARQUIVO_FALHAS_JSON, 'w', encoding='utf-8') as f:
             json.dump(lista_final, f, indent=4, ensure_ascii=False)
+            f.flush()
+            os.fsync(f.fileno()) # Força a escrita no HD
     except: pass
 
 def salvar_linha_unica(caminho_arquivo, nova_linha):
@@ -187,8 +197,6 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         try: os.remove(caminho_temp)
         except: pass
 
-    # --- CRIAÇÃO DE NAVEGADOR LOCAL (ISOLADO POR THREAD) ---
-    # Isso impede que uma thread quebre a outra
     local_session = cffi_requests.Session()
     
     try:
@@ -206,9 +214,10 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
 
         total_size = int(response.headers.get('content-length', 0))
         
-        if total_size > 50 * 1024 * 1024:
+        # Trava de 500MB (Para vídeos 4K diretos)
+        if total_size > 500 * 1024 * 1024:
             local_session.close()
-            return False, "Arquivo muito grande (Provável Vídeo)"
+            return False, "Arquivo muito grande (+500MB - Provável Vídeo)"
 
         tamanho_baixado = 0
 
@@ -249,6 +258,7 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
                         bar.update(tam_chunk)
                         tamanho_baixado += tam_chunk
 
+                        # TRAVA DE SEGURANÇA: 500MB
                         if tamanho_baixado > 500 * 1024 * 1024:
                             local_session.close()
                             return False, "Abortado: Excedeu 500 MB"
@@ -269,7 +279,6 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
         return True, "OK"
 
     except Exception as e:
-        # Fecha sessão em caso de erro
         try: local_session.close()
         except: pass
         
@@ -295,7 +304,6 @@ def worker(nome_arquivo_json, fila_slots):
     
     try:
         checar_tecla_z()
-        # Tratamento de erro na leitura do JSON para não travar
         try:
             url_m3u, dados_brutos = extrair_m3u_do_json(caminho_json)
             extrair_infos_extras(dados_brutos, nome_base)
@@ -333,7 +341,6 @@ def worker(nome_arquivo_json, fila_slots):
 
     except Exception as e:
         fila_slots.put(slot)
-        # Catch-all para impedir que o Worker morra silenciosamente
         return "ERRO", nome_base, (f"CRASH WORKER: {str(e)}", "url_desconhecida")
 
 def main():
@@ -350,15 +357,15 @@ def main():
     
     os.system('cls' if os.name == 'nt' else 'clear')
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER V17 (STABLE-ISOLATED) | Arq: {len(arquivos)}")
+    print(f"🚀 SIGMA DOWNLOADER V18 (REALTIME-JSON) | Arq: {len(arquivos)}")
     print(f"📁 Log de Erros: {os.path.abspath(ARQUIVO_ERROS)}")
+    print(f"📁 Log de JSON: {os.path.abspath(ARQUIVO_FALHAS_JSON)}")
     print(f"============================================================\n")
 
     fila_slots = queue.Queue()
     for i in range(1, MAX_SIMULTANEOS + 1): fila_slots.put(i)
 
     stats = defaultdict(int)
-    lista_falhas_coletadas = []
 
     with ThreadPoolExecutor(max_workers=MAX_SIMULTANEOS) as executor:
         futures = [executor.submit(worker, arq, fila_slots) for arq in arquivos]
@@ -370,7 +377,6 @@ def main():
                 try:
                     status, nome, info = f.result()
                 except Exception as e:
-                    # Se o worker morrer mesmo com proteção, pegamos aqui
                     status, nome, info = "ERRO", "DESCONHECIDO", (f"FATAL ERROR: {e}", "N/A")
 
                 stats[status] += 1
@@ -379,8 +385,10 @@ def main():
                 if status == "ERRO":
                     msg_erro, url_erro = info 
                     
+                    # 1. Tela
                     tqdm.write(f"[{agora}] ❌ {nome} -> {msg_erro}")
                     
+                    # 2. Arquivo TXT (Tempo Real)
                     try:
                         with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
                             log.write(f"[{agora}] {nome} | {msg_erro} | URL: {url_erro}\n")
@@ -388,12 +396,15 @@ def main():
                             os.fsync(log.fileno())
                     except: pass
 
-                    lista_falhas_coletadas.append({
+                    # 3. Arquivo JSON (AGORA EM TEMPO REAL)
+                    # Criamos um objeto de erro e salvamos imediatamente
+                    erro_obj = {
                         "nome": nome,
                         "url": url_erro,
                         "erro": msg_erro,
                         "data": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                    })
+                    }
+                    salvar_falhas_json([erro_obj])
                 
                 pbar.set_postfix_str(f"✅{stats['SUCESSO']} ⏭️{stats['CACHE']} ❌{stats['ERRO']}")
                 pbar.update(1)
@@ -401,9 +412,6 @@ def main():
                 if PARAR_EXECUCAO:
                     executor.shutdown(wait=False, cancel_futures=True)
                     break
-
-    if lista_falhas_coletadas:
-        salvar_falhas_json(lista_falhas_coletadas)
         
     limpar_lixo_tmp()
     print("\n" * (MAX_SIMULTANEOS + 1))

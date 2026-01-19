@@ -1,0 +1,313 @@
+============================================================
+          RELATÓRIO DE SÉRIES: TEMPORADAS E EPISÓDIOS
+ Termo: dinheiro suspeito
+ Data:  19/01/2026 12:55:43
+============================================================
+
+📊 RESUMO DE ATUALIZAÇÕES (POR SERVIDOR):
+ > [SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_11h42].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_11h42].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h44].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h45].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h45].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h46].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_11h47].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_11h50].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_11h50].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_11h56].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_12h00].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_12h00].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Servidor_X_-__Caracol_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: Servidor_X_-__OpenBox_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+ > [SERVER: ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_10h21].m3u] -> Conteúdo Único (Filme ou Sem numeração)
+
+============================================================
+
+📝 LISTAGEM COMPLETA DOS ARQUIVOS ENCONTRADOS:
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_11h42].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ♦️ Lançamentos ⭐
+   ------------------------------
+
+
+📁 LISTA: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ♦️ Lançamentos ⭐
+   ------------------------------
+
+
+📁 LISTA: BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_11h42].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h44].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h45].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_11h45].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_11h46].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_11h47].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_11h50].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✅️ PEDIDOS
+   ------------------------------
+
+
+📁 LISTA: Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_11h50].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✅️ PEDIDOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_11h56].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✨ 2026 LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✅️ PEDIDOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ✅️ PEDIDOS
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_10h20].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_12h00].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_12h00].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ▶️ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ♦️LANÇAMENTOS DIARIOS 2025-2026♦️
+   ------------------------------
+
+
+📁 LISTA: Servidor_X_-__Caracol_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em ♦️LANÇAMENTOS DIARIOS 2025-2026♦️
+   ------------------------------
+
+
+📁 LISTA: Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: Servidor_X_-__OpenBox_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+   ├─ Dinheiro Suspeito (2026)
+   └─ Localizado: [] em LANÇAMENTOS
+   ------------------------------
+
+
+📁 LISTA: ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+📁 LISTA: ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_10h21].m3u
+   ├─ Dinheiro Suspeito
+   └─ Localizado: [] em ◾ Filmes | Lançamentos
+   ------------------------------
+
+
+
+FIM DO RELATÓRIO - Total de links: 45

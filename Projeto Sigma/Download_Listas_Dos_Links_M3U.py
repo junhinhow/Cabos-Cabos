@@ -192,35 +192,50 @@ def gerenciar_cache_inteligente(nome_base):
 
 def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
     caminho_temp = caminho_destino + ".tmp"
-    if os.path.exists(caminho_temp): os.remove(caminho_temp)
+    
+    # Garante que começa limpo
+    if os.path.exists(caminho_temp): 
+        try: os.remove(caminho_temp)
+        except: pass
 
     try:
-        # --- AQUI ESTÁ A MÁGICA DO V15 ---
-        # impersonate="chrome120" faz o servidor achar que somos o Google Chrome real
         response = Navegador.get(
             url, 
             impersonate="chrome120", 
             stream=True, 
-            timeout=TIMEOUT_PADRAO,
+            timeout=30, # Reduzi para 30s para falhar mais rápido se o server não responder
             allow_redirects=True
         )
         
         if response.status_code != 200:
             return False, f"Erro HTTP {response.status_code}"
 
+        # Pega o tamanho total (pode vir 0 se o servidor não informar)
+        total_size = int(response.headers.get('content-length', 0))
+        
+        # Se o servidor diz que o arquivo é gigante (>50MB), provavelmente é vídeo e não M3U
+        if total_size > 50 * 1024 * 1024:
+            return False, "Arquivo muito grande (Provável Stream de Vídeo)"
+
+        tamanho_baixado = 0
+
+        # Verifica o primeiro pedaço para ver se é HTML ou JSON de erro
         primeiro_chunk = b""
-        for chunk in response.iter_content(chunk_size=512):
-            primeiro_chunk = chunk
-            break
-            
+        try:
+            iterator = response.iter_content(chunk_size=512)
+            primeiro_chunk = next(iterator) # Pega o primeiro pedaço manualmente
+        except StopIteration:
+            return False, "Arquivo vazio recebido"
+        except Exception as e:
+            return False, f"Erro ao iniciar leitura: {str(e)}"
+
         if b"<html" in primeiro_chunk.lower() or b"<!doctype" in primeiro_chunk.lower():
              return False, "Bloqueio (HTML Detectado)"
         
         if b"{" in primeiro_chunk and b"error" in primeiro_chunk.lower():
              return False, "Erro API (JSON Detectado)"
 
-        total_size = int(response.headers.get('content-length', 0))
-
+        # Inicia a barra e o download do restante
         with tqdm(total=total_size, unit='B', unit_scale=True, desc=desc_barra, 
                   position=posicao, leave=False, ncols=90, 
                   bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
@@ -228,28 +243,44 @@ def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
             with open(caminho_temp, 'wb') as f:
                 f.write(primeiro_chunk)
                 bar.update(len(primeiro_chunk))
+                tamanho_baixado += len(primeiro_chunk)
                 
+                # Continua de onde parou (iterator já consumiu o primeiro chunk)
                 for chunk in response.iter_content(chunk_size=64*1024):
                     if PARAR_EXECUCAO: break
                     if chunk:
                         f.write(chunk)
-                        bar.update(len(chunk))
+                        tam_chunk = len(chunk)
+                        bar.update(tam_chunk)
+                        tamanho_baixado += tam_chunk
+
+                        # TRAVA DE SEGURANÇA: Se passar de 20MB, aborta.
+                        if tamanho_baixado > 20 * 1024 * 1024:
+                            return False, "Abortado: Arquivo excedeu 20MB (Não é lista)"
 
         if PARAR_EXECUCAO:
-            if os.path.exists(caminho_temp): os.remove(caminho_temp)
-            return False, "Interrompido"
+            return False, "Interrompido pelo usuário"
 
-        if os.path.getsize(caminho_temp) < 2048:
-            os.remove(caminho_temp)
-            return False, "Arquivo muito pequeno (Erro)"
+        # Verificação final de tamanho mínimo
+        if os.path.getsize(caminho_temp) < 100: # Aumentei um pouco a tolerância mínima
+            return False, "Arquivo muito pequeno ou vazio"
 
-        if os.path.exists(caminho_destino): os.remove(caminho_destino)
+        if os.path.exists(caminho_destino): 
+            try: os.remove(caminho_destino)
+            except: pass
+            
         os.rename(caminho_temp, caminho_destino)
         return True, "OK"
 
     except Exception as e:
-        return False, f"Erro: {str(e)[:50]}"
-
+        return False, f"Erro Crítico: {str(e)[:100]}"
+    
+    finally:
+        # LIXEIRO: Se sobrar arquivo .tmp e não foi renomeado (deu erro), apaga ele.
+        if os.path.exists(caminho_temp):
+            try: os.remove(caminho_temp)
+            except: pass
+            
 def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
     if PARAR_EXECUCAO: return "PARADO", None, None

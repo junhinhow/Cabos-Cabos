@@ -85,3 +85,27 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
 [19/01/2026 02:00:39] 📺 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
 ------------------------------
+[19/01/2026 02:00:51] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------
+[19/01/2026 02:01:02] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
+------------------------------
+[19/01/2026 02:01:03] 📺 New-Servers - MagicPlay - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
+------------------------------
+[19/01/2026 02:01:04] 📺 New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+------------------------------
+[19/01/2026 02:01:12] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
+------------------------------
+[19/01/2026 02:01:13] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
+------------------------------
+[19/01/2026 02:01:18] 📺 BLACKBR - P2P BINSTREAM - ♦️ TESTE P2P COMPLETO C/ ADULTOS ♦️ | Erro Final: HTTP 405
+Link: https://painel.blackbr.site/api/chatbot/QELoQR4Wgr/ZVdWXVjL3q
+------------------------------
+[19/01/2026 02:01:19] 📺 BLACKBR - P2P BINSTREAM - ♦️ TESTE P2P COMPLETO S/ ADULTOS ♦️ | Erro Final: HTTP 405
+Link: https://painel.blackbr.site/api/chatbot/QELoQR4Wgr/0RvWGvlDe3
+------------------------------

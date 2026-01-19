@@ -184,5 +184,29 @@
         "url": "http://flash.netpl4y.com/get.php?username=27796447952&password=54282286624&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
         "data": "2026-01-19 00:01:49"
+    },
+    {
+        "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
+        "url": "http://c.lifetop.top:80/get.php?username=825188898&password=284928069&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-19 00:02:02"
+    },
+    {
+        "nome": "New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS",
+        "url": "http://meuscanais.pro/get.php?username=157660589&password=506133313&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:02:03"
+    },
+    {
+        "nome": "New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://meuscanais.pro/get.php?username=573094326&password=373727536&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 00:02:03"
+    },
+    {
+        "nome": "New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS",
+        "url": "http://dns.blessed7.xyz:80/get.php?username=160338046&password=861258382&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-19 00:02:04"
     }
 ]

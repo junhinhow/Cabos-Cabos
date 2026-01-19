@@ -1,16 +1,30 @@
 import json
-import requests
 import os
 import re
 import queue
 import sys
 import time
 import msvcrt
-from datetime import datetime
-from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from collections import defaultdict
 import shutil
+import warnings
+from datetime import datetime
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# --- IMPORTAÇÕES OBRIGATÓRIAS ---
+try:
+    from tqdm import tqdm
+    import cloudscraper
+    import requests
+    from requests.adapters import HTTPAdapter
+    from urllib3.util.retry import Retry
+except ImportError:
+    print("❌ ERRO: Faltam bibliotecas.")
+    print("Instale: pip install tqdm cloudscraper requests")
+    sys.exit()
+
+# Ignora avisos de SSL inseguro (comuns em IPTV)
+warnings.filterwarnings("ignore")
 
 # --- CONFIGURAÇÕES ---
 PASTA_JSON_RAW = "Dados-Brutos"
@@ -19,10 +33,43 @@ PASTA_PARCERIAS = "Parcerias"
 PASTA_DOWNLOADS = "Downloads"
 ARQUIVO_ERROS = "erros_download.txt"
 ARQUIVO_ATUALIZACOES = "Atualizações.txt"
-MAX_SIMULTANEOS = 5  # Slots de download
-CACHE_VALIDADE_SEGUNDOS = 14400  # 4 Horas
 
-# Dicionário de aplicativos de parceria
+MAX_SIMULTANEOS = 4      # Reduzi para 4 para evitar bloqueio por "flood"
+CACHE_VALIDADE = 14400   # 4 Horas
+TIMEOUT_PADRAO = 60      # Aumentado para servidores lentos
+
+# Controle Global
+PARAR_EXECUCAO = False
+
+# --- MOTOR DE CONEXÃO (O TANQUE) ---
+def criar_sessao_blindada():
+    """Cria uma sessão que simula um navegador real e insiste na conexão"""
+    # 1. Configura o CloudScraper (Anti-Bot)
+    sessao = cloudscraper.create_scraper(
+        browser={
+            'browser': 'chrome',
+            'platform': 'windows',
+            'mobile': False,
+            'desktop': True,
+        }
+    )
+    
+    # 2. Configura Retentativas (Retry) para quedas de conexão
+    retry_strategy = Retry(
+        total=3,  # Tenta 3 vezes
+        backoff_factor=1, # Espera 1s, 2s, 4s...
+        status_forcelist=[500, 502, 503, 504, 520, 521, 522], # Erros de servidor que valem a pena tentar de novo
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    sessao.mount("https://", adapter)
+    sessao.mount("http://", adapter)
+    
+    return sessao
+
+# Instância global do navegador falso
+Navegador = criar_sessao_blindada()
+
+# Dicionário de Parcerias
 APPS_PARCERIA = {
     "Assist": "Assist_Plus_Play_Sim", "Play Sim": "Assist_Plus_Play_Sim",
     "Lazer": "Lazer_Play", "Vizzion": "Vizzion", "Unitv": "UniTV",
@@ -30,495 +77,247 @@ APPS_PARCERIA = {
     "XCIPTV": "XCIPTV_Dados"
 }
 
-# Variável de controle
-PARAR_EXECUCAO = False
-
-HEADERS_FAKE = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36",
-    "Upgrade-Insecure-Requests": "1",
-    "Accept": "*/*",
-    "Connection": "keep-alive"
-}
-
 def checar_tecla_z():
     global PARAR_EXECUCAO
     if msvcrt.kbhit():
-        tecla = msvcrt.getch().decode('utf-8').lower()
-        if tecla == 'z':
+        if msvcrt.getch().decode('utf-8').lower() == 'z':
             PARAR_EXECUCAO = True
 
-def arquivo_eh_valido_e_recente(caminho):
-    """
-    Retorna True se o arquivo existe, tem tamanho decente (>1KB) 
-    E foi modificado a menos de 4 horas.
-    """
+def arquivo_cache_valido(caminho):
+    """Verifica se o arquivo existe, é grande o suficiente e é recente"""
+    if not os.path.exists(caminho): return False
     try:
-        if not os.path.exists(caminho): 
+        if os.path.getsize(caminho) < 5000: # Aumentei régua: menos de 5KB é suspeito para lista completa
             return False
-            
-        tamanho = os.path.getsize(caminho)
-        if tamanho < 1000:  # Muito pequeno, deve ser erro
-            return False
-        
-        timestamp_mod = os.path.getmtime(caminho)
-        idade = time.time() - timestamp_mod
-        
-        return idade < CACHE_VALIDADE_SEGUNDOS
-    except Exception as e:
-        print(f"Erro ao verificar arquivo {caminho}: {str(e)}")
+        idade = time.time() - os.path.getmtime(caminho)
+        return idade < CACHE_VALIDADE
+    except:
         return False
 
-def normalizar_url(url):
-    """
-    Remove os parâmetros de autenticação da URL, mantendo apenas a parte relevante
-    para comparação de conteúdo.
-    """
-    # Remove a parte do domínio e os parâmetros de autenticação
-    # Mantém apenas o último segmento do caminho (ID do canal)
-    match = re.search(r'/(\d+\.(ts|m3u8?))$', url)
-    return match.group(1) if match else url
+def limpar_url(url):
+    """Limpa URLs sujas vindas de JSONs mal formatados"""
+    if not url: return None
+    # Remove caracteres de escape comuns em JSON raw
+    url = url.replace('\\/', '/').replace('%5C', '').strip()
+    match = re.search(r'(https?://[^\s"\'<>]+)', url)
+    return match.group(1) if match else None
 
-def parsear_m3u(caminho_arquivo):
-    """
-    Lê um arquivo M3U e retorna um dicionário categorizado por tipo de mídia
-    """
-    if not os.path.exists(caminho_arquivo):
-        return {}
-    
-    conteudo = []
-    with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
-        linhas = f.readlines()
-    
-    current_group = "Geral"
-    current_item = None
-    
-    i = 0
-    while i < len(linhas):
-        linha = linhas[i].strip()
+def extrair_m3u_do_json(caminho_arquivo):
+    """Lê o JSON e tenta achar o link M3U de qualquer jeito"""
+    try:
+        with open(caminho_arquivo, 'r', encoding='utf-8') as f:
+            conteudo = json.load(f)
         
-        if not linha or linha.startswith('#EXTM3U') or linha.startswith('#EXT-X-SESSION-DATA'):
-            i += 1
-            continue
+        # 1. Busca direta se for dicionário
+        if isinstance(conteudo, dict):
+            # Lista de chaves possíveis
+            chaves = ['link_m3u', 'url', 'link', 'endereco', 'source', 'm3u']
+            for k in chaves:
+                if k in conteudo:
+                    limpo = limpar_url(conteudo[k])
+                    if limpo: return limpo, conteudo
             
-        if linha.startswith('#EXTGRP:'):
-            current_group = linha.split(':', 1)[1].strip()
-            i += 1
-            continue
-            
-        if linha.startswith('#EXTINF'):
-            # Extrai o nome do canal/filme/série
-            name_match = re.search(r'tvg-name="([^"]+)"', linha) or re.search(r'tvg-name=([^\s]+)', linha)
-            if name_match:
-                name = name_match.group(1)
-            else:
-                # Se não encontrar tvg-name, pega o que está depois da última vírgula
-                name = linha.split(',')[-1].strip()
-            
-            # Determina o tipo de mídia
-            media_type = "Canais"
-            if any(x in current_group.lower() for x in ['filme', 'filmes', 'movie', 'movies']):
-                media_type = "Filmes"
-            elif any(x in current_group.lower() for x in ['série', 'serie', 'series', 'shows']):
-                media_type = "Séries"
-            
-            # Pega a próxima linha que deve ser a URL
-            if i + 1 < len(linhas):
-                url = linhas[i+1].strip()
-                # Normaliza a URL removendo a parte de autenticação
-                url_normalizada = normalizar_url(url)
-                
-                conteudo.append({
-                    'nome': name,
-                    'grupo': current_group,
-                    'tipo': media_type,
-                    'url_id': url_normalizada
-                })
-                i += 2  # Pula a linha da URL
-            else:
-                i += 1  # Se não tiver URL, só incrementa 1
-    
-    return conteudo
-
-def comparar_listas_m3u(antigo, novo, nome_servidor):
-    """
-    Compara duas listas M3U e retorna as diferenças reais no conteúdo,
-    ignorando mudanças apenas nos tokens de autenticação das URLs.
-    """
-    if not antigo:  # Se não há lista antiga, não há o que comparar
-        return {}
-    
-    # Cria um dicionário de itens antigos usando url_id como chave
-    antigo_por_url = {}
-    for item in antigo:
-        if 'url_id' in item:
-            antigo_por_url[item['url_id']] = item
-    
-    # Agrupa por tipo e grupo
-    atualizacoes = defaultdict(lambda: defaultdict(list))
-    
-    # Verifica cada item da nova lista
-    for novo_item in novo:
-        if 'url_id' not in novo_item:
-            continue
-            
-        # Se o url_id não existia antes, é um item novo
-        if novo_item['url_id'] not in antigo_por_url:
-            atualizacoes[novo_item['tipo']][novo_item['grupo']].append(novo_item['nome'])
+            # Se não achou, converte para texto e busca regex
+            texto = json.dumps(conteudo)
+        
+        # 2. Busca se for lista
+        elif isinstance(conteudo, list):
+            # Tenta pegar o primeiro item se for string
+            if conteudo and isinstance(conteudo[0], str) and conteudo[0].startswith('http'):
+                return limpar_url(conteudo[0]), conteudo
+            texto = json.dumps(conteudo)
         else:
-            # Se existia, verifica se o nome ou grupo mudaram
-            antigo_item = antigo_por_url[novo_item['url_id']]
-            if (antigo_item['nome'] != novo_item['nome'] or 
-                antigo_item['grupo'] != novo_item['grupo'] or
-                antigo_item['tipo'] != novo_item['tipo']):
-                atualizacoes[novo_item['tipo']][novo_item['grupo']].append(
-                    f"{antigo_item['nome']} → {novo_item['nome']}"
-                )
-    
-    return dict(atualizacoes)
+            return None, conteudo
 
-def registrar_atualizacao(nome_servidor, atualizacoes):
-    """
-    Registra as atualizações no arquivo de log
-    """
-    if not atualizacoes:
-        return
-    
-    data_hora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-    with open(ARQUIVO_ATUALIZACOES, 'a', encoding='utf-8') as f:
-        f.write(f"\n{'='*50}\n")
-        f.write(f"SERVIDOR: {nome_servidor} | ATUALIZAÇÃO: {data_hora}\n")
-        f.write(f"{'='*50}\n\n")
-        
-        for tipo, grupos in atualizacoes.items():
-            f.write(f"{tipo.upper()}:\n")
-            for grupo, itens in grupos.items():
-                f.write(f"\n  • {grupo}:\n")
-                for item in sorted(itens):
-                    f.write(f"    - {item}\n")
-            f.write("\n")
+        # 3. Busca Regex (Último recurso)
+        # Procura por padrões comuns de M3U
+        urls = re.findall(r'(https?://[^"\'\s]+)', texto)
+        for url in urls:
+            u_lower = url.lower()
+            if ('.m3u' in u_lower or 'get.php' in u_lower or 'mpegts' in u_lower):
+                if 'aftv.news' not in u_lower: # Ignora links de apps
+                    return limpar_url(url), conteudo
+                    
+        return None, conteudo
+    except Exception:
+        return None, None
 
-def limpar_url_suja(url):
-    try: url = url.encode().decode('unicode_escape')
-    except: pass
-    chars = ['\\', '\n', '\r', '"', "'", '<', '>', ' ', '\t']
-    for c in chars: 
-        if c in url: url = url.split(c)[0]
-    return url.replace('%5Cn', '').replace('%5C', '').strip()
-
-def extrair_m3u_do_texto(texto):
-    urls = re.findall(r'(https?://[^"\'\s\\]+)', texto)
-    candidatos = []
-    for url in urls:
-        u = url.lower()
-        if ('get.php' in u and 'username=' in u) or \
-           ('.m3u' in u and 'aftv' not in u and 'e.jhysa' not in u) or \
-           ('output=mpegts' in u):
-            clean = limpar_url_suja(url)
-            if clean.startswith("http") and len(clean) > 15: candidatos.append(clean)
-    return candidatos[0] if candidatos else None
-
-def requisicao_inteligente(url, timeout=15):
-    """
-    Tenta fazer uma requisição POST primeiro, depois GET se falhar.
-    Retorna a resposta ou levanta uma exceção.
-    """
-    session = requests.Session()
-    session.headers.update(HEADERS_FAKE)
+def extrair_infos_extras(dados_json, nome_base):
+    """Extrai APKs e Senhas para arquivos de texto"""
+    if not dados_json: return
+    texto = json.dumps(dados_json)
     
-    # Tenta POST primeiro
-    try:
-        resp = session.post(url, timeout=timeout, verify=False)
-        if resp.status_code == 200: 
-            return resp
-    except Exception as e:
-        pass
-    
-    # Tenta GET (Fallback)
-    try:
-        resp = session.get(url, timeout=timeout, verify=False)
-        resp.raise_for_status()
-        return resp
-    except Exception as e:
-        raise Exception(f"Falha na conexão ({str(e)})")
-
-def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
-    """
-    Extrai informações de parcerias e links de download do texto da resposta.
-    """
-    if not texto_resposta:
-        return
-        
-    linhas = texto_resposta.split('\n') if isinstance(texto_resposta, str) else []
-    
-    # Extrai Downloads (APKs)
-    urls = re.findall(r'(https?://[^\s<>\"]+)', str(texto_resposta))
-    apks = []
-    for url in urls:
-        if ('.apk' in url.lower() or 'aftv.news' in url.lower() or 
-            'dl.ntdev' in url.lower() or 'download' in url.lower()):
-            if url not in apks: 
-                apks.append(url)
-    
+    # APKs
+    urls = re.findall(r'(https?://[^"\'\s]+)', texto)
+    apks = [u for u in urls if any(x in u.lower() for x in ['.apk', 'aftv', 'downloader'])]
     if apks:
-        os.makedirs(PASTA_DOWNLOADS, exist_ok=True)
         with open(os.path.join(PASTA_DOWNLOADS, "Links_APKs.txt"), 'a', encoding='utf-8') as f:
-            f.write(f"\n--- {nome_exibicao} ---\n")
-            for l in apks: 
-                f.write(f"{l}\n")
+            f.write(f"\n--- {nome_base} ---\n")
+            for apk in set(apks): f.write(f"{apk}\n")
 
-    # Extrai Parcerias (Senhas)
-    app_atual = None
+    # Parcerias (Senhas)
+    linhas = texto.split('\\n') # Tenta quebrar por nova linha escapada
+    if len(linhas) < 2: linhas = texto.split('\n')
+    
     for linha in linhas:
         l = linha.strip()
-        # Ignora linhas muito longas (provavelmente JSON ou lixo)
-        if not l or len(l) > 300: 
-            continue
-            
-        for k, v in APPS_PARCERIA.items():
-            if k.upper() in l.upper():
-                app_atual = v
-                break
+        if len(l) > 300: continue # Ignora lixo
         
-        if app_atual and any(x in l.upper() for x in ["CÓDIGO", "USUÁRIO", "SENHA", "PIN", "DNS", "URL"]):
-            os.makedirs(PASTA_PARCERIAS, exist_ok=True)
-            with open(os.path.join(PASTA_PARCERIAS, f"{app_atual}.txt"), 'a', encoding='utf-8') as f:
-                f.write(f"[{nome_exibicao}] {l}\n")
+        for key, nome_arquivo in APPS_PARCERIA.items():
+            if key.upper() in l.upper():
+                if any(x in l.upper() for x in ['USER', 'PASS', 'SENHA', 'CODIGO', 'LOGIN']):
+                    with open(os.path.join(PASTA_PARCERIAS, f"{nome_arquivo}.txt"), 'a', encoding='utf-8') as f:
+                        f.write(f"[{nome_base}] {l}\n")
 
-def baixar_arquivo_com_progresso(url, caminho_saida, nome_exibicao, posicao_barra):
-    caminho_temp = caminho_saida + ".temp"
+def baixar_arquivo(url, caminho_destino, desc_barra, posicao):
+    """Baixa o arquivo com barra de progresso e validação rigorosa"""
+    caminho_temp = caminho_destino + ".tmp"
+    if os.path.exists(caminho_temp): os.remove(caminho_temp)
+
     try:
-        # Remove lixo de tentativas anteriores
-        if os.path.exists(caminho_temp):
-            os.remove(caminho_temp)
-
-        # Usa a função de requisição inteligente
-        resp = requisicao_inteligente(url)
-        
-        total_size = int(resp.headers.get('content-length', 0))
-        if total_size > 0 and total_size < 150:
-            return False, "Arquivo suspeito (muito pequeno)"
-
-        # Barra de progresso do slot
-        desc = f"Slot {posicao_barra} | {nome_exibicao[:15]}"
-        
-        with tqdm(total=total_size, unit='B', unit_scale=True, unit_divisor=1024,
-                 desc=desc.ljust(30), position=posicao_barra, leave=False, ncols=100,
-                 bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
+        # stream=True é essencial para arquivos grandes
+        with Navegador.get(url, stream=True, timeout=TIMEOUT_PADRAO) as resposta:
+            resposta.raise_for_status() # Lança erro se for 404, 500, etc
             
-            with open(caminho_temp, 'wb') as f:
-                for chunk in resp.iter_content(chunk_size=32768):
-                    if PARAR_EXECUCAO:
-                        break
-                    if chunk:
-                        f.write(chunk)
-                        bar.update(len(chunk))
+            # --- VALIDAÇÃO ANTI-BLOQUEIO ---
+            # Lê os primeiros bytes para ver se é HTML (bloqueio) ou Texto (M3U)
+            primeiro_pedaco = next(resposta.iter_content(chunk_size=512), b"")
+            
+            if b"<html" in primeiro_pedaco.lower() or b"<!doctype" in primeiro_pedaco.lower():
+                return False, "Bloqueio Detectado (HTML)"
+            
+            # Pega tamanho total
+            tamanho_total = int(resposta.headers.get('content-length', 0))
+            
+            # Configura barra de progresso
+            with tqdm(total=tamanho_total, unit='B', unit_scale=True, desc=desc_barra, 
+                      position=posicao, leave=False, ncols=90, 
+                      bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}") as bar:
+                
+                with open(caminho_temp, 'wb') as f:
+                    f.write(primeiro_pedaco) # Grava o pedaço de teste
+                    bar.update(len(primeiro_pedaco))
+                    
+                    for pedaco in resposta.iter_content(chunk_size=8192):
+                        if PARAR_EXECUCAO: break
+                        if pedaco:
+                            f.write(pedaco)
+                            bar.update(len(pedaco))
         
         if PARAR_EXECUCAO:
-            if os.path.exists(caminho_temp):
-                os.remove(caminho_temp)
+            if os.path.exists(caminho_temp): os.remove(caminho_temp)
             return False, "Interrompido"
 
-        # Verifica se o arquivo baixado é válido antes de renomear
-        if not os.path.exists(caminho_temp) or os.path.getsize(caminho_temp) < 100:
-            if os.path.exists(caminho_temp): os.remove(caminho_temp)
-            return False, "Arquivo vazio ou inválido"
-        
-        # Finaliza: move temp para original
-        if os.path.exists(caminho_saida):
-            os.remove(caminho_saida)
-        os.rename(caminho_temp, caminho_saida)
-            
+        # --- VALIDAÇÃO FINAL ---
+        tamanho_final = os.path.getsize(caminho_temp)
+        if tamanho_final < 2048: # Menor que 2KB
+            os.remove(caminho_temp)
+            return False, f"Arquivo suspeito ({tamanho_final} bytes)"
+
+        # Sucesso!
+        if os.path.exists(caminho_destino): os.remove(caminho_destino)
+        os.rename(caminho_temp, caminho_destino)
         return True, "OK"
-        
-    except requests.exceptions.RequestException as e:
-        return False, f"Erro na requisição: {str(e)}"
-    except Exception as e:
-        return False, f"Erro inesperado: {str(e)}"
 
-def worker(arquivo_json, fila_posicoes):
+    except requests.exceptions.HTTPError as e:
+        return False, f"Erro HTTP {e.response.status_code}"
+    except Exception as e:
+        return False, f"Erro: {str(e)[:40]}"
+
+def worker(nome_arquivo_json, fila_slots):
     global PARAR_EXECUCAO
-    if PARAR_EXECUCAO: 
-        return "PARADO", None, None
+    if PARAR_EXECUCAO: return "PARADO", None, None
 
-    nome_base = os.path.splitext(arquivo_json)[0]
-    caminho_json = os.path.join(PASTA_JSON_RAW, arquivo_json)
-    caminho_m3u = os.path.join(PASTA_DESTINO, f"{nome_base}.m3u")
-    temp_backup = None
-    
+    slot = fila_slots.get()
+    nome_base = nome_arquivo_json.replace('.json', '')
+    caminho_json = os.path.join(PASTA_JSON_RAW, nome_arquivo_json)
+    caminho_final = os.path.join(PASTA_DESTINO, f"{nome_base}.m3u")
+
     try:
-        # 1. Verifica Cache (Regra 4h e Tamanho)
-        if arquivo_eh_valido_e_recente(caminho_m3u):
-            # Mesmo com cache válido, verifica se há atualizações
-            with open(caminho_json, 'r', encoding='utf-8') as f:
-                dados = json.load(f)
-            extrair_parcerias_e_downloads(json.dumps(dados), nome_base)
-            return "PULADO", nome_base, "Cache válido (<4h)"
-        
-        # Se o arquivo M3U já existe, faz backup para comparação
-        lista_antiga = {}
-        if os.path.exists(caminho_m3u):
-            lista_antiga = parsear_m3u(caminho_m3u)
-            # Cria um backup temporário
-            temp_backup = f"{caminho_m3u}.old"
-            shutil.copy2(caminho_m3u, temp_backup)
-
-        posicao = fila_posicoes.get()
-        
         checar_tecla_z()
-        if PARAR_EXECUCAO: 
-            return "PARADO", None, None
-
-        # Lê o arquivo JSON com tratamento de erros
-        try:
-            with open(caminho_json, 'r', encoding='utf-8') as f:
-                dados = json.load(f)
-        except json.JSONDecodeError:
-            return "ERRO", nome_base, "Arquivo JSON inválido"
         
-        # Extrai parcerias e downloads
-        extrair_parcerias_e_downloads(json.dumps(dados), nome_base)
-        
-        # Tenta extrair o link M3U
-        link_m3u = extrair_m3u_do_texto(json.dumps(dados))
+        # 1. Verifica Cache
+        if arquivo_cache_valido(caminho_final):
+            fila_slots.put(slot)
+            return "CACHE", nome_base, "Válido"
 
-        if link_m3u:
-            sucesso, msg = baixar_arquivo_com_progresso(link_m3u, caminho_m3u, nome_base, posicao)
-            
-            if sucesso:
-                # Se baixou com sucesso, verifica se houve atualizações
-                if lista_antiga:  # Só verifica se havia uma lista antiga
-                    nova_lista = parsear_m3u(caminho_m3u)
-                    if nova_lista:  # Só compara se conseguiu parsear a nova lista
-                        atualizacoes = comparar_listas_m3u(lista_antiga, nova_lista, nome_base)
-                        if atualizacoes:
-                            registrar_atualizacao(nome_base, atualizacoes)
-                return "SUCESSO", nome_base, link_m3u
-            else:
-                # Se falhou o download, restaura o backup se existir
-                if temp_backup and os.path.exists(temp_backup):
-                    shutil.move(temp_backup, caminho_m3u)
-                return "ERRO", nome_base, f"{msg} | Link: {link_m3u}"
+        # 2. Extrai Link
+        url_m3u, dados_brutos = extrair_m3u_do_json(caminho_json)
+        
+        # Extrai senhas/APKs mesmo se o download falhar
+        extrair_infos_extras(dados_brutos, nome_base)
+
+        if not url_m3u:
+            fila_slots.put(slot)
+            return "IGNORADO", nome_base, "Link não encontrado"
+
+        # 3. Baixa
+        desc = f"Slot {slot} | {nome_base[:15]}"
+        sucesso, msg = baixar_arquivo(url_m3u, caminho_final, desc, slot)
+        
+        fila_slots.put(slot) # Libera slot
+
+        if sucesso:
+            return "SUCESSO", nome_base, url_m3u
         else:
-            if any(x in nome_base.upper() for x in ["P2P", "APP", "PARCEIRO"]):
-                return "IGNORADO", nome_base, "App/P2P"
-            else:
-                return "ERRO", nome_base, "Link M3U não encontrado"
+            return "ERRO", nome_base, msg
 
     except Exception as e:
-        error_msg = f"Erro inesperado: {str(e)}"
-        print(f"Erro ao processar {nome_base}: {error_msg}")
-        return "ERRO", nome_base, error_msg
-
-    finally:
-        # Remove o backup temporário se existir
-        if temp_backup and os.path.exists(temp_backup):
-            try:
-                os.remove(temp_backup)
-            except:
-                pass
-                
-        # Garante que a posição seja devolvida à fila
-        if 'posicao' in locals() and fila_posicoes is not None:
-            fila_posicoes.put(posicao)
+        fila_slots.put(slot)
+        return "ERRO", nome_base, str(e)
 
 def main():
-    # Configura o ambiente
-    requests.packages.urllib3.disable_warnings()
+    # Cria estrutura
+    for p in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
+        os.makedirs(p, exist_ok=True)
     
-    # Cria pastas necessárias
-    for pasta in [PASTA_DESTINO, PASTA_PARCERIAS, PASTA_DOWNLOADS]:
-        os.makedirs(pasta, exist_ok=True)
-    
-    # Inicializa o arquivo de erros com um cabeçalho
-    if not os.path.exists(ARQUIVO_ERROS):
-        with open(ARQUIVO_ERROS, 'w', encoding='utf-8') as f:
-            f.write("= ERROS DE DOWNLOAD =\n")
-            f.write(f"Iniciado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n")
-            f.write("="*50 + "\n\n")
-    
-    # Inicializa o arquivo de atualizações se não existir
-    if not os.path.exists(ARQUIVO_ATUALIZACOES):
-        with open(ARQUIVO_ATUALIZACOES, 'w', encoding='utf-8') as f:
-            f.write("= ATUALIZAÇÕES DE LISTAS M3U =\n")
-            f.write(f"Iniciado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n")
-            f.write("="*50 + "\n\n")
-
-    # Verifica se a pasta de JSONs existe
     if not os.path.exists(PASTA_JSON_RAW):
-        print("❌ Pasta de dados não encontrada.")
+        print("❌ Pasta Dados-Brutos não encontrada.")
         return
 
     arquivos = [f for f in os.listdir(PASTA_JSON_RAW) if f.endswith('.json')]
     
     os.system('cls' if os.name == 'nt' else 'clear')
-    
     print(f"============================================================")
-    print(f"🚀 SIGMA DOWNLOADER PRO | V6.0")
-    print(f"============================================================")
-    print(f"📂 Arquivos para processar: {len(arquivos)}")
-    print(f"⚡ Slots de Download: {MAX_SIMULTANEOS}")
-    print(f"🕒 Cache: {CACHE_VALIDADE_SEGUNDOS//3600}h | 💾 Temp: Ativado (.temp)")
-    print(f"⌨️  Pressione 'Z' para parar com segurança.")
-    print(f"------------------------------------------------------------\n")
+    print(f"🚀 SIGMA DOWNLOADER V10 (TANK EDITION)")
+    print(f"📂 Arquivos: {len(arquivos)} | ⚡ Slots: {MAX_SIMULTANEOS}")
+    print(f"============================================================\n")
 
-    fila_posicoes = queue.Queue()
-    for i in range(1, MAX_SIMULTANEOS + 1): fila_posicoes.put(i)
+    # Gerenciador de Slots para TQDM
+    fila_slots = queue.Queue()
+    for i in range(1, MAX_SIMULTANEOS + 1): fila_slots.put(i)
 
-    stats = {'SUCESSO': 0, 'ERRO': 0, 'IGNORADO': 0, 'PULADO': 0, 'PARADO': 0}
+    stats = defaultdict(int)
 
     with ThreadPoolExecutor(max_workers=MAX_SIMULTANEOS) as executor:
-        futures = [executor.submit(worker, arq, fila_posicoes) for arq in arquivos]
+        futures = [executor.submit(worker, arq, fila_slots) for arq in arquivos]
         
         with tqdm(total=len(arquivos), unit="arq", position=0, leave=True, 
                   bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}] {postfix}") as pbar:
             
-            pbar.set_postfix_str("Iniciando...")
-            
             for f in as_completed(futures):
                 status, nome, info = f.result()
+                stats[status] += 1
                 
-                if status:
-                    stats[status] += 1
-                    
-                    # Log em tempo real no terminal (acima das barras)
-                    agora = datetime.now().strftime("%H:%M:%S")
-                    if status == "SUCESSO":
-                        tqdm.write(f"[{agora}] ✅ CONCLUÍDO: {nome}")
-                    elif status == "ERRO":
-                        tqdm.write(f"[{agora}] ❌ FALHA: {nome} -> {info[:50]}...")
-                        # Salva no arquivo de erros
-                        with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
-                            log.write(f"[{datetime.now().strftime('%d/%m/%Y %H:%M:%S')}] {nome} | {info}\n")
-                    elif status == "PULADO":
-                        tqdm.write(f"[{agora}] ⏭️  CACHE: {nome}")
-                    elif status == "IGNORADO":
-                        tqdm.write(f"[{agora}] ℹ️  IGNORADO: {nome}")
-
-                resumo = f"✅{stats['SUCESSO']} ⏭️{stats['PULADO']} ℹ️{stats['IGNORADO']} ❌{stats['ERRO']}"
-                if PARAR_EXECUCAO: resumo += " 🛑 PARANDO..."
+                agora = datetime.now().strftime("%H:%M:%S")
                 
-                pbar.set_postfix_str(resumo)
+                if status == "ERRO":
+                    # Só loga erro se NÃO for 404 (porque 404 é normal de lista morta)
+                    if "404" not in info:
+                        tqdm.write(f"[{agora}] ❌ {nome} -> {info}")
+                    with open(ARQUIVO_ERROS, 'a', encoding='utf-8') as log:
+                        log.write(f"[{agora}] {nome} | {info}\n")
+                
+                # Atualiza rodapé
+                pbar.set_postfix_str(f"✅{stats['SUCESSO']} ⏭️{stats['CACHE']} ❌{stats['ERRO']}")
                 pbar.update(1)
-
+                
                 if PARAR_EXECUCAO:
                     executor.shutdown(wait=False, cancel_futures=True)
                     break
 
     print("\n" * (MAX_SIMULTANEOS + 1))
-    print("="*50)
-    
-    if PARAR_EXECUCAO:
-        print("🛑 Execução interrompida pelo usuário.")
-    else:
-        print("🏁 CICLO CONCLUÍDO!")
-    
-    print(f"✅ Baixados: {stats['SUCESSO']}")
-    print(f"⏭️  Cache (<4h): {stats['PULADO']}")
-    print(f"ℹ️  Apps/P2P: {stats['IGNORADO']}")
-    print(f"❌ Falhas:   {stats['ERRO']}")
-    
-    if stats['ERRO'] > 0:
-        print(f"📄 Erros detalhados em: '{ARQUIVO_ERROS}'")
+    print(f"🏁 Concluído! | ✅ Baixados: {stats['SUCESSO']} | ❌ Falhas: {stats['ERRO']}")
 
 if __name__ == "__main__":
     main()

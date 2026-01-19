@@ -466,5 +466,23 @@
         "url": "http://cdntopz.xyz/get.php?username=127180167&password=328277534&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-19 12:02:31"
+    },
+    {
+        "nome": "VelozNet_-__VTVBR_-_Completo_Sem_Adultos",
+        "url": "http://vtvbr.com:80/get.php?username=7624335459&password=8668580419&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-19 12:02:47"
+    },
+    {
+        "nome": "WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://echeap.shop/get.php?username=255460&password=975735&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:02:49"
+    },
+    {
+        "nome": "WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://echeap.shop/get.php?username=646773&password=659577&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-19 12:02:49"
     }
 ]

@@ -1,0 +1,23 @@
+
+============================================================
+📁 ARQUIVO: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+📅 DATA: 19/01/2026 01:12
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 260390 itens.
+
+============================================================
+📁 ARQUIVO: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+📅 DATA: 19/01/2026 07:14
+------------------------------------------------------------
+✅ SEM MUDANÇAS NA GRADE.
+
+============================================================
+📁 ARQUIVO: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
+📅 DATA: 19/01/2026 21:06
+------------------------------------------------------------
+
+🔴 SAÍRAM (4):
+   - [⚽Jogos do DIA] 18:30 Cruzeiro X Uberlandia  | (Visto em: 19/01/2026 01:12)
+   - [⚽Jogos do DIA] 19:00 Grêmio X São Luiz  | (Visto em: 19/01/2026 01:12)
+   - [⚽Jogos do DIA] 20:30 Palmeiras X Mirassol  | (Visto em: 19/01/2026 01:12)
+   - [⚽Jogos do DIA] 21:30 Volta Redonda X Flamengo  | (Visto em: 19/01/2026 01:12)

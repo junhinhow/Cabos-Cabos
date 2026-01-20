@@ -24,3 +24,28 @@
    - [S • Legendadas] Quem e Sakamoto [L] (2016) S01E11  | (Visto em: 19/01/2026 00:45)
    - [S • Legendadas] Quem e Sakamoto [L] (2016) S01E12  | (Visto em: 19/01/2026 00:45)
    - [S • Legendadas] Quem e Sakamoto [L] (2016) S01E13  | (Visto em: 19/01/2026 00:45)
+
+============================================================
+📁 ARQUIVO: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
+📅 DATA: 19/01/2026 07:14
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 403607 itens.
+
+============================================================
+📁 ARQUIVO: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_21h06].m3u
+📅 DATA: 19/01/2026 21:06
+------------------------------------------------------------
+🟢 ENTRARAM (13):
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E01  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E02  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E03  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E04  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E05  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E06  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E07  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E08  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E09  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E10  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E11  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E12  | (1ª vez: 19/01/2026 21:06)
+   + [S • Legendadas] Quem e Sakamoto [L] (2016) S01E13  | (1ª vez: 19/01/2026 21:06)

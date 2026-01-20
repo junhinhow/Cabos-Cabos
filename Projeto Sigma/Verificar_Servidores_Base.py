@@ -5,17 +5,23 @@ import datetime
 from urllib.parse import urlparse
 from collections import defaultdict
 import time
+import shutil
 
-# --- CONFIGURAÇÕES ---
+# ==============================================================================
+# CONFIGURAÇÕES
+# ==============================================================================
 PASTA_ALVO = 'Listas-Downloaded'
 PASTA_TXTS = 'TXTs'
-# MUDANÇA 1: Removi acentos do nome da pasta para evitar erro "Errno 22" no Windows
 PASTA_ATUALIZACOES = os.path.join(PASTA_TXTS, 'Atualizacoes')
+PASTA_DBS = os.path.join(PASTA_ATUALIZACOES, 'Bancos_de_Dados') # Nova pasta para DBs fracionados
 ARQUIVO_RELATORIO_GERAL = os.path.join(PASTA_TXTS, 'Relatorio_Servidores.txt')
-ARQUIVO_DB_JSON = os.path.join(PASTA_ATUALIZACOES, 'db_historico.json')
+
+# Caminho do antigo DB gigante (para migração automática)
+ARQUIVO_DB_JSON_ANTIGO = os.path.join(PASTA_ATUALIZACOES, 'db_historico.json')
 
 # Garante que as pastas existem
 os.makedirs(PASTA_ATUALIZACOES, exist_ok=True)
+os.makedirs(PASTA_DBS, exist_ok=True)
 
 # ==============================================================================
 # 1. MÓDULO: RELATÓRIO GERAL DE SERVIDORES
@@ -70,23 +76,69 @@ def gerar_relatorio_servidores(arquivos):
     print(f"✅ Relatório Geral salvo em: {ARQUIVO_RELATORIO_GERAL}")
 
 # ==============================================================================
-# 2. MÓDULO: RASTREAMENTO DE MUDANÇAS & LIMPEZA
+# 2. MÓDULO: GERENCIAMENTO DE DADOS (DB OTIMIZADO)
 # ==============================================================================
 
-def carregar_db():
-    if os.path.exists(ARQUIVO_DB_JSON):
+def sanitizar_nome(nome):
+    """Remove caracteres inválidos para nomes de arquivos no Windows"""
+    return re.sub(r'[\\/*?:"<>|]', "", nome)
+
+def get_db_path(nome_base):
+    """Retorna o caminho do arquivo JSON específico para um grupo"""
+    nome_seguro = sanitizar_nome(nome_base)
+    return os.path.join(PASTA_DBS, f"db_{nome_seguro}.json")
+
+def carregar_db_grupo(nome_base):
+    """Carrega apenas o pequeno DB do grupo específico"""
+    caminho = get_db_path(nome_base)
+    if os.path.exists(caminho):
         try:
-            with open(ARQUIVO_DB_JSON, 'r', encoding='utf-8') as f:
+            with open(caminho, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except: pass
-    return {} 
+    return None
 
-def salvar_db(db):
+def salvar_db_grupo(dados, nome_base):
+    """Salva o pequeno DB do grupo específico"""
+    caminho = get_db_path(nome_base)
     try:
-        with open(ARQUIVO_DB_JSON, 'w', encoding='utf-8') as f:
-            json.dump(db, f, indent=4, ensure_ascii=False)
+        with open(caminho, 'w', encoding='utf-8') as f:
+            json.dump(dados, f, indent=4, ensure_ascii=False)
     except Exception as e:
-        print(f"❌ Erro ao salvar DB (possível erro de caminho): {e}")
+        print(f"❌ Erro ao salvar DB de {nome_base}: {e}")
+
+def migrar_db_gigante_se_existir():
+    """
+    Função crucial: Detecta se existe o DB antigo de 3GB.
+    Se existir, lê ele UMA VEZ e quebra em vários arquivinhos na pasta 'Bancos_de_Dados'.
+    """
+    if os.path.exists(ARQUIVO_DB_JSON_ANTIGO):
+        print("\n⚠️  DETECTADO BANCO DE DADOS ANTIGO (GIGANTE). INICIANDO MIGRAÇÃO...")
+        print("    Isso pode levar alguns minutos, mas só precisa ser feito uma vez.")
+        print("    O objetivo é dividir o arquivo de 3GB em pedaços menores para não travar mais.")
+        
+        try:
+            with open(ARQUIVO_DB_JSON_ANTIGO, 'r', encoding='utf-8') as f:
+                db_gigante = json.load(f)
+            
+            total_grupos = len(db_gigante)
+            print(f"    📦 Extraindo dados de {total_grupos} grupos de servidores...")
+
+            for i, (nome_base, dados) in enumerate(db_gigante.items()):
+                salvar_db_grupo(dados, nome_base)
+                if i > 0 and i % 50 == 0: 
+                    print(f"    ... processado {i}/{total_grupos} grupos")
+
+            print("    ✅ Migração concluída! Renomeando arquivo antigo para .backup")
+            shutil.move(ARQUIVO_DB_JSON_ANTIGO, ARQUIVO_DB_JSON_ANTIGO + ".backup")
+        
+        except Exception as e:
+            print(f"    ❌ Erro durante a migração (pode ser falta de memória RAM para abrir o arquivo gigante): {e}")
+            print("    O script tentará continuar criando DBs novos do zero se necessário.")
+
+# ==============================================================================
+# 3. MÓDULO: RASTREAMENTO E LIMPEZA
+# ==============================================================================
 
 def extrair_data_nome(nome_arquivo):
     # Procura padrão [19-01-2026_07h14]
@@ -115,47 +167,53 @@ def extrair_itens_m3u(caminho_arquivo):
     return itens
 
 def processar_mudancas(arquivos):
-    print("\n🔄 Iniciando verificação de mudanças e limpeza...")
-    db = carregar_db()
+    # Passo 1: Verifica se precisa migrar o DB antigo antes de começar
+    migrar_db_gigante_se_existir()
+
+    print("\n🔄 Iniciando verificação de mudanças e limpeza (MODO OTIMIZADO)...")
     
-    # 1. Agrupar arquivos por "Nome Base" (tudo antes do primeiro '[')
+    # Agrupar arquivos por "Nome Base" (Nome da lista)
     grupos_listas = defaultdict(list)
     for arq in arquivos:
-        # MUDANÇA 2: Lógica estrita para pegar o nome base
         if '[' in arq:
             nome_base = arq.split('[')[0].strip(' _-')
         else:
             nome_base = arq.replace('.m3u', '').strip()
-        
         grupos_listas[nome_base].append(arq)
 
     count_processados = 0
     count_deletados = 0
 
+    # Iterar sobre cada grupo (Servidor/Lista)
+    # A grande vantagem aqui: Carregamos e salvamos apenas UM DB por vez.
     for nome_base, lista_arquivos in grupos_listas.items():
-        # Ordena cronologicamente (do mais antigo para o mais novo)
-        lista_arquivos.sort(key=extrair_data_nome)
         
-        if nome_base not in db:
-            db[nome_base] = {
+        # 1. Carrega o histórico APENAS deste grupo
+        db_grupo = carregar_db_grupo(nome_base)
+        
+        # Se não existir, cria estrutura nova
+        if db_grupo is None:
+            db_grupo = {
                 "processed_files": [],
                 "current_items": [], 
                 "first_seen": {}     
             }
 
-        # Nome do log baseado no servidor
-        nome_log_seguro = re.sub(r'[\\/*?:"<>|]', "", nome_base) # Remove caracteres ilegais para nome de arquivo
+        # Ordena arquivos por data
+        lista_arquivos.sort(key=extrair_data_nome)
+        
+        # Prepara arquivo de log
+        nome_log_seguro = sanitizar_nome(nome_base)
         arquivo_log_mudancas = os.path.join(PASTA_ATUALIZACOES, f"LOG_{nome_log_seguro}.txt")
 
-        # Mantemos o controle do arquivo anterior para poder deletá-lo após processar o novo
         arquivo_anterior_para_deletar = None
+        mudanca_no_db = False # Flag para saber se precisamos salvar no final
 
         for i, arquivo in enumerate(lista_arquivos):
             caminho_full = os.path.join(PASTA_ALVO, arquivo)
             
-            # Se já processamos este arquivo exato antes, ele se torna o "anterior" (candidato a deletar se houver um mais novo)
-            if arquivo in db[nome_base]["processed_files"]:
-                # Verifica se não é o ÚLTIMO da lista (o mais recente a gente nunca deleta)
+            # Se já processamos este arquivo, pulamos a análise, mas marcamos como 'anterior' para possível deleção
+            if arquivo in db_grupo["processed_files"]:
                 if i < len(lista_arquivos) - 1:
                     arquivo_anterior_para_deletar = caminho_full
                 continue 
@@ -165,18 +223,19 @@ def processar_mudancas(arquivos):
             data_str = data_arq_obj.strftime("%d/%m/%Y %H:%M") if data_arq_obj != datetime.datetime.min else "Data Desconhecida"
 
             novos_itens_set = extrair_itens_m3u(caminho_full)
-            itens_anteriores = set(db[nome_base]["current_items"])
+            itens_anteriores = set(db_grupo["current_items"])
 
             adicionados = novos_itens_set - itens_anteriores
             removidos = itens_anteriores - novos_itens_set
             
+            # Atualiza datas de 'primeira vez visto'
             for item in adicionados:
-                if item not in db[nome_base]["first_seen"]:
-                    db[nome_base]["first_seen"][item] = data_str
+                if item not in db_grupo["first_seen"]:
+                    db_grupo["first_seen"][item] = data_str
             
-            eh_primeira_carga = len(db[nome_base]["processed_files"]) == 0
+            eh_primeira_carga = len(db_grupo["processed_files"]) == 0
             
-            # Escreve Log
+            # Escreve no Log
             with open(arquivo_log_mudancas, 'a', encoding='utf-8') as log:
                 log.write(f"\n{'='*60}\n")
                 log.write(f"📁 ARQUIVO: {arquivo}\n")
@@ -191,22 +250,21 @@ def processar_mudancas(arquivos):
                     if adicionados:
                         log.write(f"🟢 ENTRARAM ({len(adicionados)}):\n")
                         for item in sorted(list(adicionados)):
-                            data_visto = db[nome_base]["first_seen"].get(item, "Hoje")
+                            data_visto = db_grupo["first_seen"].get(item, "Hoje")
                             log.write(f"   + {item}  | (1ª vez: {data_visto})\n")
                     if removidos:
                         log.write(f"\n🔴 SAÍRAM ({len(removidos)}):\n")
                         for item in sorted(list(removidos)):
-                            data_visto = db[nome_base]["first_seen"].get(item, "N/A")
+                            data_visto = db_grupo["first_seen"].get(item, "N/A")
                             log.write(f"   - {item}  | (Visto em: {data_visto})\n")
 
-            # Atualiza DB
-            db[nome_base]["current_items"] = list(novos_itens_set)
-            db[nome_base]["processed_files"].append(arquivo)
+            # Atualiza dados na memória
+            db_grupo["current_items"] = list(novos_itens_set)
+            db_grupo["processed_files"].append(arquivo)
             count_processados += 1
-            salvar_db(db)
+            mudanca_no_db = True
 
-            # MUDANÇA 3: Lógica de Exclusão do Anterior
-            # Se acabamos de processar um arquivo novo com sucesso, e existe um anterior na lista (mais velho), deletamos o anterior.
+            # Lógica de Limpeza: Deletar arquivo anterior se este for mais novo
             if i > 0:
                 arquivo_velho_nome = lista_arquivos[i-1]
                 caminho_velho = os.path.join(PASTA_ALVO, arquivo_velho_nome)
@@ -218,7 +276,7 @@ def processar_mudancas(arquivos):
                     except Exception as e:
                         print(f"      ⚠️  Não foi possível deletar {arquivo_velho_nome}: {e}")
             
-            # Se tínhamos um marcado para deletar de rodadas anteriores (cache), deleta agora
+            # Limpeza de cache pendente
             if arquivo_anterior_para_deletar and os.path.exists(arquivo_anterior_para_deletar) and arquivo_anterior_para_deletar != caminho_full:
                  try:
                     os.remove(arquivo_anterior_para_deletar)
@@ -226,9 +284,15 @@ def processar_mudancas(arquivos):
                     count_deletados += 1
                     arquivo_anterior_para_deletar = None
                  except: pass
+        
+        # IMPORTANTE: Salva o DB deste grupo apenas DEPOIS de processar todos os arquivos dele
+        if mudanca_no_db:
+            salvar_db_grupo(db_grupo, nome_base)
+            # Ao sair do loop e voltar para o início, o 'db_grupo' sai da memória (Garbage Collection)
 
     print(f"\n✅ Concluído! {count_processados} atualizados, {count_deletados} arquivos antigos removidos.")
     print(f"📂 Logs em: {PASTA_ATUALIZACOES}")
+    print(f"📂 Bancos de dados otimizados em: {PASTA_DBS}")
 
 # ==============================================================================
 # MAIN

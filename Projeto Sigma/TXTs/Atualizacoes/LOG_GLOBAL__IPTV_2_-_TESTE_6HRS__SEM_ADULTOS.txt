@@ -2341,3 +2341,49 @@
    - [▶️ SÉRIES | Mistério] Apenas um Olhar S01E04  | (Visto em: 19/01/2026 00:45)
    - [▶️ SÉRIES | Mistério] Apenas um Olhar S01E05  | (Visto em: 19/01/2026 00:45)
    - [▶️ SÉRIES | Mistério] Apenas um Olhar S01E06  | (Visto em: 19/01/2026 00:45)
+
+============================================================
+📁 ARQUIVO: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+📅 DATA: 19/01/2026 07:14
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 337319 itens.
+
+============================================================
+📁 ARQUIVO: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
+📅 DATA: 19/01/2026 21:06
+------------------------------------------------------------
+🟢 ENTRARAM (12):
+   + [⚽ JOGOS DO DIA] Bahia x Barcelona de Ilhéus 19h15  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Bodo/Glimt x Manchester City 14h45  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Copenhague x Napoli 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Inter de Milão x Arsenal 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Novorizontino x Palmeiras 20h OPCAO 1  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Novorizontino x Palmeiras 20h OPCAO 2  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Olympiacos x Bayer Leverkusen 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Real Madrid x Monaco 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Sporting x PSG 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Tottenham x Borussia Dortmund 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] Villarreal x Ajax 17h  | (1ª vez: 19/01/2026 21:06)
+   + [⚽ JOGOS DO DIA] ▶️⚽ Evento em breve ⚽▶️  | (1ª vez: 19/01/2026 21:06)
+
+🔴 SAÍRAM (20):
+   - [⚽ JOGOS DO DIA] Aston Villa x Everton 13h30  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Atlético de Madrid x Alavés 12h15  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Atlético-MG x Tombense 18h  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Bologna x Fiorentina 11h  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Celta de Vigo x Rayo Vallecano 14h30  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Corinthians x São Paulo 16h OPCAO 1  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Corinthians x São Paulo 16h OPCAO 2  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Guarani x Santos 20h30 OPCAO 1  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Guarani x Santos 20h30 OPCAO 2  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Milan x Lecce 16h45  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Neom x Al Hilal 14h30  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Porto-BA x Vitória 16h OPCAO 1  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Porto-BA x Vitória 16h OPCAO 2  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Sampaio Corrêa-RJ x Botafogo 20h30  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Torino x Roma 14h  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Vasco x Nova Iguaçu	 18h  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Wolverhampton x Newcastle 11h  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Ypiranga x Internacional	18h OPCAO 1  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] Ypiranga x Internacional	18h OPCAO 2  | (Visto em: 19/01/2026 07:14)
+   - [⚽ JOGOS DO DIA] ⚽ Evento em breve ⚽  | (Visto em: 19/01/2026 07:14)

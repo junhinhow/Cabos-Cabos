@@ -1,0 +1,8 @@
+[NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos] \ud83d\udfe2 Link (M3U): http://solar.netpl4y.com/get.php?username=48237172463&password=53922761826&type=m3u_plus&output=mpegts
+[NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos] \ud83d\udfe1 Link (HLS): http://solar.netpl4y.com/get.php?username=48237172463&password=53922761826&type=m3u_plus&output=hls
+[NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos] \ud83d\udfe2 Link (M3U): http://solar.netpl4y.com/get.php?username=87233656916&password=82574387042&type=m3u_plus&output=mpegts
+[NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos] \ud83d\udfe2 Link (M3U): http://solar.netpl4y.com/get.php?username=48237172463&password=53922761826&type=m3u_plus&output=mpegts
+[NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos] \ud83d\udfe1 Link (HLS): http://solar.netpl4y.com/get.php?username=87233656916&password=82574387042&type=m3u_plus&output=hls
+[NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos] \ud83d\udfe1 Link (HLS): http://solar.netpl4y.com/get.php?username=48237172463&password=53922761826&type=m3u_plus&output=hls
+[NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos] \ud83d\udfe2 Link (M3U): http://solar.netpl4y.com/get.php?username=87233656916&password=82574387042&type=m3u_plus&output=mpegts
+[NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos] \ud83d\udfe1 Link (HLS): http://solar.netpl4y.com/get.php?username=87233656916&password=82574387042&type=m3u_plus&output=hls

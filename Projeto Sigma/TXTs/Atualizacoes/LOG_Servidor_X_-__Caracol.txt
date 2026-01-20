@@ -1,29 +1,6 @@
 
 ============================================================
-📁 ARQUIVO: Servidor_X_-__Caracol_[19-01-2026_01h12].m3u
-📅 DATA: 19/01/2026 01:12
-------------------------------------------------------------
-ℹ️ BASE DE DADOS INICIADA: 329259 itens.
-
-============================================================
-📁 ARQUIVO: Servidor_X_-__Caracol_[19-01-2026_07h14].m3u
-📅 DATA: 19/01/2026 07:14
-------------------------------------------------------------
-✅ SEM MUDANÇAS NA GRADE.
-
-============================================================
 📁 ARQUIVO: Servidor_X_-__Caracol_[19-01-2026_21h06].m3u
 📅 DATA: 19/01/2026 21:06
 ------------------------------------------------------------
-🟢 ENTRARAM (11):
-   + [SHORTS NOVELINHAS CURTAS] Super americano a última rodada S01E01  | (1ª vez: 19/01/2026 21:06)
-   + [♦️ FILMES 2023-2024♦️] A Sombra do Comandante (2024)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️ FILMES RETRO ANTIGOS♦️] Distrito 9 (2009)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️ FILMES RETRO ANTIGOS♦️] Grávida e Perseguida (2020)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️ FILMES RETRO ANTIGOS♦️] Segredos de uma Golpista (2021)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️ FILMES RETRO ANTIGOS♦️] Zootopia: Essa Cidade é o Bicho (2016)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️LANÇAMENTOS DIARIOS 2025-2026♦️] Família de Aluguel (2025)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️LANÇAMENTOS DIARIOS 2025-2026♦️] O Agente Secreto (2025)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️LANÇAMENTOS DIARIOS 2025-2026♦️] O Caso Belle Steiner (2025)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️LANÇAMENTOS DIARIOS 2025-2026♦️] PAPAI X DOIS (2025)  | (1ª vez: 19/01/2026 21:06)
-   + [♦️LANÇAMENTOS DIARIOS 2025-2026♦️] Wizkid: De Lagos Para o Mundo (2025)  | (1ª vez: 19/01/2026 21:06)
+ℹ️ BASE DE DADOS INICIADA: 329270 itens.

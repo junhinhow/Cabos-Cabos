@@ -1,4 +1,4 @@
-RELATÓRIO DE SERVIDORES - 19/01/2026 19:12
+RELATÓRIO DE SERVIDORES - 19/01/2026 22:39
 ====================================================================================================
 NOME DO ARQUIVO                                         | SERVIDOR BASE
 ====================================================================================================
@@ -19,25 +19,25 @@ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026..  | http://74.91.29.44:80
 Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026..  | http://74.91.29.44:80
 Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026..  | http://74.91.29.44:80
 AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_0..  | http://7sevenplay10.top:80
-AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_0..  | http://7sevenplay10.top:80
+AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_2..  | http://7sevenplay10.top:80
 AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_..  | http://7sevenplay10.top:80
 AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_..  | http://7sevenplay10.top:80
-AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_00..  | http://xui.brfontes.fun:80
 AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_07..  | http://xui.brfontes.fun:80
+AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_21..  | http://74.91.29.44:80
 AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_0..  | http://xui.brfontes.fun:80
-AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_0..  | http://xui.brfontes.fun:80
-AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_00h4..  | http://cloudsalex.space:80
+AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_2..  | http://xui.brfontes.fun:80
 AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_07h1..  | http://cloudsalex.space:80
-AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_00h..  | http://cloudsalex.space:80
+AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_21h0..  | http://cloudsalex.space:80
 AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_07h..  | http://cloudsalex.space:80
+AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_21h..  | http://cloudsalex.space:80
 AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_0..  | http://cdn.andromedaz.site:80
-AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_0..  | http://cdn.andromedaz.site:80
+AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_2..  | http://fontez.cc:80
 AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_..  | http://cdn.andromedaz.site:80
 AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_..  | http://cdn.andromedaz.site:80
-AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_00..  | http://fontez.cc:80
 AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_07..  | http://fontez.cc:80
+AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_22..  | http://fontez.cc:80
 AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_0..  | http://fontez.cc:80
-AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_0..  | http://fontez.cc:80
+AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_2..  | http://fontez.cc:80
 Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto_[1..  | https://wpls.shop:443
 Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01..  | http://proxyphtop.shop:80
 Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01..  | http://proxyphtop.shop:80
@@ -58,12 +58,9 @@ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[1..  | http://x25.acxll.shop:
 BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-0..  | http://fontez.cc:80
 BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-0..  | http://fontez.cc:80
 BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-0..  | http://fontez.cc:80
-BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-0..  | http://fontez.cc:80
 BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-..  | http://xui.brfontes.fun:80
 BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-..  | http://xui.brfontes.fun:80
 BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-..  | http://xui.brfontes.fun:80
-BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-..  | http://xui.brfontes.fun:80
-BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-..  | http://cloudsalex.space:80
 BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-..  | http://cloudsalex.space:80
 BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-..  | http://cloudsalex.space:80
 BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-..  | http://cloudsalex.space:80
@@ -79,7 +76,6 @@ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[..  | http://topcdn.fun:80
 BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[..  | http://topcdn.fun:80
 BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[..  | http://topcdn.fun:80
 BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[..  | http://topcdn.fun:80
-BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2..  | http://protec.sbs:80
 BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2..  | http://protec.sbs:80
 BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2..  | http://protec.sbs:80
 BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2..  | http://protec.sbs:80
@@ -89,6 +85,12 @@ CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h40]..  | http://rynox.top:80
 CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40]..  | http://rynox.top:80
 CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-01-20..  | http://cdn.viadoveio.uk:80
 CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-01-20..  | http://cdn.viadoveio.uk:80
+CYBER_-__404SRV__-__4H_TESTE_COMPLETO_CADULTO_[19-01..  | http://infra10.top:80
+CYBER_-__404SRV__-__4H_TESTE_COMPLETO_SADULTO_[19-01..  | http://infra10.top:80
+CYBER_-__4H_TESTE_COMPLETO_CADULTO_[19-01-2026_21h06..  | http://rynox.top:80
+CYBER_-__4H_TESTE_COMPLETO_SADULTO_[19-01-2026_21h06..  | http://rynox.top:80
+CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_CADULTO_[19-01..  | http://cdn.viadoveio.uk:80
+CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_SADULTO_[19-01..  | http://cdn.viadoveio.uk:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2..  | http://fontez.cc:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2..  | http://fontez.cc:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+..  | http://fontez.cc:80
@@ -110,92 +112,88 @@ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-202..  | http://cloudsalex.spac
 CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026..  | http://38.147.106.155:80
 CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026..  | http://38.147.106.155:80
 CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026..  | http://38.147.106.155:80
-CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026..  | http://38.147.106.155:80
 CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_..  | http://sxhs.cgpsx.site:80
 CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_..  | http://sxhs.cgpsx.site:80
 CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_..  | http://sxhs.cgpsx.site:80
 CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_..  | http://sxhs.cgpsx.site:80
 CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-20..  | http://xxx.pxlst.site:80
-CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-20..  | http://xxx.pxlst.site:80
 CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-20..  | http://xxx.pxlst.site:80
 CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-20..  | http://xxx.pxlst.site:80
-CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_01h0..  | http://wpm.dcnn.site:80
 CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_07h1..  | http://wpm.dcnn.site:80
-CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_00h4..  | http://wpm.dcnn.site:80
+CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_22h1..  | http://wpm.dcnn.site:80
 CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_07h1..  | http://wpm.dcnn.site:80
+CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_22h1..  | http://wpm.dcnn.site:80
 CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_..  | http://x25.acxll.shop:80
 CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_..  | http://x25.acxll.shop:80
 CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_..  | http://x25.acxll.shop:80
 CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_..  | http://x25.acxll.shop:80
-CineMania_-__Completo_Com_Adultos_[19-01-2026_00h45]..  | http://dns.blessed7.xyz:80
 CineMania_-__Completo_Com_Adultos_[19-01-2026_07h14]..  | http://dns.blessed7.xyz:80
-CineMania_-__Completo_Sem_Adultos_[19-01-2026_01h03]..  | http://dns.blessed7.xyz:80
+CineMania_-__Completo_Com_Adultos_[19-01-2026_21h06]..  | http://dns.blessed7.xyz:80
 CineMania_-__Completo_Sem_Adultos_[19-01-2026_07h14]..  | http://dns.blessed7.xyz:80
+CineMania_-__Completo_Sem_Adultos_[19-01-2026_21h06]..  | http://dns.blessed7.xyz:80
 EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-20..  | http://c.superodin.nl70.top:80
 EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-20..  | http://c.superodin.nl70.top:80
 EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-20..  | http://c.superodin.nl70.top:80
 EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-20..  | http://c.superodin.nl70.top:80
-GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_01h..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://wxpago.sbs:80
-GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://wxpago.sbs:80
-GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_00..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_07..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://wxpago.sbs:80
-GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://wxpago.sbs:80
-GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_00..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_07..  | http://wxpago.sbs:80
 GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://wxpago.sbs:80
-GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://wxpago.sbs:80
-GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_00h..  | http://protec.sbs:80
+GLOBAL__IPTV_1__-__TESTE_1HR__COMPLETO_[19-01-2026_2..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1__-__TESTE_1HR__SEM_ADULTOS_[19-01-202..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1__-__TESTE_3HRS__COMPLETO_[19-01-2026_..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1__-__TESTE_3HRS__SEM_ADULTOS_[19-01-20..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO_[19-01-2026_..  | http://wxpago.sbs:80
+GLOBAL__IPTV_1__-__TESTE_6HRS__SEM_ADULTOS_[19-01-20..  | http://wxpago.sbs:80
 GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_07h..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://protec.sbs:80
-GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://protec.sbs:80
-GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_00..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_07..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://protec.sbs:80
-GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://protec.sbs:80
-GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_01..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://protec.sbs:80
-GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_00h..  | http://topcdn.fun:80
+GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[19-01-2026_2..  | http://protec.sbs:80
+GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[19-01-2026_..  | http://protec.sbs:80
+GLOBAL__IPTV_2__-__TESTE_3HRS__SEM_ADULTOS_[19-01-20..  | http://protec.sbs:80
+GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO_[19-01-2026_..  | http://protec.sbs:80
+GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS_[19-01-20..  | http://protec.sbs:80
 GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_07h..  | http://topcdn.fun:80
 GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://topcdn.fun:80
-GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://topcdn.fun:80
-GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_01..  | http://topcdn.fun:80
 GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_07..  | http://topcdn.fun:80
 GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://topcdn.fun:80
-GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://topcdn.fun:80
-GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_01..  | http://topcdn.fun:80
 GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_07..  | http://topcdn.fun:80
 GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://topcdn.fun:80
-GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://topcdn.fun:80
+GLOBAL__IPTV_3__-__TESTE_1HR__SEM_ADULTOS_[19-01-202..  | http://topcdn.fun:80
+GLOBAL__IPTV_3__-__TESTE_3HRS__COMPLETO_[19-01-2026_..  | http://topcdn.fun:80
+GLOBAL__IPTV_3__-__TESTE_3HRS__SEM_ADULTOS_[19-01-20..  | http://topcdn.fun:80
+GLOBAL__IPTV_3__-__TESTE_6HRS__COMPLETO_[19-01-2026_..  | http://topcdn.fun:80
+GLOBAL__IPTV_3__-__TESTE_6HRS__SEM_ADULTOS_[19-01-20..  | http://topcdn.fun:80
 GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-2026_07h..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_01..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_07..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_01..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_07..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[19-01-2026_..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[19-01-20..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[19-01-2026_..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS_[19-01-20..  | http://x25.acxll.shop:80
 HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-..  | http://tigeragile.uk:80
 HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-..  | http://tigeragile.uk:80
 HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-202..  | http://cloudsalex.space:80
 HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-202..  | http://cloudsalex.space:80
-HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_01..  | http://c.superodin.nl70.top:80
 HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_07..  | http://c.superodin.nl70.top:80
+HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_21..  | http://c.superodin.nl70.top:80
 HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_..  | http://xui.brfontes.fun:80
 HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_..  | http://xui.brfontes.fun:80
 HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_..  | http://cloudsalex.space:80
 HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_..  | http://cloudsalex.space:80
 HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026..  | http://sxhs.cgpsx.site:80
 HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026..  | http://sxhs.cgpsx.site:80
-HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_01h..  | http://lbgthost.shop:80
 HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_07h..  | http://lbgthost.shop:80
+HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_22h..  | http://lbgthost.shop:80
 HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_..  | http://fhmplay.shop:80
 HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_..  | http://fhmplay.shop:80
 HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_..  | http://fontez.cc:80
@@ -209,18 +207,27 @@ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_..  | http://38.147.106.155:
 HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-202..  | http://dstreaming.win:80
 HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-202..  | http://dstreaming.win:80
 HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_..  | http://cdn.serversnetuno.site:80
-HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_..  | http://cdn.serversnetuno.site:80
+INVICTOS_EXTREME_-_TESTE_COMPLETO_COM_ADULTOS_[19-01..  | http://sourceopbx.sbs:80
+INVICTOS_EXTREME_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01..  | http://sourceopbx.sbs:80
 INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u               | http://sourceopbx.sbs:80
 INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-0..  | http://sourceopbx.sbs:80
+INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-0..  | http://sourceopbx.sbs:80
 INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-0..  | http://sourceopbx.sbs:80
+INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-0..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-_TESTE_COMPLETO_-_SMART_TVS_(_LG__S..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-_TESTE_COMPLETO_COM_ADULTOS_[19-01-..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__..  | http://sourceopbx.sbs:80
+INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01..  | http://sourceopbx.sbs:80
 INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01..  | http://sourceopbx.sbs:80
 Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-..  | http://cloudsalex.space:80
 Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-..  | http://cloudsalex.space:80
+Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-..  | http://cloudsalex.space:80
 Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-..  | http://cloudsalex.space:80
 Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-..  | http://cloudsalex.space:80
 LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[1..  | http://cdneshow.xyz:80
@@ -233,94 +240,140 @@ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-0..  | http://cdn.andromedaz.
 LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-0..  | http://cdn.andromedaz.site:80
 LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS..  | http://srv3.site:80
 LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS..  | http://srv3.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS..  | http://srv3.site:80
+LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS..  | http://srv3.site:80
 LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS..  | http://srv3.site:80
 LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS..  | http://srv3.site:80
 LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19..  | http://xui.brfontes.fun:80
 LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19..  | http://xui.brfontes.fun:80
 LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19..  | http://xui.brfontes.fun:80
 LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS_[1..  | http://xui.brfontes.fun:80
+LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS_[1..  | http://xui.brfontes.fun:80
 LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01..  | http://wpm.dcnn.site:80
 LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01..  | http://wpm.dcnn.site:80
 LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01..  | http://wpm.dcnn.site:80
 LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-__RedPlay_TESTE_-_CADULTOS_[19-0..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_RedPlay_-__RedPlay_TESTE_-_sADULTOS_[19-0..  | http://wpm.dcnn.site:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-..  | http://cloudsalex.space:80
 LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-..  | http://cloudsalex.space:80
 LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-..  | http://cloudsalex.space:80
 LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-..  | http://cloudsalex.space:80
 LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-..  | http://cloudsalex.space:80
+LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-..  | http://cloudsalex.space:80
 LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS..  | http://cdn.kplaysuper.site:80
 LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS..  | http://cdn.kplaysuper.site:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS..  | http://cdn.kplaysuper.site:80
+LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS..  | http://cdn.kplaysuper.site:80
 LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS..  | http://cdn.kplaysuper.site:80
 LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS..  | http://cdn.kplaysuper.site:80
 Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_01h..  | http://fontez.cc:80
 Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_07h..  | http://fontez.cc:80
+Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_21h..  | http://fontez.cc:80
 Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_01h..  | http://fontez.cc:80
 Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_07h..  | http://fontez.cc:80
+Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_21h..  | http://fontez.cc:80
 Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_01..  | http://74.91.29.44:80
 Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_07..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_21..  | http://74.91.29.44:80
 Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_02..  | http://74.91.29.44:80
 Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_07..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_21..  | http://74.91.29.44:80
 Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[1..  | http://cdn.turbox.tv.br:80
 Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[1..  | http://cdn.turbox.tv.br:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[1..  | http://cdn.turbox.tv.br:80
+Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[1..  | http://cdn.turbox.tv.br:80
 Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[1..  | http://cdn.turbox.tv.br:80
 Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[1..  | http://cdn.turbox.tv.br:80
 Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_01h..  | http://207.58.175.8:80
 Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_07h..  | http://207.58.175.8:80
+Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_21h..  | http://207.58.175.8:80
 Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_01h..  | http://207.58.175.8:80
 Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_07h..  | http://207.58.175.8:80
+Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_21h..  | http://207.58.175.8:80
 Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_01h1..  | http://c.superodin.nl70.top:80
 Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_07h1..  | http://c.superodin.nl70.top:80
+Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_21h0..  | http://c.superodin.nl70.top:80
 Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_01h1..  | http://c.superodin.nl70.top:80
 Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_07h5..  | http://c.superodin.nl70.top:80
+Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_22h1..  | http://c.superodin.nl70.top:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
 NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
+NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-..  | http://38.147.106.155:80
+NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
 NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
 NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
 NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
 NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
+NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01..  | http://cloudsalex.space:80
+NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
 NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
 NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
 NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
 NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
+NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wxpago.sbs:80
+NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[..  | http://proxyphtop.shop:80
+NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-0..  | http://proxyphtop.shop:80
 NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_01..  | http://207.58.175.8:80
 NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_07..  | http://207.58.175.8:80
+NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_21..  | http://207.58.175.8:80
 NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_01..  | http://207.58.175.8:80
 NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_07..  | http://207.58.175.8:80
+NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_21..  | http://207.58.175.8:80
+NetPlay_-__FLASH_-_Teste_12H_C_Adultos_[19-01-2026_2..  | http://157.173.97.235:80
+NetPlay_-__FLASH_-_Teste_12H_S_Adultos_[19-01-2026_2..  | http://157.173.97.235:80
+NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-..  | http://x25.acxll.shop:80
+NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-..  | http://x25.acxll.shop:80
 NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-..  | http://x25.acxll.shop:80
 NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
 NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
+NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
 NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
 NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
+NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://wpm.dcnn.site:80
+NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-202..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-202..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
+NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-202..  | http://protec.sbs:80
 NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-202..  | http://protec.sbs:80
 NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
 NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
+NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
+NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
 NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
 NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-..  | http://cdn.andromedaz.site:80
 NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026..  | http://xui.brfontes.fun:80
@@ -329,103 +382,151 @@ NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026..  | http://xui.brfontes.fu
 NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026..  | http://xui.brfontes.fun:80
 NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2..  | http://eogdos.shop:80
 NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2..  | http://eogdos.shop:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2..  | http://eogdos.shop:80
 NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2..  | http://eogdos.shop:80
 NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2..  | http://eogdos.shop:80
+NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2..  | http://eogdos.shop:80
+NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://topcdn.fun:80
 NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://topcdn.fun:80
 NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://topcdn.fun:80
 NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://topcdn.fun:80
+NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-20..  | http://topcdn.fun:80
 NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
 NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
+NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
+NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
 NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
 NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026..  | http://cdn.andromedaz.site:80
 NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://c.superodin.nl70.top:80
 NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-20..  | http://c.superodin.nl70.top:80
 NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2..  | http://c.superodin.nl70.top:80
 NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2..  | http://c.superodin.nl70.top:80
+NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2..  | http://c.superodin.nl70.top:80
+NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
 NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
 NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
 NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
 NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
+NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-202..  | http://fontez.cc:80
 New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
 New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
+New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
+New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
 New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
 New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01..  | http://xui.brfontes.fun:80
 P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_01h12]...  | http://cdn.p2vip.top:80
 P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_07h14]...  | http://cdn.p2vip.top:80
+P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_21h06]...  | http://cdn.p2vip.top:80
 P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_01h12]..  | http://cdn.p2vip.top:80
 P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_07h58]..  | http://cdn.p2vip.top:80
+P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_21h06]..  | http://cdn.p2vip.top:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://fontez.cc:80
 PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://fontez.cc:80
 PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://fontez.cc:80
 PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://fontez.cc:80
 PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://fontez.cc:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[1..  | http://xui.brfontes.fun:80
 PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[1..  | http://xui.brfontes.fun:80
 PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[1..  | http://xui.brfontes.fun:80
 PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[1..  | http://xui.brfontes.fun:80
 PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[1..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[1..  | http://xui.brfontes.fun:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://wpm.dcnn.site:80
 PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://wpm.dcnn.site:80
 PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://wpm.dcnn.site:80
 PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://wpm.dcnn.site:80
 PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://wpm.dcnn.site:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://x25.acxll.shop:80
 PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://x25.acxll.shop:80
 PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://x25.acxll.shop:80
 PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://x25.acxll.shop:80
 PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://x25.acxll.shop:80
+PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://cloudsalex.space:80
 PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://cloudsalex.space:80
 PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19..  | http://cloudsalex.space:80
 PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://cloudsalex.space:80
 PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19..  | http://cloudsalex.space:80
 PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://38.147.106.155:80
 PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[..  | http://38.147.106.155:80
+PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://38.147.106.155:80
 PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://38.147.106.155:80
 PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[..  | http://38.147.106.155:80
 PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTO..  | http://protec.sbs:80
 PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTO..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTO..  | http://protec.sbs:80
+PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTO..  | http://protec.sbs:80
 PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTO..  | http://protec.sbs:80
 PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTO..  | http://protec.sbs:80
 PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTO..  | http://topcdn.fun:80
 PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTO..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTO..  | http://topcdn.fun:80
+PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTO..  | http://topcdn.fun:80
 PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTO..  | http://topcdn.fun:80
 PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTO..  | http://topcdn.fun:80
 PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
 PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
 PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
 PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
+PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-..  | http://cdn.andromedaz.site:80
+Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_..  | http://queroassistir.top:80
 Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_..  | http://queroassistir.top:80
 Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_..  | http://queroassistir.top:80
 Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_01h..  | http://queroassistir.top:80
 Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_07h..  | http://queroassistir.top:80
+Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_21h..  | http://queroassistir.top:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-20..  | http://topcdn.fun:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-20..  | http://topcdn.fun:80
+SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-20..  | http://topcdn.fun:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-20..  | http://topcdn.fun:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-20..  | http://topcdn.fun:80
 Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_01h12..  | http://xui.brfontes.fun:80
 Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_07h14..  | http://xui.brfontes.fun:80
+Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_21h06..  | http://xui.brfontes.fun:80
 Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_01h12..  | http://xui.brfontes.fun:80
 Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_07h52..  | http://xui.brfontes.fun:80
+Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_21h06..  | http://xui.brfontes.fun:80
 Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_01h12]..  | http://vidaloka.fun:80
 Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_07h14]..  | http://vidaloka.fun:80
+Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_21h06]..  | http://vidaloka.fun:80
 Servidor_X_-__Caracol_[19-01-2026_01h12].m3u            | http://vidaloka.fun:80
 Servidor_X_-__Caracol_[19-01-2026_07h14].m3u            | http://vidaloka.fun:80
+Servidor_X_-__Caracol_[19-01-2026_21h06].m3u            | http://vidaloka.fun:80
 Servidor_X_-__NetTurbo_[19-01-2026_01h12].m3u           | http://fontez.cc:80
 Servidor_X_-__NetTurbo_[19-01-2026_07h14].m3u           | http://fontez.cc:80
+Servidor_X_-__NetTurbo_[19-01-2026_21h06].m3u           | http://fontez.cc:80
 Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_01h12]..  | http://sourceopbx.sbs:80
 Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_07h14]..  | http://sourceopbx.sbs:80
+Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_21h06]..  | http://sourceopbx.sbs:80
 Servidor_X_-__OpenBox_[19-01-2026_01h12].m3u            | http://sourceopbx.sbs:80
 Servidor_X_-__OpenBox_[19-01-2026_07h14].m3u            | http://sourceopbx.sbs:80
+Servidor_X_-__OpenBox_[19-01-2026_21h06].m3u            | http://sourceopbx.sbs:80
 Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_01h44].m..  | https://wpls.shop:443
 Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_07h14].m..  | https://wpls.shop:443
+Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_21h06].m..  | http://wpls.shop:80
 Servidor_X_-__P2Box_[19-01-2026_01h12].m3u              | https://wpls.shop:443
 Servidor_X_-__P2Box_[19-01-2026_07h14].m3u              | https://wpls.shop:443
+Servidor_X_-__P2Box_[19-01-2026_21h06].m3u              | http://wpls.shop:80
 Stark_-_Pro_[18-01-2026_20h31].m3u                      | http://proxyphtop.shop:80
 Stark_-_Ultimate_[18-01-2026_20h32].m3u                 | http://c.superodin.nl70.top:80
+TOP_Z_-_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u     | http://vidaloka.fun:80
+TOP_Z_-_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u     | http://vidaloka.fun:80
 Thunder_-__Completo_Com_Adultos_[19-01-2026_01h12].m..  | http://sxhs.cgpsx.site:80
 Thunder_-__Completo_Com_Adultos_[19-01-2026_07h58].m..  | http://sxhs.cgpsx.site:80
+Thunder_-__Completo_Com_Adultos_[19-01-2026_22h19].m..  | http://sxhs.cgpsx.site:80
 Thunder_-__Completo_Sem_Adultos_[19-01-2026_01h12].m..  | http://sxhs.cgpsx.site:80
 Thunder_-__Completo_Sem_Adultos_[19-01-2026_07h14].m..  | http://sxhs.cgpsx.site:80
+Thunder_-__Completo_Sem_Adultos_[19-01-2026_21h06].m..  | http://sxhs.cgpsx.site:80
+VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[1..  | http://veloz.tvbrlive.com:80
 VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[1..  | http://veloz.tvbrlive.com:80
 VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[1..  | http://veloz.tvbrlive.com:80
 VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[1..  | http://veloz.tvbrlive.com:80
 VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[1..  | http://veloz.tvbrlive.com:80
+VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026..  | http://dns.blessed7.xyz:80
 VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026..  | http://dns.blessed7.xyz:80
 VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026..  | http://dns.blessed7.xyz:80
 VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01-2026..  | http://dns.blessed7.xyz:80
@@ -434,16 +535,21 @@ WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_0..  | http://fontez.cc:80
 WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_1..  | http://fontez.cc:80
 WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_0..  | http://fontez.cc:80
 WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_0..  | http://fontez.cc:80
+WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_2..  | http://fontez.cc:80
 WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026..  | http://wpm.dcnn.site:80
 WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026..  | http://wpm.dcnn.site:80
 WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026..  | http://wpm.dcnn.site:80
 WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026..  | http://wpm.dcnn.site:80
 WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
 WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
+WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
+WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
 WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
 WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_..  | http://xui.brfontes.fun:80
 ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_..  | http://topcdn.fun:80
 ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_..  | http://topcdn.fun:80
+ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_..  | http://topcdn.fun:80
+ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_..  | http://topcdn.fun:80
 ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_..  | http://topcdn.fun:80
 ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_..  | http://topcdn.fun:80
 playlist_160090903_plus.m3u                             | http://38.147.106.155:80
@@ -453,421 +559,554 @@ playlist_160090903_plus.m3u                             | http://38.147.106.155:
 AGRUPAMENTO POR SERVIDOR
 ====================================================================================================
 
-📡 http://fontez.cc:80 (38 arquivos)
-   ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_01h03].m3u
+📡 http://fontez.cc:80 (46 arquivos)
    ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_07h14].m3u
-   ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[19-01-2026_22h18].m3u
    ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_07h14].m3u
-   ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[19-01-2026_21h06].m3u
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_21h06].m3u
    ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_07h14].m3u
-   ├─ AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[19-01-2026_22h18].m3u
    ├─ AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
-   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_00h54].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[19-01-2026_21h06].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_01h04].m3u
+   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[19-01-2026_21h06].m3u
    ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
    ├─ Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-_1_ONE_-_Completo_Sem_Adultos_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIMEBLACK_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ Servidor_X_-__NetTurbo_[19-01-2026_01h12].m3u
    ├─ Servidor_X_-__NetTurbo_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__NetTurbo_[19-01-2026_21h06].m3u
    ├─ WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h40].m3u
    ├─ WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
 
-📡 http://xui.brfontes.fun:80 (38 arquivos)
-   ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_00h54].m3u
+📡 http://xui.brfontes.fun:80 (46 arquivos)
    ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_07h52].m3u
-   ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[19-01-2026_21h06].m3u
    ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_07h14].m3u
-   ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[19-01-2026_21h06].m3u
    ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_07h14].m3u
-   ├─ AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
    ├─ AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[19-01-2026_22h18].m3u
    ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_22h18].m3u
    ├─ BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
-   ├─ HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_01h03].m3u
    ├─ HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_21h06].m3u
+   ├─ LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
    ├─ NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__SKY_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
    ├─ New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_01h12].m3u
    ├─ New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
    ├─ New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_01h12].m3u
    ├─ New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEGOLD_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__AtivaBox_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_01h12].m3u
    ├─ Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ Servidor_X_-__AtivaBox_Sem_Adultos_[19-01-2026_21h06].m3u
    ├─ WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
 
-📡 http://x25.acxll.shop:80 (37 arquivos)
-   ├─ AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_00h54].m3u
+📡 http://x25.acxll.shop:80 (41 arquivos)
    ├─ AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_07h14].m3u
-   ├─ AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_NEW_-__New_Completo_CAdultos_[19-01-2026_21h06].m3u
    ├─ AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ AMERICAN_-_NEW_-__New_Completo_SAdultos_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
-   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_07h58].m3u
-   ├─ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[19-01-2026_21h06].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h44].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
-   ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h12].m3u
    ├─ GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
-   ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_01h04].m3u
+   ├─ GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[19-01-2026_22h19].m3u
+   ├─ GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h52].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_22h19].m3u
    ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ PRIME_LUX_-_PRIMEMAX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_22h19].m3u
 
-📡 http://cloudsalex.space:80 (32 arquivos)
-   ├─ AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_00h45].m3u
+📡 http://cloudsalex.space:80 (37 arquivos)
    ├─ AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_07h14].m3u
-   ├─ AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Infrax_-_Teste_Completo_[19-01-2026_21h06].m3u
    ├─ AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__Infrax_-_Teste_S_Adultos_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
-   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
    ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[19-01-2026_22h18].m3u
    ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_01h12].m3u
+   ├─ CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_01h44].m3u
+   ├─ HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_07h14].m3u
-   ├─ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[19-01-2026_21h06].m3u
    ├─ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_01h04].m3u
    ├─ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__ANDRMEDA_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_18h27].m3u
 
-📡 http://topcdn.fun:80 (31 arquivos)
-   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+📡 http://topcdn.fun:80 (37 arquivos)
    ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h52].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h03].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
-   ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h12].m3u
    ├─ GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_3__-__TESTE_1HR__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_3__-__TESTE_3HRS__COMPLETO_[19-01-2026_22h19].m3u
+   ├─ GLOBAL__IPTV_3__-__TESTE_3HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_3__-__TESTE_6HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_3__-__TESTE_6HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h58].m3u
+   ├─ NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_ZEROUM__-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h49].m3u
    ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_00h54].m3u
    ├─ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[19-01-2026_21h06].m3u
    ├─ ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_00h45].m3u
    ├─ ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[19-01-2026_21h06].m3u
 
-📡 http://protec.sbs:80 (28 arquivos)
-   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
-   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_07h52].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_01h12].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_07h14].m3u
-   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
-   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
-   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
-   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-
-📡 http://cdn.andromedaz.site:80 (26 arquivos)
-   ├─ AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_00h54].m3u
+📡 http://cdn.andromedaz.site:80 (31 arquivos)
    ├─ AtivaBox_-__Lite_PLAY_-_Teste_Completo_[19-01-2026_07h52].m3u
-   ├─ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
    ├─ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_01h04].m3u
+   ├─ CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_07h52].m3u
+   ├─ HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
    ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
    ├─ NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[19-01-2026_22h19].m3u
    ├─ NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__TIT_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h58].m3u
+   ├─ NetPlay_-__TIT_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_Z_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
 
-📡 http://wpm.dcnn.site:80 (24 arquivos)
-   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_00h45].m3u
+📡 http://wpm.dcnn.site:80 (31 arquivos)
    ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_01h03].m3u
+   ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_C_Adultos_[19-01-2026_22h18].m3u
    ├─ CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__VOLTZ_-_Teste_S_Adultos_[19-01-2026_22h18].m3u
    ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS_[19-01-2026_18h27].m3u
    ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS_[19-01-2026_21h06].m3u
+   ├─ LIFE_UHD_-_RedPlay_-__RedPlay_TESTE_-_CADULTOS_[19-01-2026_21h06].m3u
+   ├─ LIFE_UHD_-_RedPlay_-__RedPlay_TESTE_-_sADULTOS_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__HADES_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__HADES_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_02h00].m3u
    ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEHUB_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_22h19].m3u
    ├─ WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_SERVER_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_18h40].m3u
    ├─ WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ WPM_-_SERVER_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_18h49].m3u
 
-📡 http://38.147.106.155:80 (23 arquivos)
-   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h44].m3u
+📡 http://protec.sbs:80 (31 arquivos)
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_3HRS__SEM_ADULTOS_[19-01-2026_22h19].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO_[19-01-2026_22h19].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS_[19-01-2026_22h19].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
+
+📡 http://38.147.106.155:80 (28 arquivos)
    ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_01h44].m3u
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_22h18].m3u
    ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[19-01-2026_22h18].m3u
    ├─ CineFlix_-__RYZEN_-_Teste_IPTV_S_Adultos_[19-01-2026_07h52].m3u
-   ├─ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_01h12].m3u
    ├─ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_07h52].m3u
+   ├─ HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger_[19-01-2026_22h19].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adultos_12_Horas_[19-01-2026_22h19].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adultos_12_Horas_[19-01-2026_22h19].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h52].m3u
+   ├─ NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ playlist_160090903_plus.m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[19-01-2026_22h19].m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_01h12].m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
 
-📡 http://wxpago.sbs:80 (16 arquivos)
-   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_01h03].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_00h45].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_01h03].m3u
-   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h58].m3u
-   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+📡 http://sourceopbx.sbs:80 (24 arquivos)
+   ├─ INVICTOS_EXTREME_-_TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_EXTREME_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_21h06].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_01h12].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_21h06].m3u
+   ├─ Servidor_X_-__OpenBox_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__OpenBox_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__OpenBox_[19-01-2026_21h06].m3u
 
-📡 http://c.superodin.nl70.top:80 (15 arquivos)
-   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_00h45].m3u
+📡 http://c.superodin.nl70.top:80 (18 arquivos)
    ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_07h14].m3u
-   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_00h45].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[19-01-2026_22h19].m3u
    ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_01h03].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[19-01-2026_22h19].m3u
    ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[19-01-2026_21h06].m3u
    ├─ Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__MAX_-_Completo_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
    ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_07h52].m3u
+   ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[19-01-2026_22h19].m3u
    ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
    ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[19-01-2026_21h06].m3u
    ├─ Stark_-_Ultimate_[18-01-2026_20h32].m3u
 
-📡 http://proxyphtop.shop:80 (13 arquivos)
-   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_00h45].m3u
+📡 http://wxpago.sbs:80 (18 arquivos)
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
+   ├─ GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_1HR__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_1HR__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_3HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_3HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO_[19-01-2026_21h06].m3u
+   ├─ GLOBAL__IPTV_1__-__TESTE_6HRS__SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
+
+📡 http://proxyphtop.shop:80 (17 arquivos)
    ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_07h14].m3u
-   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_00h45].m3u
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_21h06].m3u
    ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_07h14].m3u
+   ├─ Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_C_Adultos_[19-01-2026_22h19].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[19-01-2026_22h19].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_01h12].m3u
    ├─ NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[19-01-2026_21h06].m3u
    ├─ Stark_-_Pro_[18-01-2026_20h31].m3u
 
-📡 http://sourceopbx.sbs:80 (13 arquivos)
-   ├─ INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u
-   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_01h12].m3u
-   ├─ INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_01h12].m3u
-   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_07h14].m3u
-   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_01h12].m3u
-   ├─ INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_01h12].m3u
-   ├─ Servidor_X_-__OpenBox_Sem_Adultos_[19-01-2026_07h14].m3u
-   ├─ Servidor_X_-__OpenBox_[19-01-2026_01h12].m3u
-   ├─ Servidor_X_-__OpenBox_[19-01-2026_07h14].m3u
-
-📡 http://srv3.site:80 (12 arquivos)
-   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_01h44].m3u
+📡 http://srv3.site:80 (14 arquivos)
    ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_21h06].m3u
    ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_00h45].m3u
+   ├─ BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_07h52].m3u
+   ├─ CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[19-01-2026_21h06].m3u
    ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[19-01-2026_21h06].m3u
 
-📡 http://sxhs.cgpsx.site:80 (10 arquivos)
-   ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_01h03].m3u
+📡 http://sxhs.cgpsx.site:80 (12 arquivos)
    ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
+   ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[19-01-2026_21h06].m3u
    ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
-   ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_01h12].m3u
+   ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[19-01-2026_21h06].m3u
    ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[19-01-2026_21h06].m3u
    ├─ Thunder_-__Completo_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ Thunder_-__Completo_Com_Adultos_[19-01-2026_07h58].m3u
+   ├─ Thunder_-__Completo_Com_Adultos_[19-01-2026_22h19].m3u
    ├─ Thunder_-__Completo_Sem_Adultos_[19-01-2026_01h12].m3u
    ├─ Thunder_-__Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Thunder_-__Completo_Sem_Adultos_[19-01-2026_21h06].m3u
 
-📡 http://74.91.29.44:80 (8 arquivos)
-   ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_00h45].m3u
+📡 http://207.58.175.8:80 (12 arquivos)
+   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_21h06].m3u
+   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_21h06].m3u
+
+📡 http://74.91.29.44:80 (11 arquivos)
    ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_01h03].m3u
+   ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[19-01-2026_22h18].m3u
    ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[19-01-2026_21h06].m3u
+   ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[19-01-2026_21h06].m3u
    ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_02h00].m3u
    ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[19-01-2026_21h06].m3u
 
-📡 http://dns.blessed7.xyz:80 (8 arquivos)
-   ├─ CineMania_-__Completo_Com_Adultos_[19-01-2026_00h45].m3u
+📡 http://dns.blessed7.xyz:80 (9 arquivos)
    ├─ CineMania_-__Completo_Com_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineMania_-__Completo_Sem_Adultos_[19-01-2026_01h03].m3u
+   ├─ CineMania_-__Completo_Com_Adultos_[19-01-2026_21h06].m3u
    ├─ CineMania_-__Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineMania_-__Completo_Sem_Adultos_[19-01-2026_21h06].m3u
    ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
    ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[19-01-2026_22h19].m3u
    ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
    ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
 
-📡 http://207.58.175.8:80 (8 arquivos)
-   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
-   ├─ Lider_-__LITE_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
-   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
-   ├─ Lider_-__LITE_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[19-01-2026_07h14].m3u
+📡 http://vidaloka.fun:80 (8 arquivos)
+   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_21h06].m3u
+   ├─ Servidor_X_-__Caracol_[19-01-2026_01h12].m3u
+   ├─ Servidor_X_-__Caracol_[19-01-2026_07h14].m3u
+   ├─ Servidor_X_-__Caracol_[19-01-2026_21h06].m3u
+   ├─ TOP_Z_-_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ TOP_Z_-_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
+
+📡 http://cdn.turbox.tv.br:80 (6 arquivos)
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_21h06].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_21h06].m3u
+
+📡 http://cdn.kplaysuper.site:80 (6 arquivos)
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_22h19].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
+   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_22h19].m3u
+
+📡 http://eogdos.shop:80 (6 arquivos)
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_21h06].m3u
+
+📡 http://cdn.p2vip.top:80 (6 arquivos)
+   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_01h12].m3u
+   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_07h14].m3u
+   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_21h06].m3u
+   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_01h12].m3u
+   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_07h58].m3u
+   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_21h06].m3u
+
+📡 http://queroassistir.top:80 (6 arquivos)
+   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_07h52].m3u
+   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_21h06].m3u
+   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_01h12].m3u
+   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_07h14].m3u
+   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_21h06].m3u
 
 📡 https://wpls.shop:443 (5 arquivos)
    ├─ Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_02h00].m3u
@@ -876,29 +1115,42 @@ AGRUPAMENTO POR SERVIDOR
    ├─ Servidor_X_-__P2Box_[19-01-2026_01h12].m3u
    ├─ Servidor_X_-__P2Box_[19-01-2026_07h14].m3u
 
+📡 http://veloz.tvbrlive.com:80 (5 arquivos)
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_07h52].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_22h19].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_01h44].m3u
+   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+
 📡 http://7sevenplay10.top:80 (4 arquivos)
-   ├─ AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_00h54].m3u
    ├─ AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_07h52].m3u
-   ├─ AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_00h54].m3u
+   ├─ AtivaBox_-__Aladdin's_-_Teste_Completo_[19-01-2026_21h06].m3u
    ├─ AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_07h14].m3u
+   ├─ AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[19-01-2026_21h06].m3u
 
 📡 http://top.gpsrv.shop:80 (4 arquivos)
-   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_00h54].m3u
    ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_07h14].m3u
-   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_00h45].m3u
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[19-01-2026_21h06].m3u
    ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_07h14].m3u
+   ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_21h06].m3u
 
-📡 http://xxx.pxlst.site:80 (4 arquivos)
-   ├─ CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_00h45].m3u
-   ├─ CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_00h45].m3u
-   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_07h52].m3u
+📡 http://infra10.top:80 (4 arquivos)
+   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h49].m3u
+   ├─ CYBER_-__404SRV__-__4H_TESTE_COMPLETO_CADULTO_[19-01-2026_22h18].m3u
+   ├─ CYBER_-__404SRV__-__4H_TESTE_COMPLETO_SADULTO_[19-01-2026_21h06].m3u
 
-📡 http://cdn.turbox.tv.br:80 (4 arquivos)
-   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
-   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[19-01-2026_07h14].m3u
-   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_01h12].m3u
-   ├─ Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
+📡 http://rynox.top:80 (4 arquivos)
+   ├─ CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h40].m3u
+   ├─ CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+   ├─ CYBER_-__4H_TESTE_COMPLETO_CADULTO_[19-01-2026_21h06].m3u
+   ├─ CYBER_-__4H_TESTE_COMPLETO_SADULTO_[19-01-2026_21h06].m3u
+
+📡 http://cdn.viadoveio.uk:80 (4 arquivos)
+   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+   ├─ CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_CADULTO_[19-01-2026_21h06].m3u
+   ├─ CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_SADULTO_[19-01-2026_22h19].m3u
 
 📡 http://cdneshow.xyz:80 (4 arquivos)
    ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
@@ -906,70 +1158,34 @@ AGRUPAMENTO POR SERVIDOR
    ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
    ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
 
-📡 http://cdn.kplaysuper.site:80 (4 arquivos)
-   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_01h12].m3u
-   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[19-01-2026_07h52].m3u
-   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_01h12].m3u
-   ├─ LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_sADULTOS_[19-01-2026_07h14].m3u
-
-📡 http://eogdos.shop:80 (4 arquivos)
-   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[19-01-2026_07h14].m3u
-   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_01h12].m3u
-   ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[19-01-2026_07h14].m3u
-
-📡 http://cdn.p2vip.top:80 (4 arquivos)
-   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_01h12].m3u
-   ├─ P2VIP_-__Teste_Completo_C_Adulto_[19-01-2026_07h14].m3u
-   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_01h12].m3u
-   ├─ P2VIP_-__Teste_Completo_S_Adultos_[19-01-2026_07h58].m3u
-
-📡 http://queroassistir.top:80 (4 arquivos)
-   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_01h12].m3u
-   ├─ Pro_Black_-__Teste_Completo_Com_Adultos_[19-01-2026_07h52].m3u
-   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_01h12].m3u
-   ├─ Pro_Black_-__Teste_Completo_S_Adulto_[19-01-2026_07h14].m3u
-
-📡 http://vidaloka.fun:80 (4 arquivos)
-   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_01h12].m3u
-   ├─ Servidor_X_-__Caracol_Sem_Adultos_[19-01-2026_07h14].m3u
-   ├─ Servidor_X_-__Caracol_[19-01-2026_01h12].m3u
-   ├─ Servidor_X_-__Caracol_[19-01-2026_07h14].m3u
-
-📡 http://veloz.tvbrlive.com:80 (4 arquivos)
-   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_01h12].m3u
-   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[19-01-2026_07h52].m3u
-   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_01h44].m3u
-   ├─ VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[19-01-2026_07h14].m3u
-
-📡 http://infra10.top:80 (2 arquivos)
-   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
-   ├─ CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h49].m3u
-
-📡 http://rynox.top:80 (2 arquivos)
-   ├─ CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h40].m3u
-   ├─ CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
-
-📡 http://cdn.viadoveio.uk:80 (2 arquivos)
-   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
-   ├─ CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+📡 http://xxx.pxlst.site:80 (3 arquivos)
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[19-01-2026_07h14].m3u
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_07h52].m3u
+   ├─ CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[19-01-2026_22h18].m3u
 
 📡 http://tigeragile.uk:80 (2 arquivos)
-   ├─ HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_01h03].m3u
    ├─ HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[19-01-2026_21h06].m3u
 
 📡 http://lbgthost.shop:80 (2 arquivos)
-   ├─ HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_01h03].m3u
    ├─ HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[19-01-2026_22h19].m3u
 
 📡 http://fhmplay.shop:80 (2 arquivos)
-   ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_01h03].m3u
    ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[19-01-2026_21h06].m3u
 
 📡 http://dstreaming.win:80 (2 arquivos)
-   ├─ HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_01h12].m3u
    ├─ HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_07h14].m3u
+   ├─ HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[19-01-2026_21h06].m3u
 
-📡 http://cdn.serversnetuno.site:80 (2 arquivos)
-   ├─ HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_01h04].m3u
+📡 http://157.173.97.235:80 (2 arquivos)
+   ├─ NetPlay_-__FLASH_-_Teste_12H_C_Adultos_[19-01-2026_21h06].m3u
+   ├─ NetPlay_-__FLASH_-_Teste_12H_S_Adultos_[19-01-2026_22h19].m3u
+
+📡 http://wpls.shop:80 (2 arquivos)
+   ├─ Servidor_X_-__P2Box_Sem_Adultos_[19-01-2026_21h06].m3u
+   ├─ Servidor_X_-__P2Box_[19-01-2026_21h06].m3u
+
+📡 http://cdn.serversnetuno.site:80 (1 arquivos)
    ├─ HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[19-01-2026_07h52].m3u

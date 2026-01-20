@@ -51,3 +51,9 @@
    + [CANAIS • SBT] SBT TV SIM ES HD  | (1ª vez: 19/01/2026 18:27)
    + [CANAIS • SBT] SBT Tribuna ES HD  | (1ª vez: 19/01/2026 18:27)
    + [CANAIS • SBT] SBT VTV Campinas HD  | (1ª vez: 19/01/2026 18:27)
+
+============================================================
+📁 ARQUIVO: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[19-01-2026_18h27].m3u
+📅 DATA: 19/01/2026 18:27
+------------------------------------------------------------
+ℹ️ BASE DE DADOS INICIADA: 265183 itens.

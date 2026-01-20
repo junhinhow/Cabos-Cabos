@@ -1,28 +1,6 @@
 
 ============================================================
-📁 ARQUIVO: INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_01h12].m3u
-📅 DATA: 19/01/2026 01:12
-------------------------------------------------------------
-ℹ️ BASE DE DADOS INICIADA: 286792 itens.
-
-============================================================
-📁 ARQUIVO: INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_07h14].m3u
-📅 DATA: 19/01/2026 07:14
-------------------------------------------------------------
-✅ SEM MUDANÇAS NA GRADE.
-
-============================================================
 📁 ARQUIVO: INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_21h06].m3u
 📅 DATA: 19/01/2026 21:06
 ------------------------------------------------------------
-🟢 ENTRARAM (10):
-   + [AMAZON PRIME VIDEO] Landman (2024) S02E10  | (1ª vez: 19/01/2026 21:06)
-   + [AÇÃO | CRIME | GUERRA] O Último Golpe  | (1ª vez: 19/01/2026 21:06)
-   + [AÇÃO | CRIME | GUERRA] Temporada de Sangue  | (1ª vez: 19/01/2026 21:06)
-   + [CINEMA RUIM] Extermínio: O Templo dos Ossos CAM RUIM  | (1ª vez: 19/01/2026 21:06)
-   + [COMÉDIA] Mais um Besteirol ao Extremo  | (1ª vez: 19/01/2026 21:06)
-   + [DOCUMENTÁRIOS] Wizkid: De Lagos Para o Mundo  | (1ª vez: 19/01/2026 21:06)
-   + [DRAMA] O Caso Belle Steiner  | (1ª vez: 19/01/2026 21:06)
-   + [DRAMA] O Olho  | (1ª vez: 19/01/2026 21:06)
-   + [LEGENDADOS] O Monstro do Meu Quarto [L]  | (1ª vez: 19/01/2026 21:06)
-   + [NACIONAIS] O Agente Secreto  | (1ª vez: 19/01/2026 21:06)
+ℹ️ BASE DE DADOS INICIADA: 286802 itens.

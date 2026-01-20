@@ -1,117 +1,84 @@
-[19/01/2026 20:51:04] 🐺 Alpha Master - 🔗 P2P BinStream - Teste Completo C/ Adulto | Erro Final: HTTP 405
-Link: https://alphamaster.sigma.st/api/chatbot/bQELodEDgr/lze15A15KB
-------------------------------
-[19/01/2026 20:51:05] 🐺 Alpha Master - 🔗 P2P BinStream - Teste Completo S/ Adulto | Erro Final: HTTP 405
-Link: https://alphamaster.sigma.st/api/chatbot/bQELodEDgr/aYB1wBWvme
-------------------------------
-[19/01/2026 20:51:35] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | Erro Final: HTTP 405
+[19/01/2026 21:03:37] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | Erro Final: HTTP 405
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
 ------------------------------
-[19/01/2026 20:51:36] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Erro Final: HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
-------------------------------
-[19/01/2026 20:51:37] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Erro Final: HTTP 405
+[19/01/2026 21:03:37] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Erro Final: HTTP 405
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
 ------------------------------
-[19/01/2026 20:51:38] 🔱 EVOLUTION - PLAY - ✅ Xcloud | Erro Final: HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/lze15VAL5K
-------------------------------
-[19/01/2026 20:52:48] 🔰 HAVOK TV - P2P BINSTREAM - 🔰 [Teste 04h] - P2P Binstream | Erro Final: HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMPR104
-------------------------------
-[19/01/2026 20:53:28] 👑 Lider - ✨ SHOW - Completo Com Adultos | Erro Final: HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG
-------------------------------
-[19/01/2026 20:53:29] 👑 Lider - ✨ SHOW - Completo Sem Adultos | Erro Final: HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
-------------------------------
-[19/01/2026 20:53:30] 👑 Lider - ✨ SHOW - Parceria XCloud C/ Adultos | Erro Final: HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbA41gG
-------------------------------
-[19/01/2026 20:53:42] 👑 Lider - Z - COMPLETO COM ADULTOS | Erro Final: HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
-------------------------------
-[19/01/2026 20:53:44] 👑 Lider - Z - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
-------------------------------
-[19/01/2026 20:53:45] 🌐 NetPlay - 📸 FLASH - Teste 12H C/ Adultos | Erro Final: HTTP 405
-Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/z2BDvomWrk
-------------------------------
-[19/01/2026 20:53:46] 🌐 NetPlay - 📸 FLASH - Teste 12H S/ Adultos | Erro Final: HTTP 405
-Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/VpKDa6xWRA
-------------------------------
-[19/01/2026 20:53:47] 🌐 NetPlay - 🔗 P2P BinStream NetPlay - Teste C/ Adulto 12 Horas | Erro Final: HTTP 405
-Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/aYB1w5nDvm
-------------------------------
-[19/01/2026 20:53:48] 🌐 NetPlay - 🔗 P2P BinStream NetPlay - Teste S/ Adulto 12 Horas | Erro Final: HTTP 405
-Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/64vLbJ4LgG
-------------------------------
-[19/01/2026 20:53:50] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Erro Final: HTTP 405
+[19/01/2026 21:03:37] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Erro Final: HTTP 405
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
 ------------------------------
-[19/01/2026 20:53:51] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Erro Final: HTTP 405
+[19/01/2026 21:03:37] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Erro Final: HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[19/01/2026 21:03:37] 👑 Lider - ✨ SHOW - Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
+------------------------------
+[19/01/2026 21:03:37] 👑 Lider - ✨ SHOW - Completo Com Adultos | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG
+------------------------------
+[19/01/2026 21:03:37] 👑 Lider - Z - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+------------------------------
+[19/01/2026 21:03:38] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Erro Final: HTTP 405
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
 ------------------------------
-[19/01/2026 20:53:56] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+[19/01/2026 21:03:38] 👑 Lider - Z - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
 ------------------------------
-[19/01/2026 20:53:58] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
-------------------------------
-[19/01/2026 20:54:13] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
-------------------------------
-[19/01/2026 20:54:24] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
-------------------------------
-[19/01/2026 20:54:26] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+[19/01/2026 21:03:38] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | Erro Final: HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
 ------------------------------
-[19/01/2026 20:54:27] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+[19/01/2026 21:03:38] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------
+[19/01/2026 21:03:39] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[19/01/2026 21:03:39] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
 ------------------------------
-[19/01/2026 20:54:36] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
-------------------------------
-[19/01/2026 20:54:37] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
-------------------------------
-[19/01/2026 20:54:56] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | Erro Final: HTTP 405
-Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
-------------------------------
-[19/01/2026 20:54:57] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | Erro Final: HTTP 405
+[19/01/2026 21:03:39] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | Erro Final: HTTP 405
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
 ------------------------------
-[19/01/2026 20:54:59] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | Erro Final: HTTP 405
-Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
+[19/01/2026 21:03:40] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | Erro Final: HTTP 405
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
 ------------------------------
-[19/01/2026 20:55:24] 📺 TOP X - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+[19/01/2026 21:03:40] 📺 TOP X - COMPLETO COM ADULTOS | Erro Final: HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/kmVLl71QwB
 ------------------------------
-[19/01/2026 20:55:25] 📺 TOP X - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
-------------------------------
-[19/01/2026 20:55:35] 🔝 Top Z - ✅ Completo Com Adultos | Erro Final: HTTP 405
+[19/01/2026 21:03:40] 🔝 Top Z - ✅ Completo Com Adultos | Erro Final: HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
 ------------------------------
-[19/01/2026 20:55:36] 🔝 Top Z - ✅ Completo Sem Adultos | Erro Final: HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+[19/01/2026 21:03:40] 📺 TOP X - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
 ------------------------------
-[19/01/2026 20:55:37] 🔝 Top Z - 🔗 P2P Completo Com Adultos | Erro Final: HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/qK4WrQDeNj
+[19/01/2026 21:03:40] 📺 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | Erro Final: HTTP 405
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
 ------------------------------
-[19/01/2026 20:55:38] 🔝 Top Z - 🔗 P2P Completo Sem Adultos | Erro Final: HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/Yen129WPEa
-------------------------------
-[19/01/2026 20:55:38] 🔝 Top Z - 📺 TV Express +18 | Erro Final: HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
-------------------------------
-[19/01/2026 20:55:39] 🔝 Top Z - 📺 TV Express -18 | Erro Final: HTTP 405
+[19/01/2026 21:03:40] 🔝 Top Z - 📺 TV Express -18 | Erro Final: HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
 ------------------------------
-[19/01/2026 20:55:49] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Erro Final: HTTP 405
+[19/01/2026 21:03:41] 🔝 Top Z - ✅ Completo Sem Adultos | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[19/01/2026 21:03:41] 🔝 Top Z - 📺 TV Express +18 | Erro Final: HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------
+[19/01/2026 21:03:41] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Erro Final: HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------
+[19/01/2026 21:03:41] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Erro Final: HTTP 405
 Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
 ------------------------------
-[19/01/2026 20:55:50] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Erro Final: HTTP 405
-Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+[19/01/2026 21:03:46] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
+------------------------------
+[19/01/2026 21:03:46] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
+------------------------------
+[19/01/2026 21:03:48] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------
+[19/01/2026 21:03:48] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | Erro Final: HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
 ------------------------------

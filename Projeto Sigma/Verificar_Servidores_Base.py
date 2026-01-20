@@ -115,7 +115,6 @@ def migrar_db_gigante_se_existir():
     if os.path.exists(ARQUIVO_DB_JSON_ANTIGO):
         print("\n⚠️  DETECTADO BANCO DE DADOS ANTIGO (GIGANTE). INICIANDO MIGRAÇÃO...")
         print("    Isso pode levar alguns minutos, mas só precisa ser feito uma vez.")
-        print("    O objetivo é dividir o arquivo de 3GB em pedaços menores para não travar mais.")
         
         try:
             with open(ARQUIVO_DB_JSON_ANTIGO, 'r', encoding='utf-8') as f:
@@ -133,8 +132,24 @@ def migrar_db_gigante_se_existir():
             shutil.move(ARQUIVO_DB_JSON_ANTIGO, ARQUIVO_DB_JSON_ANTIGO + ".backup")
         
         except Exception as e:
-            print(f"    ❌ Erro durante a migração (pode ser falta de memória RAM para abrir o arquivo gigante): {e}")
-            print("    O script tentará continuar criando DBs novos do zero se necessário.")
+            print(f"    ❌ O ARQUIVO GIGANTE ESTÁ CORROMPIDO OU É MUITO GRANDE: {e}")
+            print("    ⚠️  Movendo arquivo para '.corrompido' para evitar loop infinito e travamentos.")
+            
+            # AQUI ESTÁ A CORREÇÃO:
+            # Se der erro, a gente move o arquivo mesmo assim para ele não ser lido na próxima vez.
+            destino_erro = ARQUIVO_DB_JSON_ANTIGO + ".corrompido"
+            
+            # Se já existir um corrompido antigo, deleta ele antes de mover o novo
+            if os.path.exists(destino_erro):
+                os.remove(destino_erro)
+                
+            try:
+                shutil.move(ARQUIVO_DB_JSON_ANTIGO, destino_erro)
+                print(f"    ✅ Arquivo problemático renomeado para: {os.path.basename(destino_erro)}")
+            except OSError as err:
+                print(f"    💀 Não foi possível renomear o arquivo (feche se estiver aberto em outro lugar): {err}")
+
+            print("    O script continuará criando DBs novos do zero a partir de agora.")
 
 # ==============================================================================
 # 3. MÓDULO: RASTREAMENTO E LIMPEZA

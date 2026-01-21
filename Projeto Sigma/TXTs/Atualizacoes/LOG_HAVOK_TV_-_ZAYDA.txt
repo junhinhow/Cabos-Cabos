@@ -4,3 +4,16 @@
 📅 DATA: 20/01/2026 06:40
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 276709 itens.
+
+============================================================
+📁 ARQUIVO: HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[20-01-2026_23h42].m3u
+📅 DATA: 20/01/2026 23:42
+------------------------------------------------------------
+
+🔴 SAÍRAM (6):
+   - [⚽ JOGOS DO DIA] Brighton x Bournemouth 17:00 (1)  | (Visto em: 20/01/2026 06:40)
+   - [⚽ JOGOS DO DIA] Brighton x Bournemouth 17:00 (2)  | (Visto em: 20/01/2026 06:40)
+   - [⚽ JOGOS DO DIA] Brighton x Bournemouth 17:00 (3)  | (Visto em: 20/01/2026 06:40)
+   - [⚽ JOGOS DO DIA] Cremonese x Hellas Verona 14:30 (1)  | (Visto em: 20/01/2026 06:40)
+   - [⚽ JOGOS DO DIA] Cremonese x Hellas Verona 14:30 (2)  | (Visto em: 20/01/2026 06:40)
+   - [⚽ JOGOS DO DIA] Cremonese x Hellas Verona 14:30 (3)  | (Visto em: 20/01/2026 06:40)

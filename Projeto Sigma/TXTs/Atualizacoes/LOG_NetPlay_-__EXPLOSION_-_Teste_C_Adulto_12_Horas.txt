@@ -4,3 +4,25 @@
 📅 DATA: 19/01/2026 21:06
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 343841 itens.
+
+============================================================
+📁 ARQUIVO: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[20-01-2026_23h42].m3u
+📅 DATA: 20/01/2026 23:42
+------------------------------------------------------------
+🟢 ENTRARAM (9):
+   + [✨ 2026] O Cavaleiro dos Sete Reinos S01E01  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E01  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E02  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E03  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E04  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E05  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] O Tempo das Moscas S01E06  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] Star Trek: Academia da Frota Estelar S01E01  | (1ª vez: 20/01/2026 23:42)
+   + [✨ 2026] Star Trek: Academia da Frota Estelar S01E02  | (1ª vez: 20/01/2026 23:42)
+
+🔴 SAÍRAM (5):
+   - [▶️✅CINEMA] O Telefone Preto 2 CAM RUIM  | (Visto em: 19/01/2026 21:06)
+   - [▶️✅LEGENDADOS] O Telefone Preto 2 [L]  | (Visto em: 19/01/2026 21:06)
+   - [✅▶️ Record] ❆ Record TV Recife  | (Visto em: 19/01/2026 21:06)
+   - [⭐- Em Alta -⭐] Star Trek: Academia da Frota Estelar S01E01  | (Visto em: 19/01/2026 21:06)
+   - [⭐- Em Alta -⭐] Star Trek: Academia da Frota Estelar S01E02  | (Visto em: 19/01/2026 21:06)

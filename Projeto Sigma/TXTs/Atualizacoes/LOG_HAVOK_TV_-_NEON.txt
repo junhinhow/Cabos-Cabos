@@ -4,3 +4,32 @@
 📅 DATA: 19/01/2026 22:19
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 438638 itens.
+
+============================================================
+📁 ARQUIVO: HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[20-01-2026_17h32].m3u
+📅 DATA: 20/01/2026 17:32
+------------------------------------------------------------
+🟢 ENTRARAM (11):
+   + [TVE BAHIA] TVE  | (1ª vez: 20/01/2026 17:32)
+   + [TVE BAHIA] TVE BAHIA HD (JOGO 1)  | (1ª vez: 20/01/2026 17:32)
+   + [TVE BAHIA] TVE BAHIA HD (JOGO 2)  | (1ª vez: 20/01/2026 17:32)
+   + [TVE BAHIA] TVE BAHIA HD (JOGO 3 )  | (1ª vez: 20/01/2026 17:32)
+   + [TVE BAHIA] TVE BAHIA HD(JOGO 1)  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (02)⏰ 17:00  Real Madrid  x  Monaco  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (03) ⏰  17:00 Sporting  x  PSG  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (04)⏰ 17:00 Inter x  Arsenal  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (06)⏰ 17:00  Tottenham x  Borussia D.  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (07)⏰ 17:00 Copenhagen  x  Napoli  | (1ª vez: 20/01/2026 17:32)
+   + [⚽  PRINCIPAIS JOGOS DO DIA] (08)⏰  19:15  Bahia x  Barcelona de I.  | (1ª vez: 20/01/2026 17:32)
+
+🔴 SAÍRAM (10):
+   - [▶️ ABERTOS] TVE Bahia FHD  | (Visto em: 19/01/2026 22:19)
+   - [▶️ ABERTOS] TVE Bahia HD  | (Visto em: 19/01/2026 22:19)
+   - [▶️ ABERTOS] TVE Bahia SD  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PPV] TVE ES (JOGO 1)  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (02)⏰ 11:00  Wolves  x  Newcastle  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (03) ⏰  11:00 Itabirito x  América MG  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (04)⏰ 12:15 Atlético de Madrid x  Alavés  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (06)⏰ 13:30 Aston Villa x  Everton  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (07)⏰ 14:00 Torino x  Roma  | (Visto em: 19/01/2026 22:19)
+   - [⚽  PRINCIPAIS JOGOS DO DIA] (08)⏰  16:00 Marrocos x  Senegal  | (Visto em: 19/01/2026 22:19)

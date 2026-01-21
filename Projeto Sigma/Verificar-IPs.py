@@ -5,7 +5,7 @@ import sys
 from collections import defaultdict
 from datetime import datetime
 
-# Definição de cores para o TERMINAL (não irão para o arquivo)
+# Definição de cores para o TERMINAL
 CYAN = "\033[96m"
 GREEN = "\033[92m"
 RED = "\033[91m"
@@ -13,33 +13,49 @@ YELLOW = "\033[93m"
 GREY = "\033[90m"
 RESET = "\033[0m"
 
-# Configurações de Entrada e Saída
-ARQUIVO_ENTRADA = "Relatorio_Servidores.txt"
+# --- CONFIGURAÇÕES ---
+ARQUIVO_ENTRADA = "Relatorio_IP_Servidores.txt"  # Nome alterado conforme solicitado
 PASTA_SAIDA = "TXTs"
 NOME_ARQUIVO_SAIDA = "Relatorio_IPs_Final.txt"
 
 def main():
     # 1. Verifica se o arquivo de entrada existe
     if not os.path.exists(ARQUIVO_ENTRADA):
-        print(f"{RED}Erro: O arquivo '{ARQUIVO_ENTRADA}' não foi encontrado.{RESET}")
-        return
+        print(f"{YELLOW}O arquivo '{ARQUIVO_ENTRADA}' não foi encontrado.{RESET}")
+        try:
+            # Cria o arquivo vazio para o usuário
+            with open(ARQUIVO_ENTRADA, 'w', encoding='utf-8') as f:
+                f.write("") # Cria arquivo vazio
+            
+            print(f"{GREEN}✔ Arquivo criado automaticamente!{RESET}")
+            print(f"{CYAN}➡ Por favor, cole o conteúdo dos links dentro do '{ARQUIVO_ENTRADA}' e execute o script novamente.{RESET}")
+            return # Para a execução aqui para o usuário preencher o arquivo
+        except OSError as e:
+            print(f"{RED}Erro crítico ao tentar criar o arquivo: {e}{RESET}")
+            return
 
-    # 2. Cria a pasta TXTs se ela não existir
+    # 2. Cria a pasta TXTs de saída se ela não existir
     if not os.path.exists(PASTA_SAIDA):
         try:
             os.makedirs(PASTA_SAIDA)
-            print(f"{CYAN}Pasta '{PASTA_SAIDA}' criada com sucesso.{RESET}")
         except OSError as e:
-            print(f"{RED}Erro ao criar pasta: {e}{RESET}")
+            print(f"{RED}Erro ao criar pasta de saída: {e}{RESET}")
             return
 
     caminho_completo_saida = os.path.join(PASTA_SAIDA, NOME_ARQUIVO_SAIDA)
 
-    print(f"{CYAN}Lendo arquivo e extraindo domínios...{RESET}")
+    print(f"{CYAN}Lendo arquivo '{ARQUIVO_ENTRADA}'...{RESET}")
 
     try:
         with open(ARQUIVO_ENTRADA, 'r', encoding='utf-8') as f:
             conteudo = f.read()
+            
+        # Verifica se o arquivo está vazio
+        if not conteudo.strip():
+            print(f"{YELLOW}⚠ O arquivo '{ARQUIVO_ENTRADA}' existe, mas está vazio.{RESET}")
+            print(f"Cole os dados nele e tente novamente.")
+            return
+
     except Exception as e:
         print(f"{RED}Erro ao ler o arquivo: {e}{RESET}")
         return
@@ -47,6 +63,10 @@ def main():
     # Regex para capturar domínios
     regex = r"https?://([^/:]+)"
     dominios_unicos = sorted(list(set(re.findall(regex, conteudo))))
+
+    if not dominios_unicos:
+        print(f"{RED}Nenhum domínio (http/https) encontrado no arquivo.{RESET}")
+        return
 
     resultados = []
 
@@ -71,6 +91,7 @@ def main():
                 elif family == socket.AF_INET6: # IPv6
                     ipv6_list.add(ip)
             
+            # Se não achou IPs, força erro para cair no except
             if not ipv4_list and not ipv6_list:
                 raise socket.gaierror("Nenhum IP encontrado")
 
@@ -113,7 +134,6 @@ def main():
                 if ip != "FALHA":
                     ipv6_ref = itens[0]['IPv6']
                     
-                    # Escreve no arquivo (Sem cores)
                     f_out.write(f"DESTINO IP (IPv4): {ip}\n")
                     f_out.write(f"IPv6: {ipv6_ref}\n")
                     f_out.write("Domínios vinculados:\n")
@@ -132,9 +152,9 @@ def main():
     except Exception as e:
         print(f"\n{RED}Erro ao salvar o arquivo na pasta TXTs: {e}{RESET}")
 
-    # Exibição Final no Console (Resumo Rápido)
+    # Exibição Final no Console
     print("\n" + "=" * 64)
-    print("RESUMO VISUAL (Detalhes salvos na pasta TXTs)")
+    print("RESUMO RÁPIDO")
     print("=" * 64)
     
     for ip, itens in agrupados.items():

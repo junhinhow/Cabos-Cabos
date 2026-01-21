@@ -10,23 +10,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 try:
     from curl_cffi import requests as cffi_requests
 except ImportError:
-    print("❌ ERRO: Biblioteca 'curl_cffi' faltando. Instale: pip install curl_cffi")
+    print("❌ ERRO REAL: Biblioteca 'curl_cffi' faltando.")
+    print("Detalhe: O Python não encontrou o módulo curl_cffi.")
     exit()
 
 # --- IMPORTAÇÃO VISUAL (RICH) ---
-try:
-    from rich.live import Live
-    from rich.table import Table
-    from rich.panel import Panel
-    from rich.layout import Layout
-    from rich.console import Console
-    from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRemainingColumn
-    from rich import box
-    from rich.text import Text
-    from rich.group import Group
-except ImportError:
-    print("❌ ERRO: Biblioteca 'rich' faltando. Instale: pip install rich")
-    exit()
+# Removido o try/except para mostrar o erro real se acontecer
+from rich.live import Live
+from rich.table import Table
+from rich.panel import Panel
+from rich.layout import Layout
+from rich.console import Console, Group # <--- Group agora vem daqui
+from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRemainingColumn
+from rich import box
+from rich.text import Text
 
 # --- CONFIGURAÇÕES ---
 ARQUIVO_FONTES = "fontes.json"
@@ -54,7 +51,7 @@ stats = {
     "concluidos": 0
 }
 
-# --- LISTA DE APPS (MANTIDA IGUAL AO ORIGINAL) ---
+# --- LISTA DE APPS ---
 APPS_PARCERIA = {
     "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
     "LAZER": "Lazer_Play", "VIZZION": "Vizzion", "UNITV": "UniTV",
@@ -194,7 +191,7 @@ def processar_fonte(item, progress_task_id, progress_obj):
     
     if esta_valido:
         update_ui_status(nome, "[green]Cache OK[/]")
-        time.sleep(0.3) # Pequeno delay pra ser visível
+        time.sleep(0.3)
         with lock_stats: stats["cacheados"] += 1
         sucesso_leitura = True
     else:
@@ -209,7 +206,7 @@ def processar_fonte(item, progress_task_id, progress_obj):
             update_ui_status(nome, f"[bold red]Falha: {msg}[/]")
             registrar_erro_log(nome, url, msg)
             with lock_stats: stats["erros"] += 1
-            time.sleep(1) # Delay para ver o erro
+            time.sleep(1)
 
     if sucesso_leitura and os.path.exists(caminho_json):
         update_ui_status(nome, "[magenta]Minerando...[/]")
@@ -218,7 +215,6 @@ def processar_fonte(item, progress_task_id, progress_obj):
                 extrair_parcerias_e_downloads(f.read(), nome)
         except: pass
 
-    # Limpa da tabela de ativos e avança barra global
     update_ui_status(nome, None)
     with lock_stats: stats["concluidos"] += 1
     progress_obj.advance(progress_task_id)
@@ -244,8 +240,6 @@ def gerar_dashboard(overall_progress):
     tabela_ativas.add_column("Fonte", style="bold white")
     tabela_ativas.add_column("Status", style="italic")
     
-    # Preenche com as tarefas ativas do dicionário global
-    # Mostra apenas as primeiras 10 se houver muitas para não estourar a tela
     with lock_ui:
         items_ativos = list(active_tasks.items())
         
@@ -255,7 +249,6 @@ def gerar_dashboard(overall_progress):
         for nome, status in items_ativos[:15]:
             tabela_ativas.add_row(nome, status)
 
-    # Monta o painel final
     return Group(
         Panel(tabela_stats, title="[bold white]Estatísticas[/]", border_style="blue"),
         Panel(tabela_ativas, border_style="yellow"),
@@ -285,7 +278,6 @@ def main():
     
     stats["total"] = len(fontes)
     
-    # Configuração da Barra de Progresso
     overall_progress = Progress(
         SpinnerColumn(),
         TextColumn("[progress.description]{task.description}"),
@@ -296,26 +288,22 @@ def main():
     )
     task_id = overall_progress.add_task("[green]Processando Fontes...", total=len(fontes))
 
-    # --- EXECUÇÃO COM INTERFACE VIVA ---
+    # --- EXECUÇÃO ---
     start_time = time.time()
     
     with Live(gerar_dashboard(overall_progress), refresh_per_second=10) as live:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             futures = []
             for item in fontes:
-                # Submete a tarefa passando os objetos de controle
                 futures.append(executor.submit(processar_fonte, item, task_id, overall_progress))
             
-            # Loop de atualização da interface enquanto threads rodam
             while stats["concluidos"] < stats["total"]:
                 live.update(gerar_dashboard(overall_progress))
                 time.sleep(0.1)
                 
-            # Garante que todos terminaram
             for f in as_completed(futures):
                 pass
             
-            # Atualização final
             live.update(gerar_dashboard(overall_progress))
 
     tempo_total = time.time() - start_time

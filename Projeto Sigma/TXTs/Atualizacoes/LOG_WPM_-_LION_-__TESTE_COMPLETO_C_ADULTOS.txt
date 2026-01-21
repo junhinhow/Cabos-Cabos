@@ -4,3 +4,31 @@
 📅 DATA: 19/01/2026 18:40
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 406386 itens.
+
+============================================================
+📁 ARQUIVO: WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[20-01-2026_17h32].m3u
+📅 DATA: 20/01/2026 17:32
+------------------------------------------------------------
+
+🔴 SAÍRAM (21):
+   - [Jogos do Dia] [00:10] Toluca vs Santos Laguna  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [14:30] Verona vs Bologna  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [17:00] Burgos vs Valencia  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [17:00] Racing Santander vs Barcelona  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [17:00] Sampaio Corrêa-RJ vs Nova Iguaçu  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [18:30] Inhumas vs ABECAT Ouvidorense  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:00] Monsoon vs Internacional  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:00] Real Noroeste vs Forte FC  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:00] São Joseense vs Cianorte  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:00] Ypiranga-RS vs Guarany RS  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:15] Jequié vs Porto BA  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:30] CRAC vs Goiás  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [19:30] RB Bragantino vs Corinthians  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:00] CRB vs Murici Fc  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:00] Globo vs America-RN  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:00] Joinville vs Criciúma  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:30] Fortaleza vs Quixada  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:30] Marcílio Dias vs Santa Catarina  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [20:40] Aparecidense vs Atlético GO  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [21:30] Vasco vs Maricá  | (Visto em: 19/01/2026 18:40)
+   - [Jogos do Dia] [21:45] São Paulo vs São Bernardo  | (Visto em: 19/01/2026 18:40)

@@ -4,3 +4,27 @@
 📅 DATA: 19/01/2026 21:06
 ------------------------------------------------------------
 ℹ️ BASE DE DADOS INICIADA: 259006 itens.
+
+============================================================
+📁 ARQUIVO: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[20-01-2026_17h32].m3u
+📅 DATA: 20/01/2026 17:32
+------------------------------------------------------------
+🟢 ENTRARAM (18):
+   + [♦️ Aventura ✔️] Hero Dog: The Journey Home (2021)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Ação ✔️] Temporada de Sangue (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Comedia ✔️] Um Caso do Outro Mundo (2022)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Crime ✔️] Segredos de uma Golpista (2021)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Documentário ✔️] Wizkid: De Lagos Para o Mundo (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Drama ✔️] A Corrida dos 100 Metros (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Drama ✔️] Belle (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Drama ✔️] Grávida e Perseguida (2020)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Drama ✔️] Teresa de Ávila (2023)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Drama ✔️] Um Homem de Sucesso (2022)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Família ✔️] PAPAI X DOIS (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Fantasia ✔️] Wicked: Tudo Mudou (2025)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Ficcao Cientifica ✔️] Distrito 9 (2009)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Guerra ⚔] A Sombra do Comandante (2024)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ MAX] O Cavaleiro dos Sete Reinos (2026) S01E01  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Romance ✔️] Enquanto o Amor Durar (2022)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Romance ✔️] O Filho do Confeiteiro (2021)  | (1ª vez: 20/01/2026 17:32)
+   + [♦️ Terror ☠] O Olho (2023)  | (1ª vez: 20/01/2026 17:32)

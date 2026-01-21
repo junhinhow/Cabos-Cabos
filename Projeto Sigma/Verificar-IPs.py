@@ -5,7 +5,7 @@ import sys
 from collections import defaultdict
 from datetime import datetime
 
-# Definição de cores para o TERMINAL
+# --- CONFIGURAÇÕES DE CORES (ANSI) ---
 CYAN = "\033[96m"
 GREEN = "\033[92m"
 RED = "\033[91m"
@@ -13,47 +13,49 @@ YELLOW = "\033[93m"
 GREY = "\033[90m"
 RESET = "\033[0m"
 
-# --- CONFIGURAÇÕES ---
-ARQUIVO_ENTRADA = "Relatorio_IP_Servidores.txt"  # Nome alterado conforme solicitado
-PASTA_SAIDA = "TXTs"
+# --- CONFIGURAÇÕES DE ARQUIVOS ---
+PASTA_BASE = "TXTs"
+NOME_ARQUIVO_ENTRADA = "Relatorio_IP_Servidores.txt"
 NOME_ARQUIVO_SAIDA = "Relatorio_IPs_Final.txt"
 
 def main():
-    # 1. Verifica se o arquivo de entrada existe
-    if not os.path.exists(ARQUIVO_ENTRADA):
-        print(f"{YELLOW}O arquivo '{ARQUIVO_ENTRADA}' não foi encontrado.{RESET}")
+    # Monta os caminhos completos (ex: TXTs/Relatorio_IP_Servidores.txt)
+    caminho_entrada = os.path.join(PASTA_BASE, NOME_ARQUIVO_ENTRADA)
+    caminho_saida = os.path.join(PASTA_BASE, NOME_ARQUIVO_SAIDA)
+
+    # 1. Garante que a pasta 'TXTs' existe
+    if not os.path.exists(PASTA_BASE):
         try:
-            # Cria o arquivo vazio para o usuário
-            with open(ARQUIVO_ENTRADA, 'w', encoding='utf-8') as f:
-                f.write("") # Cria arquivo vazio
+            os.makedirs(PASTA_BASE)
+            print(f"{CYAN}Pasta '{PASTA_BASE}' criada.{RESET}")
+        except OSError as e:
+            print(f"{RED}Erro crítico ao criar a pasta '{PASTA_BASE}': {e}{RESET}")
+            return
+
+    # 2. Verifica se o arquivo de entrada existe DENTRO da pasta
+    if not os.path.exists(caminho_entrada):
+        print(f"{YELLOW}O arquivo '{caminho_entrada}' não foi encontrado.{RESET}")
+        try:
+            # Cria o arquivo vazio dentro da pasta TXTs
+            with open(caminho_entrada, 'w', encoding='utf-8') as f:
+                f.write("") 
             
-            print(f"{GREEN}✔ Arquivo criado automaticamente!{RESET}")
-            print(f"{CYAN}➡ Por favor, cole o conteúdo dos links dentro do '{ARQUIVO_ENTRADA}' e execute o script novamente.{RESET}")
-            return # Para a execução aqui para o usuário preencher o arquivo
+            print(f"{GREEN}✔ Arquivo criado automaticamente em: {caminho_entrada}{RESET}")
+            print(f"{CYAN}➡ Por favor, abra a pasta '{PASTA_BASE}', cole os links no arquivo '{NOME_ARQUIVO_ENTRADA}' e rode o script novamente.{RESET}")
+            return
         except OSError as e:
-            print(f"{RED}Erro crítico ao tentar criar o arquivo: {e}{RESET}")
+            print(f"{RED}Erro ao criar o arquivo de entrada: {e}{RESET}")
             return
 
-    # 2. Cria a pasta TXTs de saída se ela não existir
-    if not os.path.exists(PASTA_SAIDA):
-        try:
-            os.makedirs(PASTA_SAIDA)
-        except OSError as e:
-            print(f"{RED}Erro ao criar pasta de saída: {e}{RESET}")
-            return
-
-    caminho_completo_saida = os.path.join(PASTA_SAIDA, NOME_ARQUIVO_SAIDA)
-
-    print(f"{CYAN}Lendo arquivo '{ARQUIVO_ENTRADA}'...{RESET}")
+    print(f"{CYAN}Lendo arquivo '{caminho_entrada}'...{RESET}")
 
     try:
-        with open(ARQUIVO_ENTRADA, 'r', encoding='utf-8') as f:
+        with open(caminho_entrada, 'r', encoding='utf-8') as f:
             conteudo = f.read()
             
-        # Verifica se o arquivo está vazio
         if not conteudo.strip():
-            print(f"{YELLOW}⚠ O arquivo '{ARQUIVO_ENTRADA}' existe, mas está vazio.{RESET}")
-            print(f"Cole os dados nele e tente novamente.")
+            print(f"{YELLOW}⚠ O arquivo está vazio.{RESET}")
+            print(f"Cole o relatório dentro de '{caminho_entrada}' e tente novamente.")
             return
 
     except Exception as e:
@@ -73,7 +75,6 @@ def main():
     print(f"{YELLOW}Encontrados {len(dominios_unicos)} domínios únicos. Resolvendo DNS...{RESET}")
     print("-" * 64)
 
-    # Configura timeout
     socket.setdefaulttimeout(3)
 
     for dominio in dominios_unicos:
@@ -81,17 +82,15 @@ def main():
         ipv6_list = set()
         
         try:
-            # Tenta resolver DNS
             addr_infos = socket.getaddrinfo(dominio, None, socket.AF_UNSPEC, socket.SOCK_STREAM)
             
             for family, _, _, _, sockaddr in addr_infos:
                 ip = sockaddr[0]
-                if family == socket.AF_INET:   # IPv4
+                if family == socket.AF_INET:
                     ipv4_list.add(ip)
-                elif family == socket.AF_INET6: # IPv6
+                elif family == socket.AF_INET6:
                     ipv6_list.add(ip)
             
-            # Se não achou IPs, força erro para cair no except
             if not ipv4_list and not ipv6_list:
                 raise socket.gaierror("Nenhum IP encontrado")
 
@@ -119,21 +118,17 @@ def main():
     for item in resultados:
         agrupados[item['IPv4']].append(item)
 
-    # --- GERAÇÃO DO ARQUIVO DE SAÍDA ---
+    # --- SALVA O RESULTADO NA MESMA PASTA (TXTs) ---
     try:
-        with open(caminho_completo_saida, 'w', encoding='utf-8') as f_out:
-            
-            # Cabeçalho do arquivo
+        with open(caminho_saida, 'w', encoding='utf-8') as f_out:
             data_hora = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
             f_out.write("=" * 80 + "\n")
             f_out.write(f"RELATÓRIO DE IPs RESOLVIDOS - {data_hora}\n")
             f_out.write("=" * 80 + "\n\n")
 
-            # Processa Sucessos
             for ip, itens in agrupados.items():
                 if ip != "FALHA":
                     ipv6_ref = itens[0]['IPv6']
-                    
                     f_out.write(f"DESTINO IP (IPv4): {ip}\n")
                     f_out.write(f"IPv6: {ipv6_ref}\n")
                     f_out.write("Domínios vinculados:\n")
@@ -141,22 +136,20 @@ def main():
                         f_out.write(f"   - {item['Dominio']}\n")
                     f_out.write("-" * 40 + "\n\n")
 
-            # Processa Falhas
             if "FALHA" in agrupados:
                 f_out.write("DOMÍNIOS COM FALHA NA RESOLUÇÃO:\n")
                 for item in agrupados["FALHA"]:
                     f_out.write(f"   X {item['Dominio']}\n")
             
-        print(f"\n{GREEN}Sucesso! O relatório foi salvo em: {caminho_completo_saida}{RESET}")
+        print(f"\n{GREEN}Sucesso! O relatório foi salvo em: {caminho_saida}{RESET}")
 
     except Exception as e:
-        print(f"\n{RED}Erro ao salvar o arquivo na pasta TXTs: {e}{RESET}")
+        print(f"\n{RED}Erro ao salvar o arquivo: {e}{RESET}")
 
-    # Exibição Final no Console
+    # Resumo no Console
     print("\n" + "=" * 64)
     print("RESUMO RÁPIDO")
     print("=" * 64)
-    
     for ip, itens in agrupados.items():
         if ip != "FALHA":
             print(f"{CYAN}IP: {ip} {RESET}({len(itens)} domínios)")

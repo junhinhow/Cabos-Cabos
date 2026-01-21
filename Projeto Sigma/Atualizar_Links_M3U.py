@@ -10,94 +10,81 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 try:
     from curl_cffi import requests as cffi_requests
 except ImportError:
-    print("❌ ERRO: Biblioteca 'curl_cffi' faltando.")
-    print("Instale: pip install curl_cffi --user")
+    print("❌ ERRO: Biblioteca 'curl_cffi' faltando. Instale: pip install curl_cffi")
+    exit()
+
+# --- IMPORTAÇÃO VISUAL (RICH) ---
+try:
+    from rich.live import Live
+    from rich.table import Table
+    from rich.panel import Panel
+    from rich.layout import Layout
+    from rich.console import Console
+    from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeRemainingColumn
+    from rich import box
+    from rich.text import Text
+    from rich.group import Group
+except ImportError:
+    print("❌ ERRO: Biblioteca 'rich' faltando. Instale: pip install rich")
     exit()
 
 # --- CONFIGURAÇÕES ---
 ARQUIVO_FONTES = "fontes.json"
-MAX_WORKERS = 10  # Número de downloads simultâneos (ajuste conforme sua internet/CPU)
+MAX_WORKERS = 10 
 
 # Pastas
 PASTA_JSON_RAW = "Dados-Brutos"
 PASTA_PARCERIAS = "Parcerias"
 PASTA_TXTS = "TXTs"
-
-# Arquivos de Texto
 ARQUIVO_LOG_ERROS = os.path.join(PASTA_TXTS, "erros_mineracao.txt")
 ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 
-# --- CONTROLE DE THREADS (LOCKS) ---
-lock_arquivo = threading.Lock()  # Protege escrita em arquivos
-lock_print = threading.Lock()    # Protege saídas no console
-lock_stats = threading.Lock()    # Protege contadores
+# --- CONTROLE DE THREADS E ESTADO VISUAL ---
+lock_arquivo = threading.Lock()
+lock_stats = threading.Lock()
+lock_ui = threading.Lock() # Protege o dicionário de status da UI
 
-# --- ESTATÍSTICAS GLOBAIS ---
+# Estado Global para UI
+active_tasks = {} # Armazena o que cada thread está fazendo: { "NomeFonte": "Status..." }
 stats = {
     "atualizados": 0,
     "cacheados": 0,
-    "erros": 0
+    "erros": 0,
+    "total": 0,
+    "concluidos": 0
 }
 
+# --- LISTA DE APPS (MANTIDA IGUAL AO ORIGINAL) ---
 APPS_PARCERIA = {
-    # --- APLICATIVOS FAMOSOS (TV BOX/ANDROID) ---
-    "ASSIST": "Assist_Plus_Play_Sim", 
-    "PLAY SIM": "Assist_Plus_Play_Sim",
-    "LAZER": "Lazer_Play", 
-    "VIZZION": "Vizzion", 
-    "UNITV": "UniTV",
-    "UNI TV": "UniTV",
-    "XCLOUD": "XCloud_TV", 
-    "P2P": "Codigos_P2P_Geral", 
-    "SMARTERS": "IPTV_Smarters_DNS",
-    "XCIPTV": "XCIPTV_Dados",
-    "SSIPTV": "SSIPTV_Playlist",
-    "NETRANGE": "NetRange",
-    "CLOUDDY": "Clouddy_App",
-    "IBO": "IBO_Player",
-    "DUPLEX": "Duplex_Play",
-    
-    # --- SERVIÇOS PREMIUM ---
-    "EAGLE": "Eagle_TV", 
-    "FLASH": "Flash_P2P",
-    "TVE": "TV_Express", 
-    "TV EXPRESS": "TV_Express",
-    "MY FAMILY": "MyFamily_Cinema", 
-    "MFC": "MyFamily_Cinema",
-    "REDPLAY": "RedPlay",
-    "BTV": "BTV_Codes", 
-    "HTV": "HTV_Codes",
-    "YOUCINE": "YouCine",
-    "BLUE": "Blue_TV",
-    
-    # --- SERVIDORES ESPECÍFICOS (Que apareceram nos JSONs) ---
-    "UCAST": "UCast_App",
-    "ALPHA": "Alpha_Master_App",
-    "WAVE": "Wave_App",
-    "TITÃ": "Tita_App",
-    "ATENA": "Atena_App",
-    "ANDRÔMEDA": "Andromeda_App",
-    "SOLAR": "Solar_App",
-    "FIRE": "Fire_App",
-    "LUNAR": "Lunar_App",
-    "GALAXY": "Galaxy_App",
-    "OLYMPUS": "Olympus_App",
-    "SPEED": "Speed_App",
-    "SEVEN": "Seven_App",
-    "SKY": "Sky_Alternative_App",
-    "HADES": "Hades_App",
-    "VÊNUS": "Venus_App",
-    "URANO": "Urano_App",
-    "K9": "K9_Play",
-    "CINEMAX": "Cinemax_App",
-    "GREEN": "Green_TV",
-    "GTA": "GTA_Player"
+    "ASSIST": "Assist_Plus_Play_Sim", "PLAY SIM": "Assist_Plus_Play_Sim",
+    "LAZER": "Lazer_Play", "VIZZION": "Vizzion", "UNITV": "UniTV",
+    "UNI TV": "UniTV", "XCLOUD": "XCloud_TV", "P2P": "Codigos_P2P_Geral",
+    "SMARTERS": "IPTV_Smarters_DNS", "XCIPTV": "XCIPTV_Dados",
+    "SSIPTV": "SSIPTV_Playlist", "NETRANGE": "NetRange",
+    "CLOUDDY": "Clouddy_App", "IBO": "IBO_Player", "DUPLEX": "Duplex_Play",
+    "EAGLE": "Eagle_TV", "FLASH": "Flash_P2P", "TVE": "TV_Express",
+    "TV EXPRESS": "TV_Express", "MY FAMILY": "MyFamily_Cinema",
+    "MFC": "MyFamily_Cinema", "REDPLAY": "RedPlay", "BTV": "BTV_Codes",
+    "HTV": "HTV_Codes", "YOUCINE": "YouCine", "BLUE": "Blue_TV",
+    "UCAST": "UCast_App", "ALPHA": "Alpha_Master_App", "WAVE": "Wave_App",
+    "TITÃ": "Tita_App", "ATENA": "Atena_App", "ANDRÔMEDA": "Andromeda_App",
+    "SOLAR": "Solar_App", "FIRE": "Fire_App", "LUNAR": "Lunar_App",
+    "GALAXY": "Galaxy_App", "OLYMPUS": "Olympus_App", "SPEED": "Speed_App",
+    "SEVEN": "Seven_App", "SKY": "Sky_Alternative_App", "HADES": "Hades_App",
+    "VÊNUS": "Venus_App", "URANO": "Urano_App", "K9": "K9_Play",
+    "CINEMAX": "Cinemax_App", "GREEN": "Green_TV", "GTA": "GTA_Player"
 }
 
-def safe_print(msg):
-    """Garante que prints não se misturem no console"""
-    with lock_print:
-        print(msg)
+# --- FUNÇÕES AUXILIARES ---
+
+def update_ui_status(nome, status):
+    """Atualiza o status de uma tarefa na UI"""
+    with lock_ui:
+        if status is None:
+            if nome in active_tasks:
+                del active_tasks[nome]
+        else:
+            active_tasks[nome] = status
 
 def limpar_nome_arquivo(nome):
     try:
@@ -117,147 +104,170 @@ def registrar_erro_log(nome, url, erro):
 
 def baixar_json_blindado(url, caminho_salvar):
     session = cffi_requests.Session()
-    # 1. TENTATIVA POST
     try:
         resp = session.post(url, impersonate="chrome120", timeout=20)
         if resp.status_code >= 400:
-             raise Exception(f"POST falhou com {resp.status_code}")
-        
-        # Escrita no arquivo não precisa de lock global aqui pois cada thread escreve em um arquivo diferente (JSON único)
-        with open(caminho_salvar, 'wb') as f:
-            f.write(resp.content)
-        return True, "OK (via POST)"
-
+             raise Exception(f"POST {resp.status_code}")
+        with open(caminho_salvar, 'wb') as f: f.write(resp.content)
+        return True, "OK (POST)"
     except Exception:
-        # 2. TENTATIVA GET (FALLBACK)
         try:
             resp = session.get(url, impersonate="chrome120", timeout=20)
             if resp.status_code == 200:
-                with open(caminho_salvar, 'wb') as f:
-                    f.write(resp.content)
-                return True, "OK (via GET Fallback)"
-            else:
-                return False, f"Erro Final: HTTP {resp.status_code}"
-        except Exception as e_get:
-            return False, f"Falha total: {str(e_get)}"
+                with open(caminho_salvar, 'wb') as f: f.write(resp.content)
+                return True, "OK (GET)"
+            else: return False, f"HTTP {resp.status_code}"
+        except Exception as e: return False, str(e)[:20]
 
 def extrair_parcerias_e_downloads(texto_resposta, nome_exibicao):
     try:
         linhas = texto_resposta.split('\n')
         urls = re.findall(r'(https?://[^\s<>"]+)', texto_resposta)
-        apks = []
-        for url in urls:
-            url_lower = url.lower()
-            if any(ext in url_lower for ext in ['.apk', 'aftv.news', 'dl.ntdev', 'mediafire']):
-                 if url not in apks: apks.append(url)
+        apks = [u for u in urls if any(ext in u.lower() for ext in ['.apk', 'aftv.news', 'dl.ntdev', 'mediafire'])]
         
-        # Bloco de escrita APKs (Protegido)
+        # Remove duplicados preservando ordem
+        apks = list(dict.fromkeys(apks))
+
         if apks:
             with lock_arquivo:
                 with open(ARQUIVO_LINKS_APKS, 'a', encoding='utf-8') as f:
                     f.write(f"\n--- {nome_exibicao} ---\n")
                     for l in apks: f.write(f"{l}\n")
 
-        # Bloco de processamento de linhas
-        buffer_parcerias = {} # Buffer local para reduzir I/O dentro do lock
-        
+        buffer_parcerias = {}
         for linha in linhas:
             l = linha.strip()
             if not l or len(l) > 300: continue
             
             app_detectado = None
+            l_upper = l.upper()
             for k, v in APPS_PARCERIA.items():
-                if k in l.upper():
+                if k in l_upper:
                     app_detectado = v
                     break
             
-            if app_detectado and any(x in l.upper() for x in ["CÓDIGO", "CODIGO", "USUÁRIO", "USER", "SENHA", "PASS", "PIN", "DNS", "URL"]):
-                if app_detectado not in buffer_parcerias:
-                    buffer_parcerias[app_detectado] = []
+            if app_detectado and any(x in l_upper for x in ["CÓDIGO", "CODIGO", "USUÁRIO", "USER", "SENHA", "PASS", "PIN", "DNS", "URL"]):
+                if app_detectado not in buffer_parcerias: buffer_parcerias[app_detectado] = []
                 buffer_parcerias[app_detectado].append(f"[{nome_exibicao}] {l}\n")
         
-        # Escrita em lote das parcerias (Protegido)
         if buffer_parcerias:
             with lock_arquivo:
                 for app_nome, conteudos in buffer_parcerias.items():
                     with open(os.path.join(PASTA_PARCERIAS, f"{app_nome}.txt"), 'a', encoding='utf-8') as f:
                         f.writelines(conteudos)
 
-    except Exception as e:
-        safe_print(f"Erro parser {nome_exibicao}: {e}")
+    except Exception: pass
 
 def verificar_validade_pelo_json(caminho_arquivo):
-    if not os.path.exists(caminho_arquivo):
-        return False, "Arquivo inexistente"
-
+    if not os.path.exists(caminho_arquivo): return False, "Inexistente"
     try:
         with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
             dados = json.load(f)
+        expires_at = dados.get("expiresAt")
+        if not expires_at: return False, "Sem validade"
         
-        expires_at_str = dados.get("expiresAt")
-        if not expires_at_str: return False, "Sem campo expiresAt"
+        try: dt = datetime.strptime(expires_at, "%Y-%m-%d %H:%M:%S")
+        except: 
+            try: dt = datetime.strptime(expires_at, "%Y-%m-%dT%H:%M:%S")
+            except: return False, "Data Inválida"
 
-        try:
-            data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%d %H:%M:%S")
-        except ValueError:
-            try: data_vencimento = datetime.strptime(expires_at_str, "%Y-%m-%dT%H:%M:%S")
-            except: return False, "Formato data inválido"
+        if (dt - datetime.now()).total_seconds() > 60: return True, "Válido"
+        return False, "Vencido"
+    except: return False, "Erro JSON"
 
-        if (data_vencimento - datetime.now()).total_seconds() > 60: 
-            return True, data_vencimento.strftime("%d/%m/%Y %H:%M:%S")
-        else:
-            return False, "Vencido"
-    except:
-        return False, "Erro Leitura/JSON"
-
-def processar_fonte(item):
-    """Função executada por cada thread"""
-    nome = item.get('nome')
+def processar_fonte(item, progress_task_id, progress_obj):
+    nome = item.get('nome', 'Sem Nome')
     url = item.get('api_url')
     
-    if not url: return
+    if not url: 
+        progress_obj.advance(progress_task_id)
+        return
 
+    update_ui_status(nome, "[yellow]Verificando Cache...[/]")
+    
     nome_arq = f"{limpar_nome_arquivo(nome)}.json"
     caminho_json = os.path.join(PASTA_JSON_RAW, nome_arq)
 
-    safe_print(f"📡 Iniciando: {nome}")
-
     esta_valido, msg_validade = verificar_validade_pelo_json(caminho_json)
+    
     sucesso_leitura = False
     
     if esta_valido:
-        safe_print(f"   ⏳ {nome} -> Cache válido! ({msg_validade})")
+        update_ui_status(nome, "[green]Cache OK[/]")
+        time.sleep(0.3) # Pequeno delay pra ser visível
         with lock_stats: stats["cacheados"] += 1
         sucesso_leitura = True
     else:
-        msg_status = "VENCIDO" if msg_validade == "Vencido" else "NOVO/INVÁLIDO"
-        safe_print(f"   ⬇️ {nome} -> Baixando ({msg_status})...")
-        
+        update_ui_status(nome, "[cyan]Baixando...[/]")
         status, msg = baixar_json_blindado(url, caminho_json)
         
         if status:
-            safe_print(f"   ✅ {nome} -> Atualizado!")
+            update_ui_status(nome, "[bold green]Atualizado![/]")
             with lock_stats: stats["atualizados"] += 1
             sucesso_leitura = True
         else:
-            safe_print(f"   ❌ {nome} -> Falha: {msg}")
+            update_ui_status(nome, f"[bold red]Falha: {msg}[/]")
             registrar_erro_log(nome, url, msg)
             with lock_stats: stats["erros"] += 1
+            time.sleep(1) # Delay para ver o erro
 
     if sucesso_leitura and os.path.exists(caminho_json):
+        update_ui_status(nome, "[magenta]Minerando...[/]")
         try:
             with open(caminho_json, 'r', encoding='utf-8', errors='ignore') as f:
-                conteudo = f.read()
-            extrair_parcerias_e_downloads(conteudo, nome)
-        except Exception as e:
-            safe_print(f"   ⚠️ {nome} -> Erro processar JSON: {e}")
+                extrair_parcerias_e_downloads(f.read(), nome)
+        except: pass
+
+    # Limpa da tabela de ativos e avança barra global
+    update_ui_status(nome, None)
+    with lock_stats: stats["concluidos"] += 1
+    progress_obj.advance(progress_task_id)
+
+# --- FUNÇÃO GERADORA DA INTERFACE ---
+def gerar_dashboard(overall_progress):
+    # 1. Tabela de Estatísticas
+    tabela_stats = Table(box=box.SIMPLE_HEAVY, expand=True)
+    tabela_stats.add_column("Total", justify="center", style="cyan")
+    tabela_stats.add_column("Atualizados", justify="center", style="green")
+    tabela_stats.add_column("Cache", justify="center", style="blue")
+    tabela_stats.add_column("Falhas", justify="center", style="red")
+    
+    tabela_stats.add_row(
+        str(stats["total"]),
+        str(stats["atualizados"]),
+        str(stats["cacheados"]),
+        str(stats["erros"])
+    )
+
+    # 2. Tabela de Threads Ativas
+    tabela_ativas = Table(box=box.ROUNDED, expand=True, title="[bold yellow]Requisições Ativas[/]")
+    tabela_ativas.add_column("Fonte", style="bold white")
+    tabela_ativas.add_column("Status", style="italic")
+    
+    # Preenche com as tarefas ativas do dicionário global
+    # Mostra apenas as primeiras 10 se houver muitas para não estourar a tela
+    with lock_ui:
+        items_ativos = list(active_tasks.items())
+        
+    if not items_ativos:
+        tabela_ativas.add_row("---", "[dim]Aguardando workers...[/]")
+    else:
+        for nome, status in items_ativos[:15]:
+            tabela_ativas.add_row(nome, status)
+
+    # Monta o painel final
+    return Group(
+        Panel(tabela_stats, title="[bold white]Estatísticas[/]", border_style="blue"),
+        Panel(tabela_ativas, border_style="yellow"),
+        Panel(overall_progress, title="Progresso Geral", border_style="green")
+    )
 
 def main():
-    # Criação de pastas
+    # Setup Pastas
     for p in [PASTA_JSON_RAW, PASTA_PARCERIAS, PASTA_TXTS]:
         os.makedirs(p, exist_ok=True)
 
-    # Limpeza inicial (Logs e Parcerias anteriores)
+    # Limpeza
     if os.path.exists(ARQUIVO_LOG_ERROS):
         try: os.remove(ARQUIVO_LOG_ERROS)
         except: pass
@@ -272,31 +282,48 @@ def main():
 
     with open(ARQUIVO_FONTES, 'r', encoding='utf-8') as f:
         fontes = json.load(f)
-
-    print(f"🚀 MINERADOR V15 (MULTITHREAD) | Fontes: {len(fontes)} | Threads: {MAX_WORKERS}")
-    print("-" * 50)
     
-    start_time = time.time()
+    stats["total"] = len(fontes)
+    
+    # Configuração da Barra de Progresso
+    overall_progress = Progress(
+        SpinnerColumn(),
+        TextColumn("[progress.description]{task.description}"),
+        BarColumn(),
+        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+        TimeRemainingColumn(),
+        expand=True
+    )
+    task_id = overall_progress.add_task("[green]Processando Fontes...", total=len(fontes))
 
-    # --- INÍCIO DO MULTITHREADING ---
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(processar_fonte, item) for item in fontes]
-        
-        # Aguarda todos terminarem (opcional, o 'with' já faz isso, mas aqui permite pegar exceptions se precisar)
-        for future in as_completed(futures):
-            try:
-                future.result()
-            except Exception as e:
-                safe_print(f"❌ Erro fatal em thread: {e}")
+    # --- EXECUÇÃO COM INTERFACE VIVA ---
+    start_time = time.time()
+    
+    with Live(gerar_dashboard(overall_progress), refresh_per_second=10) as live:
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = []
+            for item in fontes:
+                # Submete a tarefa passando os objetos de controle
+                futures.append(executor.submit(processar_fonte, item, task_id, overall_progress))
+            
+            # Loop de atualização da interface enquanto threads rodam
+            while stats["concluidos"] < stats["total"]:
+                live.update(gerar_dashboard(overall_progress))
+                time.sleep(0.1)
+                
+            # Garante que todos terminaram
+            for f in as_completed(futures):
+                pass
+            
+            # Atualização final
+            live.update(gerar_dashboard(overall_progress))
 
     tempo_total = time.time() - start_time
     
-    print("-" * 50)
-    print(f"✅ FIM DA MINERAÇÃO em {tempo_total:.2f} segundos.")
-    print(f"🆕 Atualizados: {stats['atualizados']}")
-    print(f"💾 Em Cache:    {stats['cacheados']}")
-    print(f"❌ Falhas:      {stats['erros']}")
-    print(f"📂 Pasta '{PASTA_TXTS}' atualizada.")
+    print("\n")
+    console = Console()
+    console.print(f"[bold green]✅ FIM DA MINERAÇÃO em {tempo_total:.2f} segundos.[/]")
+    console.print(f"📂 Resultados salvos em: [bold]{PASTA_PARCERIAS}[/]")
 
 if __name__ == "__main__":
     main()

@@ -1,4 +1,4 @@
-RELATÓRIO DE SERVIDORES - 21/01/2026 01:51
+RELATÓRIO DE SERVIDORES - 21/01/2026 02:03
 ====================================================================================================
 NOME DO ARQUIVO                                         | SERVIDOR BASE
 ====================================================================================================
@@ -163,6 +163,7 @@ Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[20-01-..  | http://cloudsalex.spac
 LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[1..  | http://cdneshow.xyz:80
 LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[1..  | http://cdneshow.xyz:80
 LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_CADULTOS_[..  | http://cdneshow.xyz:80
+LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS_[..  | http://cdneshow.xyz:80
 LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[20-0..  | http://cdn.andromedaz.site:80
 LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[21-0..  | http://cdn.andromedaz.site:80
 LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS..  | http://srv3.site:80
@@ -237,6 +238,7 @@ NetPlay_-__VNUS_-_Teste_S_Adulto_12_Horas_[20-01-202..  | http://fontez.cc:80
 New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS_[20-01..  | http://xui.brfontes.fun:80
 New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS_[20-01..  | http://xui.brfontes.fun:80
 New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS_..  | http://dns.blessed7.xyz:80
+New-Servers_-_BLESSED_SERVER_-_COMPLETO_SEM_ADULTOS_..  | http://dns.blessed7.xyz:80
 Odin_-_Anubis_-_Teste+18_[21-01-2026_00h23].m3u         | http://207.58.175.8:80
 Odin_-_Anubis_-_Teste_+18_[21-01-2026_01h23].m3u        | http://207.58.175.8:80
 Odin_-_Anubis_-_Teste_-18_[21-01-2026_01h23].m3u        | http://207.58.175.8:80
@@ -285,6 +287,8 @@ SOCIAL_MASTER_-_HD_-_TESTE_COMPLETO_C_ADULTO_[21-01-..  | http://xui.brfontes.fu
 SOCIAL_MASTER_-_HD_-_TESTE_COMPLETO_S_ADULTO_[21-01-..  | http://xui.brfontes.fun:80
 SOCIAL_MASTER_-_PLAY_-_TESTE_COMPLETO_C_ADULTO_[21-0..  | http://fontez.cc:80
 SOCIAL_MASTER_-_PLAY_-_TESTE_COMPLETO_S_ADULTO_[21-0..  | http://fontez.cc:80
+SOCIAL_MASTER_NEW_-_TESTE_COMPLETO_C_ADULTO_[21-01-2..  | http://jhysa.top:80
+SOCIAL_MASTER_NEW_-_TESTE_COMPLETO_S_ADULTO_[21-01-2..  | http://jhysa.top:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS_[20-01-20..  | http://topcdn.fun:80
 SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS_[21-01-20..  | http://topcdn.fun:80
 Servidor_X_-__AtivaBox_Com_Adultos_[20-01-2026_17h32..  | http://xui.brfontes.fun:80
@@ -594,19 +598,20 @@ AGRUPAMENTO POR SERVIDOR
    ├─ Odin_-_Anubis_-_Teste_+18_[21-01-2026_01h23].m3u
    ├─ Odin_-_Anubis_-_Teste_-18_[21-01-2026_01h23].m3u
 
+📡 http://dns.blessed7.xyz:80 (6 arquivos)
+   ├─ CineMania_-__Completo_Com_Adultos_[20-01-2026_17h32].m3u
+   ├─ CineMania_-__Completo_Sem_Adultos_[20-01-2026_23h42].m3u
+   ├─ New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS_[21-01-2026_00h23].m3u
+   ├─ New-Servers_-_BLESSED_SERVER_-_COMPLETO_SEM_ADULTOS_[21-01-2026_01h48].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[20-01-2026_17h32].m3u
+   ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[20-01-2026_23h42].m3u
+
 📡 http://sxhs.cgpsx.site:80 (5 arquivos)
    ├─ CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[20-01-2026_17h32].m3u
    ├─ CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[20-01-2026_17h32].m3u
    ├─ HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[20-01-2026_17h32].m3u
    ├─ Thunder_-__Completo_Com_Adultos_[20-01-2026_17h32].m3u
    ├─ Thunder_-__Completo_Sem_Adultos_[20-01-2026_17h32].m3u
-
-📡 http://dns.blessed7.xyz:80 (5 arquivos)
-   ├─ CineMania_-__Completo_Com_Adultos_[20-01-2026_17h32].m3u
-   ├─ CineMania_-__Completo_Sem_Adultos_[20-01-2026_23h42].m3u
-   ├─ New-Servers_-_BLESSED_SERVER_-_COMPLETO_COM_ADULTOS_[21-01-2026_00h23].m3u
-   ├─ VelozNet_-__VTVBR_-_Completo_Com_Adultos_[20-01-2026_17h32].m3u
-   ├─ VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[20-01-2026_23h42].m3u
 
 📡 http://74.91.29.44:80 (4 arquivos)
    ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[20-01-2026_17h32].m3u
@@ -638,6 +643,12 @@ AGRUPAMENTO POR SERVIDOR
    ├─ CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_CADULTO_[20-01-2026_17h32].m3u
    ├─ CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_SADULTO_[20-01-2026_17h32].m3u
 
+📡 http://cdneshow.xyz:80 (4 arquivos)
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h58].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_CADULTOS_[21-01-2026_00h23].m3u
+   ├─ LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS_[21-01-2026_01h48].m3u
+
 📡 http://157.173.97.235:80 (4 arquivos)
    ├─ NetPlay_-__FLASH_-_Teste_12H_C_Adultos_[21-01-2026_01h22].m3u
    ├─ NetPlay_-__FLASH_-_Teste_12H_S_Adultos_[21-01-2026_00h23].m3u
@@ -659,11 +670,6 @@ AGRUPAMENTO POR SERVIDOR
    ├─ HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[20-01-2026_17h32].m3u
    ├─ Odin_-_FHMplay_-_Teste_+18_FHM_[21-01-2026_01h23].m3u
    ├─ Odin_-_FHMplay_-_Teste_-18_FHM_[21-01-2026_01h23].m3u
-
-📡 http://cdneshow.xyz:80 (3 arquivos)
-   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h58].m3u
-   ├─ LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
-   ├─ LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_CADULTOS_[21-01-2026_00h23].m3u
 
 📡 http://top.gpsrv.shop:80 (2 arquivos)
    ├─ Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[20-01-2026_17h32].m3u
@@ -700,6 +706,10 @@ AGRUPAMENTO POR SERVIDOR
 📡 http://wpls.shop:80 (2 arquivos)
    ├─ Servidor_X_-__P2Box_Sem_Adultos_[20-01-2026_17h32].m3u
    ├─ Servidor_X_-__P2Box_[20-01-2026_17h32].m3u
+
+📡 http://jhysa.top:80 (2 arquivos)
+   ├─ SOCIAL_MASTER_NEW_-_TESTE_COMPLETO_C_ADULTO_[21-01-2026_01h48].m3u
+   ├─ SOCIAL_MASTER_NEW_-_TESTE_COMPLETO_S_ADULTO_[21-01-2026_01h48].m3u
 
 📡 http://veloz.tvbrlive.com:80 (2 arquivos)
    ├─ VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[20-01-2026_17h32].m3u

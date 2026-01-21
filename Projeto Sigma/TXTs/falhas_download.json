@@ -105,7 +105,7 @@
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
         "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:52"
+        "data": "2026-01-21 07:49:54"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
@@ -171,7 +171,7 @@
         "nome": "INVICTOS_EXTREME_-",
         "url": "http://gladiadorplay.xyz/get.php?username=108799294569&password=432337225746&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:44:05"
+        "data": "2026-01-21 07:50:08"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
@@ -249,7 +249,7 @@
         "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_sADULTOS",
         "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-21 01:44:29"
+        "data": "2026-01-21 07:50:11"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
@@ -639,37 +639,37 @@
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://infra10.top/get.php?username=889267721741&password=852184238561&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:48"
+        "data": "2026-01-21 07:49:51"
     },
     {
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://infra10.top/get.php?username=393593883583&password=583223603774&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:49"
+        "data": "2026-01-21 07:49:51"
     },
     {
         "nome": "CYBER_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://rynox.top/get.php?username=716966580554&password=467457473168&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:49"
+        "data": "2026-01-21 07:49:52"
     },
     {
         "nome": "CYBER_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://rynox.top/get.php?username=149331771918&password=751398457981&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:50"
+        "data": "2026-01-21 07:49:52"
     },
     {
         "nome": "CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://erytka.top/get.php?username=237196913207&password=269977022079&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:51"
+        "data": "2026-01-21 07:49:53"
     },
     {
         "nome": "CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://erytka.top/get.php?username=507681536906&password=546944420667&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:51"
+        "data": "2026-01-21 07:49:53"
     },
     {
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
@@ -680,164 +680,164 @@
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=366517&password=495647&type=m3u_plus&output=hls",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://iptv1.glloball.shop:80/get.php?username=366517&password=495647&type=m3u_plus&output=hls', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:28"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:55"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=244641&password=955707&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:53"
+        "data": "2026-01-21 07:49:55"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=864583&password=740325&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:54"
+        "data": "2026-01-21 07:49:56"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=735920&password=815773&type=m3u_plus&output=hls",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://iptv1.glloball.shop:80/get.php?username=735920&password=815773&type=m3u_plus&output=hls', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:41"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:57"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=302344&password=979457&type=m3u_plus&output=hls",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://iptv1.glloball.shop:80/get.php?username=302344&password=979457&type=m3u_plus&output=hls', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:29"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:57"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=374467&password=554955&type=m3u_plus&output=hls",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://iptv1.glloball.shop:80/get.php?username=374467&password=554955&type=m3u_plus&output=hls', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:30"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:57"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO",
         "url": "http://parceria.parclll.site/get.php?username=486472&password=492677&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://parceria.parclll.site/get.php?username=486472&password=492677&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:40"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:58"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://parceria.parclll.site/get.php?username=711583&password=165944&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://parceria.parclll.site/get.php?username=711583&password=165944&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:34"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:59"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO",
         "url": "http://parceria.parclll.site/get.php?username=733212&password=130418&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://parceria.parclll.site/get.php?username=733212&password=130418&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:26"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:00"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://parceria.parclll.site/get.php?username=747043&password=286841&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://parceria.parclll.site/get.php?username=747043&password=286841&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:27"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:01"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO",
         "url": "http://parceria.parclll.site/get.php?username=887741&password=433187&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://parceria.parclll.site/get.php?username=887741&password=433187&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:33"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:02"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=460184&password=228446&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://topcdn.fun/get.php?username=460184&password=228446&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:31"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:02"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=176626&password=541215&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:43:59"
+        "data": "2026-01-21 07:50:03"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=374165&password=143751&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://topcdn.fun/get.php?username=374165&password=143751&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:36"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:03"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=909204&password=322210&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://topcdn.fun/get.php?username=909204&password=322210&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:35"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:03"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=978574&password=943029&type=m3u_plus&output=mpegts",
-        "erro": "Erro IDM: Command '['D:\\\\Program Files (x86)\\\\Internet Download Manager\\\\IDMan.exe', '/d', 'http://topcdn.fun/get.php?username=978574&password=943029&type=m3u_plus&output=mpegts', '/p', 'D:\\\\Codes\\\\Cabos-Cabos\\\\Projeto Sigma\\\\Listas-Downloaded', '/f', 'GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[21-01-2026_01h46].m3u', '/n', '/a']' returned non-zero exit status 1.",
-        "data": "2026-01-21 01:47:32"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:03"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=184602&password=540399&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:00"
+        "data": "2026-01-21 07:50:03"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=292161&password=207941&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:01"
+        "data": "2026-01-21 07:50:04"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=858422&password=341195&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:02"
+        "data": "2026-01-21 07:50:04"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=512370&password=880483&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:02"
+        "data": "2026-01-21 07:50:05"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=502913&password=660693&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:03"
+        "data": "2026-01-21 07:50:05"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=468069&password=978189&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:03"
+        "data": "2026-01-21 07:50:05"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=314968&password=278851&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:04"
+        "data": "2026-01-21 07:50:05"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS",
         "url": "http://gladiadorplay.xyz/get.php?username=716084547814&password=482873176496&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:44:05"
+        "data": "2026-01-21 07:50:07"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
         "url": "http://gladiadorplay.xyz/get.php?username=248448782882&password=666497398768&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:44:06"
+        "data": "2026-01-21 07:50:08"
     },
     {
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)",
         "url": "http://invictosserver.xyz/get.php?username=168224505392&password=906414305524&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:44:07"
+        "data": "2026-01-21 07:50:08"
     },
     {
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS",
         "url": "http://invictosserver.xyz/get.php?username=945240216656&password=672700569525&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:44:07"
+        "data": "2026-01-21 07:50:09"
     },
     {
         "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_COM_ADULTOS",
@@ -891,13 +891,13 @@
         "nome": "LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=498865373&password=153405563&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:09"
+        "data": "2026-01-21 07:50:10"
     },
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=724555149&password=632934795&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:10"
+        "data": "2026-01-21 07:50:10"
     },
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS",
@@ -908,20 +908,20 @@
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=725074984&password=291642799&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-21 01:44:37"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:49"
     },
     {
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS",
         "url": "http://ratinhov6.click/get.php?username=830319301&password=671402094&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:26"
+        "data": "2026-01-21 07:50:10"
     },
     {
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS",
         "url": "http://ratinhov6.click/get.php?username=738206017&password=100743744&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:27"
+        "data": "2026-01-21 07:50:10"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
@@ -938,8 +938,8 @@
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=770409851&password=810748836&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-21 01:44:38"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:49"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
@@ -957,13 +957,13 @@
         "nome": "LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS",
         "url": "http://playwpm.site/get.php?username=317082345&password=369213426&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:44"
+        "data": "2026-01-21 07:50:27"
     },
     {
         "nome": "LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS",
         "url": "http://playwpm.site/get.php?username=585859750&password=599914855&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:45"
+        "data": "2026-01-21 07:50:27"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
@@ -975,13 +975,13 @@
         "nome": "MEGA_PLAY_-_MAX_-_TESTE_3H_CADULTO",
         "url": "http://megamax.dcnn.site/get.php?username=293665&password=465454&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:46"
+        "data": "2026-01-21 07:50:39"
     },
     {
         "nome": "MEGA_PLAY_-_MAX_-_TESTE_3H_SADULTO",
         "url": "http://megamax.dcnn.site/get.php?username=946668&password=804616&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-21 01:44:47"
+        "data": "2026-01-21 07:50:41"
     },
     {
         "nome": "MEGA_PLAY_-__TESTE_1_DIA_C_ADULTOS",
@@ -1138,5 +1138,179 @@
         "url": "http://zenithshow.shop/get.php?username=3693501&password=9481111&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-21 01:46:04"
+    },
+    {
+        "nome": "AtivaBox_-__Aladdin's_-_Teste_Completo",
+        "url": "http://aladdins.digital/get.php?username=172250769&password=851407985&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-21 07:50:04"
+    },
+    {
+        "nome": "BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://echeap.shop/get.php?username=507651957&password=918516667&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:49"
+    },
+    {
+        "nome": "BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://echeap.shop/get.php?username=672832826&password=376504581&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:49"
+    },
+    {
+        "nome": "BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://blackouro.fun/get.php?username=987783301&password=635722441&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:50"
+    },
+    {
+        "nome": "BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://blackouro.fun/get.php?username=922810882&password=973860417&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:50"
+    },
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=29889811&password=96969244&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-21 07:49:50"
+    },
+    {
+        "nome": "CineMania_-__Completo_Com_Adultos",
+        "url": "http://vtvbr.com:80/get.php?username=3391813654&password=8521038296&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-21 07:50:06"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
+        "url": "http://evoplaytop.shop/get.php?username=511946&password=847886&type=m3u_plus&output=mpegts",
+        "erro": "Bloqueio (HTML Detectado)",
+        "data": "2026-01-21 07:49:54"
+    },
+    {
+        "nome": "GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO",
+        "url": "http://iptv1.glloball.shop:80/get.php?username=787403&password=403747&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:49:58"
+    },
+    {
+        "nome": "GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO",
+        "url": "http://parceria.parclll.site/get.php?username=282401&password=639446&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:02"
+    },
+    {
+        "nome": "GLOBAL__IPTV_3__-__TESTE_6HRS__SEM_ADULTOS",
+        "url": "http://topcdn.fun/get.php?username=911000&password=548842&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:03"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=890536&password=635033&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:06"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=359147&password=156299&type=m3u_plus&output=hls",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:07"
+    },
+    {
+        "nome": "HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda",
+        "url": "http://ultraservers.uk/get.php?username=9909164&password=5492893&type=m3u_plus&output=ts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-21 07:50:22"
+    },
+    {
+        "nome": "HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix",
+        "url": "http://c.superodim.nl70.top/get.php?username=4795736&password=8814745&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:07"
+    },
+    {
+        "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_COM_ADULTOS",
+        "url": "http://cdn.ax66.shop:80/get.php?username=391678795&password=413233103&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:08"
+    },
+    {
+        "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://cdn.ax66.shop:80/get.php?username=439355218&password=911524614&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:08"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
+        "url": "http://fristez.xyz/get.php?username=715385258&password=238964271&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
+        "url": "http://fristez.xyz/get.php?username=584064094&password=889732823&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Com_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=152539742&password=715050648&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=365269801&password=989445395&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=431989801&password=456120205&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=660186379&password=378870951&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-21 07:50:09"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
+        "url": "http://cddn1.site/get.php?username=169551321&password=267082435&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:11"
+    },
+    {
+        "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_sADULTOS",
+        "url": "http://cddn1.site/get.php?username=905634682&password=927814178&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:11"
+    },
+    {
+        "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
+        "url": "http://c.lifetop.top:80/get.php?username=953891621&password=429628291&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-21 07:50:26"
+    },
+    {
+        "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_SADULTOS",
+        "url": "http://c.lifetop.top:80/get.php?username=766196449&password=305643710&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-21 07:50:26"
+    },
+    {
+        "nome": "LIFE_UHD_-_RedPlay_-__RedPlay_TESTE_-_CADULTOS",
+        "url": "http://playwpm.site/get.php?username=906245779&password=522359979&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-21 07:50:27"
+    },
+    {
+        "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
+        "url": "http://c.lifetop.top:80/get.php?username=839585963&password=811563663&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-21 07:50:37"
     }
 ]

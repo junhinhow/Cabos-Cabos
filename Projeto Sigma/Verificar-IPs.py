@@ -15,8 +15,8 @@ RESET = "\033[0m"
 
 # --- CONFIGURAÇÕES DE ARQUIVOS ---
 PASTA_BASE = "TXTs"
-NOME_ARQUIVO_ENTRADA = "Relatorio_IP_Servidores.txt"
-NOME_ARQUIVO_SAIDA = "Relatorio_IPs_Final.txt"
+NOME_ARQUIVO_ENTRADA = "Relatorio_Servidores.txt"
+NOME_ARQUIVO_SAIDA = "Relatorio_IP_Servidores.txt"
 
 def main():
     # Monta os caminhos completos (ex: TXTs/Relatorio_IP_Servidores.txt)

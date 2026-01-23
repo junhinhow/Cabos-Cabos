@@ -523,3 +523,12 @@ Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/qK4WrzYWeN
 [23/01/2026 07:32:51] 🌐 NetPlay - 💣 EXPLOSION - Teste Completo 2H C/ Adultos | Failed to perform, c
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/ryJDzmJLge
 ------------------------------
+[23/01/2026 07:32:59] 🌐 NetPlay - 💣 EXPLOSION - Teste Completo 2H S/ Adultos | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/PkaL4RJWgr
+------------------------------
+[23/01/2026 07:33:01] 🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/rlKWO33Wzo
+------------------------------
+[23/01/2026 07:33:02] 🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas (Android) | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/bQELoQ4Wgr
+------------------------------

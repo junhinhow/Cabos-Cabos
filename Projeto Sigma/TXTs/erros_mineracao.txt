@@ -772,3 +772,24 @@ Link: https://thunder.sigma.st/api/chatbot/bQELoawWgr/kmVLl71QwB
 [23/01/2026 07:38:30] ⚡ Thunder - ⚡ Completo Sem Adultos | Failed to perform, c
 Link: https://thunder.sigma.st/api/chatbot/bQELoawWgr/gQBWQ5WGRe
 ------------------------------
+[23/01/2026 07:38:59] 📺 TOP X - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/kmVLl71QwB
+------------------------------
+[23/01/2026 07:38:59] 📺 TOP X - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
+------------------------------
+[23/01/2026 07:39:00] 📺 TOP Y - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/BV4D3rrLaq
+------------------------------
+[23/01/2026 07:39:00] 📺 TOP Y - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/rlKWOw3Wzo
+------------------------------
+[23/01/2026 07:39:01] 🔝 Top Z - ✅ Completo Com Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:39:01] 🔝 Top Z - ✅ Completo Sem Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:39:02] 🔝 Top Z - 📺 TV Express +18 | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------

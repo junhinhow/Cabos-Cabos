@@ -388,3 +388,21 @@ Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/bOxLA7yWZ7
 [23/01/2026 07:49:09] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - s/ADULTOS | Failed to perform, c
 Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/qK4Wr391eN
 ------------------------------
+[23/01/2026 07:49:45] 🧬 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - C/ADULTOS ⚡ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/Yxl1jlaDMj
+------------------------------
+[23/01/2026 07:49:45] 🧬 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7V01pOMWdO
+------------------------------
+[23/01/2026 07:49:45] 🧬 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - s/ADULTOS ⚡ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/nVrW8eq1Ka
+------------------------------
+[23/01/2026 07:49:45] 🧬 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/XYgD9zzWr6
+------------------------------
+[23/01/2026 07:49:48] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[23/01/2026 07:49:48] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------

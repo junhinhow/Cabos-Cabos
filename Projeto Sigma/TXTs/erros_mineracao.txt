@@ -682,3 +682,24 @@ Link: https://primelux.sigma.st/api/chatbot/VdWXAjN13q/zpKDN6DXlE
 [23/01/2026 07:36:27] ⚫ Pro Black - ✅ Teste Completo Com Adultos | Failed to perform, c
 Link: https://problack.sigma.st/api/chatbot/XKjLM70W04/BV4D3rLaqZ
 ------------------------------
+[23/01/2026 07:36:56] 🏟️ Servidor X - 🏟️ AtivaBox Com Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/7V01paLdO4
+------------------------------
+[23/01/2026 07:36:56] ⚫ Pro Black - ✅ Teste Completo S/ Adulto | Failed to perform, c
+Link: https://problack.sigma.st/api/chatbot/XKjLM70W04/EMeWepDnN9
+------------------------------
+[23/01/2026 07:36:57] 🏟️ Servidor X - 🏟️ AtivaBox Sem Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/64vLbNLgGn
+------------------------------
+[23/01/2026 07:36:57] 🐌 Servidor X - 🐌 Caracol | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/qK4WrQDeNj
+------------------------------
+[23/01/2026 07:36:58] 🐌 Servidor X - 🐌 Caracol Sem Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/Yen129WPEa
+------------------------------
+[23/01/2026 07:36:58] 👥 Servidor X - 👥 DUO Teste - C/ Adulto | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:36:59] 👥 Servidor X - 👥 DUO Teste - S/ Adulto | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/BV4D3rLaqZ
+------------------------------

@@ -710,20 +710,20 @@
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=374467&password=554955&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:57"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:11:09"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO",
         "url": "http://parceria.parclll.site/get.php?username=486472&password=492677&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:58"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:11:09"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://parceria.parclll.site/get.php?username=711583&password=165944&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:59"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:11:09"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO",
@@ -1450,5 +1450,17 @@
         "url": "http://evoplaytop.top/get.php?username=652668&password=850657&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-22 21:10:39"
+    },
+    {
+        "nome": "GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO",
+        "url": "http://iptv1.glloball.shop:80/get.php?username=195812&password=840298&type=m3u_plus&output=hls",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:11:09"
+    },
+    {
+        "nome": "GLOBAL__IPTV_1__-__TESTE_6HRS__SEM_ADULTOS",
+        "url": "http://iptv1.glloball.shop:80/get.php?username=159161&password=851987&type=m3u_plus&output=hls",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:11:09"
     }
 ]

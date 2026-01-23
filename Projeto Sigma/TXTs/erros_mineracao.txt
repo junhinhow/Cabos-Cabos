@@ -793,3 +793,12 @@ Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
 [23/01/2026 07:39:02] 🔝 Top Z - 📺 TV Express +18 | Failed to perform, c
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
 ------------------------------
+[23/01/2026 07:39:09] 🔝 Top Z - 📺 TV Express -18 | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[23/01/2026 07:39:11] 🔝 TOP Z - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:39:11] 🔝 TOP Z - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/rlKWO3Wzo7
+------------------------------

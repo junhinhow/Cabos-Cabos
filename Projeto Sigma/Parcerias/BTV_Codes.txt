@@ -30,3 +30,37 @@
 [BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
 [BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
 [BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__AtivaBox_-_Teste_Completo] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__AtivaBox_-_Teste_Completo] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__AtivaBox_-_Teste_S_Adultos] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__AtivaBox_-_Teste_S_Adultos] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__Infrax_-_Teste_Completo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__Infrax_-_Teste_S_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__Infrax_-_Teste_Completo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__Infrax_-_Teste_S_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__NetTurbo_-_Teste_Completo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__NetTurbo_-_Teste_S_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__NetTurbo_-_Teste_Completo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[AtivaBox_-__NetTurbo_-_Teste_S_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS] \ud83d\udfe2 webtv.iptvsmarters.com/switchuser.php
+[New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
+[New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
+[New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
+[New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Com_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Sem_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Com_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Sem_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__NetTurbo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__NetTurbo] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php

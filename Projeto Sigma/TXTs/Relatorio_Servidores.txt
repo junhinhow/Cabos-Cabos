@@ -1,4 +1,4 @@
-RELATÓRIO DE SERVIDORES - 22/01/2026 21:44
+RELATÓRIO DE SERVIDORES - 23/01/2026 07:23
 ====================================================================================================
 NOME DO ARQUIVO                                         | SERVIDOR BASE
 ====================================================================================================
@@ -14,7 +14,6 @@ Alpha_Master_-__Teste_Completo_C_Adultos_[22-01-2026..  | http://74.91.29.44:80
 Alpha_Master_-__Teste_Completo_S_Adultos_[22-01-2026..  | http://74.91.29.44:80
 AtivaBox_-__Aladdin's_-_Teste_Completo_[22-01-2026_2..  | http://7sevenplay10.top:80
 AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[22-01-2026_..  | http://7sevenplay10.top:80
-AtivaBox_-__AtivaBox_-_Teste_Completo_[21-01-2026_07..  | http://xui.brfontes.fun:80
 AtivaBox_-__AtivaBox_-_Teste_Completo_[22-01-2026_21..  | http://83km.sbs:80
 AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[22-01-2026_2..  | http://83km.sbs:80
 AtivaBox_-__Infrax_-_Teste_Completo_[22-01-2026_20h4..  | http://cloudsalex.space:80
@@ -66,7 +65,6 @@ CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_CADULTO_[22-01..  | http://cdn.viadoveio.u
 CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_SADULTO_[22-01..  | http://cdn.viadoveio.uk:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[22-01-2..  | http://fontez.cc:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+..  | http://fontez.cc:80
-CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[21-01-2..  | http://fontez.cc:80
 CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[22-01-2..  | http://fontez.cc:80
 CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[22-01-20..  | http://cdn.andromedaz.site:80
 CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[22-01-20..  | http://cdn.andromedaz.site:80
@@ -87,7 +85,6 @@ CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[22-01-2026_..  | http://x25.acxll.shop:
 CineMania_-__Completo_Com_Adultos_[22-01-2026_21h12]..  | http://dns.blessed7.xyz:80
 CineMania_-__Completo_Sem_Adultos_[22-01-2026_20h40]..  | http://dns.blessed7.xyz:80
 EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[22-01-20..  | http://c.superodin.nl70.top:80
-EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[21-01-20..  | http://c.superodin.nl70.top:80
 EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[22-01-20..  | http://c.superodin.nl70.top:80
 EVOLUTION_-_EVO_PRIME_-__Teste_+18_[22-01-2026_21h12..  | http://51.77.82.194:80
 GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h..  | http://wxpago.sbs:80
@@ -193,6 +190,7 @@ Lider_-_1_ONE_-_Completo_Com_Adultos_[22-01-2026_20h..  | http://fontez.cc:80
 Lider_-_1_ONE_-_Completo_Sem_Adultos_[21-01-2026_00h..  | http://fontez.cc:80
 Lider_-_1_ONE_-_Completo_Sem_Adultos_[22-01-2026_21h..  | http://fontez.cc:80
 Lider_-__ALPHA_-_Completo_Com_Adultos_[21-01-2026_00..  | http://74.91.29.44:80
+Lider_-__ALPHA_-_Completo_Com_Adultos_[22-01-2026_21..  | http://74.91.29.44:80
 Lider_-__ALPHA_-_Completo_Sem_Adultos_[20-01-2026_23..  | http://74.91.29.44:80
 Lider_-__ALPHA_-_Completo_Sem_Adultos_[22-01-2026_21..  | http://74.91.29.44:80
 Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[2..  | http://cdn.turbox.tv.br:80
@@ -409,13 +407,14 @@ ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[22-01-2026_..  | http://topcdn.fun:80
 ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[21-01-2026_..  | http://topcdn.fun:80
 ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[22-01-2026_..  | http://topcdn.fun:80
 playlist_160090903_plus.m3u                             | http://38.147.106.155:80
+playlist_573787924_plus_test_RedPlay_kp1000.top.m3u     | http://kp1000.top:80
 
 
 ====================================================================================================
 AGRUPAMENTO POR SERVIDOR
 ====================================================================================================
 
-📡 http://fontez.cc:80 (34 arquivos)
+📡 http://fontez.cc:80 (33 arquivos)
    ├─ AMERICAN_-_PLAY_-__American_Play_CAdultos_[22-01-2026_20h40].m3u
    ├─ AMERICAN_-_PLAY_-__American_Play_SAdultos_[22-01-2026_20h16].m3u
    ├─ AtivaBox_-__NetTurbo_-_Teste_Completo_[22-01-2026_20h40].m3u
@@ -424,7 +423,6 @@ AGRUPAMENTO POR SERVIDOR
    ├─ BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[22-01-2026_21h12].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[22-01-2026_21h12].m3u
-   ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[21-01-2026_07h36].m3u
    ├─ CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[22-01-2026_21h27].m3u
    ├─ HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[22-01-2026_20h16].m3u
    ├─ Lider_-_1_ONE_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
@@ -568,10 +566,9 @@ AGRUPAMENTO POR SERVIDOR
    ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[20-01-2026_23h42].m3u
    ├─ PRIME_LUX_-_PRIME_X__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h40].m3u
 
-📡 http://xui.brfontes.fun:80 (20 arquivos)
+📡 http://xui.brfontes.fun:80 (19 arquivos)
    ├─ AMERICAN_-_SUPER_-__American_Super_CAdultos_[21-01-2026_07h33].m3u
    ├─ AMERICAN_-_SUPER_-__American_Super_SAdultos_[21-01-2026_07h33].m3u
-   ├─ AtivaBox_-__AtivaBox_-_Teste_Completo_[21-01-2026_07h34].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
    ├─ LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
    ├─ LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS_[21-01-2026_07h49].m3u
@@ -645,22 +642,6 @@ AGRUPAMENTO POR SERVIDOR
    ├─ Servidor_X_-__OpenBox_[20-01-2026_17h32].m3u
    ├─ Servidor_X_-__OpenBox_[22-01-2026_20h40].m3u
 
-📡 http://c.superodin.nl70.top:80 (14 arquivos)
-   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[22-01-2026_20h40].m3u
-   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[21-01-2026_07h39].m3u
-   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[22-01-2026_21h12].m3u
-   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[22-01-2026_20h16].m3u
-   ├─ Lider_-__MAX_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
-   ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[22-01-2026_20h40].m3u
-   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[20-01-2026_23h42].m3u
-   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[22-01-2026_21h27].m3u
-   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[20-01-2026_17h32].m3u
-   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[22-01-2026_20h40].m3u
-   ├─ Odin_-_ODINPLAY_+18_[21-01-2026_01h24].m3u
-   ├─ Odin_-_ODINPLAY_-18_[21-01-2026_00h23].m3u
-   ├─ Odin__-_ODINPLAY_+18_[21-01-2026_01h25].m3u
-   ├─ Stark_-_Ultimate_[18-01-2026_20h32].m3u
-
 📡 http://38.147.106.155:80 (13 arquivos)
    ├─ BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
    ├─ CineFlix_-__RYZEN_-_Teste_IPTV_C_Adultos_[22-01-2026_20h40].m3u
@@ -675,6 +656,21 @@ AGRUPAMENTO POR SERVIDOR
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_C_ADULTOS_[22-01-2026_21h12].m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[21-01-2026_08h29].m3u
    ├─ PRIME_LUX_-_PRIMEULTRA_-__TESTE_COMPLETO_S_ADULTOS_[22-01-2026_21h12].m3u
+
+📡 http://c.superodin.nl70.top:80 (13 arquivos)
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[22-01-2026_20h40].m3u
+   ├─ EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[22-01-2026_21h12].m3u
+   ├─ HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[22-01-2026_20h16].m3u
+   ├─ Lider_-__MAX_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
+   ├─ Lider_-__MAX_-_Completo_Sem_Adultos_[22-01-2026_20h40].m3u
+   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[20-01-2026_23h42].m3u
+   ├─ NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas_[22-01-2026_21h27].m3u
+   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[20-01-2026_17h32].m3u
+   ├─ NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas_[22-01-2026_20h40].m3u
+   ├─ Odin_-_ODINPLAY_+18_[21-01-2026_01h24].m3u
+   ├─ Odin_-_ODINPLAY_-18_[21-01-2026_00h23].m3u
+   ├─ Odin__-_ODINPLAY_+18_[21-01-2026_01h25].m3u
+   ├─ Stark_-_Ultimate_[18-01-2026_20h32].m3u
 
 📡 http://nordesteip.shop:80 (12 arquivos)
    ├─ BLACKBR_-_Z2_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
@@ -786,10 +782,11 @@ AGRUPAMENTO POR SERVIDOR
    ├─ Odin_-_Anubis_-_Teste_+18_[21-01-2026_01h23].m3u
    ├─ Odin_-_Anubis_-_Teste_-18_[21-01-2026_01h23].m3u
 
-📡 http://74.91.29.44:80 (5 arquivos)
+📡 http://74.91.29.44:80 (6 arquivos)
    ├─ Alpha_Master_-__Teste_Completo_C_Adultos_[22-01-2026_20h40].m3u
    ├─ Alpha_Master_-__Teste_Completo_S_Adultos_[22-01-2026_20h40].m3u
    ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[21-01-2026_00h23].m3u
+   ├─ Lider_-__ALPHA_-_Completo_Com_Adultos_[22-01-2026_21h27].m3u
    ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[20-01-2026_23h42].m3u
    ├─ Lider_-__ALPHA_-_Completo_Sem_Adultos_[22-01-2026_21h12].m3u
 
@@ -917,3 +914,6 @@ AGRUPAMENTO POR SERVIDOR
 
 📡 http://eogdos.shop:80 (1 arquivos)
    ├─ NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[21-01-2026_01h22].m3u
+
+📡 http://kp1000.top:80 (1 arquivos)
+   ├─ playlist_573787924_plus_test_RedPlay_kp1000.top.m3u

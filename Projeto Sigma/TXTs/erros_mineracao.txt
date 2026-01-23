@@ -352,3 +352,153 @@ Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/8241K6OWmx
 [23/01/2026 07:28:53] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 6HRS || SEM ADULTOS 💛 | Failed to perform, c
 Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/BKADdEXWlr
 ------------------------------
+[23/01/2026 07:29:24] ▶️ Infrax - 🔴 LUVEM - RedPlay Teste Com Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/kRXDgwDexV
+------------------------------
+[23/01/2026 07:29:24] ▶️ Infrax - 🔴 LUVEM - RedPlay Teste Sem Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/ryJDzKWgeV
+------------------------------
+[23/01/2026 07:29:24] 🏗️ Infrax - ☁️ LUVEM - Teste Completo Com Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:29:24] 🏗️ Infrax - ☁️ LUVEM - Teste Completo Sem Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:29:25] 📺 Infrax - 📲 LUVEM - Teste IPTV Smarters Com Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/0RvWGl1e3P
+------------------------------
+[23/01/2026 07:29:25] 🎖️ INVICTOS EXTREME - TESTE COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/PkaL4qdDgr
+------------------------------
+[23/01/2026 07:29:25] 📺 Infrax - 📲 LUVEM - Teste IPTV Smarters Sem Adultos | Failed to perform, c
+Link: https://infrax.sigma.st/api/chatbot/2BDvJAwDrk/8241Kg1mxd
+------------------------------
+[23/01/2026 07:29:34] 🎖️ INVICTOS EXTREME - TESTE COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/Yxl1jEBWMj
+------------------------------
+[23/01/2026 07:29:34] 🎖️ INVICTOS SERVER - TESTE COMPLETO - SMART TVS ( LG / SAMSUNG / ROKU ) | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/64vLb4NWgG
+------------------------------
+[23/01/2026 07:29:34] 🎖️ INVICTOS SERVER - TESTE COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/0RvWGvlDe3
+------------------------------
+[23/01/2026 07:30:05] 🎖️ INVICTOS SERVER - TESTE COMPLETO PARA ANDROID | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/XYgD9EJDr6
+------------------------------
+[23/01/2026 07:30:05] 🎖️ INVICTOS SERVER - TESTE COMPLETO PARA IOS | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/7V01pzaDdO
+------------------------------
+[23/01/2026 07:30:05] 🎖️ INVICTOS SERVER - TESTE COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/8241KEgDmx
+------------------------------
+[23/01/2026 07:30:06] 🐺 Lider - 🅰️ ALPHA - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/rlKWOzRDzo
+------------------------------
+[23/01/2026 07:30:06] 👑 Lider - 🛠️ ASSIST TV - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/rlKWOw3Wzo
+------------------------------
+[23/01/2026 07:30:06] 🐺 Lider - 🅰️ ALPHA - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/RYAWRNPWjl
+------------------------------
+[23/01/2026 07:30:06] 👑 Lider - 🛠️ ASSIST TV - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/RYAWREkDjl
+------------------------------
+[23/01/2026 07:30:15] 👑 Lider - 🔥 Fire PLAY - TURBO - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/rdqLk9pWAE
+------------------------------
+[23/01/2026 07:30:15] 👑 Lider - 🔥 Fire PLAY - TURBO - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/o231q79D4q
+------------------------------
+[23/01/2026 07:30:15] 👑 Lider - 🍃 LITE - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/kg516mGWjl
+------------------------------
+[23/01/2026 07:30:46] 👑 Lider - 🍃 LITE - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbJ4LgG
+------------------------------
+[23/01/2026 07:30:46] 👑 Lider - Ⓜ️ MAX - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/BKADdEXWlr
+------------------------------
+[23/01/2026 07:30:46] 👑 Lider - Ⓜ️ MAX - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/kRXDgMO1ex
+------------------------------
+[23/01/2026 07:30:47] 👑 Lider - ✨ SHOW - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/b8K1x0K1vG
+------------------------------
+[23/01/2026 07:30:47] 👑 Lider - 🆙 TOP SERVERS - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/qK4Wr391eN
+------------------------------
+[23/01/2026 07:30:47] 👑 Lider - ✨ SHOW - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/we6Wn781K8
+------------------------------
+[23/01/2026 07:30:47] 👑 Lider - 🆙 TOP SERVERS - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/bOxLA7yWZ7
+------------------------------
+[23/01/2026 07:30:56] 👑 Lider - 1️⃣ ONE - Completo Com Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/gQBWQjz1GR
+------------------------------
+[23/01/2026 07:30:56] 👑 Lider - 1️⃣ ONE - Completo Sem Adultos | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/80m1EkvDlE
+------------------------------
+[23/01/2026 07:30:57] 👑 Lider - TOP SERVERS - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/bOxLA7yWZ7
+------------------------------
+[23/01/2026 07:31:27] 👑 Lider - TOP SERVERS - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/qK4Wr391eN
+------------------------------
+[23/01/2026 07:31:27] 👑 Lider - Z - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
+------------------------------
+[23/01/2026 07:31:27] 👑 Lider - Z - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+------------------------------
+[23/01/2026 07:31:28] 🧬 LIFE UHD - ARES PLAY - 🏹 ARES PLAY TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ANKWPBxLPR
+------------------------------
+[23/01/2026 07:31:28] 🧬 LIFE UHD - CINEMAX - 🟢 CINEMAX TESTE - s/ADULTOS 🟢 | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7V01pdM1dO
+------------------------------
+[23/01/2026 07:31:28] 🧬 LIFE UHD - CINEMAX - 🟢 CINEMAX TESTE - C/ADULTOS 🟢 | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/64vLbA41gG
+------------------------------
+[23/01/2026 07:31:28] 🧬 LIFE UHD - ARES PLAY - 🏹 ARES PLAY TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/bOxLAVyDZ7
+------------------------------
+[23/01/2026 07:31:37] 🧬 LIFE UHD - GreenTv - 🇧🇷 GREEN PLAY TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/x2YD0EkWQP
+------------------------------
+[23/01/2026 07:31:37] 🧬 LIFE UHD - GreenTv - 🇧🇷 GREEN PLAY TESTE - S/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/boQ1YE91ON
+------------------------------
+[23/01/2026 07:31:38] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/80m1Eq91lE
+------------------------------
+[23/01/2026 07:32:08] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - S/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/JOALyo0W4w
+------------------------------
+[23/01/2026 07:32:08] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - s/ADULTOS ♾️ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7eZWXM
+------------------------------
+[23/01/2026 07:32:08] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - C/ADULTOS ♾️ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/QywDmBGWpR
+------------------------------
+[23/01/2026 07:32:09] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7nZ1XM
+------------------------------
+[23/01/2026 07:32:09] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/BV4D3V5Laq
+------------------------------
+[23/01/2026 07:32:09] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/kRXDgEw1ex
+------------------------------
+[23/01/2026 07:32:10] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - S/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ryJDz2KDge
+------------------------------
+[23/01/2026 07:32:18] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE C/INTERNACIONAL | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/PkaL4qdDgr
+------------------------------
+[23/01/2026 07:32:18] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/bOxLA7yWZ7
+------------------------------
+[23/01/2026 07:32:19] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/qK4Wr391eN
+------------------------------

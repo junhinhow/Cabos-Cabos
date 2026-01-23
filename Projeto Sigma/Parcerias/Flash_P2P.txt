@@ -1,0 +1,8 @@
+[NetPlay_-__FLASH_-_Teste_12H_C_Adultos] \ud83d\udfe2 Link (M3U): http://flash.netpl4y.com/get.php?username=43551692308&password=32960417207&type=m3u_plus&output=mpegts
+[NetPlay_-__FLASH_-_Teste_12H_C_Adultos] \ud83d\udfe1 Link (HLS): http://flash.netpl4y.com/get.php?username=43551692308&password=32960417207&type=m3u_plus&output=hls
+[NetPlay_-__FLASH_-_Teste_12H_C_Adultos] \ud83d\udfe2 Link (M3U): http://flash.netpl4y.com/get.php?username=43551692308&password=32960417207&type=m3u_plus&output=mpegts
+[NetPlay_-__FLASH_-_Teste_12H_C_Adultos] \ud83d\udfe1 Link (HLS): http://flash.netpl4y.com/get.php?username=43551692308&password=32960417207&type=m3u_plus&output=hls
+[NetPlay_-__FLASH_-_Teste_12H_S_Adultos] \ud83d\udfe2 Link (M3U): http://flash.netpl4y.com/get.php?username=96768251719&password=81391286592&type=m3u_plus&output=mpegts
+[NetPlay_-__FLASH_-_Teste_12H_S_Adultos] \ud83d\udfe1 Link (HLS): http://flash.netpl4y.com/get.php?username=96768251719&password=81391286592&type=m3u_plus&output=hls
+[NetPlay_-__FLASH_-_Teste_12H_S_Adultos] \ud83d\udfe2 Link (M3U): http://flash.netpl4y.com/get.php?username=96768251719&password=81391286592&type=m3u_plus&output=mpegts
+[NetPlay_-__FLASH_-_Teste_12H_S_Adultos] \ud83d\udfe1 Link (HLS): http://flash.netpl4y.com/get.php?username=96768251719&password=81391286592&type=m3u_plus&output=hls

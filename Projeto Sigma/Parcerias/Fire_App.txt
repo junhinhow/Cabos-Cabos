@@ -1,0 +1,8 @@
+[NetPlay_-__FIRE_-_Teste_12H_C_Adultos] \ud83d\udfe2 Link (M3U): http://fire.netpl4y.com/get.php?username=35258318380&password=42108805190&type=m3u_plus&output=mpegts
+[NetPlay_-__FIRE_-_Teste_12H_C_Adultos] \ud83d\udfe1 Link (HLS): http://fire.netpl4y.com/get.php?username=35258318380&password=42108805190&type=m3u_plus&output=hls
+[NetPlay_-__FIRE_-_Teste_12H_C_Adultos] \ud83d\udfe2 Link (M3U): http://fire.netpl4y.com/get.php?username=35258318380&password=42108805190&type=m3u_plus&output=mpegts
+[NetPlay_-__FIRE_-_Teste_12H_C_Adultos] \ud83d\udfe1 Link (HLS): http://fire.netpl4y.com/get.php?username=35258318380&password=42108805190&type=m3u_plus&output=hls
+[NetPlay_-__FIRE_-_Teste_12H_S_Adultos] \ud83d\udfe2 Link (M3U): http://fire.netpl4y.com/get.php?username=42047291166&password=69766058408&type=m3u_plus&output=mpegts
+[NetPlay_-__FIRE_-_Teste_12H_S_Adultos] \ud83d\udfe1 Link (HLS): http://fire.netpl4y.com/get.php?username=42047291166&password=69766058408&type=m3u_plus&output=hls
+[NetPlay_-__FIRE_-_Teste_12H_S_Adultos] \ud83d\udfe2 Link (M3U): http://fire.netpl4y.com/get.php?username=42047291166&password=69766058408&type=m3u_plus&output=mpegts
+[NetPlay_-__FIRE_-_Teste_12H_S_Adultos] \ud83d\udfe1 Link (HLS): http://fire.netpl4y.com/get.php?username=42047291166&password=69766058408&type=m3u_plus&output=hls

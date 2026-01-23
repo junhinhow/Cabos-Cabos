@@ -262,3 +262,93 @@ Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
 [23/01/2026 07:27:14] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Failed to perform, c
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
 ------------------------------
+[23/01/2026 07:27:30] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 1HR || SEM ADULTOS 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/lze15q415K
+------------------------------
+[23/01/2026 07:27:30] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 1HR || COMPLETO 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/bQELoQ4Wgr
+------------------------------
+[23/01/2026 07:27:30] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 3HRS || COMPLETO 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/XKjLMoxW04
+------------------------------
+[23/01/2026 07:27:32] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 3HRS || SEM ADULTOS 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/we6Wn781K8
+------------------------------
+[23/01/2026 07:27:54] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 6HRS || COMPLETO 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/x2YD03kLQP
+------------------------------
+[23/01/2026 07:27:55] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 6HRS || SEM ADULTOS 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/boQ1Y89WON
+------------------------------
+[23/01/2026 07:27:55] 🌍 GLOBAL || IPTV 2 🤍 - 🤍 TESTE 1HR || COMPLETO 🤍 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/Yxl1jAaWMj
+------------------------------
+[23/01/2026 07:27:55] 🌍 GLOBAL || IPTV 2 🤍 - 🤍 TESTE 3HRS || SEM ADULTOS 🤍 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/kRXDgMO1ex
+------------------------------
+[23/01/2026 07:27:55] 🌍 GLOBAL || IPTV 2 🤍 - 🤍 TESTE 1HR || SEM ADULTOS 🤍 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/RYAWREkDjl
+------------------------------
+[23/01/2026 07:27:55] 🌍 GLOBAL || IPTV 2 🤍 - 🤍 TESTE 3HRS || COMPLETO 🤍 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/rdqLk5QWAE
+------------------------------
+[23/01/2026 07:28:12] 🌍 GLOBAL || IPTV 2 🤍 - 🤍 TESTE 6HRS || COMPLETO 🤍 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/ryJDzVzDge
+------------------------------
+[23/01/2026 07:28:12] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 1HR || COMPLETO 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/PkaL4k51gr
+------------------------------
+[23/01/2026 07:28:12] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 1HR || SEM ADULTOS 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/Kr6LJ6jLv9
+------------------------------
+[23/01/2026 07:28:13] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 3HRS || COMPLETO 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/zpKDNX61Xl
+------------------------------
+[23/01/2026 07:28:35] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 3HRS || SEM ADULTOS 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/Yxl1jlaDMj
+------------------------------
+[23/01/2026 07:28:36] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 6HRS || COMPLETO 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/nVrW8eq1Ka
+------------------------------
+[23/01/2026 07:28:36] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 1HR || SEM ADULTOS 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/z2BDv9oLrk
+------------------------------
+[23/01/2026 07:28:36] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 1HR || COMPLETO 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/kRXDgKODex
+------------------------------
+[23/01/2026 07:28:37] 🌍 GLOBAL || IPTV 3 💚 - 💚 TESTE 6HRS || SEM ADULTOS 💚 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/b8K1x0K1vG
+------------------------------
+[23/01/2026 07:28:37] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 3HRS || COMPLETO 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/o231qyz14q
+------------------------------
+[23/01/2026 07:28:38] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Gerar Testes | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/PkaL4k51gr
+------------------------------
+[23/01/2026 07:28:38] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Fazer Migração De Outro Servidor | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ryJDzPz1ge
+------------------------------
+[23/01/2026 07:28:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Migrar Entre Os Servidores Da Havok | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kRXDgKODex
+------------------------------
+[23/01/2026 07:28:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Comparações Dos Servidores | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/JOALyl714w
+------------------------------
+[23/01/2026 07:28:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Curso Iniciante IPTV - Tutoriais | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Ar0WZg1a7z
+------------------------------
+[23/01/2026 07:28:40] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Resolver Problemas | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rlKWO3lWzo
+------------------------------
+[23/01/2026 07:28:40] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Tenha Seu Próprio Aplicativo | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7loL7VM1XM
+------------------------------
+[23/01/2026 07:28:53] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 3HRS || SEM ADULTOS 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/0RvWGz8De3
+------------------------------
+[23/01/2026 07:28:53] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 6HRS || COMPLETO 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/8241K6OWmx
+------------------------------
+[23/01/2026 07:28:53] 🌍 GLOBAL || IPTV 4 💛 - 💛 TESTE 6HRS || SEM ADULTOS 💛 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/BKADdEXWlr
+------------------------------

@@ -58,3 +58,12 @@ Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
 [22/01/2026 21:05:39] 🏟️ New-Servers - AtivaBox - COMPLETO COM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/BV4D3rLaqZ
 ------------------------------
+[22/01/2026 21:06:05] 🏟️ New-Servers - AtivaBox - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rlKWO3Wzo7
+------------------------------
+[22/01/2026 21:06:05] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[22/01/2026 21:06:06] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------

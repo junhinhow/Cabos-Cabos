@@ -1312,5 +1312,41 @@
         "url": "http://c.lifetop.top:80/get.php?username=839585963&password=811563663&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-21 07:50:37"
+    },
+    {
+        "nome": "7_Odin_-_7seven_-_7seven_-18",
+        "url": "http://c.7sevenplay10.top/get.php?username=396746248&password=593222445&type=m3u_plus&output=ts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:33"
+    },
+    {
+        "nome": "7_Odin_-_7seven_-_7seven_+18",
+        "url": "http://c.7sevenplay10.top/get.php?username=996676995&password=857056777&type=m3u_plus&output=ts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:33"
+    },
+    {
+        "nome": "AMERICAN_-_NEW_-__New_Completo_SAdultos",
+        "url": "http://new.hrsp.space/get.php?username=51174041&password=90612891&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:33"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_CAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=49249382&password=76968251&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:48"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_SAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=63675441&password=50299138&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:48"
+    },
+    {
+        "nome": "AtivaBox_-__AtivaBox_-_Teste_Completo",
+        "url": "http://morfeus.site/get.php?username=166235913&password=767638443&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:07:48"
     }
 ]

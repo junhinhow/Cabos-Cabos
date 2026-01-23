@@ -712,3 +712,24 @@ Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/we6WnZwWK8
 [23/01/2026 07:37:08] 🎁 Servidor X - 🎁 OpenBox Sem Adultos | Failed to perform, c
 Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/x2YD0Jv1QP
 ------------------------------
+[23/01/2026 07:37:37] 📦 Servidor X - 🐂 P2Box - Touro BOX C/ Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/lze15A15KB
+------------------------------
+[23/01/2026 07:37:37] 📦 Servidor X - 📦 P2Box | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/nVrW8oDKaN
+------------------------------
+[23/01/2026 07:37:38] 📦 Servidor X - 🐂 P2Box - Touro BOX S/ Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/XKjLMRD04p
+------------------------------
+[23/01/2026 07:37:38] 📦 Servidor X - 📦 P2Box Sem Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/b8K1x6DvGN
+------------------------------
+[23/01/2026 07:37:39] 📺 SOCIAL MASTER - GOLD - TESTE COMPLETO S/ ADULTO | Failed to perform, c
+Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/8241Kg1mxd
+------------------------------
+[23/01/2026 07:37:39] 📺 SOCIAL MASTER - GOLD - TESTE COMPLETO C/ ADULTO | Failed to perform, c
+Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/0RvWGl1e3P
+------------------------------
+[23/01/2026 07:37:40] 📺 SOCIAL MASTER - HD - TESTE COMPLETO C/ ADULTO | Failed to perform, c
+Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/kmVLlB7WQw
+------------------------------

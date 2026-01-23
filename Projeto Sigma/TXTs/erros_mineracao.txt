@@ -742,3 +742,24 @@ Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/BV4D3rrLaq
 [23/01/2026 07:37:49] ▶️ 🔵SOCIAL MASTER - PLAY - TESTE COMPLETO S/ ADULTO | Failed to perform, c
 Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/rlKWOw3Wzo
 ------------------------------
+[23/01/2026 07:38:18] ⚪SOCIAL MASTER NEW - TESTE COMPLETO C/ ADULTO | Failed to perform, c
+Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/RYAWR2gWjl
+------------------------------
+[23/01/2026 07:38:18] ⚪SOCIAL MASTER NEW - TESTE COMPLETO S/ ADULTO | Failed to perform, c
+Link: https://socialmaster.sigma.st/api/chatbot/XKjLMll104/rdqLk4pDAE
+------------------------------
+[23/01/2026 07:38:19] ❄️ SUBZERO - 🔵 TESTE COMPLETO C/ ADULTOS 🔵 | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:38:19] ❄️ SUBZERO - 🔵 TESTE COMPLETO S/ ADULTOS 🔵 | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:38:20] ❄️ SUBZERO - FÊNIX - 〽️ TESTE COMPLETO C/ ADULTOS 〽️ | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/ANKWPKDPRq
+------------------------------
+[23/01/2026 07:38:20] ❄️ SUBZERO - FÊNIX - 〽️ TESTE COMPLETO S/ ADULTOS 〽️ | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/bOxLAQLZ7a
+------------------------------
+[23/01/2026 07:38:21] ❄️ SUBZERO - FÊNIX - 🛑 UNITV COMPLETO C/ADULTOS 🛑 | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/XYgD9JWr6V
+------------------------------

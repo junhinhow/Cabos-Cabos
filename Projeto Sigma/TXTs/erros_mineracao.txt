@@ -814,3 +814,27 @@ Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/VpKDaJWRAa
 [23/01/2026 07:39:41] 📺 VelozNet - 🇧🇷 VTVBR - Completo Sem Adultos | Failed to perform, c
 Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/EMeWepDnN9
 ------------------------------
+[23/01/2026 07:39:43] 📺 WPM - LION - 🦁 TESTE COMPLETO C/ ADULTOS 🦁 | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/ZVdWXjL3qk
+------------------------------
+[23/01/2026 07:39:43] 📺 WPM - LION - 🦁 TESTE COMPLETO S/ ADULTOS 🦁 | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/0RvWGl1e3P
+------------------------------
+[23/01/2026 07:39:43] 📺 WPM - SERVER - ⚡ TESTE COMPLETO C/ ADULTOS ⚡ | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/ANKWPKDPRq
+------------------------------
+[23/01/2026 07:39:44] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------
+[23/01/2026 07:39:44] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+------------------------------
+[23/01/2026 07:39:50] 📺 WPM - SERVER - ⚡ TESTE COMPLETO S/ ADULTOS ⚡ | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/bOxLAQLZ7a
+------------------------------
+[23/01/2026 07:39:52] 📺 WPM - TIGER - 🐯 TESTE COMPLETO C/ ADULTOS 🐯 | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/nVrW8oDKaN
+------------------------------
+[23/01/2026 07:39:52] 📺 WPM - TIGER - 🐯 TESTE COMPLETO S/ ADULTOS 🐯 | Failed to perform, c
+Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/b8K1x6DvGN
+------------------------------

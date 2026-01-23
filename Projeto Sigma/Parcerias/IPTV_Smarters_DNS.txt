@@ -36,3 +36,5 @@
 [AtivaBox_-__NetTurbo_-_Teste_S_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
 [BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
 [BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php
+[BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS] http://webtv.iptvsmarters.com/switchuser.php

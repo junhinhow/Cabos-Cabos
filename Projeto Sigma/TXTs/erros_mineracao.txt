@@ -37,3 +37,24 @@ Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rlKWO3lWzo
 [22/01/2026 21:05:25] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Tenha Seu Próprio Aplicativo | Failed to perform, c
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7loL7VM1XM
 ------------------------------
+[22/01/2026 21:05:32] 👑 Lider - Z - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+------------------------------
+[22/01/2026 21:05:32] 👑 Lider - Z - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
+------------------------------
+[22/01/2026 21:05:33] 🌐 NetPlay - 🦉 ATENA - Teste S/ Adulto 12 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/qK4WrzYWeN
+------------------------------
+[22/01/2026 21:05:33] 🌐 NetPlay - 🦉 ATENA - Teste C/ Adulto 12 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/bOxLAVoDZ7
+------------------------------
+[22/01/2026 21:05:36] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[22/01/2026 21:05:36] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------
+[22/01/2026 21:05:39] 🏟️ New-Servers - AtivaBox - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/BV4D3rLaqZ
+------------------------------

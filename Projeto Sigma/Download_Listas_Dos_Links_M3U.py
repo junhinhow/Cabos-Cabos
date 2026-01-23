@@ -34,7 +34,7 @@ ARQUIVO_ERROS = os.path.join(PASTA_TXTS, "erros_download.txt")
 ARQUIVO_FALHAS_JSON = os.path.join(PASTA_TXTS, "falhas_download.json")
 ARQUIVO_LINKS_APKS = os.path.join(PASTA_TXTS, "Links_APKs.txt")
 
-MAX_SIMULTANEOS = 3      
+MAX_SIMULTANEOS = 5      
 CACHE_VALIDADE = 43200   
 TIMEOUT_CONEXAO = 15     
 

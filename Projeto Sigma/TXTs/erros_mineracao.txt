@@ -88,3 +88,24 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
 [22/01/2026 21:15:25] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | Failed to perform, c
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
 ------------------------------
+[22/01/2026 21:15:47] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
+------------------------------
+[22/01/2026 21:15:48] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
+------------------------------
+[22/01/2026 21:15:58] 📺 TOP X - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/kmVLl71QwB
+------------------------------
+[22/01/2026 21:15:58] 📺 TOP X - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
+------------------------------
+[22/01/2026 21:15:58] 🔝 Top Z - ✅ Completo Com Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[22/01/2026 21:15:58] 🔝 Top Z - ✅ Completo Sem Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[22/01/2026 21:15:58] 🔝 Top Z - 📺 TV Express +18 | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------

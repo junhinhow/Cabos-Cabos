@@ -106,3 +106,24 @@ Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/bOxLAVyDZ7
 [23/01/2026 07:43:26] 🎬 CineFlix - 🌊 WAVE - 💜 ASSIST OU 🧡 PLAYSIM | Failed to perform, c
 Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/gQBWQBz1GR
 ------------------------------
+[23/01/2026 07:43:28] 🎬 CineFlix - 🌊 WAVE - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/boQ1YE91ON
+------------------------------
+[23/01/2026 07:43:39] 🎬 CineFlix - 🌊 WAVE - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/B0VDVzODK3
+------------------------------
+[23/01/2026 07:43:40] 🎬 CineFlix - 1️⃣ NET-ONE - 🔴 UNITV | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/qK4Wrz9WeN
+------------------------------
+[23/01/2026 07:43:40] 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/Ar0WZJgWa7
+------------------------------
+[23/01/2026 07:43:40] 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV C/ Internacionais +18 | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/x2YD0EkWQP
+------------------------------
+[23/01/2026 07:43:40] 🎬 CineFlix - 1️⃣ NET-ONE - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/bQELoy0Wgr
+------------------------------
+[23/01/2026 07:43:40] 🍿 CineMania - ⚡ Completo Com Adultos | Failed to perform, c
+Link: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/XYgD9PdLr6
+------------------------------

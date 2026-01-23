@@ -638,26 +638,26 @@
     {
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://infra10.top/get.php?username=889267721741&password=852184238561&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:51"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:24"
     },
     {
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://infra10.top/get.php?username=393593883583&password=583223603774&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:51"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:24"
     },
     {
         "nome": "CYBER_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://rynox.top/get.php?username=716966580554&password=467457473168&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:52"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:24"
     },
     {
         "nome": "CYBER_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://rynox.top/get.php?username=149331771918&password=751398457981&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:52"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:24"
     },
     {
         "nome": "CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO",
@@ -1402,5 +1402,41 @@
         "url": "http://blastplaytv.shop/get.php?username=533726&password=562648&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-22 21:09:54"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=58664442&password=13295875&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:08"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18",
+        "url": "http://net.cnfl.xyz/get.php?username=91645297&password=83116608&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:08"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=45142444&password=21019001&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:09"
+    },
+    {
+        "nome": "CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos",
+        "url": "http://x28.acxll.shop/get.php?username=99819515&password=69099754&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:09"
+    },
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=57236219&password=68067614&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:09"
+    },
+    {
+        "nome": "CineMania_-__Completo_Com_Adultos",
+        "url": "http://vtvbr.com:80/get.php?username=7527204933&password=1412664169&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:23"
     }
 ]

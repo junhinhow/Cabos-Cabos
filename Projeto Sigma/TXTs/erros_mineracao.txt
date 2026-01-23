@@ -1,81 +1,87 @@
-[21/01/2026 08:29:08] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | HTTP 405
+[22/01/2026 20:49:29] 🦅 AMERICAN - SUPER - ♾️ American Super S/Adultos | Failed to perform, c
+Link: https://american.x22lgy.site/api/chatbot/80m1EM51lE/rdqLkQWAE9
+------------------------------
+[22/01/2026 20:49:29] 🦅 AMERICAN - SUPER - 💙 App S>A Pro Play Story | Failed to perform, c
+Link: https://american.x22lgy.site/api/chatbot/80m1EM51lE/7loL7aMWXM
+------------------------------
+[22/01/2026 20:49:29] 🦅 AMERICAN - SUPER - ♾️ American Super C/Adultos | Failed to perform, c
+Link: https://american.x22lgy.site/api/chatbot/80m1EM51lE/RYAWRk1jlx
+------------------------------
+[22/01/2026 20:49:32] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | Failed to perform, c
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
 ------------------------------
-[21/01/2026 08:29:08] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
-------------------------------
-[21/01/2026 08:29:08] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | HTTP 405
+[22/01/2026 20:49:32] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Failed to perform, c
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
 ------------------------------
-[21/01/2026 08:29:14] 👑 Lider - Z - COMPLETO COM ADULTOS | HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+[22/01/2026 20:49:32] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
 ------------------------------
-[21/01/2026 08:29:14] 👑 Lider - Z - COMPLETO SEM ADULTOS | HTTP 405
+[22/01/2026 20:49:36] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Fazer Migração De Outro Servidor | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ryJDzPz1ge
+------------------------------
+[22/01/2026 20:49:36] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Gerar Testes | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/PkaL4k51gr
+------------------------------
+[22/01/2026 20:49:36] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Migrar Entre Os Servidores Da Havok | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kRXDgKODex
+------------------------------
+[22/01/2026 20:49:36] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Comparações Dos Servidores | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/JOALyl714w
+------------------------------
+[22/01/2026 20:50:10] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Curso Iniciante IPTV - Tutoriais | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Ar0WZg1a7z
+------------------------------
+[22/01/2026 20:50:10] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Resolver Problemas | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rlKWO3lWzo
+------------------------------
+[22/01/2026 20:50:11] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Tenha Seu Próprio Aplicativo | Failed to perform, c
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7loL7VM1XM
+------------------------------
+[22/01/2026 20:50:18] 👑 Lider - Z - COMPLETO SEM ADULTOS | Failed to perform, c
 Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
 ------------------------------
-[21/01/2026 08:29:17] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | HTTP 405
+[22/01/2026 20:50:18] 👑 Lider - Z - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+------------------------------
+[22/01/2026 20:50:19] 🌐 NetPlay - 🦉 ATENA - Teste C/ Adulto 12 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/bOxLAVoDZ7
+------------------------------
+[22/01/2026 20:50:19] 🌐 NetPlay - 🦉 ATENA - Teste S/ Adulto 12 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/qK4WrzYWeN
+------------------------------
+[22/01/2026 20:50:22] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Failed to perform, c
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
 ------------------------------
-[21/01/2026 08:29:17] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | HTTP 405
+[22/01/2026 20:50:22] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Failed to perform, c
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
 ------------------------------
-[21/01/2026 08:29:18] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
+[22/01/2026 20:50:25] 🏟️ New-Servers - AtivaBox - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/BV4D3rLaqZ
 ------------------------------
-[21/01/2026 08:29:18] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+[22/01/2026 20:50:51] 🏟️ New-Servers - AtivaBox - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rlKWO3Wzo7
 ------------------------------
-[21/01/2026 08:29:18] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | HTTP 405
+[22/01/2026 20:50:51] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
 ------------------------------
-[21/01/2026 08:29:18] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | HTTP 405
+[22/01/2026 20:50:52] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
 ------------------------------
-[21/01/2026 08:29:21] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | HTTP 405
-Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
-------------------------------
-[21/01/2026 08:29:21] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | HTTP 405
-Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
-------------------------------
-[21/01/2026 08:29:22] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | HTTP 405
-Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
-------------------------------
-[21/01/2026 08:29:22] 🔰 HAVOK TV - FÊNIX - ☔ [Teste 04h] - Fênix | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/bQELoMKWgr
-------------------------------
-[21/01/2026 08:29:25] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
-------------------------------
-[21/01/2026 08:29:26] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
-------------------------------
-[21/01/2026 08:29:28] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
-------------------------------
-[21/01/2026 08:29:28] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | HTTP 405
+[22/01/2026 20:50:59] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
 ------------------------------
-[21/01/2026 08:29:28] 🔝 Top Z - ✅ Completo Com Adultos | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+[22/01/2026 20:50:59] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
 ------------------------------
-[21/01/2026 08:29:28] 🔝 Top Z - 📺 TV Express +18 | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+[22/01/2026 20:51:00] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
 ------------------------------
-[21/01/2026 08:29:28] 🔝 Top Z - ✅ Completo Sem Adultos | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+[22/01/2026 20:51:00] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
 ------------------------------
-[21/01/2026 08:29:28] 🔝 Top Z - 📺 TV Express -18 | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+[22/01/2026 20:51:03] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
 ------------------------------
-[21/01/2026 08:29:28] 📺 TOP X - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
-------------------------------
-[21/01/2026 08:29:28] 📺 TOP X - COMPLETO COM ADULTOS | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/kmVLl71QwB
-------------------------------
-[21/01/2026 08:29:30] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | HTTP 405
-Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
-------------------------------
-[21/01/2026 08:29:31] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | HTTP 405
-Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+[22/01/2026 20:51:03] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
 ------------------------------

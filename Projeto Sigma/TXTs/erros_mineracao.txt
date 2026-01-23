@@ -16,3 +16,63 @@ Link: https://alphamaster.sigma.st/api/chatbot/bQELodEDgr/XYgD9JWr6V
 [23/01/2026 07:41:23] 🐺 Alpha Master - 📋 Teste Completo C/ Adultos | Failed to perform, c
 Link: https://alphamaster.sigma.st/api/chatbot/bQELodEDgr/BV4D3rLaqZ
 ------------------------------
+[23/01/2026 07:41:25] 🏟️ AtivaBox - 🏟️ AtivaBox - Teste Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/rdqLkQWAE9
+------------------------------
+[23/01/2026 07:41:25] 🏟️ AtivaBox - 🧞 Aladdin's - Teste S/ Adultos | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/rlKWO6lDzo
+------------------------------
+[23/01/2026 07:41:25] 🏟️ AtivaBox - 🧞 Aladdin's - Teste Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/BV4D3V5Laq
+------------------------------
+[23/01/2026 07:41:26] 🏟️ AtivaBox - 🏟️ AtivaBox - Teste S/ Adultos | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/RYAWRk1jlx
+------------------------------
+[23/01/2026 07:41:37] 🏟️ AtivaBox - 🏗️ Infrax - ASSIST+ Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/o231q79D4q
+------------------------------
+[23/01/2026 07:41:37] 🏟️ AtivaBox - 🏗️ Infrax - Teste S/ Adultos | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/kmVLlEQDQw
+------------------------------
+[23/01/2026 07:41:37] 🏟️ AtivaBox - 🏗️ Infrax - Teste Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/zpKDNyNLXl
+------------------------------
+[23/01/2026 07:42:04] 🏟️ AtivaBox - 🎯 Lite PLAY - Teste Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/0RvWGvlDe3
+------------------------------
+[23/01/2026 07:42:04] 🚀 AtivaBox - 🚀 NetTurbo - Teste Completo | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/EMeWepDnN9
+------------------------------
+[23/01/2026 07:42:04] 🏟️ AtivaBox - 🎯 Lite PLAY - Teste S/ Adultos | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/8241KEgDmx
+------------------------------
+[23/01/2026 07:42:06] 🚀 AtivaBox - 🚀 NetTurbo - Teste S/ Adultos | Failed to perform, c
+Link: https://ativabox.sigma.st/api/chatbot/V01pRrKDdO/ANKWPKDPRq
+------------------------------
+[23/01/2026 07:42:17] 🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/0RvWGl1e3P
+------------------------------
+[23/01/2026 07:42:18] 🎬 CineFlix - 🇧🇷 Cine BR - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ZVdWXjL3qk
+------------------------------
+[23/01/2026 07:42:18] 🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/VpKDaPJLRA
+------------------------------
+[23/01/2026 07:42:18] 🎬 CineFlix - 🔱 Cine Z - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ayb1BQxWPR
+------------------------------
+[23/01/2026 07:42:18] 🎬 CineFlix - 🟡 Cine RAIO - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/EMeWewpLnN
+------------------------------
+[23/01/2026 07:42:18] 🎬 CineFlix - 🔱 Cine Z - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/Kr6LJ6jLv9
+------------------------------
+[23/01/2026 07:42:45] 🎬 CineFlix - 🟣 RYZEN - 💜 ASSIST OU 🧡 PLAYSIM | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/Kr6LJPEWv9
+------------------------------
+[23/01/2026 07:42:45] 🎬 CineFlix - 🟣 RYZEN - 🚨 Brasil IPTV E FlexPlay | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ayb1BEEWPR
+------------------------------
+[23/01/2026 07:42:45] 🎬 CineFlix - 🟣 RYZEN - Teste IPTV C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/nVrW8oDKaN
+------------------------------

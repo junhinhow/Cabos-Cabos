@@ -703,3 +703,12 @@ Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/rlKWO3Wzo7
 [23/01/2026 07:36:59] 👥 Servidor X - 👥 DUO Teste - S/ Adulto | Failed to perform, c
 Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/BV4D3rLaqZ
 ------------------------------
+[23/01/2026 07:37:06] 🚀 Servidor X - 🚀 NetTurbo | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/ayb1BQxWPR
+------------------------------
+[23/01/2026 07:37:08] 🎁 Servidor X - 🎁 OpenBox | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/we6WnZwWK8
+------------------------------
+[23/01/2026 07:37:08] 🎁 Servidor X - 🎁 OpenBox Sem Adultos | Failed to perform, c
+Link: https://servidorx.sigma.st/api/chatbot/NKWPObyDPR/x2YD0Jv1QP
+------------------------------

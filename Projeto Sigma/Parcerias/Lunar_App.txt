@@ -1,0 +1,16 @@
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=59276450884&password=43812539233&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=59276450884&password=43812539233&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=59276450884&password=43812539233&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=59276450884&password=43812539233&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=74030871881&password=49196738334&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=74030871881&password=49196738334&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=74030871881&password=49196738334&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_C_Adulto_2_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=74030871881&password=49196738334&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=66882113845&password=29607906350&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=66882113845&password=29607906350&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=66882113845&password=29607906350&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=66882113845&password=29607906350&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=32531222355&password=62841411987&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=32531222355&password=62841411987&type=m3u_plus&output=hls
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas] \ud83d\udfe2 Link (M3U): http://lunar.netpl4y.com/get.php?username=32531222355&password=62841411987&type=m3u_plus&output=mpegts
+[NetPlay_-__LUNAR_-_Teste_S_Adulto_2_Horas] \ud83d\udfe1 Link (HLS): http://lunar.netpl4y.com/get.php?username=32531222355&password=62841411987&type=m3u_plus&output=hls

@@ -1317,72 +1317,90 @@
         "nome": "7_Odin_-_7seven_-_7seven_-18",
         "url": "http://c.7sevenplay10.top/get.php?username=396746248&password=593222445&type=m3u_plus&output=ts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:33"
+        "data": "2026-01-22 21:09:23"
     },
     {
         "nome": "7_Odin_-_7seven_-_7seven_+18",
         "url": "http://c.7sevenplay10.top/get.php?username=996676995&password=857056777&type=m3u_plus&output=ts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:33"
+        "data": "2026-01-22 21:09:24"
     },
     {
         "nome": "AMERICAN_-_NEW_-__New_Completo_SAdultos",
         "url": "http://new.hrsp.space/get.php?username=51174041&password=90612891&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:33"
+        "data": "2026-01-22 21:09:24"
     },
     {
         "nome": "AMERICAN_-_SUPER_-__American_Super_CAdultos",
         "url": "http://plus.cnfl.xyz/get.php?username=49249382&password=76968251&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:48"
+        "data": "2026-01-22 21:09:24"
     },
     {
         "nome": "AMERICAN_-_SUPER_-__American_Super_SAdultos",
         "url": "http://plus.cnfl.xyz/get.php?username=63675441&password=50299138&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:48"
+        "data": "2026-01-22 21:09:24"
     },
     {
         "nome": "AtivaBox_-__AtivaBox_-_Teste_Completo",
         "url": "http://morfeus.site/get.php?username=166235913&password=767638443&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:07:48"
+        "data": "2026-01-22 21:09:38"
     },
     {
         "nome": "AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos",
         "url": "http://lite.morfeus.site/get.php?username=682565660&password=698860452&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:03"
+        "data": "2026-01-22 21:09:39"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=659559573&password=580894442&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:03"
+        "data": "2026-01-22 21:09:39"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=218357615&password=941033254&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:03"
+        "data": "2026-01-22 21:09:38"
     },
     {
         "nome": "BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "https://srv3.site/get.php?username=270272&password=227469&type=m3u_plus",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:18"
+        "data": "2026-01-22 21:09:39"
     },
     {
         "nome": "BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "https://srv3.site/get.php?username=929462&password=715681&type=m3u_plus",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:18"
+        "data": "2026-01-22 21:09:53"
     },
     {
         "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_C_ADULTO",
         "url": "https://galetolegal.shop/get.php?username=156091&password=582603&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-22 21:08:18"
+        "data": "2026-01-22 21:09:54"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_SADULTO",
+        "url": "https://galetolegal.shop/get.php?username=276357&password=328430&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:09:53"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://blastplaytv.shop/get.php?username=730728&password=766889&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:09:54"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://blastplaytv.shop/get.php?username=533726&password=562648&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:09:54"
     }
 ]

@@ -127,3 +127,15 @@ Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/bQELoy0Wgr
 [23/01/2026 07:43:40] 🍿 CineMania - ⚡ Completo Com Adultos | Failed to perform, c
 Link: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/XYgD9PdLr6
 ------------------------------
+[23/01/2026 07:44:07] 🍿 CineMania - ⚡ Completo Sem Adultos | Failed to perform, c
+Link: https://maniagp.sigma.st/api/chatbot/MeWe038DnN/ayb1BOPLPR
+------------------------------
+[23/01/2026 07:44:10] 🔱 EVOLUTION - BOX - ✅ Teste Completo C/Adultos | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:44:10] 🔱 EVOLUTION - BOX - ✅ Teste Completo S/Adultos | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:44:10] 🔱 EVOLUTION - EVO PRIME - 👽 Teste +18 | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/Kr6LJ6jLv9
+------------------------------

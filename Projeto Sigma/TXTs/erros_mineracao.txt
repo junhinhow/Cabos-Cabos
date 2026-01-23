@@ -112,3 +112,9 @@ Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
 [22/01/2026 20:51:44] 🔝 Top Z - 📺 TV Express -18 | Failed to perform, c
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
 ------------------------------
+[22/01/2026 20:51:50] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Failed to perform, c
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+------------------------------
+[22/01/2026 20:51:50] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Failed to perform, c
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------

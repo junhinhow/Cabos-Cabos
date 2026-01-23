@@ -139,3 +139,21 @@ Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/rlKWO3Wzo7
 [23/01/2026 07:44:10] 🔱 EVOLUTION - EVO PRIME - 👽 Teste +18 | Failed to perform, c
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/Kr6LJ6jLv9
 ------------------------------
+[23/01/2026 07:44:20] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
+------------------------------
+[23/01/2026 07:44:21] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
+------------------------------
+[23/01/2026 07:44:21] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | Failed to perform, c
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
+------------------------------
+[23/01/2026 07:44:21] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 1HR || SEM ADULTOS 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/lze15q415K
+------------------------------
+[23/01/2026 07:44:21] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 1HR || COMPLETO 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/bQELoQ4Wgr
+------------------------------
+[23/01/2026 07:44:21] 🌍 GLOBAL || IPTV 1 💜 - 💜 TESTE 3HRS || COMPLETO 💜 | Failed to perform, c
+Link: https://globalplay.sigma.st/api/chatbot/K4WrbO3WeN/XKjLMoxW04
+------------------------------

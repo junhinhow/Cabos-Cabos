@@ -198,116 +198,159 @@ def processar_mudancas(arquivos):
 
     count_processados = 0
     count_deletados = 0
+    erros = []
 
     # Iterar sobre cada grupo (Servidor/Lista)
-    # A grande vantagem aqui: Carregamos e salvamos apenas UM DB por vez.
     for nome_base, lista_arquivos in grupos_listas.items():
-        
-        # 1. Carrega o histórico APENAS deste grupo
-        db_grupo = carregar_db_grupo(nome_base)
-        
-        # Se não existir, cria estrutura nova
-        if db_grupo is None:
-            db_grupo = {
-                "processed_files": [],
-                "current_items": [], 
-                "first_seen": {}     
-            }
-
-        # Ordena arquivos por data
-        lista_arquivos.sort(key=extrair_data_nome)
-        
-        # Prepara arquivo de log
-        nome_log_seguro = sanitizar_nome(nome_base)
-        arquivo_log_mudancas = os.path.join(PASTA_ATUALIZACOES, f"LOG_{nome_log_seguro}.txt")
-
-        arquivo_anterior_para_deletar = None
-        mudanca_no_db = False # Flag para saber se precisamos salvar no final
-
-        for i, arquivo in enumerate(lista_arquivos):
-            caminho_full = os.path.join(PASTA_ALVO, arquivo)
+        try:
+            # 1. Carrega o histórico APENAS deste grupo
+            db_grupo = carregar_db_grupo(nome_base)
             
-            # Se já processamos este arquivo, pulamos a análise, mas marcamos como 'anterior' para possível deleção
-            if arquivo in db_grupo["processed_files"]:
-                if i < len(lista_arquivos) - 1:
-                    arquivo_anterior_para_deletar = caminho_full
-                continue 
+            # Se não existir, cria estrutura nova
+            if db_grupo is None:
+                db_grupo = {
+                    "processed_files": [],
+                    "current_items": [], 
+                    "first_seen": {},
+                    "erros": []
+                }
 
-            print(f"   🔎 Analisando: {arquivo}...")
-            data_arq_obj = extrair_data_nome(arquivo)
-            data_str = data_arq_obj.strftime("%d/%m/%Y %H:%M") if data_arq_obj != datetime.datetime.min else "Data Desconhecida"
-
-            novos_itens_set = extrair_itens_m3u(caminho_full)
-            itens_anteriores = set(db_grupo["current_items"])
-
-            adicionados = novos_itens_set - itens_anteriores
-            removidos = itens_anteriores - novos_itens_set
+            # Ordena arquivos por data (mais antigo primeiro)
+            lista_arquivos_ordenada = sorted(lista_arquivos, key=extrair_data_nome)
             
-            # Atualiza datas de 'primeira vez visto'
-            for item in adicionados:
-                if item not in db_grupo["first_seen"]:
-                    db_grupo["first_seen"][item] = data_str
+            # Separa arquivos já processados dos não processados
+            arquivos_ja_processados = []
+            arquivos_para_processar = []
             
-            eh_primeira_carga = len(db_grupo["processed_files"]) == 0
-            
-            # Escreve no Log
-            with open(arquivo_log_mudancas, 'a', encoding='utf-8') as log:
-                log.write(f"\n{'='*60}\n")
-                log.write(f"📁 ARQUIVO: {arquivo}\n")
-                log.write(f"📅 DATA: {data_str}\n")
-                log.write(f"{'-'*60}\n")
-
-                if eh_primeira_carga:
-                    log.write(f"ℹ️ BASE DE DADOS INICIADA: {len(novos_itens_set)} itens.\n")
+            for arq in lista_arquivos_ordenada:
+                if arq in db_grupo["processed_files"]:
+                    arquivos_ja_processados.append(arq)
                 else:
-                    if not adicionados and not removidos:
-                        log.write("✅ SEM MUDANÇAS NA GRADE.\n")
-                    if adicionados:
-                        log.write(f"🟢 ENTRARAM ({len(adicionados)}):\n")
-                        for item in sorted(list(adicionados)):
-                            data_visto = db_grupo["first_seen"].get(item, "Hoje")
-                            log.write(f"   + {item}  | (1ª vez: {data_visto})\n")
-                    if removidos:
-                        log.write(f"\n🔴 SAÍRAM ({len(removidos)}):\n")
-                        for item in sorted(list(removidos)):
-                            data_visto = db_grupo["first_seen"].get(item, "N/A")
-                            log.write(f"   - {item}  | (Visto em: {data_visto})\n")
+                    arquivos_para_processar.append(arq)
 
-            # Atualiza dados na memória
-            db_grupo["current_items"] = list(novos_itens_set)
-            db_grupo["processed_files"].append(arquivo)
-            count_processados += 1
-            mudanca_no_db = True
+            # Prepara arquivo de log
+            nome_log_seguro = sanitizar_nome(nome_base)
+            arquivo_log_mudancas = os.path.join(PASTA_ATUALIZACOES, f"LOG_{nome_log_seguro}.txt")
+            mudanca_no_db = False
 
-            # Lógica de Limpeza: Deletar arquivo anterior se este for mais novo
-            if i > 0:
-                arquivo_velho_nome = lista_arquivos[i-1]
-                caminho_velho = os.path.join(PASTA_ALVO, arquivo_velho_nome)
-                if os.path.exists(caminho_velho):
+            # Processa primeiro os arquivos já processados (para manter o histórico)
+            for arquivo in arquivos_ja_processados:
+                caminho_full = os.path.join(PASTA_ALVO, arquivo)
+                if not os.path.exists(caminho_full):
+                    db_grupo["processed_files"].remove(arquivo)
+                    mudanca_no_db = True
+
+            # Processa os arquivos novos
+            for arquivo in arquivos_para_processar:
+                caminho_full = os.path.join(PASTA_ALVO, arquivo)
+                
+                # Verifica se o arquivo existe e tem conteúdo
+                if not os.path.exists(caminho_full):
+                    erro_msg = f"Arquivo não encontrado: {arquivo}"
+                    print(f"   ⚠️ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+                    
+                if os.path.getsize(caminho_full) == 0:
+                    erro_msg = f"Arquivo vazio: {arquivo}"
+                    print(f"   ⚠️ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+
+                print(f"   🔎 Analisando: {arquivo}...")
+                data_arq_obj = extrair_data_nome(arquivo)
+                data_str = data_arq_obj.strftime("%d/%m/%Y %H:%M") if data_arq_obj != datetime.datetime.min else "Data Desconhecida"
+
+                try:
+                    novos_itens_set = extrair_itens_m3u(caminho_full)
+                    if not novos_itens_set:
+                        raise ValueError("Nenhum item válido encontrado no arquivo")
+                except Exception as e:
+                    erro_msg = f"Erro ao processar {arquivo}: {str(e)}"
+                    print(f"   ❌ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": str(e), "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+
+                itens_anteriores = set(db_grupo["current_items"])
+
+                adicionados = novos_itens_set - itens_anteriores
+                removidos = itens_anteriores - novos_itens_set
+                
+                # Atualiza datas de 'primeira vez visto'
+                for item in adicionados:
+                    if item not in db_grupo["first_seen"]:
+                        db_grupo["first_seen"][item] = data_str
+                
+                eh_primeira_carga = len(db_grupo["processed_files"]) == 0
+                
+                # Escreve no Log
+                with open(arquivo_log_mudancas, 'a', encoding='utf-8') as log:
+                    log.write(f"\n{'='*60}\n")
+                    log.write(f"📁 ARQUIVO: {arquivo}\n")
+                    log.write(f"📅 DATA: {data_str}\n")
+                    log.write(f"{'-'*60}\n")
+
+                    if eh_primeira_carga:
+                        log.write(f"ℹ️ BASE DE DADOS INICIADA: {len(novos_itens_set)} itens.\n")
+                    else:
+                        if not adicionados and not removidos:
+                            log.write("✅ SEM MUDANÇAS NA GRADE.\n")
+                        if adicionados:
+                            log.write(f"🟢 ENTRARAM ({len(adicionados)}):\n")
+                            for item in sorted(list(adicionados)):
+                                data_visto = db_grupo["first_seen"].get(item, "Hoje")
+                                log.write(f"   + {item}  | (1ª vez: {data_visto})\n")
+                        if removidos:
+                            log.write(f"\n🔴 SAÍRAM ({len(removidos)}):\n")
+                            for item in sorted(list(removidos)):
+                                data_visto = db_grupo["first_seen"].get(item, "N/A")
+                                log.write(f"   - {item}  | (Visto em: {data_visto})\n")
+
+                # Atualiza dados na memória
+                db_grupo["current_items"] = list(novos_itens_set)
+                db_grupo["processed_files"].append(arquivo)
+                count_processados += 1
+                mudanca_no_db = True
+
+            # Limpeza de arquivos antigos (mantém apenas o mais recente)
+            if len(lista_arquivos_ordenada) > 1:
+                # Mantém apenas o arquivo mais recente
+                arquivo_mais_recente = lista_arquivos_ordenada[-1]
+                for arquivo in lista_arquivos_ordenada[:-1]:  # Todos exceto o mais recente
+                    caminho_arquivo = os.path.join(PASTA_ALVO, arquivo)
                     try:
-                        os.remove(caminho_velho)
-                        print(f"      🗑️  Versão antiga deletada: {arquivo_velho_nome}")
-                        count_deletados += 1
+                        if os.path.exists(caminho_arquivo):
+                            os.remove(caminho_arquivo)
+                            print(f"      🗑️  Versão antiga removida: {arquivo}")
+                            count_deletados += 1
                     except Exception as e:
-                        print(f"      ⚠️  Não foi possível deletar {arquivo_velho_nome}: {e}")
-            
-            # Limpeza de cache pendente
-            if arquivo_anterior_para_deletar and os.path.exists(arquivo_anterior_para_deletar) and arquivo_anterior_para_deletar != caminho_full:
-                 try:
-                    os.remove(arquivo_anterior_para_deletar)
-                    print(f"      🗑️  Versão antiga (cache) deletada: {os.path.basename(arquivo_anterior_para_deletar)}")
-                    count_deletados += 1
-                    arquivo_anterior_para_deletar = None
-                 except: pass
-        
-        # IMPORTANTE: Salva o DB deste grupo apenas DEPOIS de processar todos os arquivos dele
-        if mudanca_no_db:
-            salvar_db_grupo(db_grupo, nome_base)
-            # Ao sair do loop e voltar para o início, o 'db_grupo' sai da memória (Garbage Collection)
+                        erro_msg = f"Erro ao remover arquivo antigo {arquivo}: {str(e)}"
+                        print(f"   ⚠️ {erro_msg}")
+                        db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                        mudanca_no_db = True
 
-    print(f"\n✅ Concluído! {count_processados} atualizados, {count_deletados} arquivos antigos removidos.")
+            # Salva as alterações no banco de dados
+            if mudanca_no_db:
+                salvar_db_grupo(db_grupo, nome_base)
+
+        except Exception as e:
+            erro_msg = f"Erro ao processar o grupo {nome_base}: {str(e)}"
+            print(f"   ❌ {erro_msg}")
+            erros.append(erro_msg)
+
+    # Resumo final
+    print(f"\n✅ Concluído! {count_processados} arquivos processados, {count_deletados} arquivos antigos removidos.")
     print(f"📂 Logs em: {PASTA_ATUALIZACOES}")
     print(f"📂 Bancos de dados otimizados em: {PASTA_DBS}")
+    
+    if erros:
+        print("\n⚠️  Foram encontrados os seguintes erros durante o processamento:")
+        for erro in erros:
+            print(f"   - {erro}")
+        print("\nVerifique os logs individuais para mais detalhes.")
 
 # ==============================================================================
 # MAIN

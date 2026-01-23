@@ -97,3 +97,12 @@ Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/80m1Eev1lE
 [23/01/2026 07:42:59] 🎬 CineFlix - 🔋 VOLTZ - Teste C/ Adultos | Failed to perform, c
 Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/boQ1Y89WON
 ------------------------------
+[23/01/2026 07:43:26] 🎬 CineFlix - 🔋 VOLTZ - Teste S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/B0VDVVODK3
+------------------------------
+[23/01/2026 07:43:26] 🎬 CineFlix - 🌊 WAVE - 🔴 UNITV | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/bOxLAVyDZ7
+------------------------------
+[23/01/2026 07:43:26] 🎬 CineFlix - 🌊 WAVE - 💜 ASSIST OU 🧡 PLAYSIM | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/gQBWQBz1GR
+------------------------------

@@ -1,4 +1,4 @@
-RELATÓRIO DE SERVIDORES - 23/01/2026 07:40
+RELATÓRIO DE SERVIDORES - 23/01/2026 14:55
 ====================================================================================================
 NOME DO ARQUIVO                                         | SERVIDOR BASE
 ====================================================================================================
@@ -107,7 +107,7 @@ GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07..  | http://protec.sbs:80
 GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[22-01-2026..  | http://protec.sbs:80
 GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[22-01-2026_2..  | http://protec.sbs:80
 GLOBAL__IPTV_2__-__TESTE_1HR__SEM_ADULTOS_[22-01-202..  | http://protec.sbs:80
-GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[21-01-2026_..  | http://protec.sbs:80
+GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[23-01-2026_..  | http://protec.sbs:80
 GLOBAL__IPTV_2__-__TESTE_3HRS__SEM_ADULTOS_[22-01-20..  | http://protec.sbs:80
 GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO_[22-01-2026_..  | http://protec.sbs:80
 GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS_[22-01-20..  | http://protec.sbs:80
@@ -133,7 +133,7 @@ GLOBAL__IPTV_4__-__TESTE_1HR__COMPLETO_[22-01-2026_2..  | http://x25.acxll.shop:
 GLOBAL__IPTV_4__-__TESTE_1HR__SEM_ADULTOS_[22-01-202..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[22-01-2026_..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[22-01-20..  | http://x25.acxll.shop:80
-GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[21-01-2026_..  | http://x25.acxll.shop:80
+GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[23-01-2026_..  | http://x25.acxll.shop:80
 GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS_[22-01-20..  | http://x25.acxll.shop:80
 HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[22-..  | http://tigeragile.uk:80
 HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[22-01-202..  | http://cloudsalex.space:80
@@ -346,7 +346,7 @@ AGRUPAMENTO POR SERVIDOR
    ├─ GLOBAL__IPTV_4__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_21h12].m3u
    ├─ GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[22-01-2026_21h12].m3u
    ├─ GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
-   ├─ GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[21-01-2026_08h29].m3u
+   ├─ GLOBAL__IPTV_4__-__TESTE_6HRS__COMPLETO_[23-01-2026_07h53].m3u
    ├─ GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
    ├─ HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[22-01-2026_20h16].m3u
    ├─ NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[22-01-2026_21h27].m3u
@@ -419,7 +419,7 @@ AGRUPAMENTO POR SERVIDOR
    ├─ GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h16].m3u
    ├─ GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[22-01-2026_21h12].m3u
    ├─ GLOBAL__IPTV_2__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_21h12].m3u
-   ├─ GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[21-01-2026_07h40].m3u
+   ├─ GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[23-01-2026_07h51].m3u
    ├─ GLOBAL__IPTV_2__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_21h12].m3u
    ├─ GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO_[22-01-2026_20h40].m3u
    ├─ GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h16].m3u

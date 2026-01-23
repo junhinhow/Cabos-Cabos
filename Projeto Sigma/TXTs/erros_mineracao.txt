@@ -613,3 +613,12 @@ Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/8241KzOWmx
 [23/01/2026 07:34:55] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | Failed to perform, c
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
 ------------------------------
+[23/01/2026 07:35:02] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
+------------------------------
+[23/01/2026 07:35:04] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
+------------------------------
+[23/01/2026 07:35:05] 💎 PRIME LUX - PRIME X 🔷 - 🔷 TESTE IPTV COMPLETO C/ ADULTOS 🔷 | Failed to perform, c
+Link: https://primelux.sigma.st/api/chatbot/VdWXAjN13q/7V01pzaDdO
+------------------------------

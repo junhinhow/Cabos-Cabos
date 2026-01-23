@@ -532,3 +532,27 @@ Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/rlKWO33Wzo
 [23/01/2026 07:33:02] 🌐 NetPlay - 🌑 LUNAR - Teste C/ Adulto 2 Horas (Android) | Failed to perform, c
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/bQELoQ4Wgr
 ------------------------------
+[23/01/2026 07:33:31] 🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 2 Horas | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/o231qA914q
+------------------------------
+[23/01/2026 07:33:31] 🌐 NetPlay - 🌑 LUNAR - Teste S/ Adulto 2 Horas (Android) | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/lze15q415K
+------------------------------
+[23/01/2026 07:33:32] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[23/01/2026 07:33:32] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | Failed to perform, c
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------
+[23/01/2026 07:33:33] 🏟️ New-Servers - AtivaBox - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:33:33] 🏟️ New-Servers - AtivaBox - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:33:33] 📡 New-Servers - Binstream - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/80m1E91lEx
+------------------------------
+[23/01/2026 07:33:40] 📡 New-Servers - Binstream - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/JOALy014wx
+------------------------------

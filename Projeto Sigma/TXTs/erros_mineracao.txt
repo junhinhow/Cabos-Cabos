@@ -763,3 +763,12 @@ Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/bOxLAQLZ7a
 [23/01/2026 07:38:21] ❄️ SUBZERO - FÊNIX - 🛑 UNITV COMPLETO C/ADULTOS 🛑 | Failed to perform, c
 Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/XYgD9JWr6V
 ------------------------------
+[23/01/2026 07:38:28] ❄️ SUBZERO - FÊNIX - 🛑 UNITV COMPLETO S/ADULTOS 🛑 | Failed to perform, c
+Link: https://subzero.sigmab.pro/api/chatbot/bQELoQ4Wgr/ayb1BxDPR9
+------------------------------
+[23/01/2026 07:38:30] ⚡ Thunder - ⚡ Completo Com Adultos | Failed to perform, c
+Link: https://thunder.sigma.st/api/chatbot/bQELoawWgr/kmVLl71QwB
+------------------------------
+[23/01/2026 07:38:30] ⚡ Thunder - ⚡ Completo Sem Adultos | Failed to perform, c
+Link: https://thunder.sigma.st/api/chatbot/bQELoawWgr/gQBWQ5WGRe
+------------------------------

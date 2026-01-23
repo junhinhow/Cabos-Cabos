@@ -76,3 +76,24 @@ Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ayb1BEEWPR
 [23/01/2026 07:42:45] 🎬 CineFlix - 🟣 RYZEN - Teste IPTV C/ Adultos | Failed to perform, c
 Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/nVrW8oDKaN
 ------------------------------
+[23/01/2026 07:42:47] 🎬 CineFlix - 🟣 RYZEN - Teste IPTV S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/Yxl1jB1Mjm
+------------------------------
+[23/01/2026 07:42:58] 🎬 CineFlix - 🟠 SH-SERVER - Teste C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/EMeWeEOWnN
+------------------------------
+[23/01/2026 07:42:59] 🎬 CineFlix - 🟠 SH-SERVER - Teste S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ANKWPB5LPR
+------------------------------
+[23/01/2026 07:42:59] 🎬 CineFlix - ⚡ Thunder PLAY - 🔴 UNITV | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/ANKWPBxLPR
+------------------------------
+[23/01/2026 07:42:59] 🎬 CineFlix - ⚡ Thunder PLAY - Teste S/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/JOALy3wW4w
+------------------------------
+[23/01/2026 07:42:59] 🎬 CineFlix - ⚡ Thunder PLAY - Teste C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/80m1Eev1lE
+------------------------------
+[23/01/2026 07:42:59] 🎬 CineFlix - 🔋 VOLTZ - Teste C/ Adultos | Failed to perform, c
+Link: https://cineflixbr.sigma.st/api/chatbot/r6LJ6k5Lv9/boQ1Y89WON
+------------------------------

@@ -94,3 +94,27 @@ Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
 [22/01/2026 21:06:46] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | Failed to perform, c
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
 ------------------------------
+[22/01/2026 21:06:56] 📺 TOP X - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/gQBWQ5WGRe
+------------------------------
+[22/01/2026 21:06:56] 📺 TOP X - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/kmVLl71QwB
+------------------------------
+[22/01/2026 21:06:56] 🔝 Top Z - ✅ Completo Com Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[22/01/2026 21:06:56] 🔝 Top Z - ✅ Completo Sem Adultos | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[22/01/2026 21:06:56] 🔝 Top Z - 📺 TV Express +18 | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------
+[22/01/2026 21:06:58] 🔝 Top Z - 📺 TV Express -18 | Failed to perform, c
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[22/01/2026 21:07:04] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | Failed to perform, c
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+------------------------------
+[22/01/2026 21:07:04] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | Failed to perform, c
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
+------------------------------

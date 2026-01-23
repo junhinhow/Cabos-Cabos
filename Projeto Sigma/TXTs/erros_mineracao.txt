@@ -592,3 +592,24 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/boQ1Ye1ONY
 [23/01/2026 07:34:24] 📺 New-Servers - PLUS TV - COMPLETO SEM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/B0VDVALK3q
 ------------------------------
+[23/01/2026 07:34:53] 🟢 P2VIP - 🟢 Teste Completo C/ Adulto | Failed to perform, c
+Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/gQBWQ5WGRe
+------------------------------
+[23/01/2026 07:34:53] 🟢 P2VIP - 🟢 Teste Completo S/ Adultos | Failed to perform, c
+Link: https://p2vip.sigma.st/api/chatbot/64vLb8MWgG/JOALy014wx
+------------------------------
+[23/01/2026 07:34:54] 📡 PREMIUM SERVER 1.0 - 💠 TESTE ANDROID 💠 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/qK4WrQDeNj
+------------------------------
+[23/01/2026 07:34:54] 📡 PREMIUM SERVER 1.0 - 💠 TESTE COMPLETO 💠 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/BV4D3rLaqZ
+------------------------------
+[23/01/2026 07:34:55] 📡 PREMIUM SERVER 1.0 - 💠 TESTE SEM ADULTO 💠 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rlKWO3Wzo7
+------------------------------
+[23/01/2026 07:34:55] 📺 PREMIUM SERVER 1.0 - 🏁 TESTE UNITV 🏁 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/8241KzOWmx
+------------------------------
+[23/01/2026 07:34:55] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | Failed to perform, c
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
+------------------------------

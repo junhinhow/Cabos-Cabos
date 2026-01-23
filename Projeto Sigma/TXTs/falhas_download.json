@@ -1492,5 +1492,11 @@
         "url": "http://iptv4.glloball.shop:80/get.php?username=944571&password=501713&type=m3u_plus&output=hls",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-22 21:12:09"
+    },
+    {
+        "nome": "GLOBAL__IPTV_4__-__TESTE_1HR__SEM_ADULTOS",
+        "url": "http://iptv4.glloball.shop:80/get.php?username=595899&password=853787&type=m3u_plus&output=hls",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:12:24"
     }
 ]

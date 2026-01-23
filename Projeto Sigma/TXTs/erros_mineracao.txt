@@ -358,3 +358,33 @@ Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/boQ1YE91ON
 [23/01/2026 07:48:28] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - C/ADULTOS | Failed to perform, c
 Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/80m1Eq91lE
 ------------------------------
+[23/01/2026 07:49:04] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - S/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/JOALyo0W4w
+------------------------------
+[23/01/2026 07:49:04] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - C/ADULTOS ♾️ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/QywDmBGWpR
+------------------------------
+[23/01/2026 07:49:04] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - s/ADULTOS ♾️ | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7eZWXM
+------------------------------
+[23/01/2026 07:49:04] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7nZ1XM
+------------------------------
+[23/01/2026 07:49:07] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/BV4D3V5Laq
+------------------------------
+[23/01/2026 07:49:08] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/kRXDgEw1ex
+------------------------------
+[23/01/2026 07:49:08] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - S/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ryJDz2KDge
+------------------------------
+[23/01/2026 07:49:08] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE C/INTERNACIONAL | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/PkaL4qdDgr
+------------------------------
+[23/01/2026 07:49:08] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - C/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/bOxLA7yWZ7
+------------------------------
+[23/01/2026 07:49:09] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - s/ADULTOS | Failed to perform, c
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/qK4Wr391eN
+------------------------------

@@ -802,3 +802,15 @@ Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/BV4D3rLaqZ
 [23/01/2026 07:39:11] 🔝 TOP Z - COMPLETO SEM ADULTOS | Failed to perform, c
 Link: https://topztv.sigma.st/api/chatbot/7V01pYMLdO/rlKWO3Wzo7
 ------------------------------
+[23/01/2026 07:39:40] 📺 VelozNet - 🖥️ MeuServidor TV - Completo Com Adultos | Failed to perform, c
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/RYAWRk1jlx
+------------------------------
+[23/01/2026 07:39:40] 📺 VelozNet - 🖥️ MeuServidor TV - Completo Sem Adultos | Failed to perform, c
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/rdqLkQWAE9
+------------------------------
+[23/01/2026 07:39:41] 📺 VelozNet - 🇧🇷 VTVBR - Completo Com Adultos | Failed to perform, c
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/VpKDaJWRAa
+------------------------------
+[23/01/2026 07:39:41] 📺 VelozNet - 🇧🇷 VTVBR - Completo Sem Adultos | Failed to perform, c
+Link: https://meuservidor.sigma.st/api/chatbot/g516myQWjl/EMeWepDnN9
+------------------------------

@@ -104,8 +104,8 @@
     {
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_-18",
         "url": "http://evo20.evopremium2026.shop/get.php?username=488788&password=225512&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:54"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:39"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
@@ -662,14 +662,14 @@
     {
         "nome": "CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://erytka.top/get.php?username=237196913207&password=269977022079&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:53"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:38"
     },
     {
         "nome": "CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://erytka.top/get.php?username=507681536906&password=546944420667&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:53"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:39"
     },
     {
         "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
@@ -1438,5 +1438,17 @@
         "url": "http://vtvbr.com:80/get.php?username=7527204933&password=1412664169&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
         "data": "2026-01-22 21:10:23"
+    },
+    {
+        "nome": "EVOLUTION_-_BOX_-__Teste_Completo_SAdultos",
+        "url": "http://cdn.evopremium2026.shop/get.php?username=750786&password=780722&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:39"
+    },
+    {
+        "nome": "EVOLUTION_-_EVO_PRIME_-__Teste_+18",
+        "url": "http://evoplaytop.top/get.php?username=652668&password=850657&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:39"
     }
 ]

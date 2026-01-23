@@ -680,32 +680,32 @@
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=366517&password=495647&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:55"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:54"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=244641&password=955707&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:55"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:53"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=864583&password=740325&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:56"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:54"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://iptv1.glloball.shop:80/get.php?username=735920&password=815773&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:57"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:54"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO",
         "url": "http://iptv1.glloball.shop:80/get.php?username=302344&password=979457&type=m3u_plus&output=hls",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-21 07:49:57"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-22 21:10:54"
     },
     {
         "nome": "GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS",

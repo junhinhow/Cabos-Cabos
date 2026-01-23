@@ -586,3 +586,9 @@ Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/64vLbNLgGn
 [23/01/2026 07:34:21] ▶️ New-Servers - NicePlayer - COMPLETO SEM ADULTOS | Failed to perform, c
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/7V01paLdO4
 ------------------------------
+[23/01/2026 07:34:23] 📺 New-Servers - PLUS TV - COMPLETO COM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/boQ1Ye1ONY
+------------------------------
+[23/01/2026 07:34:24] 📺 New-Servers - PLUS TV - COMPLETO SEM ADULTOS | Failed to perform, c
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/B0VDVALK3q
+------------------------------

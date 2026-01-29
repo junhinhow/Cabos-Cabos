@@ -132,7 +132,7 @@ def worker_busca(job):
                             if nome_grupo_real not in resultados_por_arquivo[arquivo]["categorias"]:
                                 resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] = []
                             
-                            # Agora salvamos o item inteiro, não apenas contamos
+                            # Agora salvamos o item inteiro
                             resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real].append(dados)
 
                     # --- LÓGICA DE CONTEÚDO (SIMPLES/DETALHADA) ---
@@ -184,6 +184,10 @@ def gerar_relatorio_arquivo(termo, resultados, tipo):
     if tipo == "categoria":
         conteudo.append("📚 CONTAGEM E LISTAGEM POR CATEGORIA:\n")
         total_geral = 0
+        
+        # Dicionário para armazenar o ranking global (Soma de todos os servidores)
+        ranking_global = {}
+
         for arquivo, dados in resultados.items():
             conteudo.append(f"📁 SERVER: {arquivo}")
             categorias = dados["categorias"]
@@ -194,10 +198,15 @@ def gerar_relatorio_arquivo(termo, resultados, tipo):
             subtotal = 0
             for nome_cat, lista_itens in cat_ordenadas:
                 qtd = len(lista_itens)
+                
+                # Adiciona ao ranking global
+                if nome_cat not in ranking_global:
+                    ranking_global[nome_cat] = 0
+                ranking_global[nome_cat] += qtd
+
                 conteudo.append(f"   ├─ [CATEGORIA] {nome_cat}: {qtd} obras")
                 
                 # Lista os itens da categoria
-                # Limitamos a exibição do nome para não ficar muito longo no txt
                 for item in lista_itens:
                     conteudo.append(f"   │    • {item['nome']}")
                 
@@ -208,7 +217,20 @@ def gerar_relatorio_arquivo(termo, resultados, tipo):
             conteudo.append("   " + "-"*40)
             total_geral += subtotal
         
-        conteudo.append(f"\n🏆 TOTAL GERAL ENCONTRADO: {total_geral}")
+        # --- NOVO: RANKING DE RESUMO NO FINAL ---
+        conteudo.append("\n" + "="*60)
+        conteudo.append("🏆 RANKING GERAL (RESUMO: MAIS -> MENOS)")
+        conteudo.append("="*60)
+        
+        # Ordena o ranking global
+        rank_ordenado = sorted(ranking_global.items(), key=lambda x: x[1], reverse=True)
+        
+        # Exibe em formato de tabela simples
+        for i, (cat, qtd) in enumerate(rank_ordenado, 1):
+            conteudo.append(f" {i:02d}. {cat:<50} ... {qtd} itens")
+            
+        conteudo.append("-" * 60)
+        conteudo.append(f"TOTAL GERAL ENCONTRADO: {total_geral}")
 
     elif tipo == "simples":
         conteudo.append("📊 RESUMO (ÚLTIMO EPISÓDIO POR TEMPORADA):\n")
@@ -316,7 +338,7 @@ def main():
         print("==========================================")
         print("1. Nova Busca Simples (Filmes/Series)")
         print("2. Nova Busca Detalhada (Lista tudo)")
-        print("3. Nova Busca por Categoria (Contagem + Lista)")
+        print("3. Nova Busca por Categoria (Contagem + Lista + Rank)")
         print("4. Monitorar Status das Buscas")
         print("5. Sair")
         print("==========================================")

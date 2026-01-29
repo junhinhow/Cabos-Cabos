@@ -2044,5 +2044,11 @@
         "url": "http://fgut.shop/get.php?username=210310386&password=112254986&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-29 12:24:07"
+    },
+    {
+        "nome": "TOP_X_-_COMPLETO_COM_ADULTOS",
+        "url": "http://anunis250.ad18.top/get.php?username=979203500&password=306619388&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-29 12:24:34"
     }
 ]

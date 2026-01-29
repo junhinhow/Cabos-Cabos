@@ -1059,25 +1059,25 @@
         "nome": "Odin_-_Sad_Max_-_TESTE_SADMAX_+18",
         "url": "http://cdb.sadmaxplus.top/get.php?username=445991616&password=243781245&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:45:12"
+        "data": "2026-01-29 12:18:58"
     },
     {
         "nome": "Odin_-_Sad_Max_-_TESTE_SADMAX_-18",
         "url": "http://cdb.sadmaxplus.top/get.php?username=903388342&password=735039279&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-21 01:45:15"
+        "data": "2026-01-29 12:18:57"
     },
     {
         "nome": "Odin_-_Mjlnir_-_Mjlnir_+18",
         "url": "http://socio.gp4.fun/get.php?username=745778886&password=965098194&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-21 01:45:33"
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-29 12:18:53"
     },
     {
         "nome": "Odin_-_Mjlnir_-_Mjlnir_-18",
         "url": "http://socio.gp4.fun/get.php?username=335514043&password=326134293&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-21 01:45:58"
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-29 12:18:54"
     },
     {
         "nome": "PREMIUM_SERVER_1.0_-__TESTE_COMPLETO",
@@ -1852,5 +1852,161 @@
         "url": "http://solar.npremium.fun/get.php?username=73860726659&password=96846457589&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-29 12:17:04"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_COM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=443219294&password=440333398&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-29 12:18:41"
+    },
+    {
+        "nome": "New-Servers_-_NicePlayer_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://sadmaxplus.top/get.php?username=415158662&password=155298066&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-29 12:18:41"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_COM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=898623791&password=740569361&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-29 12:18:42"
+    },
+    {
+        "nome": "New-Servers_-_PLUS_TV_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://dns.ofmp.site/get.php?username=928165875&password=792936107&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 520",
+        "data": "2026-01-29 12:18:42"
+    },
+    {
+        "nome": "Odin_-_Anubis_-_Teste+18",
+        "url": "http://anunis250.ad18.top/get.php?username=121373587&password=442318606&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:42"
+    },
+    {
+        "nome": "Odin_-_Anubis_-_Teste_+18",
+        "url": "http://anunis250.ad18.top/get.php?username=722966704&password=852856252&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:43"
+    },
+    {
+        "nome": "Odin_-_Anubis_-_Teste_-18",
+        "url": "http://anunis250.ad18.top/get.php?username=792024233&password=321275747&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:43"
+    },
+    {
+        "nome": "Odin_-_FHMplay_-_Teste_+18_FHM",
+        "url": "http://cdm100.fhmplay.top/get.php?username=830371974&password=214747826&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:48"
+    },
+    {
+        "nome": "Odin_-_Loki_-_Teste_Loki_+18",
+        "url": "http://c.evo007.shop/get.php?username=341965101&password=492753527&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 403",
+        "data": "2026-01-29 12:18:51"
+    },
+    {
+        "nome": "Odin_-_Loki_-_Teste_Loki_-18",
+        "url": "http://c.evo007.shop/get.php?username=232039153&password=960413863&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 403",
+        "data": "2026-01-29 12:18:51"
+    },
+    {
+        "nome": "Odin_-_FHMplay_-_Teste_-18_FHM",
+        "url": "http://cdm100.fhmplay.top/get.php?username=790464635&password=271701921&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:51"
+    },
+    {
+        "nome": "Odin_-_Midgard_-_TESTE_+18_A",
+        "url": "http://midgard500.atp1.top/get.php?username=767721291&password=708853506&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:51"
+    },
+    {
+        "nome": "Odin_-_Midgard_-_TESTE_-18_A",
+        "url": "http://midgard500.atp1.top/get.php?username=774608176&password=941627890&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:52"
+    },
+    {
+        "nome": "Odin_-_ODINPLAY_+18",
+        "url": "http://c.superodim.nl70.top/get.php?username=572588130&password=362432282&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:55"
+    },
+    {
+        "nome": "Odin_-_ODINPLAY_-18",
+        "url": "http://c.superodim.nl70.top/get.php?username=157882046&password=442991938&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:55"
+    },
+    {
+        "nome": "Odin_-_Ragnarok_-_Teste_+18",
+        "url": "http://churrasquinho2026.atp1.top/get.php?username=884938910&password=835104988&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-29 12:18:56"
+    },
+    {
+        "nome": "Odin_-_Ragnarok_-_Teste_-18",
+        "url": "http://churrasquinho2026.atp1.top/get.php?username=591532813&password=757560118&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-29 12:18:56"
+    },
+    {
+        "nome": "Odin_-_Thor_-_TESTE_THOR_+18",
+        "url": "http://meuscanais.pro/get.php?username=514172881&password=384221359&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:58"
+    },
+    {
+        "nome": "Odin_-_BOSS-PLAY_-_Bossplay_+18",
+        "url": "http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-29 12:18:58"
+    },
+    {
+        "nome": "Odin_-_Thor_-_TESTE_THOR_-18",
+        "url": "http://meuscanais.pro/get.php?username=382999789&password=920082535&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:59"
+    },
+    {
+        "nome": "Odin__-_ODINPLAY_+18",
+        "url": "http://c.superodim.nl70.top/get.php?username=785171711&password=262637718&type=m3u_plus&output=ts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:18:59"
+    },
+    {
+        "nome": "Odin_-_Valhalla_-_Valhalla_+18",
+        "url": "http://cdn.vallhala10.top/get.php?username=943451674&password=978933808&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:19:00"
+    },
+    {
+        "nome": "Odin_-_BOSS-PLAY_-_Bossplay_-18",
+        "url": "http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-29 12:19:00"
+    },
+    {
+        "nome": "Odin_-_Valhalla_-_Valhalla_-18",
+        "url": "http://cdn.vallhala10.top/get.php?username=114769200&password=364352367&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:19:00"
+    },
+    {
+        "nome": "PREMIUM_SERVER_1.0_-__TESTE_COMPLETO",
+        "url": "http://cddn.site:80/get.php?username=123765822&password=359215501&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:19:00"
+    },
+    {
+        "nome": "PREMIUM_SERVER_1.0_-__TESTE_SEM_ADULTO",
+        "url": "http://cddn.site:80/get.php?username=568656553&password=566793212&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 12:19:00"
     }
 ]

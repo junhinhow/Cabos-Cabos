@@ -22,7 +22,7 @@ class BuscaJob:
     def __init__(self, id_job, termo, tipo):
         self.id = id_job
         self.termo = termo
-        self.tipo = tipo
+        self.tipo = tipo  # 'simples', 'detalhada' ou 'categoria'
         self.status = "Aguardando..."
         self.progresso = 0.0
         self.total_arquivos = 0
@@ -34,7 +34,7 @@ class BuscaJob:
 # Lista global de trabalhos
 JOBS = []
 
-# --- FUNÇÕES UTILITÁRIAS (MANTIDAS) ---
+# --- FUNÇÕES UTILITÁRIAS ---
 def normalizar_texto(texto):
     if not texto: return ""
     return unicodedata.normalize('NFKD', texto).encode('ASCII', 'ignore').decode('utf-8').lower()
@@ -60,13 +60,19 @@ def extrair_episodio(texto):
 
 def extrair_info_m3u(linha):
     info = {"nome": "Desconhecido", "grupo": "Sem Categoria", "temporada": 0, "episodio": 0}
+    
+    # Extrai o grupo (categoria)
     match_grupo = re.search(r'group-title="([^"]*)"', linha)
-    if match_grupo: info["grupo"] = match_grupo.group(1)
+    if match_grupo: 
+        info["grupo"] = match_grupo.group(1)
+    
+    # Extrai o nome
     if "," in linha:
         info["nome"] = linha.split(",")[-1].strip()
     else:
         match_nome = re.search(r'tvg-name="([^"]*)"', linha)
         info["nome"] = match_nome.group(1) if match_nome else linha.replace("#EXTINF:", "").strip()
+        
     info["temporada"] = extrair_temporada(info["nome"])
     info["episodio"] = extrair_episodio(info["nome"])
     return info
@@ -79,7 +85,7 @@ def verificar_episodios_faltantes(itens_temporada):
     sequencia_ideal = set(range(1, max_ep + 1))
     return sorted(list(sequencia_ideal - set(eps_presentes)))
 
-# --- MOTOR DE BUSCA (AGORA RODA EM THREAD) ---
+# --- MOTOR DE BUSCA ---
 def worker_busca(job):
     job.status = "Iniciando..."
     
@@ -112,20 +118,38 @@ def worker_busca(job):
             
             for linha in linhas:
                 if linha.startswith("#EXTINF"):
-                    linha_norm = normalizar_texto(linha)
-                    if all(t in linha_norm for t in termos_busca):
+                    # --- LÓGICA DE CATEGORIA ---
+                    if job.tipo == "categoria":
                         dados = extrair_info_m3u(linha)
-                        if arquivo not in resultados_por_arquivo:
-                            resultados_por_arquivo[arquivo] = {"itens": [], "max_temp": 0, "max_ep": 0}
+                        grupo_norm = normalizar_texto(dados['grupo'])
                         
-                        resultados_por_arquivo[arquivo]["itens"].append(dados)
-                        
-                        if dados["temporada"] > resultados_por_arquivo[arquivo]["max_temp"]:
-                            resultados_por_arquivo[arquivo]["max_temp"] = dados["temporada"]
-                            resultados_por_arquivo[arquivo]["max_ep"] = dados["episodio"]
-                        elif dados["temporada"] == resultados_por_arquivo[arquivo]["max_temp"]:
-                            if dados["episodio"] > resultados_por_arquivo[arquivo]["max_ep"]:
+                        # Verifica se todos os termos da busca estão no NOME DA CATEGORIA
+                        if all(t in grupo_norm for t in termos_busca):
+                            if arquivo not in resultados_por_arquivo:
+                                resultados_por_arquivo[arquivo] = {"categorias": {}}
+                            
+                            nome_grupo_real = dados['grupo']
+                            if nome_grupo_real not in resultados_por_arquivo[arquivo]["categorias"]:
+                                resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] = 0
+                            
+                            resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] += 1
+
+                    # --- LÓGICA DE CONTEÚDO (SIMPLES/DETALHADA) ---
+                    else:
+                        linha_norm = normalizar_texto(linha)
+                        if all(t in linha_norm for t in termos_busca):
+                            dados = extrair_info_m3u(linha)
+                            if arquivo not in resultados_por_arquivo:
+                                resultados_por_arquivo[arquivo] = {"itens": [], "max_temp": 0, "max_ep": 0}
+                            
+                            resultados_por_arquivo[arquivo]["itens"].append(dados)
+                            
+                            if dados["temporada"] > resultados_por_arquivo[arquivo]["max_temp"]:
+                                resultados_por_arquivo[arquivo]["max_temp"] = dados["temporada"]
                                 resultados_por_arquivo[arquivo]["max_ep"] = dados["episodio"]
+                            elif dados["temporada"] == resultados_por_arquivo[arquivo]["max_temp"]:
+                                if dados["episodio"] > resultados_por_arquivo[arquivo]["max_ep"]:
+                                    resultados_por_arquivo[arquivo]["max_ep"] = dados["episodio"]
         except: pass
 
     # Gerar Relatório
@@ -133,7 +157,16 @@ def worker_busca(job):
     if resultados_por_arquivo:
         caminho = gerar_relatorio_arquivo(job.termo, resultados_por_arquivo, job.tipo)
         job.resultado_path = caminho
-        job.encontrados = sum(len(d['itens']) for d in resultados_por_arquivo.values())
+        
+        if job.tipo == "categoria":
+            # Soma total de itens em todas as categorias encontradas
+            total = 0
+            for arq in resultados_por_arquivo.values():
+                total += sum(arq["categorias"].values())
+            job.encontrados = total
+        else:
+            job.encontrados = sum(len(d['itens']) for d in resultados_por_arquivo.values())
+            
         job.status = "Concluído"
     else:
         job.status = "Nada encontrado"
@@ -147,7 +180,28 @@ def gerar_relatorio_arquivo(termo, resultados, tipo):
     conteudo.append(f" Tipo: {tipo.title()} | Data: {datetime.now().strftime('%d/%m/%Y %H:%M')}")
     conteudo.append("="*60 + "\n")
 
-    if tipo == "simples":
+    if tipo == "categoria":
+        conteudo.append("📚 CONTAGEM POR CATEGORIA:\n")
+        total_geral = 0
+        for arquivo, dados in resultados.items():
+            conteudo.append(f"📁 SERVER: {arquivo}")
+            categorias = dados["categorias"]
+            
+            # Ordena categorias por quantidade (do maior para o menor)
+            cat_ordenadas = sorted(categorias.items(), key=lambda x: x[1], reverse=True)
+            
+            subtotal = 0
+            for nome_cat, qtd in cat_ordenadas:
+                conteudo.append(f"   ├─ {nome_cat}: {qtd} itens")
+                subtotal += qtd
+            
+            conteudo.append(f"   └─ SUBTOTAL: {subtotal} itens encontrados neste servidor")
+            conteudo.append("   " + "-"*40)
+            total_geral += subtotal
+        
+        conteudo.append(f"\n🏆 TOTAL GERAL ENCONTRADO: {total_geral}")
+
+    elif tipo == "simples":
         conteudo.append("📊 RESUMO (ÚLTIMO EPISÓDIO POR TEMPORADA):\n")
         for arquivo, dados in resultados.items():
             info_server = f" > [SERVER: {arquivo}]"
@@ -234,6 +288,11 @@ def monitorar_status():
         else:
             print("(Pressione Ctrl+C para voltar ao menu)")
             # Linux/Mac precisa de CTRL+C neste loop simples
+            try:
+                time.sleep(0.5)
+            except KeyboardInterrupt:
+                break
+            continue
             
         time.sleep(0.5)
 
@@ -246,29 +305,32 @@ def main():
         print("==========================================")
         print("🔎 BUSCADOR SIGMA V9 (MULTI-THREAD)")
         print("==========================================")
-        print("1. Nova Busca Simples")
-        print("2. Nova Busca Detalhada")
-        print("3. Monitorar Status das Buscas")
-        print("4. Sair")
+        print("1. Nova Busca Simples (Filmes/Series)")
+        print("2. Nova Busca Detalhada (Lista tudo)")
+        print("3. Nova Busca por Categoria (Contagem)")
+        print("4. Monitorar Status das Buscas")
+        print("5. Sair")
         print("==========================================")
         
         # Mostra um mini status no rodapé do menu
         ativos = len([j for j in JOBS if not j.concluido])
         if ativos > 0:
             print(f"⚠️  Existem {ativos} buscas rodando em segundo plano.")
-            print("   Selecione '3' para ver detalhes.")
+            print("   Selecione '4' para ver detalhes.")
             print("==========================================")
 
         opcao = input("Opção: ").strip()
 
-        if opcao == "4":
+        if opcao == "5":
             if ativos > 0:
                 resp = input("Ainda há buscas rodando. Sair mesmo? (S/N): ")
                 if resp.lower() != 's': continue
             sys.exit()
 
-        elif opcao in ["1", "2"]:
-            tipo = "simples" if opcao == "1" else "detalhada"
+        elif opcao in ["1", "2", "3"]:
+            tipos = {"1": "simples", "2": "detalhada", "3": "categoria"}
+            tipo = tipos[opcao]
+            
             termo = input(f"\n[{tipo.upper()}] Termo: ").strip()
             if termo:
                 novo_job = BuscaJob(len(JOBS)+1, termo, tipo)
@@ -282,7 +344,7 @@ def main():
                 print(f"✅ Busca iniciada para '{termo}'!")
                 time.sleep(1) # Pausa rápida para ler
         
-        elif opcao == "3":
+        elif opcao == "4":
             try:
                 monitorar_status()
             except KeyboardInterrupt:

@@ -386,44 +386,44 @@
     {
         "nome": "Social_Master_-__GOLD_-_Teste_Completo_C_Adulto",
         "url": "http://alohax.space/get.php?username=188855&password=295131&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 12:23:52"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 18:10:28"
     },
     {
         "nome": "Social_Master_-__GOLD_-_Teste_Completo_S_Adulto",
         "url": "http://alohax.space/get.php?username=238619&password=158591&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 12:23:50"
+        "data": "2026-01-29 18:10:27"
     },
     {
         "nome": "Social_Master_-__HD_-_Teste_Completo_C_Adulto",
         "url": "http://c.zztech.top/get.php?username=490070&password=937252&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-29 12:23:48"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-29 18:10:41"
     },
     {
         "nome": "Social_Master_-__HD_-_Teste_Completo_S_Adulto",
         "url": "http://c.zztech.top/get.php?username=152557&password=718450&type=m3u_plus&output=mpegts",
-        "erro": "Erro HTTP 404",
-        "data": "2026-01-29 12:23:49"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-29 18:10:43"
     },
     {
         "nome": "Social_Master_-__NEW_-_Teste_Completo_C_Adulto",
         "url": "http://jhysa.top/get.php?username=530308&password=856330&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 12:23:50"
+        "data": "2026-01-29 18:10:28"
     },
     {
         "nome": "Social_Master_-__NEW_-_Teste_Completo_S_Adulto",
         "url": "http://jhysa.top/get.php?username=125728&password=493801&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 12:23:51"
+        "data": "2026-01-29 18:10:29"
     },
     {
         "nome": "Social_Master_-__PLAY_-_Teste_Completo_C_Adulto",
         "url": "http://c.srvi.top/get.php?username=349724&password=130830&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 12:24:06"
+        "data": "2026-01-29 18:10:45"
     },
     {
         "nome": "SUBZERO_-_FNIX_-__TESTE_COMPLETO_C_ADULTOS",
@@ -435,7 +435,7 @@
         "nome": "Social_Master_-__PLAY_-_Teste_Completo_S_Adulto",
         "url": "http://c.srvi.top/get.php?username=779765&password=154960&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 12:24:06"
+        "data": "2026-01-29 18:10:57"
     },
     {
         "nome": "SUBZERO_-_FNIX_-__TESTE_COMPLETO_S_ADULTOS",
@@ -2024,14 +2024,14 @@
     {
         "nome": "Servidor_X_-__DUO_Teste_-_C_Adulto",
         "url": "http://daxoi.online/get.php?username=963731572&password=686898516&type=m3u_plus&output=mpegts",
-        "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-29 12:22:24"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-29 18:10:40"
     },
     {
         "nome": "Servidor_X_-__DUO_Teste_-_S_Adulto",
         "url": "http://daxoi.online/get.php?username=633703428&password=185229863&type=m3u_plus&output=mpegts",
-        "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-29 12:22:27"
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-29 18:10:40"
     },
     {
         "nome": "Servidor_X_-__NetTurbo",
@@ -2236,5 +2236,17 @@
         "url": "http://megaplay.uno/get.php?username=966245378&password=383205350&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 403",
         "data": "2026-01-29 18:10:26"
+    },
+    {
+        "nome": "SUBZERO_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://fgut.shop/get.php?username=826245296&password=980603268&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 18:10:42"
+    },
+    {
+        "nome": "SUBZERO_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://fgut.shop/get.php?username=588715141&password=843446963&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-29 18:10:43"
     }
 ]

@@ -70,3 +70,35 @@
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=26357057&password=83083223&type=m3u_plus&output=hls
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe2 *M3U:* http://xcloudcine.xyz/get.php?username=26357057&password=83083223&type=m3u_plus&output=mpegts
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=26357057&password=83083223&type=m3u_plus&output=hls
+[Lider_-_1_ONE_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-_1_ONE_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ALPHA_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ASSIST_TV_-_Completo_Com_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUDS *
+[Lider_-__ASSIST_TV_-_Completo_Com_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUDS *
+[Lider_-__ASSIST_TV_-_Completo_Sem_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUDS *
+[Lider_-__ASSIST_TV_-_Completo_Sem_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUDS *
+[Lider_-__ASSIST_TV_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__ASSIST_TV_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__Fire_PLAY_-_TURBO_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Completo_Com_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Completo_Sem_Adultos] \u256d\u2500\u2500  \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__LITE_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__MAX_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__MAX_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__SHOW_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[Lider_-__SHOW_-_Parceria_XCloud_C_Adultos] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *

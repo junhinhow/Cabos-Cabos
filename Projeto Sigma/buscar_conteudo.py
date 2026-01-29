@@ -123,16 +123,17 @@ def worker_busca(job):
                         dados = extrair_info_m3u(linha)
                         grupo_norm = normalizar_texto(dados['grupo'])
                         
-                        # Verifica se todos os termos da busca estão no NOME DA CATEGORIA
+                        # Verifica se termos da busca estão no NOME DA CATEGORIA
                         if all(t in grupo_norm for t in termos_busca):
                             if arquivo not in resultados_por_arquivo:
                                 resultados_por_arquivo[arquivo] = {"categorias": {}}
                             
                             nome_grupo_real = dados['grupo']
                             if nome_grupo_real not in resultados_por_arquivo[arquivo]["categorias"]:
-                                resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] = 0
+                                resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] = []
                             
-                            resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] += 1
+                            # Agora salvamos o item inteiro, não apenas contamos
+                            resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real].append(dados)
 
                     # --- LÓGICA DE CONTEÚDO (SIMPLES/DETALHADA) ---
                     else:
@@ -159,10 +160,10 @@ def worker_busca(job):
         job.resultado_path = caminho
         
         if job.tipo == "categoria":
-            # Soma total de itens em todas as categorias encontradas
             total = 0
             for arq in resultados_por_arquivo.values():
-                total += sum(arq["categorias"].values())
+                for lista_itens in arq["categorias"].values():
+                    total += len(lista_itens)
             job.encontrados = total
         else:
             job.encontrados = sum(len(d['itens']) for d in resultados_por_arquivo.values())
@@ -181,21 +182,29 @@ def gerar_relatorio_arquivo(termo, resultados, tipo):
     conteudo.append("="*60 + "\n")
 
     if tipo == "categoria":
-        conteudo.append("📚 CONTAGEM POR CATEGORIA:\n")
+        conteudo.append("📚 CONTAGEM E LISTAGEM POR CATEGORIA:\n")
         total_geral = 0
         for arquivo, dados in resultados.items():
             conteudo.append(f"📁 SERVER: {arquivo}")
             categorias = dados["categorias"]
             
-            # Ordena categorias por quantidade (do maior para o menor)
-            cat_ordenadas = sorted(categorias.items(), key=lambda x: x[1], reverse=True)
+            # Ordena categorias pela quantidade de itens (do maior para o menor)
+            cat_ordenadas = sorted(categorias.items(), key=lambda x: len(x[1]), reverse=True)
             
             subtotal = 0
-            for nome_cat, qtd in cat_ordenadas:
-                conteudo.append(f"   ├─ {nome_cat}: {qtd} itens")
+            for nome_cat, lista_itens in cat_ordenadas:
+                qtd = len(lista_itens)
+                conteudo.append(f"   ├─ [CATEGORIA] {nome_cat}: {qtd} obras")
+                
+                # Lista os itens da categoria
+                # Limitamos a exibição do nome para não ficar muito longo no txt
+                for item in lista_itens:
+                    conteudo.append(f"   │    • {item['nome']}")
+                
+                conteudo.append("   │") # Espaçamento
                 subtotal += qtd
             
-            conteudo.append(f"   └─ SUBTOTAL: {subtotal} itens encontrados neste servidor")
+            conteudo.append(f"   └─ SUBTOTAL SERVER: {subtotal} itens")
             conteudo.append("   " + "-"*40)
             total_geral += subtotal
         
@@ -307,7 +316,7 @@ def main():
         print("==========================================")
         print("1. Nova Busca Simples (Filmes/Series)")
         print("2. Nova Busca Detalhada (Lista tudo)")
-        print("3. Nova Busca por Categoria (Contagem)")
+        print("3. Nova Busca por Categoria (Contagem + Lista)")
         print("4. Monitorar Status das Buscas")
         print("5. Sair")
         print("==========================================")

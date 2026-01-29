@@ -1,0 +1,1292 @@
+============================================================
+          RELATÓRIO: TURC
+ Tipo: Categoria | Data: 29/01/2026 12:29
+============================================================
+
+📚 CONTAGEM POR CATEGORIA:
+
+📁 SERVER: 7_Odin_-_7seven_-_7seven_+18_[21-01-2026_00h23].m3u
+   ├─ Series | Turcas: 6470 itens
+   ├─ > NOVELAS TURCAS: 3428 itens
+   ├─ HS NOVELAS TURCAS: 63 itens
+   └─ SUBTOTAL: 9961 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: 7_Odin_-_7seven_-_7seven_-18_[21-01-2026_00h23].m3u
+   ├─ Series | Turcas: 6470 itens
+   ├─ > NOVELAS TURCAS: 3428 itens
+   ├─ HS NOVELAS TURCAS: 63 itens
+   └─ SUBTOTAL: 9961 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Alpha_Master_-__Teste_Completo_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ SERIES | NOVELAS TURCAS: 10504 itens
+   ├─ ♣️SÉRIES | NOVELAS TURCAS: 4220 itens
+   └─ SUBTOTAL: 14724 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Alpha_Master_-__Teste_Completo_C_Adultos_[23-01-2026_14h56].m3u
+   ├─ SERIES | NOVELAS TURCAS: 10504 itens
+   ├─ ♣️SÉRIES | NOVELAS TURCAS: 4220 itens
+   └─ SUBTOTAL: 14724 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Alpha_Master_-__Teste_Completo_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ SERIES | NOVELAS TURCAS: 10504 itens
+   ├─ ♣️SÉRIES | NOVELAS TURCAS: 4220 itens
+   └─ SUBTOTAL: 14724 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_NEW_-__New_Completo_CAdultos_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_NEW_-__New_Completo_SAdultos_[22-01-2026_21h12].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_PLAY_-__American_Play_CAdultos_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_PLAY_-__American_Play_CAdultos_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_PLAY_-__American_Play_SAdultos_[22-01-2026_20h16].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_PLAY_-__American_Play_SAdultos_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_SUPER_-__American_Super_CAdultos_[21-01-2026_07h33].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_SUPER_-__American_Super_CAdultos_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_SUPER_-__American_Super_SAdultos_[21-01-2026_07h33].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AMERICAN_-_SUPER_-__American_Super_SAdultos_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Aladdin's_-_Teste_Completo_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6470 itens
+   ├─ > NOVELAS TURCAS: 3428 itens
+   ├─ HS NOVELAS TURCAS: 63 itens
+   └─ SUBTOTAL: 9961 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Aladdin's_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6470 itens
+   ├─ > NOVELAS TURCAS: 3428 itens
+   ├─ HS NOVELAS TURCAS: 63 itens
+   └─ SUBTOTAL: 9961 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__AtivaBox_-_Teste_Completo_[22-01-2026_21h27].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__AtivaBox_-_Teste_Completo_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__AtivaBox_-_Teste_S_Adultos_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Infrax_-_Teste_Completo_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Infrax_-_Teste_Completo_[23-01-2026_14h56].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Infrax_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Lite_PLAY_-_Teste_Completo_[22-01-2026_20h40].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos_[22-01-2026_21h12].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__NetTurbo_-_Teste_Completo_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__NetTurbo_-_Teste_Completo_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: AtivaBox_-__NetTurbo_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto_[19-01-2026_02h00].m3u
+   ├─ SÉRIES | NOVELAS TURCAS: 5996 itens
+   └─ SUBTOTAL: 5996 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[22-01-2026_20h40].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Com_Adulto_[23-01-2026_14h56].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[22-01-2026_20h40].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__PLAY_-_Teste_De_24_Horas_Sem_Adulto_[23-01-2026_14h56].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Com_Adulto_[22-01-2026_20h40].m3u
+   ├─ SERIES | TURCAS: 5951 itens
+   └─ SUBTOTAL: 5951 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[22-01-2026_20h40].m3u
+   ├─ SERIES | TURCAS: 5951 itens
+   └─ SUBTOTAL: 5951 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Azonix_-__SUPREME_-_Teste_De_24_Horas_Sem_Adulto_[23-01-2026_14h56].m3u
+   ├─ SERIES | TURCAS: 5951 itens
+   └─ SUBTOTAL: 5951 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_DIAMOND_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_FUSION_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_MAX_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_OURO_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_SAFIRA_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-_ZEROUM__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_C_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1914 itens
+   └─ SUBTOTAL: 9001 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLACKBR_-__-__TESTE_IPTV_COMPLETO_S_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1914 itens
+   └─ SUBTOTAL: 9001 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_ELITE_-_TESTE_IPTV_COMPLETO_S_ADULTOS_[20-01-2026_23h42].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_ELITE_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[21-01-2026_00h23].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_C_ADULTO_[20-01-2026_23h42].m3u
+   ├─ ♦️ Novelas Turcas: 6125 itens
+   └─ SUBTOTAL: 6125 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_SADULTO_[20-01-2026_23h42].m3u
+   ├─ ♦️ Novelas Turcas: 6125 itens
+   └─ SUBTOTAL: 6125 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_C_ADULTOS_[21-01-2026_00h23].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_S_ADULTOS_[20-01-2026_23h42].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos_[22-01-2026_21h12].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18_[22-01-2026_21h12].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos_[22-01-2026_21h27].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_BR_-_Teste_IPTV_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_BR_-_Teste_IPTV_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos_[23-01-2026_14h56].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos_[23-01-2026_14h56].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos_[22-01-2026_21h12].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__SH-SERVER_-_Teste_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ NOVELAS TURCAS: 7445 itens
+   ├─ TURCAS: 3084 itens
+   └─ SUBTOTAL: 10529 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ NOVELAS TURCAS: 7445 itens
+   ├─ TURCAS: 3084 itens
+   └─ SUBTOTAL: 10529 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__SH-SERVER_-_Teste_S_Adultos_[23-01-2026_14h56].m3u
+   ├─ NOVELAS TURCAS: 7445 itens
+   ├─ TURCAS: 3084 itens
+   └─ SUBTOTAL: 10529 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ -SERIES | NOVELAS TURCAS: 7388 itens
+   ├─ .SERIES | Novelas Turcas: 1118 itens
+   └─ SUBTOTAL: 8506 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Thunder_PLAY_-_Teste_C_Adultos_[23-01-2026_14h56].m3u
+   ├─ -SERIES | NOVELAS TURCAS: 7388 itens
+   ├─ .SERIES | Novelas Turcas: 1118 itens
+   └─ SUBTOTAL: 8506 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ -SERIES | NOVELAS TURCAS: 7388 itens
+   ├─ .SERIES | Novelas Turcas: 1118 itens
+   └─ SUBTOTAL: 8506 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__Thunder_PLAY_-_Teste_S_Adultos_[23-01-2026_14h56].m3u
+   ├─ -SERIES | NOVELAS TURCAS: 7388 itens
+   ├─ .SERIES | Novelas Turcas: 1118 itens
+   └─ SUBTOTAL: 8506 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__WAVE_-_Teste_IPTV_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineFlix_-__WAVE_-_Teste_IPTV_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineMania_-__Completo_Com_Adultos_[22-01-2026_21h12].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineMania_-__Completo_Com_Adultos_[23-01-2026_14h56].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineMania_-__Completo_Sem_Adultos_[22-01-2026_20h40].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CineMania_-__Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ SÉRIES: NOVELAS TURCAS: 198 itens
+   └─ SUBTOTAL: 198 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h49].m3u
+   ├─ SÉRIES: NOVELAS TURCAS: 198 itens
+   └─ SUBTOTAL: 198 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h40].m3u
+   ├─ ♣️Séries | Novelas Turcas: 11667 itens
+   └─ SUBTOTAL: 11667 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+   ├─ ♣️Séries | Novelas Turcas: 11667 itens
+   └─ SUBTOTAL: 11667 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_CADULTO_[19-01-2026_18h49].m3u
+   ├─ Series | Novelas Turcas: 10504 itens
+   ├─ Series | Turcas: 6213 itens
+   ├─ ♣️Séries | Novelas Turcas: 1018 itens
+   └─ SUBTOTAL: 17735 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-_IMPRIO_-_4H_TESTE_COMPLETO_SADULTO_[19-01-2026_18h40].m3u
+   ├─ Series | Novelas Turcas: 10504 itens
+   ├─ Series | Turcas: 6213 itens
+   ├─ ♣️Séries | Novelas Turcas: 1018 itens
+   └─ SUBTOTAL: 17735 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__404SRV__-__4H_TESTE_COMPLETO_CADULTO_[22-01-2026_20h16].m3u
+   ├─ SÉRIES: NOVELAS TURCAS: 229 itens
+   └─ SUBTOTAL: 229 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__404SRV__-__4H_TESTE_COMPLETO_SADULTO_[22-01-2026_20h16].m3u
+   ├─ SÉRIES: NOVELAS TURCAS: 229 itens
+   └─ SUBTOTAL: 229 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__404SRV__-__4H_TESTE_COMPLETO_SADULTO_[23-01-2026_14h56].m3u
+   ├─ SÉRIES: NOVELAS TURCAS: 229 itens
+   └─ SUBTOTAL: 229 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__4H_TESTE_COMPLETO_CADULTO_[22-01-2026_20h16].m3u
+   ├─ ♣️Séries | Novelas Turcas: 11589 itens
+   └─ SUBTOTAL: 11589 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__4H_TESTE_COMPLETO_SADULTO_[22-01-2026_20h16].m3u
+   ├─ ♣️Séries | Novelas Turcas: 11589 itens
+   └─ SUBTOTAL: 11589 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_CADULTO_[22-01-2026_20h16].m3u
+   ├─ Series | Novelas Turcas: 10504 itens
+   ├─ Series | Turcas: 6213 itens
+   ├─ ♣️Séries | Novelas Turcas: 1036 itens
+   └─ SUBTOTAL: 17753 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: CYBER_-__IMPRIO__-__4H_TESTE_COMPLETO_SADULTO_[22-01-2026_20h16].m3u
+   ├─ Series | Novelas Turcas: 10504 itens
+   ├─ Series | Turcas: 6213 itens
+   ├─ ♣️Séries | Novelas Turcas: 1036 itens
+   └─ SUBTOTAL: 17753 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[22-01-2026_20h40].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: EVOLUTION_-_BOX_-__Teste_Completo_CAdultos_[23-01-2026_14h56].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[22-01-2026_21h12].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: EVOLUTION_-_BOX_-__Teste_Completo_SAdultos_[23-01-2026_14h56].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: EVOLUTION_-_EVO_PRIME_-__Teste_+18_[23-01-2026_14h56].m3u
+   ├─ TURCAS: 3675 itens
+   └─ SUBTOTAL: 3675 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h58].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_1HR__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_1HR__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_1HR__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_3HRS__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_3HRS__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_3HRS__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO_[22-01-2026_21h27].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_6HRS__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_1__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_21h12].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_1HR__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1613 itens
+   └─ SUBTOTAL: 8700 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1613 itens
+   └─ SUBTOTAL: 8700 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1613 itens
+   └─ SUBTOTAL: 8700 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1613 itens
+   └─ SUBTOTAL: 8700 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1613 itens
+   └─ SUBTOTAL: 8700 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[22-01-2026_21h12].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_1HR__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1914 itens
+   └─ SUBTOTAL: 9001 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_21h12].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_1HR__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1914 itens
+   └─ SUBTOTAL: 9001 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_3HRS__COMPLETO_[23-01-2026_07h51].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1914 itens
+   └─ SUBTOTAL: 9001 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_21h12].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h16].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h58].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_1HR__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_1HR__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_3HRS__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_3HRS__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_3HRS__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_6HRS__COMPLETO_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_6HRS__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_3__-__TESTE_6HRS__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO_[19-01-2026_07h14].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS_[19-01-2026_07h14].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO_[19-01-2026_07h52].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS_[19-01-2026_07h52].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_1HR__COMPLETO_[22-01-2026_21h12].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_1HR__SEM_ADULTOS_[22-01-2026_21h12].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_1HR__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[22-01-2026_21h12].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_3HRS__COMPLETO_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_3HRS__SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: GLOBAL__IPTV_4__-__TESTE_6HRS__SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda_[22-01-2026_20h16].m3u
+   ├─ ♦️ Novelas Turcas: 11356 itens
+   └─ SUBTOTAL: 11356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus_[22-01-2026_20h16].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix_[22-01-2026_20h16].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[22-01-2026_20h40].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros_[22-01-2026_20h16].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[22-01-2026_21h12].m3u
+   ├─ NOVELAS TURCAS: 7445 itens
+   ├─ TURCAS: 3084 itens
+   └─ SUBTOTAL: 10529 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus_[23-01-2026_14h56].m3u
+   ├─ NOVELAS TURCAS: 7445 itens
+   ├─ TURCAS: 3084 itens
+   └─ SUBTOTAL: 10529 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon_[22-01-2026_20h16].m3u
+   ├─ Series | Turcas¹: 8464 itens
+   └─ SUBTOTAL: 8464 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus_[22-01-2026_20h16].m3u
+   ├─ > NOVELAS TURCAS: 9087 itens
+   ├─ Series | Novelas Turcas: 1117 itens
+   └─ SUBTOTAL: 10204 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion_[23-01-2026_14h56].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam_[23-01-2026_14h56].m3u
+   ├─ S. TURCAS: 2883 itens
+   └─ SUBTOTAL: 2883 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak_[23-01-2026_14h56].m3u
+   ├─ Séries | Novelas Turcas: 6491 itens
+   ├─ Series | Turcas: 5572 itens
+   └─ SUBTOTAL: 12063 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[22-01-2026_20h16].m3u
+   ├─ Novelas Turcas: 6286 itens
+   └─ SUBTOTAL: 6286 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda_[23-01-2026_14h56].m3u
+   ├─ Novelas Turcas: 6286 itens
+   └─ SUBTOTAL: 6286 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos_[23-01-2026_14h56].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_EXTREME_-_TESTE_COMPLETO_COM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS²: 10683 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16856 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_EXTREME_-_TESTE_COMPLETO_SEM_ADULTOS_[22-01-2026_21h27].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_EXTREME_-_[19-01-2026_01h12].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_SERVER_-_TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS²: 10683 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16856 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_SERVER_-_TESTE_COMPLETO_COM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS²: 10683 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16856 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_SERVER_-_TESTE_COMPLETO_SEM_ADULTOS_[23-01-2026_14h56].m3u
+   ├─ TURCAS | MEXICANAS²: 10683 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16856 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)_[19-01-2026_21h06].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS_[19-01-2026_21h06].m3u
+   ├─ TURCAS | MEXICANAS²: 10665 itens
+   ├─ TURCAS | MEXICANAS: 6173 itens
+   └─ SUBTOTAL: 16838 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-_1_ONE_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-_1_ONE_-_Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__ALPHA_-_Completo_Com_Adultos_[23-01-2026_14h56].m3u
+   ├─ SERIES | NOVELAS TURCAS: 10504 itens
+   ├─ ♣️SÉRIES | NOVELAS TURCAS: 4220 itens
+   └─ SUBTOTAL: 14724 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__ALPHA_-_Completo_Sem_Adultos_[22-01-2026_21h12].m3u
+   ├─ SERIES | NOVELAS TURCAS: 10504 itens
+   ├─ ♣️SÉRIES | NOVELAS TURCAS: 4220 itens
+   └─ SUBTOTAL: 14724 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Com_Adultos_[23-01-2026_14h56].m3u
+   ├─ Series | Turcas: 6231 itens
+   └─ SUBTOTAL: 6231 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__Fire_PLAY_-_TURBO_-_Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ Series | Turcas: 6231 itens
+   └─ SUBTOTAL: 6231 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__LITE_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
+   ├─ ♦️ | N • TURCAS | MEXICANAS²: 10665 itens
+   ├─ ♦️ | N • TURCAS | MEXICANAS ³: 6173 itens
+   ├─ ♦️ | N • TURCAS: 3675 itens
+   └─ SUBTOTAL: 20513 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__LITE_-_Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ ♦️ | N • TURCAS | MEXICANAS²: 10665 itens
+   ├─ ♦️ | N • TURCAS | MEXICANAS ³: 6173 itens
+   ├─ ♦️ | N • TURCAS: 3675 itens
+   └─ SUBTOTAL: 20513 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__MAX_-_Completo_Com_Adultos_[23-01-2026_14h56].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Lider_-__MAX_-_Completo_Sem_Adultos_[23-01-2026_14h56].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h58].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS_[19-01-2026_07h52].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_CADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6428 itens
+   └─ SUBTOTAL: 6428 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6428 itens
+   └─ SUBTOTAL: 6428 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_CADULTOS_[22-01-2026_20h40].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_CINEMAX_-__CINEMAX_TESTE_-_sADULTOS_[22-01-2026_21h12].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS_[19-01-2026_07h14].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS_[19-01-2026_07h14].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS_[22-01-2026_21h27].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS_[22-01-2026_20h40].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS_[22-01-2026_21h12].m3u
+   ├─ Series | Turcas: 6213 itens
+   └─ SUBTOTAL: 6213 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS_[23-01-2026_14h56].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_sADULTOS_[23-01-2026_14h56].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: LIFE_UHD_-_TURBO_FLIX_-__TURBO_FLIX_TESTE_-_CADULTOS_[22-01-2026_20h40].m3u
+   ├─ Séries | Novelas Turcas: 6491 itens
+   ├─ Series | Turcas: 5572 itens
+   └─ SUBTOTAL: 12063 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: MEGA_PLAY_-_BOSS_-_TESTE_3H_CADULTO_[20-01-2026_23h42].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: MEGA_PLAY_-_PRO_-__TESTE_1_DIA_C_ADULTOS_[21-01-2026_00h23].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: MEGA_PLAY_-_PRO_-__TESTE_3H_C_ADULTO_[21-01-2026_01h22].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: MEGA_PLAY_-_PRO_-__TESTE_3H_S_ADULTO_[21-01-2026_00h23].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__ANDRMEDA_-_Teste_C_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas_[21-01-2026_08h29].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas_[21-01-2026_00h23].m3u
+   ├─ ⚡Series | Turcas: 6064 itens
+   └─ SUBTOTAL: 6064 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__EXPLOSION_-_Teste_Completo_2H_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__EXPLOSION_-_Teste_C_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__EXPLOSION_-_Teste_S_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__FIRE_-_Teste_12H_C_Adultos_[23-01-2026_14h56].m3u
+   ├─ ♦️ | N • TURCAS | MEXICANAS²: 10665 itens
+   ├─ ♦️ | N • TURCAS | MEXICANAS ³: 6173 itens
+   ├─ ♦️ | N • TURCAS: 3675 itens
+   └─ SUBTOTAL: 20513 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__FIRE_-_Teste_12H_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ ♦️ | N • TURCAS | MEXICANAS²: 10665 itens
+   ├─ ♦️ | N • TURCAS | MEXICANAS ³: 6173 itens
+   ├─ ♦️ | N • TURCAS: 3675 itens
+   └─ SUBTOTAL: 20513 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__GALAXY_-_Teste_C_Adultos_12_Horas_[22-01-2026_21h27].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__GALAXY_-_Teste_C_Adulto_12_Horas_[22-01-2026_21h27].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__GALAXY_-_Teste_S_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ |  Series Novelas Turcas: 1148 itens
+   └─ SUBTOTAL: 1148 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__LUNAR_-_Teste_C_Adulto_12_Horas_[22-01-2026_21h27].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__LUNAR_-_Teste_S_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ ▶️ Series | Turcas ³: 7087 itens
+   ├─ ▶️ Series | Novelas Turcas: 1913 itens
+   └─ SUBTOTAL: 9000 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ S. Novelas Turcas: 6127 itens
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 11203 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas_[22-01-2026_20h40].m3u
+   ├─ S. Novelas Turcas: 6127 itens
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 11203 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas_[19-01-2026_07h14].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__SOLAR_-_Teste_12_Horas_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: NetPlay_-__SOLAR_-_Teste_12_Horas_S_Adultos_[23-01-2026_14h56].m3u
+   ├─ Series | Novelas Turcas: 547 itens
+   └─ SUBTOTAL: 547 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Anubis_-_Teste+18_[21-01-2026_00h23].m3u
+   ├─ ❤️ | TURCAS / MEXICANAS²: 10665 itens
+   ├─ ❤️ | TURCAS / MEXICANAS¹: 6173 itens
+   ├─ ♥️ | TURCAS: 6127 itens
+   └─ SUBTOTAL: 22965 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Anubis_-_Teste_+18_[21-01-2026_01h23].m3u
+   ├─ ❤️ | TURCAS / MEXICANAS²: 10665 itens
+   ├─ ❤️ | TURCAS / MEXICANAS¹: 6173 itens
+   ├─ ♥️ | TURCAS: 6127 itens
+   └─ SUBTOTAL: 22965 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Anubis_-_Teste_-18_[21-01-2026_01h23].m3u
+   ├─ ❤️ | TURCAS / MEXICANAS²: 10665 itens
+   ├─ ❤️ | TURCAS / MEXICANAS¹: 6173 itens
+   ├─ ♥️ | TURCAS: 6127 itens
+   └─ SUBTOTAL: 22965 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_BOSS-PLAY_-_Bossplay_+18_[21-01-2026_00h23].m3u
+   ├─ Series | Novelas Turcas: 1253 itens
+   └─ SUBTOTAL: 1253 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_BOSS-PLAY_-_Bossplay_-18_[21-01-2026_00h23].m3u
+   ├─ Series | Novelas Turcas: 1253 itens
+   └─ SUBTOTAL: 1253 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_FHMplay_-_Teste_+18_FHM_[21-01-2026_01h23].m3u
+   ├─ > NOVELAS TURCAS: 9087 itens
+   ├─ Series | Novelas Turcas: 1117 itens
+   └─ SUBTOTAL: 10204 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_FHMplay_-_Teste_-18_FHM_[21-01-2026_01h23].m3u
+   ├─ > NOVELAS TURCAS: 9087 itens
+   ├─ Series | Novelas Turcas: 1117 itens
+   └─ SUBTOTAL: 10204 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Loki_-_Teste_Loki_+18_[21-01-2026_00h23].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Loki_-_Teste_Loki_-18_[21-01-2026_00h23].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Midgard_-_TESTE_+18_A_[21-01-2026_01h23].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Midgard_-_TESTE_-18_A_[21-01-2026_01h24].m3u
+   ├─ S • Novelas Turcas: 5076 itens
+   └─ SUBTOTAL: 5076 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_ODINPLAY_+18_[21-01-2026_01h24].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_ODINPLAY_-18_[21-01-2026_00h23].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Ragnarok_-_Teste_+18_[21-01-2026_00h23].m3u
+   ├─ ♦️ Novelas Turcas: 6125 itens
+   └─ SUBTOTAL: 6125 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Ragnarok_-_Teste_-18_[21-01-2026_00h23].m3u
+   ├─ ♦️ Novelas Turcas: 6125 itens
+   └─ SUBTOTAL: 6125 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Thor_-_TESTE_THOR_+18_[21-01-2026_01h24].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Thor_-_TESTE_THOR_-18_[21-01-2026_00h23].m3u
+   ├─ TURCAS | MEXICANAS: 16358 itens
+   └─ SUBTOTAL: 16358 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Valhalla_-_Valhalla_+18_[21-01-2026_01h25].m3u
+   ├─ > NOVELAS TURCAS: 7445 itens
+   ├─ ♦️ Novelas Turcas: 6127 itens
+   └─ SUBTOTAL: 13572 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin_-_Valhalla_-_Valhalla_-18_[21-01-2026_00h23].m3u
+   ├─ > NOVELAS TURCAS: 7445 itens
+   ├─ ♦️ Novelas Turcas: 6127 itens
+   └─ SUBTOTAL: 13572 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Odin__-_ODINPLAY_+18_[21-01-2026_01h25].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: playlist_573787924_plus_test_RedPlay_kp1000.top.m3u
+   ├─ ♣️Séries | Novelas Turcas: 11589 itens
+   └─ SUBTOTAL: 11589 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ ♦️ Novelas Turcas: 5976 itens
+   └─ SUBTOTAL: 5976 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Servidor_X_-__NetTurbo_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Stark_-_Pro_[18-01-2026_20h31].m3u
+   ├─ ▶️ ✅ TURCAS: 10090 itens
+   ├─ ⭐ Novelas | Turcas: 9242 itens
+   └─ SUBTOTAL: 19332 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: Stark_-_Ultimate_[18-01-2026_20h32].m3u
+   ├─ > NOVELAS TURCAS: 2848 itens
+   ├─ Series | Novelas Turcas: 1752 itens
+   ├─ Turcas: 923 itens
+   ├─ Turcas +: 362 itens
+   └─ SUBTOTAL: 5885 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: TOP_Z_-_COMPLETO_COM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 983 itens
+   └─ SUBTOTAL: 983 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: TOP_Z_-_COMPLETO_SEM_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Novelas Turcas: 983 itens
+   └─ SUBTOTAL: 983 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Com_Adultos_[22-01-2026_20h40].m3u
+   ├─ ✨24H NOVELAS TURCAS: 48 itens
+   └─ SUBTOTAL: 48 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: VelozNet_-__MeuServidor_TV_-_Completo_Sem_Adultos_[22-01-2026_20h40].m3u
+   ├─ ✨24H NOVELAS TURCAS: 48 itens
+   └─ SUBTOTAL: 48 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: VelozNet_-__VTVBR_-_Completo_Com_Adultos_[22-01-2026_21h12].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: VelozNet_-__VTVBR_-_Completo_Sem_Adultos_[22-01-2026_20h40].m3u
+   ├─ NOVELAS TURCAS: 19958 itens
+   └─ SUBTOTAL: 19958 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: WPM_-_LION_-__TESTE_COMPLETO_C_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: WPM_-_LION_-__TESTE_COMPLETO_S_ADULTOS_[22-01-2026_20h40].m3u
+   ├─ Novelas | Turcas: 8986 itens
+   ├─ Series | Turcas: 6303 itens
+   └─ SUBTOTAL: 15289 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: WPM_-_TIGER_-__TESTE_COMPLETO_C_ADULTOS_[22-01-2026_21h27].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: WPM_-_TIGER_-__TESTE_COMPLETO_S_ADULTOS_[22-01-2026_21h27].m3u
+   ├─ TURCAS | MEXICANAS: 16356 itens
+   └─ SUBTOTAL: 16356 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: ZENITH4K_PLAYER__-_TESTE_12_HORAS_CADULTOS_[22-01-2026_20h40].m3u
+   ├─ Series | Turcas: 6428 itens
+   └─ SUBTOTAL: 6428 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: ZENITH4K_PLAYER__-_TESTE_12_HORAS_SADULTOS_[22-01-2026_21h12].m3u
+   ├─ Series | Turcas: 6428 itens
+   └─ SUBTOTAL: 6428 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: ZEROUM_-__Teste_IPTV_Completo_C_Adultos_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+📁 SERVER: ZEROUM_-__Teste_IPTV_Completo_S_Adultos_[22-01-2026_20h40].m3u
+   ├─ ◾ Séries | Turcas³: 6128 itens
+   └─ SUBTOTAL: 6128 itens encontrados neste servidor
+   ----------------------------------------
+
+🏆 TOTAL GERAL ENCONTRADO: 2577725

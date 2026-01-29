@@ -1,4 +1,0 @@
-[NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://sky.netpl4y.com/get.php?username=44257038529&password=93223036980&type=m3u_plus&output=mpegts
-[NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://sky.netpl4y.com/get.php?username=44257038529&password=93223036980&type=m3u_plus&output=hls
-[NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://sky.netpl4y.com/get.php?username=44257038529&password=93223036980&type=m3u_plus&output=mpegts
-[NetPlay_-__SKY_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://sky.netpl4y.com/get.php?username=44257038529&password=93223036980&type=m3u_plus&output=hls

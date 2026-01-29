@@ -60,3 +60,7 @@
 [New-Servers_-_AtivaBox_-_COMPLETO_COM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
 [New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
 [New-Servers_-_AtivaBox_-_COMPLETO_SEM_ADULTOS] \ud83d\udcfa WebPlayer: http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Com_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Com_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Sem_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php
+[Servidor_X_-__AtivaBox_Sem_Adultos] \ud83d\udcfa *WebPlayer:* http://webtv.iptvsmarters.com/switchuser.php

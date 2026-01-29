@@ -1,358 +1,373 @@
 import os
+import json
 import re
-import unicodedata
-import sys
-import threading
+import datetime
+from urllib.parse import urlparse
+from collections import defaultdict
 import time
-from datetime import datetime
+import shutil
 
-# Tenta importar msvcrt para detecção de tecla (Windows), senão usa input padrão
-try:
-    import msvcrt
-    PLATAFORMA_WIN = True
-except ImportError:
-    PLATAFORMA_WIN = False
+# ==============================================================================
+# CONFIGURAÇÕES
+# ==============================================================================
+PASTA_ALVO = 'Listas-Downloaded'
+PASTA_TXTS = 'TXTs'
+PASTA_ATUALIZACOES = os.path.join(PASTA_TXTS, 'Atualizacoes')
+PASTA_DBS = os.path.join(PASTA_ATUALIZACOES, 'Bancos_de_Dados') # Nova pasta para DBs fracionados
+ARQUIVO_RELATORIO_GERAL = os.path.join(PASTA_TXTS, 'Relatorio_Servidores.txt')
 
-# --- CONFIGURAÇÕES ---
-PASTA_LISTAS = "Listas-Downloaded"
-PASTA_RESULTADOS = "Resultados-Busca"
+# Caminho do antigo DB gigante (para migração automática)
+ARQUIVO_DB_JSON_ANTIGO = os.path.join(PASTA_ATUALIZACOES, 'db_historico.json')
 
-# --- CLASSE PARA GERENCIAR O TRABALHO (JOB) ---
-class BuscaJob:
-    def __init__(self, id_job, termo, tipo):
-        self.id = id_job
-        self.termo = termo
-        self.tipo = tipo  # 'simples', 'detalhada' ou 'categoria'
-        self.status = "Aguardando..."
-        self.progresso = 0.0
-        self.total_arquivos = 0
-        self.arquivo_atual = ""
-        self.resultado_path = ""
-        self.concluido = False
-        self.encontrados = 0
+# Garante que as pastas existem
+os.makedirs(PASTA_ATUALIZACOES, exist_ok=True)
+os.makedirs(PASTA_DBS, exist_ok=True)
 
-# Lista global de trabalhos
-JOBS = []
+# ==============================================================================
+# 1. MÓDULO: RELATÓRIO GERAL DE SERVIDORES
+# ==============================================================================
 
-# --- FUNÇÕES UTILITÁRIAS ---
-def normalizar_texto(texto):
-    if not texto: return ""
-    return unicodedata.normalize('NFKD', texto).encode('ASCII', 'ignore').decode('utf-8').lower()
+def extrair_servidor_base(url):
+    try:
+        parsed = urlparse(url.strip())
+        if not parsed.netloc: return None
+        return f"{parsed.scheme}://{parsed.netloc}"
+    except: return None
 
-def limpar_nome_arquivo(nome):
-    return re.sub(r'[<>:"/\\|?*]', '_', nome).strip()
+def descobrir_servidor_do_arquivo(caminho_arquivo):
+    try:
+        with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
+            for linha in f:
+                linha = linha.strip()
+                if linha.startswith('http'):
+                    base = extrair_servidor_base(linha)
+                    if base: return base
+    except: return "⚠️ Erro de Leitura"
+    return "⚠️ Nenhum link encontrado"
 
-def extrair_temporada(texto):
-    padroes = [r'[Ss](\d+)', r'[Tt](\d+)', r'(\d+)\s*[ªa]?\s*Temporada', r'Season\s*(\d+)', r'(\d+)[xX]\d+']
-    temporadas = []
-    for p in padroes:
-        matches = re.findall(p, texto, re.IGNORECASE)
-        if matches: temporadas.extend([int(m) for m in matches])
-    return max(temporadas) if temporadas else 0
+def gerar_relatorio_servidores(arquivos):
+    print("📊 Gerando Relatório Geral de Servidores...")
+    agrupamento = defaultdict(list)
+    dados_tabela = []
 
-def extrair_episodio(texto):
-    padroes = [r'[Ee](\d+)', r'[Ee]p(?:isodio)?\s*(\d+)', r'[Cc]ap(?:itulo)?\s*(\d+)', r'\d+[xX](\d+)']
-    episodios = []
-    for p in padroes:
-        matches = re.findall(p, texto, re.IGNORECASE)
-        if matches: episodios.extend([int(m) for m in matches])
-    return max(episodios) if episodios else 0
+    for arquivo in arquivos:
+        caminho = os.path.join(PASTA_ALVO, arquivo)
+        servidor = descobrir_servidor_do_arquivo(caminho)
+        dados_tabela.append((arquivo, servidor))
+        if "⚠️" not in servidor:
+            agrupamento[servidor].append(arquivo)
 
-def extrair_info_m3u(linha):
-    info = {"nome": "Desconhecido", "grupo": "Sem Categoria", "temporada": 0, "episodio": 0}
-    
-    # Extrai o grupo (categoria)
-    match_grupo = re.search(r'group-title="([^"]*)"', linha)
-    if match_grupo: 
-        info["grupo"] = match_grupo.group(1)
-    
-    # Extrai o nome
-    if "," in linha:
-        info["nome"] = linha.split(",")[-1].strip()
-    else:
-        match_nome = re.search(r'tvg-name="([^"]*)"', linha)
-        info["nome"] = match_nome.group(1) if match_nome else linha.replace("#EXTINF:", "").strip()
+    dados_tabela.sort(key=lambda x: x[0])
+
+    with open(ARQUIVO_RELATORIO_GERAL, 'w', encoding='utf-8') as f:
+        f.write(f"RELATÓRIO DE SERVIDORES - {datetime.datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
+        f.write("="*100 + "\n")
+        f.write(f"{'NOME DO ARQUIVO':<55} | {'SERVIDOR BASE'}\n")
+        f.write("="*100 + "\n")
+        for nome, serv in dados_tabela:
+            nome_display = (nome[:52] + '..') if len(nome) > 52 else nome
+            f.write(f"{nome_display:<55} | {serv}\n")
         
-    info["temporada"] = extrair_temporada(info["nome"])
-    info["episodio"] = extrair_episodio(info["nome"])
-    return info
+        f.write("\n\n" + "="*100 + "\nAGRUPAMENTO POR SERVIDOR\n" + "="*100 + "\n")
+        for servidor, lista in sorted(agrupamento.items(), key=lambda x: len(x[1]), reverse=True):
+            f.write(f"\n📡 {servidor} ({len(lista)} arquivos)\n")
+            for arq in lista: f.write(f"   ├─ {arq}\n")
 
-def verificar_episodios_faltantes(itens_temporada):
-    if not itens_temporada: return []
-    eps_presentes = sorted(list(set(i['episodio'] for i in itens_temporada if i['episodio'] > 0)))
-    if not eps_presentes: return []
-    max_ep = max(eps_presentes)
-    sequencia_ideal = set(range(1, max_ep + 1))
-    return sorted(list(sequencia_ideal - set(eps_presentes)))
+    print(f"✅ Relatório Geral salvo em: {ARQUIVO_RELATORIO_GERAL}")
 
-# --- MOTOR DE BUSCA ---
-def worker_busca(job):
-    job.status = "Iniciando..."
-    
-    if not os.path.exists(PASTA_LISTAS):
-        job.status = "Erro: Pasta não encontrada"
-        job.concluido = True
-        return
+# ==============================================================================
+# 2. MÓDULO: GERENCIAMENTO DE DADOS (DB OTIMIZADO)
+# ==============================================================================
 
-    arquivos = [f for f in os.listdir(PASTA_LISTAS) if f.endswith(('.m3u', '.m3u8', '.txt'))]
-    job.total_arquivos = len(arquivos)
-    
-    if job.total_arquivos == 0:
-        job.status = "Erro: Pasta vazia"
-        job.concluido = True
-        return
+def sanitizar_nome(nome):
+    """Remove caracteres inválidos para nomes de arquivos no Windows"""
+    return re.sub(r'[\\/*?:"<>|]', "", nome)
 
-    termos_busca = normalizar_texto(job.termo).split()
-    resultados_por_arquivo = {}
+def get_db_path(nome_base):
+    """Retorna o caminho do arquivo JSON específico para um grupo"""
+    nome_seguro = sanitizar_nome(nome_base)
+    return os.path.join(PASTA_DBS, f"db_{nome_seguro}.json")
 
-    job.status = "Rodando"
-    
-    for idx, arquivo in enumerate(arquivos, 1):
-        job.arquivo_atual = (arquivo[:20] + "..") if len(arquivo) > 23 else arquivo
-        job.progresso = (idx / job.total_arquivos) * 100
-        
-        caminho_lista = os.path.join(PASTA_LISTAS, arquivo)
+def carregar_db_grupo(nome_base):
+    """Carrega apenas o pequeno DB do grupo específico"""
+    caminho = get_db_path(nome_base)
+    if os.path.exists(caminho):
         try:
-            with open(caminho_lista, 'r', encoding='utf-8', errors='replace') as f_in:
-                linhas = f_in.readlines()
-            
-            for linha in linhas:
-                if linha.startswith("#EXTINF"):
-                    # --- LÓGICA DE CATEGORIA ---
-                    if job.tipo == "categoria":
-                        dados = extrair_info_m3u(linha)
-                        grupo_norm = normalizar_texto(dados['grupo'])
-                        
-                        # Verifica se todos os termos da busca estão no NOME DA CATEGORIA
-                        if all(t in grupo_norm for t in termos_busca):
-                            if arquivo not in resultados_por_arquivo:
-                                resultados_por_arquivo[arquivo] = {"categorias": {}}
-                            
-                            nome_grupo_real = dados['grupo']
-                            if nome_grupo_real not in resultados_por_arquivo[arquivo]["categorias"]:
-                                resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] = 0
-                            
-                            resultados_por_arquivo[arquivo]["categorias"][nome_grupo_real] += 1
-
-                    # --- LÓGICA DE CONTEÚDO (SIMPLES/DETALHADA) ---
-                    else:
-                        linha_norm = normalizar_texto(linha)
-                        if all(t in linha_norm for t in termos_busca):
-                            dados = extrair_info_m3u(linha)
-                            if arquivo not in resultados_por_arquivo:
-                                resultados_por_arquivo[arquivo] = {"itens": [], "max_temp": 0, "max_ep": 0}
-                            
-                            resultados_por_arquivo[arquivo]["itens"].append(dados)
-                            
-                            if dados["temporada"] > resultados_por_arquivo[arquivo]["max_temp"]:
-                                resultados_por_arquivo[arquivo]["max_temp"] = dados["temporada"]
-                                resultados_por_arquivo[arquivo]["max_ep"] = dados["episodio"]
-                            elif dados["temporada"] == resultados_por_arquivo[arquivo]["max_temp"]:
-                                if dados["episodio"] > resultados_por_arquivo[arquivo]["max_ep"]:
-                                    resultados_por_arquivo[arquivo]["max_ep"] = dados["episodio"]
+            with open(caminho, 'r', encoding='utf-8') as f:
+                return json.load(f)
         except: pass
+    return None
 
-    # Gerar Relatório
-    job.status = "Gerando Relatório..."
-    if resultados_por_arquivo:
-        caminho = gerar_relatorio_arquivo(job.termo, resultados_por_arquivo, job.tipo)
-        job.resultado_path = caminho
+def salvar_db_grupo(dados, nome_base):
+    """Salva o pequeno DB do grupo específico"""
+    caminho = get_db_path(nome_base)
+    try:
+        with open(caminho, 'w', encoding='utf-8') as f:
+            json.dump(dados, f, indent=4, ensure_ascii=False)
+    except Exception as e:
+        print(f"❌ Erro ao salvar DB de {nome_base}: {e}")
+
+def migrar_db_gigante_se_existir():
+    """
+    Função crucial: Detecta se existe o DB antigo de 3GB.
+    Se existir, lê ele UMA VEZ e quebra em vários arquivinhos na pasta 'Bancos_de_Dados'.
+    """
+    if os.path.exists(ARQUIVO_DB_JSON_ANTIGO):
+        print("\n⚠️  DETECTADO BANCO DE DADOS ANTIGO (GIGANTE). INICIANDO MIGRAÇÃO...")
+        print("    Isso pode levar alguns minutos, mas só precisa ser feito uma vez.")
         
-        if job.tipo == "categoria":
-            # Soma total de itens em todas as categorias encontradas
-            total = 0
-            for arq in resultados_por_arquivo.values():
-                total += sum(arq["categorias"].values())
-            job.encontrados = total
-        else:
-            job.encontrados = sum(len(d['itens']) for d in resultados_por_arquivo.values())
+        try:
+            with open(ARQUIVO_DB_JSON_ANTIGO, 'r', encoding='utf-8') as f:
+                db_gigante = json.load(f)
             
-        job.status = "Concluído"
-    else:
-        job.status = "Nada encontrado"
+            total_grupos = len(db_gigante)
+            print(f"    📦 Extraindo dados de {total_grupos} grupos de servidores...")
+
+            for i, (nome_base, dados) in enumerate(db_gigante.items()):
+                salvar_db_grupo(dados, nome_base)
+                if i > 0 and i % 50 == 0: 
+                    print(f"    ... processado {i}/{total_grupos} grupos")
+
+            print("    ✅ Migração concluída! Renomeando arquivo antigo para .backup")
+            shutil.move(ARQUIVO_DB_JSON_ANTIGO, ARQUIVO_DB_JSON_ANTIGO + ".backup")
+        
+        except Exception as e:
+            print(f"    ❌ O ARQUIVO GIGANTE ESTÁ CORROMPIDO OU É MUITO GRANDE: {e}")
+            print("    ⚠️  Movendo arquivo para '.corrompido' para evitar loop infinito e travamentos.")
+            
+            # AQUI ESTÁ A CORREÇÃO:
+            # Se der erro, a gente move o arquivo mesmo assim para ele não ser lido na próxima vez.
+            destino_erro = ARQUIVO_DB_JSON_ANTIGO + ".corrompido"
+            
+            # Se já existir um corrompido antigo, deleta ele antes de mover o novo
+            if os.path.exists(destino_erro):
+                os.remove(destino_erro)
+                
+            try:
+                shutil.move(ARQUIVO_DB_JSON_ANTIGO, destino_erro)
+                print(f"    ✅ Arquivo problemático renomeado para: {os.path.basename(destino_erro)}")
+            except OSError as err:
+                print(f"    💀 Não foi possível renomear o arquivo (feche se estiver aberto em outro lugar): {err}")
+
+            print("    O script continuará criando DBs novos do zero a partir de agora.")
+
+# ==============================================================================
+# 3. MÓDULO: RASTREAMENTO E LIMPEZA
+# ==============================================================================
+
+def extrair_data_nome(nome_arquivo):
+    # Procura padrão [19-01-2026_07h14]
+    match = re.search(r'\[(\d{2}-\d{2}-\d{4}_\d{2}h\d{2})\]', nome_arquivo)
+    if match:
+        return datetime.datetime.strptime(match.group(1), "%d-%m-%Y_%Hh%M")
+    return datetime.datetime.min
+
+def extrair_itens_m3u(caminho_arquivo):
+    itens = set()
+    try:
+        with open(caminho_arquivo, 'r', encoding='utf-8', errors='ignore') as f:
+            lines = f.readlines()
+        
+        grupo_atual = "Sem Grupo"
+        for line in lines:
+            line = line.strip()
+            if line.startswith('#EXTINF'):
+                match_group = re.search(r'group-title="([^"]+)"', line)
+                if match_group: grupo_atual = match_group.group(1)
+                nome = line.split(',')[-1].strip()
+                item_formatado = f"[{grupo_atual}] {nome}"
+                itens.add(item_formatado)
+    except Exception as e:
+        print(f"⚠️ Erro ao ler {caminho_arquivo}: {e}")
+    return itens
+
+def processar_mudancas(arquivos):
+    # Passo 1: Verifica se precisa migrar o DB antigo antes de começar
+    migrar_db_gigante_se_existir()
+
+    print("\n🔄 Iniciando verificação de mudanças e limpeza (MODO OTIMIZADO)...")
     
-    job.concluido = True
-
-def gerar_relatorio_arquivo(termo, resultados, tipo):
-    conteudo = []
-    conteudo.append("="*60)
-    conteudo.append(f"          RELATÓRIO: {termo.upper()}")
-    conteudo.append(f" Tipo: {tipo.title()} | Data: {datetime.now().strftime('%d/%m/%Y %H:%M')}")
-    conteudo.append("="*60 + "\n")
-
-    if tipo == "categoria":
-        conteudo.append("📚 CONTAGEM POR CATEGORIA:\n")
-        total_geral = 0
-        for arquivo, dados in resultados.items():
-            conteudo.append(f"📁 SERVER: {arquivo}")
-            categorias = dados["categorias"]
-            
-            # Ordena categorias por quantidade (do maior para o menor)
-            cat_ordenadas = sorted(categorias.items(), key=lambda x: x[1], reverse=True)
-            
-            subtotal = 0
-            for nome_cat, qtd in cat_ordenadas:
-                conteudo.append(f"   ├─ {nome_cat}: {qtd} itens")
-                subtotal += qtd
-            
-            conteudo.append(f"   └─ SUBTOTAL: {subtotal} itens encontrados neste servidor")
-            conteudo.append("   " + "-"*40)
-            total_geral += subtotal
-        
-        conteudo.append(f"\n🏆 TOTAL GERAL ENCONTRADO: {total_geral}")
-
-    elif tipo == "simples":
-        conteudo.append("📊 RESUMO (ÚLTIMO EPISÓDIO POR TEMPORADA):\n")
-        for arquivo, dados in resultados.items():
-            info_server = f" > [SERVER: {arquivo}]"
-            if dados["max_temp"] > 0: info_server += f" -> Maior Temp: {dados['max_temp']}ª | Maior Ep: {dados['max_ep']}"
-            else: info_server += " -> Conteúdo sem numeração"
-            conteudo.append(info_server)
-            
-            itens_por_temp = {}
-            for item in dados["itens"]:
-                t = item["temporada"]
-                if t not in itens_por_temp: itens_por_temp[t] = []
-                itens_por_temp[t].append(item)
-            
-            temps_ordenadas = sorted(itens_por_temp.keys())
-            if temps_ordenadas: conteudo.append("   " + "-"*40)
-            
-            for t in temps_ordenadas:
-                lista_temp = itens_por_temp[t]
-                ultimo = max(lista_temp, key=lambda x: x["episodio"])
-                faltantes = verificar_episodios_faltantes(lista_temp)
-                
-                lbl_t = f"{t}ª Temp" if t > 0 else "Outros"
-                lbl_e = f"Ep: {ultimo['episodio']}" if ultimo['episodio'] > 0 else ""
-                
-                conteudo.append(f"   ├─ {ultimo['nome']}")
-                conteudo.append(f"   └─ [{lbl_t} | {lbl_e}] em {ultimo['grupo']}")
-                if faltantes:
-                    s_falt = str(faltantes) if len(faltantes) < 15 else f"{len(faltantes)} eps (ex: {faltantes[:5]}...)"
-                    conteudo.append(f"      ⚠️  FALTAM: {s_falt}")
-                conteudo.append("   " + "-"*40)
-            conteudo.append("\n")
-
-    else: # Detalhada
-        conteudo.append("📝 LISTAGEM COMPLETA:\n")
-        for arquivo, dados in resultados.items():
-            conteudo.append(f"📁 SERVER: {arquivo}")
-            for item in dados["itens"]:
-                info = f" T{item['temporada']} E{item['episodio']}" if item['temporada'] > 0 else ""
-                conteudo.append(f"   ├─ {item['nome']}")
-                conteudo.append(f"   └─ Grupo: {item['grupo']} {info}")
-                conteudo.append("   " + "-"*30)
-            conteudo.append("\n")
-
-    nome_saida = f"Busca_{tipo}_{limpar_nome_arquivo(termo)}.txt"
-    caminho_full = os.path.join(PASTA_RESULTADOS, nome_saida)
-    with open(caminho_full, 'w', encoding='utf-8') as f:
-        f.write("\n".join(conteudo))
-    return caminho_full
-
-# --- INTERFACE E MENU ---
-def monitorar_status():
-    while True:
-        os.system('cls' if os.name == 'nt' else 'clear')
-        print("================================================================")
-        print("📊 MONITOR DE BUSCAS (Pressione 'ESC' ou 'Q' para voltar ao menu)")
-        print("================================================================")
-        print(f"{'ID':<3} | {'TERMO':<15} | {'STATUS':<15} | {'PROGRESSO':<20} | {'INFO'}")
-        print("-" * 80)
-
-        todos_concluidos = True
-        
-        for job in JOBS:
-            if not job.concluido: todos_concluidos = False
-            
-            # Barra de progresso visual
-            blocos = int(job.progresso / 5) # 20 blocos total
-            barra = "█" * blocos + "░" * (20 - blocos)
-            perc = f"{job.progresso:.1f}%"
-            
-            status_cor = job.status
-            if job.status == "Concluído": status_cor = "✅ Concluído"
-            elif job.status == "Nada encontrado": status_cor = "❌ Vazio"
-            
-            print(f"{job.id:<3} | {job.termo[:15]:<15} | {status_cor:<15} | {barra} {perc} | {job.arquivo_atual}")
-
-        print("\n" + "=" * 80)
-        
-        # Verificar teclas para sair (Windows)
-        if PLATAFORMA_WIN:
-            if msvcrt.kbhit():
-                key = msvcrt.getch()
-                if key in [b'q', b'Q', b'\x1b']: # ESC ou Q
-                    break
+    # Agrupar arquivos por "Nome Base" (Nome da lista)
+    grupos_listas = defaultdict(list)
+    for arq in arquivos:
+        if '[' in arq:
+            nome_base = arq.split('[')[0].strip(' _-')
         else:
-            print("(Pressione Ctrl+C para voltar ao menu)")
-            # Linux/Mac precisa de CTRL+C neste loop simples
-            try:
-                time.sleep(0.5)
-            except KeyboardInterrupt:
-                break
-            continue
-            
-        time.sleep(0.5)
+            nome_base = arq.replace('.m3u', '').strip()
+        grupos_listas[nome_base].append(arq)
 
+    count_processados = 0
+    count_deletados = 0
+    erros = []
+
+    # Iterar sobre cada grupo (Servidor/Lista)
+    for nome_base, lista_arquivos in grupos_listas.items():
+        try:
+            # 1. Carrega o histórico APENAS deste grupo
+            db_grupo = carregar_db_grupo(nome_base)
+            
+            # Se não existir, cria estrutura nova
+            if db_grupo is None:
+                db_grupo = {
+                    "processed_files": [],
+                    "current_items": [], 
+                    "first_seen": {},
+                    "erros": []
+                }
+
+            # Ordena arquivos por data (mais antigo primeiro)
+            lista_arquivos_ordenada = sorted(lista_arquivos, key=extrair_data_nome)
+            
+            # Separa arquivos já processados dos não processados
+            arquivos_ja_processados = []
+            arquivos_para_processar = []
+            
+            for arq in lista_arquivos_ordenada:
+                if arq in db_grupo["processed_files"]:
+                    arquivos_ja_processados.append(arq)
+                else:
+                    arquivos_para_processar.append(arq)
+
+            # Prepara arquivo de log
+            nome_log_seguro = sanitizar_nome(nome_base)
+            arquivo_log_mudancas = os.path.join(PASTA_ATUALIZACOES, f"LOG_{nome_log_seguro}.txt")
+            mudanca_no_db = False
+
+            # Processa primeiro os arquivos já processados (para manter o histórico)
+            for arquivo in arquivos_ja_processados:
+                caminho_full = os.path.join(PASTA_ALVO, arquivo)
+                if not os.path.exists(caminho_full):
+                    db_grupo["processed_files"].remove(arquivo)
+                    mudanca_no_db = True
+
+            # Processa os arquivos novos
+            for arquivo in arquivos_para_processar:
+                caminho_full = os.path.join(PASTA_ALVO, arquivo)
+                
+                # Verifica se o arquivo existe e tem conteúdo
+                if not os.path.exists(caminho_full):
+                    erro_msg = f"Arquivo não encontrado: {arquivo}"
+                    print(f"   ⚠️ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+                    
+                if os.path.getsize(caminho_full) == 0:
+                    erro_msg = f"Arquivo vazio: {arquivo}"
+                    print(f"   ⚠️ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+
+                print(f"   🔎 Analisando: {arquivo}...")
+                data_arq_obj = extrair_data_nome(arquivo)
+                data_str = data_arq_obj.strftime("%d/%m/%Y %H:%M") if data_arq_obj != datetime.datetime.min else "Data Desconhecida"
+
+                try:
+                    novos_itens_set = extrair_itens_m3u(caminho_full)
+                    if not novos_itens_set:
+                        raise ValueError("Nenhum item válido encontrado no arquivo")
+                except Exception as e:
+                    erro_msg = f"Erro ao processar {arquivo}: {str(e)}"
+                    print(f"   ❌ {erro_msg}")
+                    db_grupo["erros"].append({"arquivo": arquivo, "erro": str(e), "data": datetime.datetime.now().isoformat()})
+                    mudanca_no_db = True
+                    continue
+
+                itens_anteriores = set(db_grupo["current_items"])
+
+                adicionados = novos_itens_set - itens_anteriores
+                removidos = itens_anteriores - novos_itens_set
+                
+                # Atualiza datas de 'primeira vez visto'
+                for item in adicionados:
+                    if item not in db_grupo["first_seen"]:
+                        db_grupo["first_seen"][item] = data_str
+                
+                eh_primeira_carga = len(db_grupo["processed_files"]) == 0
+                
+                # Escreve no Log
+                with open(arquivo_log_mudancas, 'a', encoding='utf-8') as log:
+                    log.write(f"\n{'='*60}\n")
+                    log.write(f"📁 ARQUIVO: {arquivo}\n")
+                    log.write(f"📅 DATA: {data_str}\n")
+                    log.write(f"{'-'*60}\n")
+
+                    if eh_primeira_carga:
+                        log.write(f"ℹ️ BASE DE DADOS INICIADA: {len(novos_itens_set)} itens.\n")
+                    else:
+                        if not adicionados and not removidos:
+                            log.write("✅ SEM MUDANÇAS NA GRADE.\n")
+                        if adicionados:
+                            log.write(f"🟢 ENTRARAM ({len(adicionados)}):\n")
+                            for item in sorted(list(adicionados)):
+                                data_visto = db_grupo["first_seen"].get(item, "Hoje")
+                                log.write(f"   + {item}  | (1ª vez: {data_visto})\n")
+                        if removidos:
+                            log.write(f"\n🔴 SAÍRAM ({len(removidos)}):\n")
+                            for item in sorted(list(removidos)):
+                                data_visto = db_grupo["first_seen"].get(item, "N/A")
+                                log.write(f"   - {item}  | (Visto em: {data_visto})\n")
+
+                # Atualiza dados na memória
+                db_grupo["current_items"] = list(novos_itens_set)
+                db_grupo["processed_files"].append(arquivo)
+                count_processados += 1
+                mudanca_no_db = True
+
+            # Limpeza de arquivos antigos (mantém apenas o mais recente)
+            if len(lista_arquivos_ordenada) > 1:
+                # Mantém apenas o arquivo mais recente
+                arquivo_mais_recente = lista_arquivos_ordenada[-1]
+                for arquivo in lista_arquivos_ordenada[:-1]:  # Todos exceto o mais recente
+                    caminho_arquivo = os.path.join(PASTA_ALVO, arquivo)
+                    try:
+                        if os.path.exists(caminho_arquivo):
+                            os.remove(caminho_arquivo)
+                            print(f"      🗑️  Versão antiga removida: {arquivo}")
+                            count_deletados += 1
+                    except Exception as e:
+                        erro_msg = f"Erro ao remover arquivo antigo {arquivo}: {str(e)}"
+                        print(f"   ⚠️ {erro_msg}")
+                        db_grupo["erros"].append({"arquivo": arquivo, "erro": erro_msg, "data": datetime.datetime.now().isoformat()})
+                        mudanca_no_db = True
+
+            # Salva as alterações no banco de dados
+            if mudanca_no_db:
+                salvar_db_grupo(db_grupo, nome_base)
+
+        except Exception as e:
+            erro_msg = f"Erro ao processar o grupo {nome_base}: {str(e)}"
+            print(f"   ❌ {erro_msg}")
+            erros.append(erro_msg)
+
+    # Resumo final
+    print(f"\n✅ Concluído! {count_processados} arquivos processados, {count_deletados} arquivos antigos removidos.")
+    print(f"📂 Logs em: {PASTA_ATUALIZACOES}")
+    print(f"📂 Bancos de dados otimizados em: {PASTA_DBS}")
+    
+    if erros:
+        print("\n⚠️  Foram encontrados os seguintes erros durante o processamento:")
+        for erro in erros:
+            print(f"   - {erro}")
+        print("\nVerifique os logs individuais para mais detalhes.")
+
+# ==============================================================================
+# MAIN
+# ==============================================================================
 def main():
-    if not os.path.exists(PASTA_LISTAS): os.makedirs(PASTA_LISTAS)
-    if not os.path.exists(PASTA_RESULTADOS): os.makedirs(PASTA_RESULTADOS)
+    if not os.path.exists(PASTA_ALVO):
+        print(f"❌ Pasta '{PASTA_ALVO}' não encontrada.")
+        return
 
-    while True:
-        os.system('cls' if os.name == 'nt' else 'clear')
-        print("==========================================")
-        print("🔎 BUSCADOR SIGMA V9 (MULTI-THREAD)")
-        print("==========================================")
-        print("1. Nova Busca Simples (Filmes/Series)")
-        print("2. Nova Busca Detalhada (Lista tudo)")
-        print("3. Nova Busca por Categoria (Contagem)")
-        print("4. Monitorar Status das Buscas")
-        print("5. Sair")
-        print("==========================================")
-        
-        # Mostra um mini status no rodapé do menu
-        ativos = len([j for j in JOBS if not j.concluido])
-        if ativos > 0:
-            print(f"⚠️  Existem {ativos} buscas rodando em segundo plano.")
-            print("   Selecione '4' para ver detalhes.")
-            print("==========================================")
+    todos_arquivos = [f for f in os.listdir(PASTA_ALVO) if f.endswith('.m3u')]
+    
+    if not todos_arquivos:
+        print("Nenhum arquivo .m3u encontrado.")
+        return
 
-        opcao = input("Opção: ").strip()
-
-        if opcao == "5":
-            if ativos > 0:
-                resp = input("Ainda há buscas rodando. Sair mesmo? (S/N): ")
-                if resp.lower() != 's': continue
-            sys.exit()
-
-        elif opcao in ["1", "2", "3"]:
-            tipos = {"1": "simples", "2": "detalhada", "3": "categoria"}
-            tipo = tipos[opcao]
-            
-            termo = input(f"\n[{tipo.upper()}] Termo: ").strip()
-            if termo:
-                novo_job = BuscaJob(len(JOBS)+1, termo, tipo)
-                JOBS.append(novo_job)
-                
-                # Inicia a thread
-                t = threading.Thread(target=worker_busca, args=(novo_job,))
-                t.daemon = True # Thread morre se fechar o programa
-                t.start()
-                
-                print(f"✅ Busca iniciada para '{termo}'!")
-                time.sleep(1) # Pausa rápida para ler
-        
-        elif opcao == "4":
-            try:
-                monitorar_status()
-            except KeyboardInterrupt:
-                pass # Volta pro menu
-        
-        else:
-            print("Opção inválida.")
-            time.sleep(1)
+    gerar_relatorio_servidores(todos_arquivos)
+    processar_mudancas(todos_arquivos)
 
 if __name__ == "__main__":
     main()

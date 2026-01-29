@@ -1,0 +1,16 @@
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=13638868308&password=14645184951&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=hls
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=mpegts
+[NetPlay_-__SPEED_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://speed.npremium.fun/get.php?username=34019046905&password=89943769026&type=m3u_plus&output=hls

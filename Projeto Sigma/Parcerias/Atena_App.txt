@@ -1,0 +1,16 @@
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=50983613120&password=97164422560&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=hls
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=mpegts
+[NetPlay_-__ATENA_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://atena.npremium.fun/get.php?username=87005000727&password=60858721554&type=m3u_plus&output=hls

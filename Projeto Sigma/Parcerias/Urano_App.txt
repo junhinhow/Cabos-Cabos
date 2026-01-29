@@ -6,3 +6,11 @@
 [NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=hls
 [NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe2 Link (M3U): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=mpegts
 [NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=hls
+[NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://urano.netpl4y.com/get.php?username=74771265103&password=50185912805&type=m3u_plus&output=mpegts
+[NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=74771265103&password=50185912805&type=m3u_plus&output=hls
+[NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://urano.netpl4y.com/get.php?username=74771265103&password=50185912805&type=m3u_plus&output=mpegts
+[NetPlay_-__URANO_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=74771265103&password=50185912805&type=m3u_plus&output=hls
+[NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe2 Link (M3U): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=mpegts
+[NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=hls
+[NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe2 Link (M3U): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=mpegts
+[NetPlay_-__URANO_-_Teste_S_Adultos_12_Horas] \ud83d\udfe1 Link (HLS): http://urano.netpl4y.com/get.php?username=37112454785&password=98773276036&type=m3u_plus&output=hls

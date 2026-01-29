@@ -2008,5 +2008,17 @@
         "url": "http://cddn.site:80/get.php?username=568656553&password=566793212&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-29 12:19:00"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_C_ADULTOS",
+        "url": "http://oneprime.fun/get.php?username=293815133&password=601983856&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-29 12:20:20"
+    },
+    {
+        "nome": "PRIME_LUX_-_PRIMEONE_-__TESTE_COMPLETO_S_ADULTOS",
+        "url": "http://oneprime.fun/get.php?username=849026422&password=231209759&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-29 12:20:20"
     }
 ]

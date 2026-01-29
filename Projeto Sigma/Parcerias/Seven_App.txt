@@ -100,3 +100,23 @@
 [NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://seven.npremium.fun/get.php?username=94412730173&password=58877258360&type=m3u_plus&output=hls
 [NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://seven.npremium.fun/get.php?username=94412730173&password=58877258360&type=m3u_plus&output=mpegts
 [NetPlay_-_7_SEVEN_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://seven.npremium.fun/get.php?username=94412730173&password=58877258360&type=m3u_plus&output=hls
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe1 *Link (HLS):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=hls
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_+18] \ud83d\udfe1 *Link (HLS):* http://7seventop.com.br/get.php?username=192397011&password=608915135&type=m3u_plus&output=hls
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe1 *Link (HLS):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=hls
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe2 *Link (M3U):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=ts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=mpegts
+[Odin_-_BOSS-PLAY_-_Bossplay_-18] \ud83d\udfe1 *Link (HLS):* http://7seventop.com.br/get.php?username=219446136&password=598875384&type=m3u_plus&output=hls

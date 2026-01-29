@@ -2050,5 +2050,17 @@
         "url": "http://anunis250.ad18.top/get.php?username=979203500&password=306619388&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-29 12:24:34"
+    },
+    {
+        "nome": "TOP_X_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://anunis250.ad18.top/get.php?username=532565553&password=403266704&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-29 12:24:50"
+    },
+    {
+        "nome": "TOP_Y_-_COMPLETO_COM_ADULTOS",
+        "url": "http://evo01.top/get.php?username=656341718&password=748345244&type=m3u_plus&output=mpegts",
+        "erro": "TIMEOUT: Conexão lenta/travada",
+        "data": "2026-01-29 12:24:54"
     }
 ]

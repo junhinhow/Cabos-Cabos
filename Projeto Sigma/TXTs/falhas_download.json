@@ -2020,5 +2020,23 @@
         "url": "http://oneprime.fun/get.php?username=849026422&password=231209759&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
         "data": "2026-01-29 12:20:20"
+    },
+    {
+        "nome": "Servidor_X_-__DUO_Teste_-_C_Adulto",
+        "url": "http://daxoi.online/get.php?username=963731572&password=686898516&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-29 12:22:24"
+    },
+    {
+        "nome": "Servidor_X_-__DUO_Teste_-_S_Adulto",
+        "url": "http://daxoi.online/get.php?username=633703428&password=185229863&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-29 12:22:27"
+    },
+    {
+        "nome": "Servidor_X_-__NetTurbo",
+        "url": "http://megaplay.uno/get.php?username=787161256&password=696386293&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 403",
+        "data": "2026-01-29 12:22:27"
     }
 ]

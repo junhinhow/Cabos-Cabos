@@ -6,3 +6,11 @@
 [NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=89052156152&password=54966025360&type=m3u_plus&output=hls
 [NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=mpegts
 [NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=hls
+[NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://olympus.netpl4y.com/get.php?username=89052156152&password=54966025360&type=m3u_plus&output=mpegts
+[NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=mpegts
+[NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=89052156152&password=54966025360&type=m3u_plus&output=hls
+[NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=hls
+[NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://olympus.netpl4y.com/get.php?username=89052156152&password=54966025360&type=m3u_plus&output=mpegts
+[NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe2 Link (M3U): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=mpegts
+[NetPlay_-__OLYMPUS_-_Teste_C_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=89052156152&password=54966025360&type=m3u_plus&output=hls
+[NetPlay_-__OLYMPUS_-_Teste_S_Adulto_12_Horas] \ud83d\udfe1 Link (HLS): http://olympus.netpl4y.com/get.php?username=20398784736&password=98731835374&type=m3u_plus&output=hls

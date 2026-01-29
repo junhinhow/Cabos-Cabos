@@ -639,13 +639,13 @@
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_CADULTO",
         "url": "http://infra10.top/get.php?username=889267721741&password=852184238561&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 17:36:13"
+        "data": "2026-01-29 18:09:04"
     },
     {
         "nome": "CYBER_-_404SRV_-_4H_TESTE_COMPLETO_SADULTO",
         "url": "http://infra10.top/get.php?username=393593883583&password=583223603774&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 17:36:13"
+        "data": "2026-01-29 18:09:04"
     },
     {
         "nome": "CYBER_-_4H_TESTE_COMPLETO_CADULTO",
@@ -1533,13 +1533,13 @@
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=610579366&password=279169465&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 17:36:09"
+        "data": "2026-01-29 18:08:52"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=200967548&password=122702564&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 17:36:11"
+        "data": "2026-01-29 18:08:42"
     },
     {
         "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
@@ -2091,19 +2091,19 @@
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
         "url": "http://net.cnfl.xyz/get.php?username=48840106&password=70096515&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 17:36:10"
+        "data": "2026-01-29 18:08:45"
     },
     {
         "nome": "CineFlix_-__Cine_Z_-_Teste_IPTV_C_Adultos",
         "url": "http://x28.acxll.shop/get.php?username=55800544&password=20410027&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
-        "data": "2026-01-29 17:36:11"
+        "data": "2026-01-29 18:08:52"
     },
     {
         "nome": "CineFlix_-__Cine_Z_-_Teste_IPTV_S_Adultos",
         "url": "http://x28.acxll.shop/get.php?username=58974795&password=60702069&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
-        "data": "2026-01-29 17:36:11"
+        "data": "2026-01-29 18:08:53"
     },
     {
         "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
@@ -2115,13 +2115,13 @@
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18",
         "url": "http://net.cnfl.xyz/get.php?username=23124775&password=27831984&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 17:36:14"
+        "data": "2026-01-29 18:08:59"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos",
         "url": "http://net.cnfl.xyz/get.php?username=45770220&password=52263579&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-29 17:36:17"
+        "data": "2026-01-29 18:09:01"
     },
     {
         "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",

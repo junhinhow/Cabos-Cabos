@@ -2338,5 +2338,11 @@
         "url": "http://xcloudcine.xyz/get.php?username=88154644&password=75891921&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 14:28:47"
+    },
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=77322620&password=27810967&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-31 14:29:03"
     }
 ]

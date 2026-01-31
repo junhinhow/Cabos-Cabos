@@ -1317,13 +1317,13 @@
         "nome": "7_Odin_-_7seven_-_7seven_-18",
         "url": "http://c.7sevenplay10.top/get.php?username=396746248&password=593222445&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:23:14"
+        "data": "2026-01-31 19:04:50"
     },
     {
         "nome": "7_Odin_-_7seven_-_7seven_+18",
         "url": "http://c.7sevenplay10.top/get.php?username=996676995&password=857056777&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:23:15"
+        "data": "2026-01-31 19:04:49"
     },
     {
         "nome": "AMERICAN_-_NEW_-__New_Completo_SAdultos",
@@ -1395,13 +1395,13 @@
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=730728&password=766889&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:27:28"
+        "data": "2026-01-31 19:04:51"
     },
     {
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=533726&password=562648&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:27:29"
+        "data": "2026-01-31 19:04:51"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
@@ -2252,26 +2252,26 @@
     {
         "nome": "AMERICAN_-_SUPER_-__American_Super_CAdultos",
         "url": "http://plus.cnfl.xyz/get.php?username=28267016&password=52779306&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:24:07"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:49"
     },
     {
         "nome": "AMERICAN_-_SUPER_-__American_Super_SAdultos",
         "url": "http://plus.cnfl.xyz/get.php?username=19639971&password=21433821&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:24:11"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:49"
     },
     {
         "nome": "AtivaBox_-__Lite_PLAY_-_Teste_Completo",
         "url": "http://dnsd1.space/get.php?username=770130605&password=335607269&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:24:29"
+        "data": "2026-01-31 19:04:50"
     },
     {
         "nome": "AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos",
         "url": "http://dnsd1.space/get.php?username=893472130&password=689163638&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:24:30"
+        "data": "2026-01-31 19:04:51"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
@@ -2289,61 +2289,61 @@
         "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "http://blackrubi.shop/get.php?username=859294092&password=307773305&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
-        "data": "2026-01-31 14:26:13"
+        "data": "2026-01-31 19:04:50"
     },
     {
         "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://blackrubi.shop/get.php?username=402658539&password=889666299&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
-        "data": "2026-01-31 14:26:13"
+        "data": "2026-01-31 19:04:50"
     },
     {
         "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_C_ADULTO",
         "url": "https://evoserver.online/get.php?username=721141&password=611460&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
-        "data": "2026-01-31 14:27:27"
+        "data": "2026-01-31 19:04:51"
     },
     {
         "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_SADULTO",
         "url": "https://evoserver.online/get.php?username=912145&password=990164&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
-        "data": "2026-01-31 14:27:27"
+        "data": "2026-01-31 19:04:51"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
         "url": "http://net.cnfl.xyz/get.php?username=67216316&password=96957234&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:28:00"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:52"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18",
         "url": "http://net.cnfl.xyz/get.php?username=35424009&password=56727852&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:28:05"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:53"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos",
         "url": "http://net.cnfl.xyz/get.php?username=33411451&password=45405264&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:28:06"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:53"
     },
     {
         "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",
         "url": "http://xcloudcine.xyz/get.php?username=40730177&password=46972070&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:28:41"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:54"
     },
     {
         "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos",
         "url": "http://xcloudcine.xyz/get.php?username=88154644&password=75891921&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 14:28:47"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:55"
     },
     {
         "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
         "url": "http://x26.axpl.shop/get.php?username=77322620&password=27810967&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
-        "data": "2026-01-31 14:29:03"
+        "data": "2026-01-31 19:04:56"
     },
     {
         "nome": "GLOBAL__IPTV_2_-_TESTE_6HRS__SEM_ADULTOS",
@@ -2404,5 +2404,53 @@
         "url": "http://conectpremium.uk/get.php?username=9674400&password=5907834&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 14:37:10"
+    },
+    {
+        "nome": "CineFlix_-__VOLTZ_-_Teste_C_Adultos",
+        "url": "http://vltz.space/get.php?username=27238645&password=28399244&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:57"
+    },
+    {
+        "nome": "CineFlix_-__VOLTZ_-_Teste_S_Adultos",
+        "url": "http://vltz.space/get.php?username=62985751&password=92064940&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:58"
+    },
+    {
+        "nome": "CINEWORLD_-_PRIME_-_COMPLETO_COM_ADULTOS",
+        "url": "http://meuscanais.pro/get.php?username=679454361&password=158500667&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:58"
+    },
+    {
+        "nome": "CINEWORLD_-_PRIME_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://meuscanais.pro/get.php?username=611883731&password=746025552&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:04:59"
+    },
+    {
+        "nome": "CINEWORLD_-_TOP_-_COMPLETO_COM_ADULTOS",
+        "url": "http://srvzzi.top/get.php?username=732926368&password=729810832&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:05:00"
+    },
+    {
+        "nome": "CINEWORLD_-_TOP_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://srvzzi.top/get.php?username=964950100&password=979674128&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:05:01"
+    },
+    {
+        "nome": "CINEWORLD_-_TURBO_-_COMPLETO_COM_ADULTOS",
+        "url": "http://cdnturbox.com/get.php?username=402644211&password=961692374&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:05:01"
+    },
+    {
+        "nome": "CINEWORLD_-_TURBO_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://cdnturbox.com/get.php?username=357256185&password=387977032&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 19:05:02"
     }
 ]

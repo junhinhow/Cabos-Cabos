@@ -957,13 +957,13 @@
         "nome": "LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_CADULTOS",
         "url": "http://playwpm.site/get.php?username=317082345&password=369213426&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:43"
+        "data": "2026-01-31 19:06:57"
     },
     {
         "nome": "LIFE_UHD_-_RedPlay_-_RedPlay_TESTE_-_sADULTOS",
         "url": "http://playwpm.site/get.php?username=585859750&password=599914855&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:46"
+        "data": "2026-01-31 19:06:57"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_CINTERNACIONAL",
@@ -1767,13 +1767,13 @@
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
         "url": "http://c.lifetop.top:80/get.php?username=120983354&password=821081204&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-29 18:09:54"
+        "data": "2026-01-31 19:06:56"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_SADULTOS",
         "url": "http://c.lifetop.top:80/get.php?username=861468758&password=878741087&type=m3u_plus&output=mpegts",
         "erro": "TIMEOUT: Conexão lenta/travada",
-        "data": "2026-01-29 18:09:54"
+        "data": "2026-01-31 19:07:01"
     },
     {
         "nome": "LIFE_UHD_-_TOPD+_-__TOPD+_PLAY_TESTE_-_CADULTOS",

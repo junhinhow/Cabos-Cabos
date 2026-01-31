@@ -2284,5 +2284,17 @@
         "url": "http://dns.azonixsupreme.fun/get.php?username=344275653&password=529464356&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 14:25:43"
+    },
+    {
+        "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://blackrubi.shop/get.php?username=859294092&password=307773305&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-31 14:26:13"
+    },
+    {
+        "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://blackrubi.shop/get.php?username=402658539&password=889666299&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-31 14:26:13"
     }
 ]

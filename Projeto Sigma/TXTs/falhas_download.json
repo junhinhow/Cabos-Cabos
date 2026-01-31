@@ -747,37 +747,37 @@
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=460184&password=228446&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:16"
+        "data": "2026-01-31 14:34:25"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=176626&password=541215&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:16"
+        "data": "2026-01-31 14:34:26"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=374165&password=143751&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:18"
+        "data": "2026-01-31 14:34:26"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=909204&password=322210&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:18"
+        "data": "2026-01-31 14:34:26"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=978574&password=943029&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:18"
+        "data": "2026-01-31 14:34:26"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=184602&password=540399&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:09:20"
+        "data": "2026-01-31 14:34:26"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO",
@@ -2374,5 +2374,17 @@
         "url": "http://parceria.parclll.site/get.php?username=858360&password=554708&type=m3u_plus&output=mpegts",
         "erro": "Erro API (JSON Detectado)",
         "data": "2026-01-31 14:34:24"
+    },
+    {
+        "nome": "GLOBAL__IPTV_2__-__TESTE_6HRS__SEM_ADULTOS",
+        "url": "http://parceria.parclll.site/get.php?username=470780&password=157357&type=m3u_plus&output=mpegts",
+        "erro": "Erro API (JSON Detectado)",
+        "data": "2026-01-31 14:34:25"
+    },
+    {
+        "nome": "GLOBAL__IPTV_2__-__TESTE_6HRS__COMPLETO",
+        "url": "http://parceria.parclll.site/get.php?username=785682&password=958110&type=m3u_plus&output=mpegts",
+        "erro": "Erro API (JSON Detectado)",
+        "data": "2026-01-31 14:34:26"
     }
 ]

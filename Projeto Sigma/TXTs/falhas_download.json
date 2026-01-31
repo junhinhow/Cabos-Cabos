@@ -2272,5 +2272,17 @@
         "url": "http://dnsd1.space/get.php?username=893472130&password=689163638&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-31 14:24:30"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=193411870&password=347025985&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:25:25"
+    },
+    {
+        "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
+        "url": "http://dns.azonixsupreme.fun/get.php?username=344275653&password=529464356&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:25:43"
     }
 ]

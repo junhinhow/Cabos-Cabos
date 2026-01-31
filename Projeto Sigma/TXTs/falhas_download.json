@@ -1395,13 +1395,13 @@
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=730728&password=766889&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:08:13"
+        "data": "2026-01-31 14:27:28"
     },
     {
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=533726&password=562648&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:08:14"
+        "data": "2026-01-31 14:27:29"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
@@ -2296,5 +2296,17 @@
         "url": "http://blackrubi.shop/get.php?username=402658539&password=889666299&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 530",
         "data": "2026-01-31 14:26:13"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_C_ADULTO",
+        "url": "https://evoserver.online/get.php?username=721141&password=611460&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
+        "data": "2026-01-31 14:27:27"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_SADULTO",
+        "url": "https://evoserver.online/get.php?username=912145&password=990164&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
+        "data": "2026-01-31 14:27:27"
     }
 ]

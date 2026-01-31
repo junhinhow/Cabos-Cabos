@@ -2260,5 +2260,17 @@
         "url": "http://plus.cnfl.xyz/get.php?username=19639971&password=21433821&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 14:24:11"
+    },
+    {
+        "nome": "AtivaBox_-__Lite_PLAY_-_Teste_Completo",
+        "url": "http://dnsd1.space/get.php?username=770130605&password=335607269&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 14:24:29"
+    },
+    {
+        "nome": "AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos",
+        "url": "http://dnsd1.space/get.php?username=893472130&password=689163638&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 14:24:30"
     }
 ]

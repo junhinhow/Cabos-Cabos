@@ -2308,5 +2308,23 @@
         "url": "https://evoserver.online/get.php?username=912145&password=990164&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
         "data": "2026-01-31 14:27:27"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=67216316&password=96957234&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:28:00"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18",
+        "url": "http://net.cnfl.xyz/get.php?username=35424009&password=56727852&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:28:05"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=33411451&password=45405264&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:28:06"
     }
 ]

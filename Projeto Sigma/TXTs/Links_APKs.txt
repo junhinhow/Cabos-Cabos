@@ -37007,3 +37007,11 @@ d39
 [HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
 [HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
 [HAVOK_TV_-_KLAUS_-__[Teste_04h]_-_Klaus] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros] https://aftv.news/2625911\n\u251c\u25cf
+[HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros] https://aftv.news/6442116\n\u251c\u25cf
+[HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros] https://aftv.news/9538197\n\u251c\u25cf
+[HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros] https://aftv.news/2660097\n\u251c\u25cf
+[HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500

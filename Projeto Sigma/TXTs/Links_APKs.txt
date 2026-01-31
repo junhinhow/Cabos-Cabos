@@ -37015,3 +37015,9 @@ d39
 [HAVOK_TV_-_MAGNUS_-__[Teste_6h]_-_Magnus] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
 [HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
 [HAVOK_TV_-_NEON_-__[Teste_6h]_-_Neon] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_NEXUS_-__[Teste_04h]_-_Nexus] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500

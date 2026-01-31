@@ -235,3 +235,9 @@ Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
 [31/01/2026 14:26:51] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | HTTP 405
 Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
 ------------------------------
+[31/01/2026 14:26:54] 📺 ROYAL PLAY - OMEGA - 🔷 TESTE COMPLETO C/ADULTOS🔷 | HTTP 405
+Link: https://royalplay.sigmab.pro/api/chatbot/qK4Wrwj1eN/BV4D3rrLaq
+------------------------------
+[31/01/2026 14:26:54] 📺 ROYAL PLAY - OMEGA - 🔷 TESTE COMPLETO S/ADULTOS🔷 | HTTP 405
+Link: https://royalplay.sigmab.pro/api/chatbot/qK4Wrwj1eN/rlKWOw3Wzo
+------------------------------

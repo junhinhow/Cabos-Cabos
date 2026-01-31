@@ -1317,13 +1317,13 @@
         "nome": "7_Odin_-_7seven_-_7seven_-18",
         "url": "http://c.7sevenplay10.top/get.php?username=396746248&password=593222445&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:08:01"
+        "data": "2026-01-31 14:23:14"
     },
     {
         "nome": "7_Odin_-_7seven_-_7seven_+18",
         "url": "http://c.7sevenplay10.top/get.php?username=996676995&password=857056777&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-29 18:08:01"
+        "data": "2026-01-31 14:23:15"
     },
     {
         "nome": "AMERICAN_-_NEW_-__New_Completo_SAdultos",
@@ -2248,5 +2248,17 @@
         "url": "http://fgut.shop/get.php?username=588715141&password=843446963&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-29 18:10:43"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_CAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=28267016&password=52779306&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:24:07"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_SAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=19639971&password=21433821&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:24:11"
     }
 ]

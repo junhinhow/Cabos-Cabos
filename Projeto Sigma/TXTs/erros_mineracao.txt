@@ -1,279 +1,237 @@
-[31/01/2026 14:12:53] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
-------------------------------
-[31/01/2026 14:12:53] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
-------------------------------
-[31/01/2026 14:12:53] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | HTTP 405
+[31/01/2026 14:25:29] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo C/Adultos | HTTP 405
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/bOxLAEQLZ7
 ------------------------------
-[31/01/2026 14:12:53] 🔱 EVOLUTION - BOX - ✅ Teste Completo C/Adultos | HTTP 405
-Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/BV4D3rLaqZ
+[31/01/2026 14:25:29] 🔱 EVOLUTION - PLAY - 🔱 Teste Rápido Completo S/Adultos | HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/ANKWPOKDPR
 ------------------------------
-[31/01/2026 14:12:53] 🔱 EVOLUTION - BOX - ✅ Teste Completo S/Adultos | HTTP 405
+[31/01/2026 14:25:29] 🔱 EVOLUTION - EVO PRIME - 👽 Teste -18 | HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/zpKDNX61Xl
+------------------------------
+[31/01/2026 14:25:30] 🔱 EVOLUTION - BOX - ✅ Teste Completo S/Adultos | HTTP 405
 Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/rlKWO3Wzo7
 ------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Aplicativos Androids - Ntdown - Downloader E APK | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kmVLlqKDQw
+[31/01/2026 14:25:30] 🔱 EVOLUTION - BOX - ✅ Teste Completo C/Adultos | HTTP 405
+Link: https://wptv.sigmab.pro/api/chatbot/VpKDa4kLRA/BV4D3rLaqZ
 ------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Celular Android | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XYgD95dDr6
-------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Clouddy | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/qK4Wrb9WeN
-------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Netrange | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Yen12Re1PE
-------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Iphone | HTTP 405
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Iphone | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/RYAWR2gWjl
 ------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Chromecast - Espelhamento | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/BKADdMXWlr
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Netrange | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Yen12Re1PE
 ------------------------------
-[31/01/2026 14:12:58] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Google TV | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/zpKDNNBDXl
-------------------------------
-[31/01/2026 14:12:59] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Panasonic Vieira | HTTP 405
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Panasonic Vieira | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ZVdWXlaW3q
 ------------------------------
-[31/01/2026 14:12:59] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Samsung - LG - Roku | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rdqLk4pDAE
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Chromecast - Espelhamento | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/BKADdMXWlr
 ------------------------------
-[31/01/2026 14:12:59] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Play Store | HTTP 405
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Play Store | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/o231qy914q
 ------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Samsung Série J - Hub - Develop Código IP | HTTP 405
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Celular Android | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XYgD95dDr6
+------------------------------
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Aplicativos Androids - Ntdown - Downloader E APK | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kmVLlqKDQw
+------------------------------
+[31/01/2026 14:25:32] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Samsung - LG - Roku | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rdqLk4pDAE
+------------------------------
+[31/01/2026 14:25:33] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Google TV | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/zpKDNNBDXl
+------------------------------
+[31/01/2026 14:25:33] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Clouddy | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/qK4Wrb9WeN
+------------------------------
+[31/01/2026 14:25:33] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Samsung Série J - Hub - Develop Código IP | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ANKWP6xLPR
 ------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Smart STB | HTTP 405
+[31/01/2026 14:25:33] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Smart STB | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/0RvWGa8Le3
 ------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Smarters Player Lite | HTTP 405
+[31/01/2026 14:25:34] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Smarters Player Lite | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/b8K1xJKDvG
 ------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Box | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/zpKDN6DXlE
-------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Android - Fire Stick | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ayb1BqPWPR
-------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Antiga | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/bOxLApy1Z7
-------------------------------
-[31/01/2026 14:13:00] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TCL - Philco - Panasonic - Aiwa - Phillips | HTTP 405
+[31/01/2026 14:25:34] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TCL - Philco - Panasonic - Aiwa - Phillips | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Kr6LJr5Lv9
 ------------------------------
-[31/01/2026 14:13:01] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Vidaa | HTTP 405
+[31/01/2026 14:25:34] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Antiga | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/bOxLApy1Z7
+------------------------------
+[31/01/2026 14:25:35] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Vidaa | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/8241KzOWmx
 ------------------------------
-[31/01/2026 14:13:01] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Web Player - Computador | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/z2BDv9rLrk
+[31/01/2026 14:25:35] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Box | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/zpKDN6DXlE
 ------------------------------
-[31/01/2026 14:13:01] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Video Games | HTTP 405
+[31/01/2026 14:25:35] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Video Games | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/EMeWe04DnN
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - APLICATIVOS - ⚠️ Integração Ciabra - Renovação E Vendas Automáticas Sigma | HTTP 405
+[31/01/2026 14:25:35] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - Web Player - Computador | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/z2BDv9rLrk
+------------------------------
+[31/01/2026 14:25:35] 🔰 HAVOK TV - APLICATIVOS - 🟥 [Apps] - TV Android - Fire Stick | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ayb1BqPWPR
+------------------------------
+[31/01/2026 14:25:36] 🔰 HAVOK TV - APLICATIVOS - ⚠️ Integração Ciabra - Renovação E Vendas Automáticas Sigma | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/lze15q415K
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Aplicativos Recomendados - Apps Pagos Licenciados | HTTP 405
+[31/01/2026 14:25:36] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Aplicativos Recomendados - Apps Pagos Licenciados | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kg5164DjlQ
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Bloqueio De Operadoras | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Bloqueio De Operadoras | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XYgD9JWr6V
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Fazer Migração De Outro Servidor | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Fazer Migração De Outro Servidor | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/ryJDzPz1ge
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Gerar Testes | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Gerar Testes | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/PkaL4k51gr
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Atualizar TV Box Play Store | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Atualizar TV Box Play Store | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Yxl1jAaWMj
 ------------------------------
-[31/01/2026 14:13:02] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Migrar Entre Os Servidores Da Havok | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Como Migrar Entre Os Servidores Da Havok | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kRXDgKODex
 ------------------------------
-[31/01/2026 14:13:03] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Comparações Dos Servidores | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Comparações Dos Servidores | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/JOALyl714w
 ------------------------------
-[31/01/2026 14:13:03] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Curso Iniciante IPTV - Tutoriais | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Ar0WZg1a7z
-------------------------------
-[31/01/2026 14:13:03] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Cursos - Artes - Marketing | HTTP 405
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Cursos - Artes - Marketing | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/aYB1wBWvme
 ------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Manual Do Revendedor | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMRD04p
+[31/01/2026 14:25:37] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Curso Iniciante IPTV - Tutoriais | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/Ar0WZg1a7z
 ------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Códigos De Aplicativos | HTTP 405
+[31/01/2026 14:25:38] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Códigos De Aplicativos | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/64vLbNLgGn
 ------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Qual App Indicar Para O Cliente | HTTP 405
+[31/01/2026 14:25:38] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Manual Do Revendedor | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/XKjLMRD04p
+------------------------------
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Qual App Indicar Para O Cliente | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/lze15A15KB
 ------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Resolver Problemas | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rlKWO3lWzo
-------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Suporte Ao Cliente | HTTP 405
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Suporte Ao Cliente | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kg516V41jl
 ------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Tenha Seu Próprio Aplicativo | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7loL7VM1XM
-------------------------------
-[31/01/2026 14:13:04] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Travamentos Ou Lentidão | HTTP 405
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Travamentos Ou Lentidão | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/bQELo0Dgro
 ------------------------------
-[31/01/2026 14:13:05] 🔰 HAVOK TV - DICAS - ⚽ Jogos Do Dia Ao Vivo | HTTP 405
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Tenha Seu Próprio Aplicativo | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7loL7VM1XM
+------------------------------
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⚽ Jogos Do Dia Ao Vivo | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/x2YD0EkWQP
 ------------------------------
-[31/01/2026 14:13:05] 🔰 HAVOK TV - DICAS - ⚠️ Material De Divulgação E Marketing | HTTP 405
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⭐ [Dicas] - Resolver Problemas | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/rlKWO3lWzo
+------------------------------
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - ⚠️ Material De Divulgação E Marketing | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/aYB1w0nLvm
 ------------------------------
-[31/01/2026 14:13:05] 🔰 HAVOK TV - DICAS - 🛑 Migrar Entre Os Servidores Sem Custos | HTTP 405
+[31/01/2026 14:25:39] 🔰 HAVOK TV - DICAS - 🛑 Migrar Entre Os Servidores Sem Custos | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/7V01pdM1dO
 ------------------------------
-[31/01/2026 14:13:06] 🔰 HAVOK TV - DICAS - ⚠️ Seu Próprio Aplicativo Na Play Store | HTTP 405
-Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/64vLbA41gG
-------------------------------
-[31/01/2026 14:13:06] 🔰 HAVOK TV - DICAS - ⚠️ Servidores Disponíveis | HTTP 405
+[31/01/2026 14:25:40] 🔰 HAVOK TV - DICAS - ⚠️ Servidores Disponíveis | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/kg516MGWjl
 ------------------------------
-[31/01/2026 14:13:06] 🔰 HAVOK TV - DICAS - 🛑 Trafego Pago - Anúncios Online | HTTP 405
+[31/01/2026 14:25:41] 🔰 HAVOK TV - DICAS - ⚠️ Seu Próprio Aplicativo Na Play Store | HTTP 405
+Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/64vLbA41gG
+------------------------------
+[31/01/2026 14:25:42] 🔰 HAVOK TV - DICAS - 🛑 Trafego Pago - Anúncios Online | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/lze1584W5K
 ------------------------------
-[31/01/2026 14:13:06] 🔰 HAVOK TV - KYROS - ⚡️ [Teste 04h] - Kyros | HTTP 405
+[31/01/2026 14:25:42] 🔰 HAVOK TV - KYROS - ⚡️ [Teste 04h] - Kyros | HTTP 405
 Link: https://havoktv.top/api/chatbot/mVLl9XjDQw/QywDmBGWpR
 ------------------------------
-[31/01/2026 14:13:13] 👑 Lider - 🍃 LITE - Completo Com Adultos | HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/kg516mGWjl
-------------------------------
-[31/01/2026 14:13:14] 👑 Lider - 🍃 LITE - Completo Sem Adultos | HTTP 405
+[31/01/2026 14:25:45] 👑 Lider - 🍃 LITE - Completo Sem Adultos | HTTP 405
 Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/64vLbJ4LgG
 ------------------------------
-[31/01/2026 14:13:15] 👑 Lider - Ⓜ️ MAX - Completo Com Adultos | HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/BKADdEXWlr
+[31/01/2026 14:25:45] 👑 Lider - 🍃 LITE - Completo Com Adultos | HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/kg516mGWjl
 ------------------------------
-[31/01/2026 14:13:15] 👑 Lider - Ⓜ️ MAX - Completo Sem Adultos | HTTP 405
+[31/01/2026 14:25:45] 👑 Lider - Ⓜ️ MAX - Completo Sem Adultos | HTTP 405
 Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/kRXDgMO1ex
 ------------------------------
-[31/01/2026 14:13:20] 👑 Lider - Z - COMPLETO COM ADULTOS | HTTP 405
-Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+[31/01/2026 14:25:45] 👑 Lider - Ⓜ️ MAX - Completo Com Adultos | HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDNXjB1Xl/BKADdEXWlr
 ------------------------------
-[31/01/2026 14:13:21] 👑 Lider - Z - COMPLETO SEM ADULTOS | HTTP 405
+[31/01/2026 14:25:46] 👑 Lider - Z - COMPLETO SEM ADULTOS | HTTP 405
 Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
 ------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS EXTREME - TESTE COMPLETO SEM ADULTOS | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/Yxl1jEBWMj
+[31/01/2026 14:25:46] 👑 Lider - Z - COMPLETO COM ADULTOS | HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
 ------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS EXTREME - TESTE COMPLETO COM ADULTOS | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/PkaL4qdDgr
-------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS SERVER - TESTE COMPLETO - SMART TVS ( LG / SAMSUNG / ROKU ) | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/64vLb4NWgG
-------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS SERVER - TESTE COMPLETO COM ADULTOS | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/0RvWGvlDe3
-------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS SERVER - TESTE COMPLETO PARA ANDROID | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/XYgD9EJDr6
-------------------------------
-[31/01/2026 14:13:29] 🎖️ INVICTOS SERVER - TESTE COMPLETO PARA IOS | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/7V01pzaDdO
-------------------------------
-[31/01/2026 14:13:30] 🎖️ INVICTOS SERVER - TESTE COMPLETO SEM ADULTOS | HTTP 405
-Link: https://invictosplay.sigma.st/api/chatbot/KjLMPk0104/8241KEgDmx
-------------------------------
-[31/01/2026 14:13:37] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - C/ADULTOS | HTTP 405
-Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/kRXDgEw1ex
-------------------------------
-[31/01/2026 14:13:38] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - S/ADULTOS | HTTP 405
-Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ryJDz2KDge
-------------------------------
-[31/01/2026 14:13:38] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE C/INTERNACIONAL | HTTP 405
-Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/PkaL4qdDgr
-------------------------------
-[31/01/2026 14:13:38] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | HTTP 405
-Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
-------------------------------
-[31/01/2026 14:13:39] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | HTTP 405
+[31/01/2026 14:25:49] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | HTTP 405
 Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
 ------------------------------
-[31/01/2026 14:13:43] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
-------------------------------
-[31/01/2026 14:13:43] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
-------------------------------
-[31/01/2026 14:13:43] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
-------------------------------
-[31/01/2026 14:13:43] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | HTTP 405
+[31/01/2026 14:25:50] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
 ------------------------------
-[31/01/2026 14:13:45] 📺 New-Servers - PLUS TV - COMPLETO COM ADULTOS | HTTP 405
+[31/01/2026 14:25:51] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[31/01/2026 14:25:51] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+------------------------------
+[31/01/2026 14:25:51] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
+------------------------------
+[31/01/2026 14:25:52] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------
+[31/01/2026 14:25:55] 📺 New-Servers - PLUS TV - COMPLETO COM ADULTOS | HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/boQ1Ye1ONY
 ------------------------------
-[31/01/2026 14:13:46] 📺 New-Servers - PLUS TV - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/B0VDVALK3q
-------------------------------
-[31/01/2026 14:13:47] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | HTTP 405
+[31/01/2026 14:25:55] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | HTTP 405
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
 ------------------------------
-[31/01/2026 14:13:47] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | HTTP 405
+[31/01/2026 14:25:55] 📺 New-Servers - PLUS TV - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/B0VDVALK3q
+------------------------------
+[31/01/2026 14:25:56] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | HTTP 405
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
 ------------------------------
-[31/01/2026 14:13:47] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | HTTP 405
+[31/01/2026 14:25:57] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - S/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ryJDz2KDge
+------------------------------
+[31/01/2026 14:25:57] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE C/INTERNACIONAL | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/PkaL4qdDgr
+------------------------------
+[31/01/2026 14:25:57] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | HTTP 405
 Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
 ------------------------------
-[31/01/2026 14:13:50] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | HTTP 405
+[31/01/2026 14:25:58] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/kRXDgEw1ex
+------------------------------
+[31/01/2026 14:25:59] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | HTTP 405
 Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
 ------------------------------
-[31/01/2026 14:13:50] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | HTTP 405
-Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
-------------------------------
-[31/01/2026 14:13:57] 🔝 Top Z - ✅ Completo Com Adultos | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
-------------------------------
-[31/01/2026 14:13:57] 🔝 Top Z - ✅ Completo Sem Adultos | HTTP 405
-Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
-------------------------------
-[31/01/2026 14:13:57] 🔝 Top Z - 📺 TV Express +18 | HTTP 405
+[31/01/2026 14:26:01] 🔝 Top Z - 📺 TV Express +18 | HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
 ------------------------------
-[31/01/2026 14:13:57] 🔝 Top Z - 📺 TV Express -18 | HTTP 405
+[31/01/2026 14:26:01] 🔝 Top Z - ✅ Completo Com Adultos | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[31/01/2026 14:26:01] 🔝 Top Z - 📺 TV Express -18 | HTTP 405
 Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
 ------------------------------
-[31/01/2026 14:14:00] 📺 WPM - LION - 🦁 TESTE COMPLETO S/ ADULTOS 🦁 | HTTP 405
-Link: https://wpmserver.sigma.st/api/chatbot/80m1EmV1lE/0RvWGl1e3P
+[31/01/2026 14:26:01] 🔝 Top Z - ✅ Completo Sem Adultos | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
 ------------------------------
-[31/01/2026 14:14:00] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS C/ADULTOS*❇️ | HTTP 405
-Link: https://painel.zenith4k.win/api/chatbot/RYAWRGQ1jl/b8K1xZ6DvG
-------------------------------
-[31/01/2026 14:14:00] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS S/ADULTOS*❇️ | HTTP 405
+[31/01/2026 14:26:02] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS S/ADULTOS*❇️ | HTTP 405
 Link: https://painel.zenith4k.win/api/chatbot/RYAWRGQ1jl/we6WnZwWK8
 ------------------------------
-[31/01/2026 14:14:01] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | HTTP 405
-Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
+[31/01/2026 14:26:02] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS C/ADULTOS*❇️ | HTTP 405
+Link: https://painel.zenith4k.win/api/chatbot/RYAWRGQ1jl/b8K1xZ6DvG
 ------------------------------
-[31/01/2026 14:14:02] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | HTTP 405
+[31/01/2026 14:26:02] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
+------------------------------
+[31/01/2026 14:26:03] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo S/ Adultos | HTTP 405
 Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/64vLbNLgGn
 ------------------------------
-[31/01/2026 14:14:03] 👻 NEXTRON PLAY👻 - 👻 TESTE S/ADULTOS 6H 👻 | HTTP 405
-Link: https://nextron.sigma.st/api/chatbot/PkaL4nzWgr/Yen129WPEa
-------------------------------
-[31/01/2026 14:14:03] 👽 NEXTRON 👽 - 👽 TESTE COMPLETO 6H 👽 | HTTP 405
-Link: https://nextron.sigma.st/api/chatbot/PkaL4nzWgr/BV4D3rLaqZ
-------------------------------
-[31/01/2026 14:14:03] 📺 ROYAL PLAY - NOTURNO - 🔵 TESTE SEM ADULTOS 🔵 | HTTP 405
-Link: https://royalplay.sigmab.pro/api/chatbot/qK4Wrwj1eN/Yen12Re1PE
-------------------------------
-[31/01/2026 14:14:04] 🤖 NEXTRON PLUS 🤖 - 🤖 TESTE S/ADULTOS 6H 🤖 | HTTP 405
-Link: https://nextron.sigma.st/api/chatbot/PkaL4nzWgr/0RvWGl1e3P
-------------------------------
-[31/01/2026 14:14:06] 📺 ROYAL PLAY - OMEGA - 🔷 TESTE COMPLETO C/ADULTOS🔷 | HTTP 405
-Link: https://royalplay.sigmab.pro/api/chatbot/qK4Wrwj1eN/BV4D3rrLaq
-------------------------------
-[31/01/2026 14:14:06] 📺 ROYAL PLAY - OMEGA - 🔷 TESTE COMPLETO S/ADULTOS🔷 | HTTP 405
-Link: https://royalplay.sigmab.pro/api/chatbot/qK4Wrwj1eN/rlKWOw3Wzo
+[31/01/2026 14:26:03] ⚡ ZEROUM - UCAST PLAY - ⚡ Teste IPTV Completo C/ Adultos | HTTP 405
+Link: https://painel.zeroum.blog/api/chatbot/bOxLApy1Z7/kg5164DjlQ
 ------------------------------

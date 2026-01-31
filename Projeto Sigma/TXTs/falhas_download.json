@@ -2326,5 +2326,17 @@
         "url": "http://net.cnfl.xyz/get.php?username=33411451&password=45405264&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 14:28:06"
+    },
+    {
+        "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",
+        "url": "http://xcloudcine.xyz/get.php?username=40730177&password=46972070&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:28:41"
+    },
+    {
+        "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos",
+        "url": "http://xcloudcine.xyz/get.php?username=88154644&password=75891921&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 14:28:47"
     }
 ]

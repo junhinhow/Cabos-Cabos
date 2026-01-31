@@ -37302,3 +37302,16 @@ d39
 [HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
 [HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
 [HAVOK_TV_-_ORION_-__[Teste_04h]_-_Orion] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_P2P_BINSTREAM_-__[Teste_04h]_-_P2P_Binstream] https://aftv.news/2822574\nC\u00f3digo
+[HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_SHAZAM_-__[Teste_04h]_-_Shazam] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_TIGER_-__[Teste_06h]_-_Tiger] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda] https://firetv.9xtream.net/v47.apk\n\u2611\ufe0f
+[HAVOK_TV_-_ZAYDA_-__[Teste_04h]_-_Zayda] https://9xtream.net/downloads/9xtream47.apk\n\n\n\u2500\u2500\u2500
+[Infrax_-__LUVEM_-_RedPlay_Teste_Com_Adultos] http://aftv.news/9007890\n\ud83d\udce5
+[Infrax_-__LUVEM_-_RedPlay_Teste_Sem_Adultos] http://aftv.news/9007890\n\ud83d\udce5
+[Infrax_-__LUVEM_-_Teste_Completo_Com_Adultos] http://aftv.news/9007890
+[Infrax_-__LUVEM_-_Teste_Completo_Sem_Adultos] http://aftv.news/9007890

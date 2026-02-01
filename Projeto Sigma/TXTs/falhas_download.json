@@ -2692,5 +2692,29 @@
         "url": "http://x26.axpl.shop/get.php?username=73251894&password=75386304&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 521",
         "data": "2026-01-31 23:00:42"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Internacionais_+18",
+        "url": "http://net.cnfl.xyz/get.php?username=76339840&password=19116548&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:00:59"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_S_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=92642308&password=16370035&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:01:00"
+    },
+    {
+        "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_C_Adultos",
+        "url": "http://xcloudcine.xyz/get.php?username=87144825&password=44259962&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:01:09"
+    },
+    {
+        "nome": "CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos",
+        "url": "http://xcloudcine.xyz/get.php?username=92041673&password=42873213&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:01:15"
     }
 ]

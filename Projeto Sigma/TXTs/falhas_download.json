@@ -171,7 +171,7 @@
         "nome": "INVICTOS_EXTREME_-",
         "url": "http://gladiadorplay.xyz/get.php?username=108799294569&password=432337225746&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-31 19:06:10"
+        "data": "2026-01-31 23:03:39"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_SEM_ADULTOS",
@@ -1629,7 +1629,7 @@
         "nome": "HAVOK_TV_-_KYROS_-__[Teste_04h]_-_Kyros",
         "url": "http://mydotz.xyz/get.php?username=7626181&password=9117803&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:38"
+        "data": "2026-01-31 23:03:19"
     },
     {
         "nome": "HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda",
@@ -2716,5 +2716,35 @@
         "url": "http://xcloudcine.xyz/get.php?username=92041673&password=42873213&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 23:01:15"
+    },
+    {
+        "nome": "HAVOK_TV_-_ANDROMEDA_-__[Teste_04h]_-_Andromeda",
+        "url": "http://conectpremium.uk/get.php?username=5695835&password=7614700&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:03:16"
+    },
+    {
+        "nome": "HAVOK_TV_-_DIGNUS_-__[Teste_04h]_-_Dignus",
+        "url": "http://croxm.site/get.php?username=1557883&password=5423774&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:03:18"
+    },
+    {
+        "nome": "HAVOK_TV_-_FNIX_-__[Teste_04h]_-_Fnix",
+        "url": "http://c.superodim.nl70.top/get.php?username=8531375&password=8086977&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:03:19"
+    },
+    {
+        "nome": "HAVOK_TV_-_VORNAK_-__[Teste_04h]_-_Vornak",
+        "url": "http://conectpr.click/get.php?username=9576101&password=2915748&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:03:23"
+    },
+    {
+        "nome": "HAVOK_TV_-_OMEGA_-__[Teste_04h]_-_Omega",
+        "url": "http://dnsomega.online/get.php?username=2815476&password=7317996&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:03:35"
     }
 ]

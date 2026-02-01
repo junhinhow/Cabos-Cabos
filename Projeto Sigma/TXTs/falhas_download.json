@@ -2668,5 +2668,17 @@
         "url": "https://evoserver.online/get.php?username=573444&password=672256&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
         "data": "2026-01-31 23:00:01"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_SAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=10544075&password=95513310&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:00:29"
+    },
+    {
+        "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
+        "url": "http://net.cnfl.xyz/get.php?username=99789565&password=79089310&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:00:30"
     }
 ]

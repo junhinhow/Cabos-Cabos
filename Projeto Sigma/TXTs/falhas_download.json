@@ -831,13 +831,13 @@
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_-_SMART_TVS_(_LG__SAMSUNG__ROKU_)",
         "url": "http://invictosserver.xyz/get.php?username=168224505392&password=906414305524&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-31 19:06:13"
+        "data": "2026-01-31 23:05:37"
     },
     {
         "nome": "INVICTOS_SERVER_-__TESTE_COMPLETO_COM_ADULTOS",
         "url": "http://invictosserver.xyz/get.php?username=945240216656&password=672700569525&type=m3u_plus&output=mpegts",
         "erro": "Bloqueio (HTML Detectado)",
-        "data": "2026-01-31 19:06:13"
+        "data": "2026-01-31 23:05:37"
     },
     {
         "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_COM_ADULTOS",
@@ -2746,5 +2746,29 @@
         "url": "http://dnsomega.online/get.php?username=2815476&password=7317996&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 23:03:35"
+    },
+    {
+        "nome": "Lider_-_1_ONE_-_Completo_Com_Adultos",
+        "url": "http://c.svmain.top/get.php?username=872735439&password=177106655&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:05:38"
+    },
+    {
+        "nome": "Lider_-_1_ONE_-_Completo_Sem_Adultos",
+        "url": "http://c.svmain.top/get.php?username=424736229&password=713534520&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:05:38"
+    },
+    {
+        "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_COM_ADULTOS",
+        "url": "http://cdn.ax66.shop:80/get.php?username=881507372&password=732063013&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:05:38"
+    },
+    {
+        "nome": "Lider_-_TOP_SERVERS_-_COMPLETO_SEM_ADULTOS",
+        "url": "http://cdn.ax66.shop:80/get.php?username=758770088&password=801619578&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:05:38"
     }
 ]

@@ -2770,5 +2770,17 @@
         "url": "http://cdn.ax66.shop:80/get.php?username=758770088&password=801619578&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-31 23:05:38"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Com_Adultos",
+        "url": "http://fristez.xyz/get.php?username=601038427&password=167405363&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:00"
+    },
+    {
+        "nome": "Lider_-__ASSIST_TV_-_Completo_Sem_Adultos",
+        "url": "http://fristez.xyz/get.php?username=946984875&password=405330827&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:00"
     }
 ]

@@ -249,7 +249,7 @@
         "nome": "LIFE_UHD_-_K9_PLAY_-__K9_PLAY_TESTE_-_sADULTOS",
         "url": "http://pbkblack.site/get.php?username=323857&password=600236&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
-        "data": "2026-01-31 19:06:41"
+        "data": "2026-01-31 23:06:41"
     },
     {
         "nome": "LIFE_UHD_-_Onetv_-__LIFE_ONETV_TESTE_-_CADULTOS",
@@ -891,13 +891,13 @@
         "nome": "LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_CADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=498865373&password=153405563&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:17"
+        "data": "2026-01-31 23:06:38"
     },
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-_ARES_PLAY_TESTE_-_sADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=724555149&password=632934795&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:18"
+        "data": "2026-01-31 23:06:38"
     },
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS",
@@ -915,13 +915,13 @@
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_CADULTOS",
         "url": "http://ratinhov6.click/get.php?username=830319301&password=671402094&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:33"
+        "data": "2026-01-31 23:06:39"
     },
     {
         "nome": "LIFE_UHD_-_GreenTv_-_GREEN_PLAY_TESTE_-_SADULTOS",
         "url": "http://ratinhov6.click/get.php?username=738206017&password=100743744&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:35"
+        "data": "2026-01-31 23:06:40"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
@@ -1695,13 +1695,13 @@
         "nome": "Lider_-__LITE_-_Completo_Com_Adultos",
         "url": "http://anubis.cmstech2.top/get.php?username=235662253&password=324159302&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:15"
+        "data": "2026-01-31 23:06:30"
     },
     {
         "nome": "Lider_-__LITE_-_Completo_Sem_Adultos",
         "url": "http://anubis.cmstech2.top/get.php?username=913193499&password=522951901&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:15"
+        "data": "2026-01-31 23:06:31"
     },
     {
         "nome": "Lider_-__SHOW_-_Completo_Com_Adultos",
@@ -1725,13 +1725,13 @@
         "nome": "Lider_-__MAX_-_Completo_Com_Adultos",
         "url": "http://c.apexplayer.site/get.php?username=789649177&password=668963399&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:16"
+        "data": "2026-01-31 23:06:34"
     },
     {
         "nome": "Lider_-__MAX_-_Completo_Sem_Adultos",
         "url": "http://c.apexplayer.site/get.php?username=204518385&password=732654997&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:16"
+        "data": "2026-01-31 23:06:35"
     },
     {
         "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
@@ -2600,26 +2600,26 @@
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_CADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=500799836&password=456997375&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 19:06:32"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:06:39"
     },
     {
         "nome": "LIFE_UHD_-_ARES_PLAY_-__ARES_PLAY_TESTE_-_sADULTOS",
         "url": "http://cdneshow.xyz:80/get.php?username=670156347&password=386947390&type=m3u_plus&output=mpegts",
-        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 19:06:33"
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:06:39"
     },
     {
         "nome": "LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_CADULTOS",
         "url": "http://netlinkresolver.fun/get.php?username=730245954&password=968663670&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:36"
+        "data": "2026-01-31 23:06:41"
     },
     {
         "nome": "LIFE_UHD_-_GTA_PLAYER_-__GTA_PLAYER_TESTE_-_SADULTOS",
         "url": "http://netlinkresolver.fun/get.php?username=171326084&password=549935552&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:06:37"
+        "data": "2026-01-31 23:06:41"
     },
     {
         "nome": "LIFE_UHD_-_INFINITIPPLUS_-__INFINITIPPLUS_TESTE_-_CADULTOS",
@@ -2782,5 +2782,41 @@
         "url": "http://fristez.xyz/get.php?username=946984875&password=405330827&type=m3u_plus&output=mpegts",
         "erro": "DNS ERROR: Servidor não existe",
         "data": "2026-01-31 23:06:00"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Com_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=709691085&password=477775067&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:36"
+    },
+    {
+        "nome": "Lider_-__SHOW_-_Completo_Sem_Adultos",
+        "url": "http://br.bossplay.top/get.php?username=389026993&password=708696945&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:36"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Com_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=804196669&password=279185580&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:36"
+    },
+    {
+        "nome": "Lider_-__TOP_SERVERS_-_Completo_Sem_Adultos",
+        "url": "http://cdn.ax66.shop:80/get.php?username=774335285&password=436874490&type=m3u_plus&output=mpegts",
+        "erro": "DNS ERROR: Servidor não existe",
+        "data": "2026-01-31 23:06:37"
+    },
+    {
+        "nome": "LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_CADULTOS",
+        "url": "http://ratinhov6.click/get.php?username=489350336&password=853028198&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:06:40"
+    },
+    {
+        "nome": "LIFE_UHD_-_GreenTv_-__GREEN_PLAY_TESTE_-_SADULTOS",
+        "url": "http://ratinhov6.click/get.php?username=349407404&password=163997773&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 23:06:40"
     }
 ]

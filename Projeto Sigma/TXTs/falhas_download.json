@@ -2277,13 +2277,13 @@
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Sem_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=193411870&password=347025985&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 19:05:28"
+        "data": "2026-01-31 23:00:41"
     },
     {
         "nome": "Azonix_-__INFINITY_-_Teste_De_24_Horas_Com_Adulto",
         "url": "http://dns.azonixsupreme.fun/get.php?username=344275653&password=529464356&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
-        "data": "2026-01-31 19:05:28"
+        "data": "2026-01-31 23:00:39"
     },
     {
         "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
@@ -2680,5 +2680,17 @@
         "url": "http://net.cnfl.xyz/get.php?username=99789565&password=79089310&type=m3u_plus&output=mpegts",
         "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
         "data": "2026-01-31 23:00:30"
+    },
+    {
+        "nome": "AMERICAN_-_SUPER_-__American_Super_CAdultos",
+        "url": "http://plus.cnfl.xyz/get.php?username=95397535&password=99303601&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (28) Operation too slow. Less than ",
+        "data": "2026-01-31 23:00:37"
+    },
+    {
+        "nome": "CineFlix_-__RYZEN_-__Brasil_IPTV_E_FlexPlay",
+        "url": "http://x26.axpl.shop/get.php?username=73251894&password=75386304&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 521",
+        "data": "2026-01-31 23:00:42"
     }
 ]

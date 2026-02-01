@@ -1317,13 +1317,13 @@
         "nome": "7_Odin_-_7seven_-_7seven_-18",
         "url": "http://c.7sevenplay10.top/get.php?username=396746248&password=593222445&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:04:50"
+        "data": "2026-01-31 22:59:59"
     },
     {
         "nome": "7_Odin_-_7seven_-_7seven_+18",
         "url": "http://c.7sevenplay10.top/get.php?username=996676995&password=857056777&type=m3u_plus&output=ts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:04:49"
+        "data": "2026-01-31 22:59:59"
     },
     {
         "nome": "AMERICAN_-_NEW_-__New_Completo_SAdultos",
@@ -1395,13 +1395,13 @@
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=730728&password=766889&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:04:51"
+        "data": "2026-01-31 23:00:02"
     },
     {
         "nome": "BLAST_PLAY_-_TV_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
         "url": "http://blastplaytv.shop/get.php?username=533726&password=562648&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:04:51"
+        "data": "2026-01-31 23:00:03"
     },
     {
         "nome": "CineFlix_-_1_NET-ONE_-_Teste_IPTV_C_Adultos",
@@ -2632,5 +2632,41 @@
         "url": "http://i0126.online/get.php?username=661326065&password=536449935&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
         "data": "2026-01-31 19:06:40"
+    },
+    {
+        "nome": "AtivaBox_-__Lite_PLAY_-_Teste_Completo",
+        "url": "http://dnsd1.space/get.php?username=861284807&password=749846464&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 22:59:59"
+    },
+    {
+        "nome": "AtivaBox_-__Lite_PLAY_-_Teste_S_Adultos",
+        "url": "http://dnsd1.space/get.php?username=938400825&password=908664304&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 404",
+        "data": "2026-01-31 22:59:59"
+    },
+    {
+        "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_C_ADULTOS",
+        "url": "http://blackrubi.shop/get.php?username=113561085&password=685626290&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-31 23:00:00"
+    },
+    {
+        "nome": "BLACKBR_-_RUBI_-__TESTE_IPTV_COMPLETO_S_ADULTOS",
+        "url": "http://blackrubi.shop/get.php?username=876033146&password=887264266&type=m3u_plus&output=mpegts",
+        "erro": "Erro HTTP 530",
+        "data": "2026-01-31 23:00:00"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_C_ADULTO",
+        "url": "https://evoserver.online/get.php?username=982385&password=738838&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
+        "data": "2026-01-31 23:00:01"
+    },
+    {
+        "nome": "BLAST_PLAY_-_TURBO_-__TESTE_IPTV_COMPLETO_SADULTO",
+        "url": "https://evoserver.online/get.php?username=573444&password=672256&type=m3u_plus&output=mpegts",
+        "erro": "Erro: Failed to perform, curl: (60) SSL certificate problem: self ",
+        "data": "2026-01-31 23:00:01"
     }
 ]

@@ -169,3 +169,117 @@ Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/64vLbA41gG
 [31/01/2026 22:59:02] 🧬 LIFE UHD - CINEMAX - 🟢 CINEMAX TESTE - s/ADULTOS 🟢 | HTTP 405
 Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7V01pdM1dO
 ------------------------------
+[31/01/2026 22:59:02] 👑 Lider - Z - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/XYgD9mzDr6
+------------------------------
+[31/01/2026 22:59:02] 👑 Lider - Z - COMPLETO COM ADULTOS | HTTP 405
+Link: https://lideriptv.sigma.st/api/chatbot/pKDa4PeLRA/7V01pdM1dO
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - GreenTv - 🇧🇷 GREEN PLAY TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/x2YD0EkWQP
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/80m1Eq91lE
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - GreenTv - 🇧🇷 GREEN PLAY TESTE - S/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/boQ1YE91ON
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - GTA PLAYER - 🚘 GTA PLAYER TESTE - S/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/JOALyo0W4w
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - C/ADULTOS ♾️ | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/QywDmBGWpR
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - INFINITIPPLUS - ♾️ INFINITIPPLUS TESTE - s/ADULTOS ♾️ | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7eZWXM
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7loL7nZ1XM
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - K9 PLAY - 🌎 K9 PLAY TESTE - s/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/BV4D3V5Laq
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/kRXDgEw1ex
+------------------------------
+[31/01/2026 22:59:04] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE - S/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/ryJDz2KDge
+------------------------------
+[31/01/2026 22:59:05] 🧬 LIFE UHD - Onetv - 📺 LIFE ONETV TESTE C/INTERNACIONAL | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/PkaL4qdDgr
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - s/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/qK4Wr391eN
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - s/ADULTOS ⚡ | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/nVrW8eq1Ka
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - RedPlay - 🍥 RedPlay TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/bOxLA7yWZ7
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - TOPD+ - ⚡ TOPD+ PLAY TESTE - C/ADULTOS ⚡ | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/Yxl1jlaDMj
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - C/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/7V01pOMWdO
+------------------------------
+[31/01/2026 22:59:06] 🧬 LIFE UHD - TURBO FLIX - 📡 TURBO FLIX TESTE - s/ADULTOS | HTTP 405
+Link: https://lifeuhd.sigma.st/api/chatbot/rlKWON0Dzo/XYgD9zzWr6
+------------------------------
+[31/01/2026 22:59:08] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas C/ Adultos | HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/7loL7VM1XM
+------------------------------
+[31/01/2026 22:59:08] 🌐 NetPlay - ☀️ SOLAR - Teste 2 Horas S/ Adultos | HTTP 405
+Link: https://netplay.sigma.st/api/chatbot/yb1Bm4pWPR/BV4D3krDaq
+------------------------------
+[31/01/2026 22:59:09] ▶️ New-Servers - MagicPlay - COMPLETO COM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/RYAWRk1jlx
+------------------------------
+[31/01/2026 22:59:09] ▶️ New-Servers - MagicPlay - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/rdqLkQWAE9
+------------------------------
+[31/01/2026 22:59:09] 👑 New-Servers - LIDER TV - COMPLETO COM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/XYgD9EJDr6
+------------------------------
+[31/01/2026 22:59:09] 👑 New-Servers - LIDER TV - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/ayb1BQxWPR
+------------------------------
+[31/01/2026 22:59:10] 📺 New-Servers - PLUS TV - COMPLETO COM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/boQ1Ye1ONY
+------------------------------
+[31/01/2026 22:59:10] 📺 New-Servers - PLUS TV - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/B0VDVALK3q
+------------------------------
+[31/01/2026 22:59:12] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE ANDROID 2.0 🌐 | HTTP 405
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/ANKWP6KLPR
+------------------------------
+[31/01/2026 22:59:12] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE COMPLETO 2.0 🌐 | HTTP 405
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/rdqLk4QDAE
+------------------------------
+[31/01/2026 22:59:12] 📡 PREMIUM SERVER 2.0 - 🌐 TESTE S/ ADULTO 2.0 🌐 | HTTP 405
+Link: https://premiumserver.sigma.vin/api/chatbot/kg516ZM1jl/z2BDv9oLrk
+------------------------------
+[31/01/2026 22:59:15] 🔝 Top Z - ✅ Completo Com Adultos | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/BV4D3rLaqZ
+------------------------------
+[31/01/2026 22:59:15] 🔝 Top Z - ✅ Completo Sem Adultos | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/rlKWO3Wzo7
+------------------------------
+[31/01/2026 22:59:15] 🔝 Top Z - 📺 TV Express +18 | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/nVrW8oDKaN
+------------------------------
+[31/01/2026 22:59:15] 🔝 Top Z - 📺 TV Express -18 | HTTP 405
+Link: https://topztv.sigma.st/api/chatbot/JOALywQW4w/b8K1x6DvGN
+------------------------------
+[31/01/2026 22:59:16] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS S/ADULTOS*❇️ | HTTP 405
+Link: https://painel.zenith4k.win/api/chatbot/RYAWRGQ1jl/we6WnZwWK8
+------------------------------
+[31/01/2026 22:59:16] ▶️ ❇️ ZENITH4K PLAYER ❇️ - ❇️*TESTE 12 HORAS C/ADULTOS*❇️ | HTTP 405
+Link: https://painel.zenith4k.win/api/chatbot/RYAWRGQ1jl/b8K1xZ6DvG
+------------------------------
+[31/01/2026 22:59:16] 🚀 New-Servers - NetTurbo - COMPLETO SEM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/z2BDvoWrkj
+------------------------------
+[31/01/2026 22:59:16] 🚀 New-Servers - NetTurbo - COMPLETO COM ADULTOS | HTTP 405
+Link: https://new-servers.sigma.st/api/chatbot/80m1E8MWlE/o231qzL4qz
+------------------------------

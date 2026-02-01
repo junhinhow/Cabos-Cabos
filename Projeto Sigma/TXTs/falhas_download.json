@@ -747,73 +747,73 @@
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=460184&password=228446&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:30"
+        "data": "2026-01-31 23:02:53"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=176626&password=541215&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:30"
+        "data": "2026-01-31 23:02:54"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=374165&password=143751&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:30"
+        "data": "2026-01-31 23:02:54"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=909204&password=322210&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:31"
+        "data": "2026-01-31 23:02:54"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__COMPLETO",
         "url": "http://topcdn.fun/get.php?username=978574&password=943029&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:31"
+        "data": "2026-01-31 23:02:55"
     },
     {
         "nome": "GLOBAL__IPTV_3_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://topcdn.fun/get.php?username=184602&password=540399&type=m3u_plus&output=mpegts",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:31"
+        "data": "2026-01-31 23:02:55"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=292161&password=207941&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:31"
+        "data": "2026-01-31 23:02:56"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_1HR__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=858422&password=341195&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:31"
+        "data": "2026-01-31 23:02:56"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_3HRS__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=512370&password=880483&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:32"
+        "data": "2026-01-31 23:02:57"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_3HRS__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=502913&password=660693&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:32"
+        "data": "2026-01-31 23:02:58"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_6HRS__COMPLETO",
         "url": "http://iptv4.glloball.shop:80/get.php?username=468069&password=978189&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 19:05:33"
+        "data": "2026-01-31 23:02:59"
     },
     {
         "nome": "GLOBAL__IPTV_4_-_TESTE_6HRS__SEM_ADULTOS",
         "url": "http://iptv4.glloball.shop:80/get.php?username=314968&password=278851&type=m3u_plus&output=hls",
         "erro": "Erro HTTP 404",
-        "data": "2026-01-31 14:36:02"
+        "data": "2026-01-31 23:03:00"
     },
     {
         "nome": "INVICTOS_EXTREME_-__TESTE_COMPLETO_COM_ADULTOS",

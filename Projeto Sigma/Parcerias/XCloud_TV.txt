@@ -14,3 +14,5 @@
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=92041673&password=42873213&type=m3u_plus&output=hls
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe2 *M3U:* http://xcloudcine.xyz/get.php?username=92041673&password=42873213&type=m3u_plus&output=mpegts
 [CineFlix_-__Cine_RAIO_-_Teste_IPTV_S_Adultos] \ud83d\udfe1 *HLS:* http://xcloudcine.xyz/get.php?username=92041673&password=42873213&type=m3u_plus&output=hls
+[CINEWORLD_-_TOP_-_COMPLETO_COM_ADULTOS] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
+[CINEWORLD_-_TOP_-_COMPLETO_COM_ADULTOS] \u256d\u2500\u2500 \ud83d\udcfa *TELA DE LOGIN XCLOUD *
